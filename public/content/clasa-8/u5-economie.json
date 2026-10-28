@@ -1,0 +1,7190 @@
+{
+ "clasa": 8,
+ "unitate": "Activitățile economice",
+ "niveluri": [
+  {
+   "id": "VIII-S28-agricultura-fondul-funciar-agricol",
+   "tip": "nivel",
+   "titlu": "Agricultura – fondul funciar agricol",
+   "descopera": {
+    "intrebare": "Cât din suprafața României e teren agricol?"
+   },
+   "invata": [
+    {
+     "titlu": "Fondul funciar",
+     "text": "Fondul funciar este totalitatea terenurilor unei țări, după modul de folosință: terenuri agricole, păduri, ape, construcții, drumuri.\nÎn România, aproximativ 61 % din suprafață e teren agricol, iar aproximativ 28 % e acoperit de păduri, după INS."
+    },
+    {
+     "titlu": "Terenul agricol",
+     "text": "Terenul agricol cuprinde: teren arabil (cel mai întins, în câmpii și podișuri), pășuni și fânețe (la deal și munte), vii și livezi (pe dealuri și în Subcarpați).\nCele mai fertile soluri sunt cernoziomurile din Câmpia Română, Câmpia de Vest, Dobrogea și Câmpia Moldovei."
+    },
+    {
+     "titlu": "Probleme și soluții",
+     "text": "Probleme: eroziunea solului pe pante, alunecările, secetele, salinizarea, fărâmițarea terenurilor în multe parcele mici.\nSoluții: irigații, perdele forestiere, terasarea pantelor, comasarea terenurilor, agricultura ecologică."
+    }
+   ],
+   "stiaiCa": "România are una dintre cele mai mari suprafețe de teren arabil din Uniunea Europeană.",
+   "referintaProfesor": "Manual Art Klett, clasa a VIII-a, ediția 2025 (manuale.edu.ro), lecția „Agricultura – Fondul funciar agricol – potențial și valorificare”"
+  },
+  {
+   "id": "VIII-S28-regiunile-agricole-elemente-specifice",
+   "tip": "nivel",
+   "titlu": "Regiunile agricole ale României",
+   "descopera": {
+    "intrebare": "Ce se cultivă în jurul orașului nostru?"
+   },
+   "invata": [
+    {
+     "titlu": "Culturile",
+     "text": "Cerealele ocupă cea mai mare suprafață: porumb, grâu, orz – mai ales în Câmpia Română, Câmpia de Vest, Dobrogea, Câmpia Moldovei. România e printre cei mai mari producători de porumb și floarea-soarelui din Uniunea Europeană.\nPlante tehnice: floarea-soarelui, rapița, soia, sfecla de zahăr. Cartoful – în depresiunile din Carpați (Țara Bârsei) și în nordul Moldovei. Legume – în luncile râurilor și lângă orașe (Vidra, Matca)."
+    },
+    {
+     "titlu": "Vița-de-vie și pomii",
+     "text": "Podgorii: Dealu Mare și Pietroasele (Buzău–Prahova), Cotnari, Odobești, Panciu (Vrancea), Murfatlar, Recaș, Jidvei, Drăgășani.\nLivezi: pruni (Argeș, Vâlcea), meri (Suceava, Maramureș), cireși, caiși (Dobrogea)."
+    },
+    {
+     "titlu": "Zootehnia",
+     "text": "Bovine – în zonele cu pășuni (Carpați, Subcarpați, nordul Moldovei). Ovine – România are unul dintre cele mai mari efective de oi din UE; pe pășunile alpine și în Dobrogea. Porcine și păsări – lângă orașe și în câmpie, în ferme mari. Apicultura – în toată țara."
+    }
+   ],
+   "stiaiCa": "Comuna Matca din județul Galați e cunoscută ca „capitala serelor” pentru legume timpurii.",
+   "referintaProfesor": "Manual Art Klett, clasa a VIII-a, ediția 2025 (manuale.edu.ro), lecția „Regiunile agricole – elemente specifice”"
+  },
+  {
+   "id": "VIII-S28-valorificarea-produselor-agricole-traditie",
+   "tip": "nivel",
+   "titlu": "Valorificarea produselor agricole – tradiție și modernitate",
+   "descopera": {
+    "intrebare": "Ce produse tradiționale românești sunt protejate în Uniunea Europeană?"
+   },
+   "invata": [
+    {
+     "titlu": "Industria alimentară",
+     "text": "Produsele agricole sunt prelucrate în industria alimentară: morărit și panificație (făină, pâine), lapte și brânzeturi, carne, uleiuri, zahăr, conserve, vinuri și băuturi.\nFabricile se află lângă zonele de producție sau lângă marii consumatori (orașele)."
+    },
+    {
+     "titlu": "Produse tradiționale",
+     "text": "Unele produse românești sunt protejate în UE ca produse tradiționale sau cu indicație geografică: Magiunul de prune Topoloveni, Salamul de Sibiu, Telemeaua de Ibănești, Cârnații de Pleșcoi (Buzău), Novac afumat din Țara Bârsei și altele.\nPiețele țărănești și târgurile păstrează tradițiile."
+    },
+    {
+     "titlu": "Modernitate",
+     "text": "Agricultura modernă folosește tractoare și combine, irigații prin picurare, sere, drone și imagini satelitare. Crește agricultura ecologică. Fondurile europene ajută fermierii tineri."
+    }
+   ],
+   "stiaiCa": "Cârnații de Pleșcoi, din județul Buzău, sunt protejați în Uniunea Europeană ca indicație geografică.",
+   "referintaProfesor": "Manual Art Klett, clasa a VIII-a, ediția 2025 (manuale.edu.ro), lecția „Valorificarea produselor agricole – tradiție și modernitate”"
+  },
+  {
+   "id": "VIII-S30-resursele-naturale-industria",
+   "tip": "nivel",
+   "titlu": "Resursele naturale și industria",
+   "descopera": {
+    "intrebare": "Ce resurse are subsolul României?"
+   },
+   "invata": [
+    {
+     "titlu": "Resurse energetice",
+     "text": "Petrol: în Subcarpați (Prahova, Dâmbovița, Bacău – Moinești), Podișul Getic, Câmpia Română, platforma continentală a Mării Negre.\nGaze naturale: în Depresiunea Colinară a Transilvaniei (Mediaș, Sărmășel), în Moldova, Muntenia și în Marea Neagră (zăcământul Neptun Deep, în dezvoltare).\nCărbune: huilă în Depresiunea Petroșani (Valea Jiului); lignit în Oltenia (Rovinari, Motru)."
+    },
+    {
+     "titlu": "Resurse minerale",
+     "text": "Minereuri: în Munții Apuseni (aur, argint – Roșia Montană, Baia de Arieș), în Maramureș (minereuri neferoase), în Banat (fier, în trecut). Sare: Slănic, Turda, Praid, Ocnele Mari, Târgu Ocna. Roci de construcție: marmură (Ruschița), granit (Măcin), calcar (cimentării)."
+    },
+    {
+     "titlu": "Industria",
+     "text": "Ramuri importante: energetică, metalurgică (Galați – oțel; Slatina – aluminiu), construcții de mașini (automobile, vagoane, nave), chimică și petrochimică (Ploiești, Pitești, Năvodari – Petromidia), materiale de construcții, lemnului și mobilei, alimentară, textilă, electronică."
+    }
+   ],
+   "stiaiCa": "Primul oraș din lume cu iluminat public pe bază de petrol lampant a fost Bucureștiul, în 1857. În același an, România a fost prima țară cu producție de petrol înregistrată oficial.",
+   "referintaProfesor": "Manual Art Klett, clasa a VIII-a, ediția 2025 (manuale.edu.ro), lecția „Resursele naturale și industria”"
+  },
+  {
+   "id": "VIII-S30-industria-energetica-energiei-electrice",
+   "tip": "nivel",
+   "titlu": "Industria energetică și a energiei electrice",
+   "descopera": {
+    "intrebare": "De unde vine curentul electric din priza ta?"
+   },
+   "invata": [
+    {
+     "titlu": "Centralele",
+     "text": "Hidrocentrale: Porțile de Fier I și II (pe Dunăre), pe Bistrița (Stejaru, lacul Izvorul Muntelui), Argeș (Vidraru), Lotru (Ciunget), Olt, Sebeș.\nCentrala nucleară de la Cernavodă: două reactoare, care produc aproximativ o cincime din electricitatea țării.\nTermocentrale pe cărbune (Rovinari, Turceni – Oltenia) și pe gaze (București, Brazi)."
+    },
+    {
+     "titlu": "Energia regenerabilă",
+     "text": "Parcuri eoliene – mai ales în Dobrogea (Fântânele–Cogealac, unul dintre cele mai mari parcuri eoliene pe uscat din Europa). Panouri solare – în sud și în Dobrogea, pe acoperișuri.\nBiomasă, energie geotermală (Oradea, Beiuș)."
+    },
+    {
+     "titlu": "Mixul energetic",
+     "text": "România are un mix energetic variat, cu o pondere importantă a surselor care nu emit dioxid de carbon (hidro, nuclear, eolian, solar). Cărbunele scade, iar sursele regenerabile cresc."
+    }
+   ],
+   "stiaiCa": "Parcul eolian de la Fântânele–Cogealac, din Dobrogea, are sute de turbine și a fost la inaugurare unul dintre cele mai mari parcuri eoliene pe uscat din Europa.",
+   "referintaProfesor": "Manual Art Klett, clasa a VIII-a, ediția 2025 (manuale.edu.ro), lecția „Industria energetică și a energiei electrice”"
+  },
+  {
+   "id": "VIII-S30-industria-constructiilor-masini",
+   "tip": "nivel",
+   "titlu": "Industria construcțiilor de mașini",
+   "descopera": {
+    "intrebare": "Unde se fabrică mașinile Dacia?"
+   },
+   "invata": [
+    {
+     "titlu": "Ce produce",
+     "text": "Industria construcțiilor de mașini produce automobile, camioane, autobuze, vagoane și locomotive, nave, avioane și elicoptere, utilaje agricole, mașini-unelte, echipamente electrice și electronice.\nE una dintre cele mai importante ramuri pentru exporturile României."
+    },
+    {
+     "titlu": "Centre principale",
+     "text": "Automobile: Mioveni (Dacia, din 1968) și Craiova (Ford). Componente auto: Timișoara, Sibiu, Arad, Brașov, Pitești, Cluj.\nVagoane: Arad, Caracal. Nave: Galați, Constanța, Mangalia, Tulcea, Brăila. Elicoptere și avioane: Brașov (Ghimbav), Craiova, Bacău. Utilaje și rulmenți: Brașov, Bârlad. Echipamente electrice: București, Craiova."
+    },
+    {
+     "titlu": "Factori de localizare",
+     "text": "Fabricile se localizează după: forță de muncă calificată, tradiție industrială, căi de transport (autostrăzi, porturi), apropierea de piață și furnizori, investiții străine."
+    }
+   ],
+   "stiaiCa": "Primul automobil Dacia 1100 a ieșit de pe banda uzinei de la Mioveni (Colibași) în 1968, urmat în 1969 de celebra Dacia 1300.",
+   "referintaProfesor": "Manual Art Klett, clasa a VIII-a, ediția 2025 (manuale.edu.ro), lecția „Industria construcțiilor de mașini”"
+  },
+  {
+   "id": "VIII-S31-serviciile-caile-comunicatie-transporturile",
+   "tip": "nivel",
+   "titlu": "Serviciile – căile de comunicație și transporturile",
+   "descopera": {
+    "intrebare": "Cum ajungi cel mai repede de la Râmnicu Sărat la București?"
+   },
+   "invata": [
+    {
+     "titlu": "Transportul rutier și feroviar",
+     "text": "Drumurile europene și naționale leagă toate orașele. Autostrăzi: A1 (București – Pitești – Sibiu – Deva – Arad – Nădlac), A2 (București – Constanța), A3 (București – Ploiești; Transilvania), A0 (centura Bucureștiului), A7 (Autostrada Moldovei, în construcție, pe lângă Buzău și Râmnicu Sărat), A10 și altele.\nCăile ferate au peste 10 000 km; marile noduri: București, Brașov, Ploiești, Craiova, Cluj, Iași. Râmnicu Sărat e pe magistrala București – Buzău – Focșani – Suceava."
+    },
+    {
+     "titlu": "Transportul naval și aerian",
+     "text": "Transportul maritim prin portul Constanța, cel mai mare de la Marea Neagră. Transportul fluvial pe Dunăre (Galați, Brăila, Giurgiu, Drobeta) și pe Canalul Dunăre–Marea Neagră.\nTransport aerian: aeroportul Henri Coandă (Otopeni), apoi Cluj, Timișoara, Iași, Sibiu, Suceava, Constanța."
+    },
+    {
+     "titlu": "Alte transporturi",
+     "text": "Prin conducte se transportă petrol și gaze naturale. Rețelele de telecomunicații și internetul rapid sunt și ele căi de comunicație moderne."
+    }
+   ],
+   "stiaiCa": "Canalul Dunăre–Marea Neagră, deschis în 1984, scurtează drumul navelor spre portul Constanța cu aproximativ 400 km față de ocolul prin Deltă.",
+   "referintaProfesor": "Manual Art Klett, clasa a VIII-a, ediția 2025 (manuale.edu.ro), lecția „Serviciile – Căile de comunicație și transporturile”"
+  },
+  {
+   "id": "VIII-S31-comertul",
+   "tip": "nivel",
+   "titlu": "Comerțul",
+   "descopera": {
+    "intrebare": "Ce produse exportă România și de unde vin lucrurile din magazinele noastre?"
+   },
+   "invata": [
+    {
+     "titlu": "Comerțul interior",
+     "text": "Comerțul interior înseamnă vânzarea-cumpărarea de bunuri în țară: magazine, supermarketuri, piețe, târguri, comerț online.\nCentrele comerciale mari sunt în marile orașe; în localitățile mici sunt piețe și magazine de cartier."
+    },
+    {
+     "titlu": "Comerțul exterior",
+     "text": "Exportul înseamnă vânzarea produselor în alte țări; importul – cumpărarea din alte țări. România exportă mai ales mașini și echipamente, automobile și componente auto, echipamente electrice, cereale și semințe, metale, mobilă.\nImportă mașini și echipamente, produse chimice și medicamente, combustibili, alimente. România importă mai mult decât exportă (deficit comercial)."
+    },
+    {
+     "titlu": "Partenerii",
+     "text": "Majoritatea comerțului exterior se face cu țări din Uniunea Europeană, în piața unică. Principalul partener e Germania; urmează Italia, Ungaria, Franța, Polonia. Din afara UE: Turcia, China."
+    }
+   ],
+   "stiaiCa": "Piața unică a Uniunii Europene permite ca mărfurile să circule între statele membre fără taxe vamale și fără controale la graniță.",
+   "referintaProfesor": "Manual Art Klett, clasa a VIII-a, ediția 2025 (manuale.edu.ro), lecția „Comerțul”"
+  },
+  {
+   "id": "VIII-S32-turismul-potential-valorificare-economica",
+   "tip": "nivel",
+   "titlu": "Turismul – potențial și valorificare",
+   "descopera": {
+    "intrebare": "Ce i-ai arăta unui turist străin în România?"
+   },
+   "invata": [
+    {
+     "titlu": "Potențialul natural",
+     "text": "Munții: Valea Prahovei (Sinaia, Bușteni, Predeal), Poiana Brașov, Transfăgărășanul, Retezat, Apuseni, Ceahlău. Litoralul: Mamaia, Eforie, Costinești, Neptun, Mangalia, Vama Veche. Delta Dunării. Stațiuni balneare cu ape minerale și termale: Băile Herculane, Băile Felix, Sovata, Slănic Moldova, Covasna, Techirghiol, Băile Govora.\nObiective naturale: peșteri (Scărișoara, Urșilor), chei (Bicaz, Turzii), Vulcanii Noroioși, sfinxul și Babele din Bucegi."
+    },
+    {
+     "titlu": "Potențialul cultural",
+     "text": "Mănăstirile din Bucovina, cu picturi exterioare; bisericile de lemn din Maramureș; satele cu biserici fortificate; cetățile dacice; orașele medievale (Sibiu, Sighișoara, Brașov); castelele Bran și Peleș; Mănăstirea Horezu; Palatul Culturii din Iași; Ateneul Român. Multe sunt în patrimoniul mondial UNESCO."
+    },
+    {
+     "titlu": "Forme de turism",
+     "text": "Turism montan și de sporturi de iarnă, de litoral, balnear, cultural și religios, rural și agroturism, ecoturism (Delta, parcuri naționale), de afaceri, de aventură.\nProbleme: infrastructură insuficientă în unele zone, sezonalitatea litoralului. Soluții: promovare, drumuri, turism tot anul."
+    }
+   ],
+   "stiaiCa": "Castelul Peleș, din Sinaia, a fost unul dintre primele castele din Europa cu electricitate produsă de propria centrală, la sfârșitul secolului al XIX-lea.",
+   "referintaProfesor": "Manual Art Klett, clasa a VIII-a, ediția 2025 (manuale.edu.ro), lecția „Turismul – potențial și valorificare economică”"
+  },
+  {
+   "id": "VIII-S33-aplicatii-practice-studii-caz",
+   "tip": "expeditie",
+   "titlu": "Expediție: economia orizontului meu",
+   "descopera": {
+    "intrebare": "Ce se produce, ce se vinde și ce se poate vizita în județul Buzău?"
+   },
+   "invata": [
+    {
+     "titlu": "Ce faci în expediție",
+     "text": "Urmezi pașii, rezolvi sarcinile și notezi în Jurnalul exploratorului ce ai descoperit."
+    }
+   ],
+   "referintaProfesor": "Manual Art Klett, clasa a VIII-a, ediția 2025 (manuale.edu.ro), lecția „Aplicații practice/studii de caz: Activități economice în localitatea/județul natal”",
+   "pasi": [
+    {
+     "titlu": "1. Harta economică",
+     "text": "Pe harta județului Buzău, marchează cu simboluri: zone agricole, fabrici, magazine mari, gări, obiective turistice.",
+     "itemi": [
+      "VIII33-01"
+     ],
+     "jurnal": {
+      "cerinta": "Fotografiază harta și explică legenda.",
+      "foto": true
+     }
+    },
+    {
+     "titlu": "2. Interviul",
+     "text": "Discută cu un adult care lucrează în economia locală (fermier, comerciant, muncitor, antreprenor). Întreabă-l ce face și ce probleme are.",
+     "itemi": [
+      "VIII33-02"
+     ],
+     "jurnal": {
+      "cerinta": "Notează 3 informații din interviu."
+     }
+    },
+    {
+     "titlu": "3. Pliantul turistic",
+     "text": "Realizează un pliant cu 3 obiective turistice din județul Buzău, cu traseul și ce poate vedea vizitatorul.",
+     "itemi": [
+      "VIII33-03"
+     ],
+     "jurnal": {
+      "cerinta": "Fotografiază pliantul.",
+      "foto": true
+     }
+    },
+    {
+     "titlu": "4. Propunerea",
+     "text": "Propune o idee de afacere locală care să folosească o resursă a zonei (produse agricole, turism, energie solară).",
+     "jurnal": {
+      "cerinta": "Scrie ideea, resursa folosită și cine ar beneficia."
+     }
+    }
+   ]
+  }
+ ],
+ "itemi": [
+  {
+   "id": "VIII28a-01",
+   "nivel": "VIII-S28-agricultura-fondul-funciar-agricol",
+   "competente": [
+    "VIII-1.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 1,
+   "enunt": "Ce este fondul funciar?",
+   "date": {
+    "variante": [
+     "totalitatea terenurilor unei țări, după modul de folosință",
+     "banii pentru agricultură",
+     "o fabrică",
+     "un tip de sol"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Agricol, forestier, ape, construcții."
+   }
+  },
+  {
+   "id": "VIII28a-02",
+   "nivel": "VIII-S28-agricultura-fondul-funciar-agricol",
+   "competente": [
+    "VIII-3.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce parte din suprafața României e teren agricol?",
+   "date": {
+    "variante": [
+     "aproximativ 61 %",
+     "aproximativ 6 %",
+     "aproximativ 90 %",
+     "aproximativ 25 %"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "După INS."
+   },
+   "surse": [
+    "INS – Anuarul Statistic al României: fondul funciar după modul de folosință",
+    "Ministerul Agriculturii și Dezvoltării Rurale – fond funciar"
+   ]
+  },
+  {
+   "id": "VIII28a-03",
+   "nivel": "VIII-S28-agricultura-fondul-funciar-agricol",
+   "competente": [
+    "VIII-3.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce parte din suprafața României e acoperită de păduri?",
+   "date": {
+    "variante": [
+     "aproximativ 28 %",
+     "aproximativ 2 %",
+     "aproximativ 70 %",
+     "aproximativ 50 %"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "După INS."
+   },
+   "surse": [
+    "INS – Anuarul Statistic al României: fondul funciar după modul de folosință",
+    "Ministerul Agriculturii și Dezvoltării Rurale – fond funciar"
+   ]
+  },
+  {
+   "id": "VIII28a-04",
+   "nivel": "VIII-S28-agricultura-fondul-funciar-agricol",
+   "competente": [
+    "VIII-1.2"
+   ],
+   "tip": "asociaza",
+   "dificultate": 2,
+   "enunt": "Asociază categoria de teren agricol cu relieful în care predomină.",
+   "date": {
+    "perechi": [
+     [
+      "arabil",
+      "câmpii și podișuri"
+     ],
+     [
+      "pășuni și fânețe",
+      "dealuri înalte și munți"
+     ],
+     [
+      "vii",
+      "dealuri însorite, Subcarpați"
+     ],
+     [
+      "livezi",
+      "dealuri și depresiuni subcarpatice"
+     ]
+    ]
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Categoriile de folosință."
+   }
+  },
+  {
+   "id": "VIII28a-05",
+   "nivel": "VIII-S28-agricultura-fondul-funciar-agricol",
+   "competente": [
+    "VIII-1.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce categorie de teren agricol e cea mai întinsă?",
+   "date": {
+    "variante": [
+     "terenul arabil",
+     "viile",
+     "livezile",
+     "pășunile alpine"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "În câmpii și podișuri."
+   }
+  },
+  {
+   "id": "VIII28a-06",
+   "nivel": "VIII-S28-agricultura-fondul-funciar-agricol",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Unde sunt cele mai fertile soluri ale României?",
+   "date": {
+    "variante": [
+     "în Câmpia Română, Câmpia de Vest, Dobrogea, Câmpia Moldovei (cernoziomuri)",
+     "pe vârfurile munților",
+     "în Delta Dunării",
+     "în Munții Apuseni"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Cernoziomul e foarte bogat în humus."
+   }
+  },
+  {
+   "id": "VIII28a-07",
+   "nivel": "VIII-S28-agricultura-fondul-funciar-agricol",
+   "competente": [
+    "VIII-4.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce problemă afectează solurile de pe pante?",
+   "date": {
+    "variante": [
+     "eroziunea și alunecările de teren",
+     "prea mult humus",
+     "înghețul permanent",
+     "vulcanii"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Pantele trebuie protejate."
+   }
+  },
+  {
+   "id": "VIII28a-08",
+   "nivel": "VIII-S28-agricultura-fondul-funciar-agricol",
+   "competente": [
+    "VIII-4.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce înseamnă comasarea terenurilor?",
+   "date": {
+    "variante": [
+     "unirea parcelelor mici în suprafețe mai mari, ușor de lucrat cu mașini",
+     "împărțirea terenului în bucăți mici",
+     "abandonarea terenului",
+     "betonarea"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Fărâmițarea e o problemă a agriculturii românești."
+   }
+  },
+  {
+   "id": "VIII28a-09",
+   "nivel": "VIII-S28-agricultura-fondul-funciar-agricol",
+   "competente": [
+    "VIII-4.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "La ce folosesc perdelele forestiere?",
+   "date": {
+    "variante": [
+     "protejează câmpurile de vânt, reduc eroziunea și păstrează umezeala",
+     "umbresc doar drumurile",
+     "produc petrol",
+     "nu au rol"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Mai ales în Bărăgan și Dobrogea."
+   }
+  },
+  {
+   "id": "VIII28a-10",
+   "nivel": "VIII-S28-agricultura-fondul-funciar-agricol",
+   "competente": [
+    "VIII-2.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "De ce în Bărăgan și Dobrogea sunt necesare irigațiile?",
+   "date": {
+    "variante": [
+     "plouă puțin și verile sunt secetoase",
+     "plouă prea mult",
+     "sunt munți",
+     "solul e înghețat"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Seceta reduce recoltele."
+   }
+  },
+  {
+   "id": "VIII28a-11",
+   "nivel": "VIII-S28-agricultura-fondul-funciar-agricol",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "pin",
+   "dificultate": 2,
+   "enunt": "Atinge pe harta României Bărăganul, mare zonă agricolă.",
+   "date": {
+    "harta": "romania",
+    "tinta": {
+     "lat": 44.6,
+     "lon": 27.3,
+     "nume": "Bărăgan"
+    },
+    "toleranta": 60
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "În estul Câmpiei Române."
+   }
+  },
+  {
+   "id": "VIII28a-12",
+   "nivel": "VIII-S28-agricultura-fondul-funciar-agricol",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "pin",
+   "dificultate": 3,
+   "enunt": "Atinge pe harta României Câmpia de Vest.",
+   "date": {
+    "harta": "romania",
+    "tinta": {
+     "lat": 46.2,
+     "lon": 21.3,
+     "nume": "Câmpia de Vest"
+    },
+    "toleranta": 70
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "La granița cu Ungaria."
+   }
+  },
+  {
+   "id": "VIII28a-13",
+   "nivel": "VIII-S28-agricultura-fondul-funciar-agricol",
+   "competente": [
+    "VIII-1.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Adevărat sau fals? Pădurile ocupă cea mai mare parte din fondul funciar al României.",
+   "date": {
+    "variante": [
+     "Fals",
+     "Adevărat"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Fals: terenul agricol ocupă cea mai mare parte."
+   },
+   "surse": [
+    "INS – Anuarul Statistic al României: fondul funciar după modul de folosință",
+    "Ministerul Agriculturii și Dezvoltării Rurale – fond funciar"
+   ]
+  },
+  {
+   "id": "VIII28a-14",
+   "nivel": "VIII-S28-agricultura-fondul-funciar-agricol",
+   "competente": [
+    "VIII-4.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Adevărat sau fals? Terasele pe pante reduc eroziunea solului.",
+   "date": {
+    "variante": [
+     "Adevărat",
+     "Fals"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Adevărat."
+   }
+  },
+  {
+   "id": "VIII28a-15",
+   "nivel": "VIII-S28-agricultura-fondul-funciar-agricol",
+   "competente": [
+    "VIII-1.1"
+   ],
+   "tip": "lacunar",
+   "dificultate": 2,
+   "enunt": "Completează.",
+   "date": {
+    "text": "Aproximativ 61 % din suprafața țării e teren {0}; cel mai întins e terenul {1}.",
+    "raspunsuri": [
+     "agricol",
+     "arabil"
+    ],
+    "distractori": [
+     "forestier",
+     "viticol"
+    ]
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Fond funciar."
+   },
+   "surse": [
+    "INS – Anuarul Statistic al României: fondul funciar după modul de folosință",
+    "Ministerul Agriculturii și Dezvoltării Rurale – fond funciar"
+   ]
+  },
+  {
+   "id": "VIII28a-16",
+   "nivel": "VIII-S28-agricultura-fondul-funciar-agricol",
+   "competente": [
+    "VIII-4.1"
+   ],
+   "tip": "lacunar",
+   "dificultate": 2,
+   "enunt": "Completează.",
+   "date": {
+    "text": "Unirea parcelelor mici se numește {0}; protecția câmpurilor de vânt se face cu perdele {1}.",
+    "raspunsuri": [
+     "comasare",
+     "forestiere"
+    ],
+    "distractori": [
+     "fărâmițare",
+     "de ceață"
+    ]
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Soluții."
+   }
+  },
+  {
+   "id": "VIII28a-17",
+   "nivel": "VIII-S28-agricultura-fondul-funciar-agricol",
+   "competente": [
+    "VIII-2.3"
+   ],
+   "tip": "grafic",
+   "dificultate": 3,
+   "enunt": "Graficul arată fondul funciar al României (aproximativ, după INS). Ce categorie e a doua ca mărime?",
+   "date": {
+    "grafic": {
+     "tip": "structura",
+     "titlu": "Fondul funciar (aproximativ)",
+     "date": [
+      {
+       "eticheta": "agricol",
+       "valoare": 61
+      },
+      {
+       "eticheta": "păduri",
+       "valoare": 28
+      },
+      {
+       "eticheta": "ape",
+       "valoare": 4
+      },
+      {
+       "eticheta": "construcții și drumuri",
+       "valoare": 5
+      },
+      {
+       "eticheta": "altele",
+       "valoare": 2
+      }
+     ],
+     "unitate": "%",
+     "sursa": "INS – Anuarul Statistic"
+    },
+    "variante": [
+     "pădurile",
+     "apele",
+     "construcțiile",
+     "terenul agricol"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Agricol ~61 %, păduri ~28 %."
+   },
+   "surse": [
+    "INS – Anuarul Statistic al României: fondul funciar după modul de folosință",
+    "Ministerul Agriculturii și Dezvoltării Rurale – fond funciar"
+   ]
+  },
+  {
+   "id": "VIII28a-18",
+   "nivel": "VIII-S28-agricultura-fondul-funciar-agricol",
+   "competente": [
+    "VIII-2.3"
+   ],
+   "tip": "grafic",
+   "dificultate": 3,
+   "enunt": "Din același grafic: de câte ori e mai mare terenul agricol decât cel acoperit de păduri?",
+   "date": {
+    "grafic": {
+     "tip": "structura",
+     "titlu": "Fondul funciar (aproximativ)",
+     "date": [
+      {
+       "eticheta": "agricol",
+       "valoare": 61
+      },
+      {
+       "eticheta": "păduri",
+       "valoare": 28
+      },
+      {
+       "eticheta": "ape",
+       "valoare": 4
+      },
+      {
+       "eticheta": "construcții și drumuri",
+       "valoare": 5
+      },
+      {
+       "eticheta": "altele",
+       "valoare": 2
+      }
+     ],
+     "unitate": "%",
+     "sursa": "INS – Anuarul Statistic"
+    },
+    "variante": [
+     "de aproximativ 2 ori",
+     "de 10 ori",
+     "la fel",
+     "de 2 ori mai mic"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "61 : 28 ≈ 2."
+   },
+   "surse": [
+    "INS – Anuarul Statistic al României: fondul funciar după modul de folosință",
+    "Ministerul Agriculturii și Dezvoltării Rurale – fond funciar"
+   ]
+  },
+  {
+   "id": "VIII28a-19",
+   "nivel": "VIII-S28-agricultura-fondul-funciar-agricol",
+   "competente": [
+    "VIII-4.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 3,
+   "enunt": "Compară folosința terenurilor la câmpie cu cea la munte.",
+   "date": {
+    "variante": [
+     "la câmpie predomină terenul arabil; la munte, pădurile și pășunile",
+     "la munte predomină arabilul",
+     "sunt identice",
+     "la câmpie predomină pădurile"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Relieful decide folosința."
+   }
+  },
+  {
+   "id": "VIII28a-20",
+   "nivel": "VIII-S28-agricultura-fondul-funciar-agricol",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "denumeste",
+   "dificultate": 2,
+   "enunt": "Ce regiune agricolă cu soluri fertile, între Dunăre și mare, e marcată pe hartă?",
+   "date": {
+    "harta": "romania",
+    "punct": {
+     "lat": 44.3,
+     "lon": 28.2
+    },
+    "variante": [
+     "Dobrogea",
+     "Banatul",
+     "Oltenia",
+     "Maramureșul"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Dobrogea are cernoziomuri."
+   }
+  },
+  {
+   "id": "VIII28a-21",
+   "nivel": "VIII-S28-agricultura-fondul-funciar-agricol",
+   "competente": [
+    "VIII-4.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce înseamnă salinizarea solului?",
+   "date": {
+    "variante": [
+     "acumularea sărurilor în sol, care îl face nefertil",
+     "îmbogățirea cu humus",
+     "înghețarea solului",
+     "spălarea solului de ploi"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Apare în zone cu irigații greșite sau lacuri sărate."
+   }
+  },
+  {
+   "id": "VIII28a-22",
+   "nivel": "VIII-S28-agricultura-fondul-funciar-agricol",
+   "competente": [
+    "VIII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce înseamnă agricultura ecologică?",
+   "date": {
+    "variante": [
+     "agricultura fără pesticide și îngrășăminte chimice de sinteză",
+     "agricultura doar cu mașini",
+     "agricultura în seră",
+     "agricultura fără apă"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Produsele au un logo special UE."
+   }
+  },
+  {
+   "id": "VIII28a-23",
+   "nivel": "VIII-S28-agricultura-fondul-funciar-agricol",
+   "competente": [
+    "VIII-1.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce sunt fânețele?",
+   "date": {
+    "variante": [
+     "terenuri cu iarbă cosită pentru fân",
+     "terenuri cu vii",
+     "lacuri",
+     "păduri de conifere"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Fânul hrănește animalele iarna."
+   }
+  },
+  {
+   "id": "VIII28a-24",
+   "nivel": "VIII-S28-agricultura-fondul-funciar-agricol",
+   "competente": [
+    "VIII-2.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "De ce la munte terenul arabil e puțin?",
+   "date": {
+    "variante": [
+     "pantele sunt mari, solurile subțiri și clima rece",
+     "e prea cald",
+     "e prea plat",
+     "e prea mult soare"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Se cresc animale."
+   }
+  },
+  {
+   "id": "VIII28a-25",
+   "nivel": "VIII-S28-agricultura-fondul-funciar-agricol",
+   "competente": [
+    "VIII-4.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 3,
+   "enunt": "Cum ajută satelitul agricultorii?",
+   "date": {
+    "variante": [
+     "arată starea culturilor, umezeala solului și ajută agricultura de precizie",
+     "face ploaie",
+     "ară terenul",
+     "nu ajută"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Programul european Copernicus."
+   }
+  },
+  {
+   "id": "VIII28a-26",
+   "nivel": "VIII-S28-agricultura-fondul-funciar-agricol",
+   "competente": [
+    "VIII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce culturi se fac în livezile din Subcarpații Buzăului?",
+   "date": {
+    "variante": [
+     "pruni, meri, cireși",
+     "bananieri",
+     "portocali",
+     "măslini"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Pomicultura e tradițională."
+   }
+  },
+  {
+   "id": "VIII28a-27",
+   "nivel": "VIII-S28-agricultura-fondul-funciar-agricol",
+   "competente": [
+    "VIII-2.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce culoare are cernoziomul?",
+   "date": {
+    "variante": [
+     "negru",
+     "alb",
+     "roșu",
+     "galben"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Bogat în humus."
+   }
+  },
+  {
+   "id": "VIII28a-28",
+   "nivel": "VIII-S28-agricultura-fondul-funciar-agricol",
+   "competente": [
+    "VIII-4.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce măsură reduce efectele secetei?",
+   "date": {
+    "variante": [
+     "irigațiile și soiurile rezistente la secetă",
+     "tăierea perdelelor forestiere",
+     "arderea miriștilor",
+     "aratul în pantă"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Adaptare la climă."
+   }
+  },
+  {
+   "id": "VIII28a-29",
+   "nivel": "VIII-S28-agricultura-fondul-funciar-agricol",
+   "competente": [
+    "VIII-1.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce înseamnă „arabil”?",
+   "date": {
+    "variante": [
+     "teren care poate fi arat și cultivat",
+     "teren cu păduri",
+     "teren cu ape",
+     "teren cu clădiri"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Grâu, porumb, floarea-soarelui."
+   }
+  },
+  {
+   "id": "VIII28a-30",
+   "nivel": "VIII-S28-agricultura-fondul-funciar-agricol",
+   "competente": [
+    "VIII-4.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 3,
+   "enunt": "De ce arderea miriștilor (a resturilor de pe câmp) e interzisă?",
+   "date": {
+    "variante": [
+     "poluează aerul, distruge viața din sol și poate produce incendii",
+     "îmbogățește solul",
+     "e o tradiție obligatorie",
+     "nu are efecte"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Resturile pot fi încorporate în sol."
+   }
+  },
+  {
+   "id": "VIII28b-01",
+   "nivel": "VIII-S28-regiunile-agricole-elemente-specifice",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 1,
+   "enunt": "Ce cultură ocupă cea mai mare suprafață în România?",
+   "date": {
+    "variante": [
+     "cerealele (porumb, grâu)",
+     "cafeaua",
+     "orezul",
+     "ceaiul"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Câmpiile sunt grânarul țării."
+   }
+  },
+  {
+   "id": "VIII28b-02",
+   "nivel": "VIII-S28-regiunile-agricole-elemente-specifice",
+   "competente": [
+    "VIII-3.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Pentru ce culturi e România printre cei mai mari producători din UE?",
+   "date": {
+    "variante": [
+     "porumb și floarea-soarelui",
+     "măsline și citrice",
+     "orez și ceai",
+     "cafea și cacao"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "După Eurostat."
+   },
+   "surse": [
+    "Eurostat – Crop production in EU standard humidity (apro_cpsh1)",
+    "Ministerul Agriculturii și Dezvoltării Rurale – producții vegetale"
+   ]
+  },
+  {
+   "id": "VIII28b-03",
+   "nivel": "VIII-S28-regiunile-agricole-elemente-specifice",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "asociaza",
+   "dificultate": 2,
+   "enunt": "Asociază cultura cu zona.",
+   "date": {
+    "perechi": [
+     [
+      "porumb și grâu",
+      "Câmpia Română"
+     ],
+     [
+      "cartof",
+      "Țara Bârsei"
+     ],
+     [
+      "legume timpurii",
+      "Matca (Galați)"
+     ],
+     [
+      "caiși",
+      "Dobrogea"
+     ]
+    ]
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Regiuni agricole."
+   }
+  },
+  {
+   "id": "VIII28b-04",
+   "nivel": "VIII-S28-regiunile-agricole-elemente-specifice",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "asociaza",
+   "dificultate": 2,
+   "enunt": "Asociază podgoria cu județul.",
+   "date": {
+    "perechi": [
+     [
+      "Pietroasele",
+      "Buzău"
+     ],
+     [
+      "Cotnari",
+      "Iași"
+     ],
+     [
+      "Murfatlar",
+      "Constanța"
+     ],
+     [
+      "Odobești",
+      "Vrancea"
+     ]
+    ]
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Podgorii."
+   }
+  },
+  {
+   "id": "VIII28b-05",
+   "nivel": "VIII-S28-regiunile-agricole-elemente-specifice",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce podgorie cunoscută e în județul Buzău?",
+   "date": {
+    "variante": [
+     "Pietroasele (Dealu Mare)",
+     "Cotnari",
+     "Murfatlar",
+     "Recaș"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Pe dealurile subcarpatice."
+   }
+  },
+  {
+   "id": "VIII28b-06",
+   "nivel": "VIII-S28-regiunile-agricole-elemente-specifice",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Unde se cultivă mult cartoful?",
+   "date": {
+    "variante": [
+     "în depresiunea Țara Bârsei (Brașov) și în nordul Moldovei",
+     "în Delta Dunării",
+     "pe litoral",
+     "în Bărăgan, fără irigații"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Clima mai răcoroasă."
+   }
+  },
+  {
+   "id": "VIII28b-07",
+   "nivel": "VIII-S28-regiunile-agricole-elemente-specifice",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce pomi fructiferi predomină în Argeș și Vâlcea?",
+   "date": {
+    "variante": [
+     "prunii",
+     "portocalii",
+     "lămâii",
+     "bananierii"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Țuica și magiunul."
+   }
+  },
+  {
+   "id": "VIII28b-08",
+   "nivel": "VIII-S28-regiunile-agricole-elemente-specifice",
+   "competente": [
+    "VIII-2.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce animale se cresc mai ales pe pășunile alpine?",
+   "date": {
+    "variante": [
+     "oile (și vacile)",
+     "cămilele",
+     "renii",
+     "lamele"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Transhumanța."
+   }
+  },
+  {
+   "id": "VIII28b-09",
+   "nivel": "VIII-S28-regiunile-agricole-elemente-specifice",
+   "competente": [
+    "VIII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce înseamnă zootehnie?",
+   "date": {
+    "variante": [
+     "creșterea animalelor",
+     "cultivarea legumelor",
+     "pescuitul în mare",
+     "extragerea cărbunelui"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Bovine, ovine, porcine, păsări."
+   }
+  },
+  {
+   "id": "VIII28b-10",
+   "nivel": "VIII-S28-regiunile-agricole-elemente-specifice",
+   "competente": [
+    "VIII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce înseamnă apicultură?",
+   "date": {
+    "variante": [
+     "creșterea albinelor",
+     "creșterea peștilor",
+     "cultivarea viței",
+     "creșterea oilor"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "România produce multă miere de salcâm."
+   }
+  },
+  {
+   "id": "VIII28b-11",
+   "nivel": "VIII-S28-regiunile-agricole-elemente-specifice",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "pin",
+   "dificultate": 2,
+   "enunt": "Atinge pe harta României podgoria Cotnari.",
+   "date": {
+    "harta": "romania",
+    "tinta": {
+     "lat": 47.36,
+     "lon": 26.93,
+     "nume": "Cotnari"
+    },
+    "toleranta": 35
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "În județul Iași."
+   }
+  },
+  {
+   "id": "VIII28b-12",
+   "nivel": "VIII-S28-regiunile-agricole-elemente-specifice",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "pin",
+   "dificultate": 2,
+   "enunt": "Atinge pe harta României podgoria Murfatlar.",
+   "date": {
+    "harta": "romania",
+    "tinta": {
+     "lat": 44.17,
+     "lon": 28.41,
+     "nume": "Murfatlar"
+    },
+    "toleranta": 35
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "În județul Constanța."
+   }
+  },
+  {
+   "id": "VIII28b-13",
+   "nivel": "VIII-S28-regiunile-agricole-elemente-specifice",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "pin",
+   "dificultate": 3,
+   "enunt": "Atinge pe harta României Pietroasele (Buzău).",
+   "date": {
+    "harta": "romania",
+    "tinta": {
+     "lat": 45.1,
+     "lon": 26.57,
+     "nume": "Pietroasele"
+    },
+    "toleranta": 35
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "În Subcarpații Buzăului; aici s-a găsit și tezaurul „Cloșca cu puii de aur”."
+   }
+  },
+  {
+   "id": "VIII28b-14",
+   "nivel": "VIII-S28-regiunile-agricole-elemente-specifice",
+   "competente": [
+    "VIII-2.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Adevărat sau fals? Vița-de-vie se cultivă mai ales pe dealurile însorite.",
+   "date": {
+    "variante": [
+     "Adevărat",
+     "Fals"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Adevărat."
+   }
+  },
+  {
+   "id": "VIII28b-15",
+   "nivel": "VIII-S28-regiunile-agricole-elemente-specifice",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Adevărat sau fals? Orezul e principala cultură a României.",
+   "date": {
+    "variante": [
+     "Fals",
+     "Adevărat"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Fals: cerealele principale sunt porumbul și grâul."
+   }
+  },
+  {
+   "id": "VIII28b-16",
+   "nivel": "VIII-S28-regiunile-agricole-elemente-specifice",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "lacunar",
+   "dificultate": 2,
+   "enunt": "Completează.",
+   "date": {
+    "text": "Podgoria din județul Buzău se numește {0}; în Dobrogea e podgoria {1}.",
+    "raspunsuri": [
+     "Pietroasele",
+     "Murfatlar"
+    ],
+    "distractori": [
+     "Cotnari",
+     "Recaș"
+    ]
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Podgorii."
+   }
+  },
+  {
+   "id": "VIII28b-17",
+   "nivel": "VIII-S28-regiunile-agricole-elemente-specifice",
+   "competente": [
+    "VIII-3.3"
+   ],
+   "tip": "lacunar",
+   "dificultate": 2,
+   "enunt": "Completează.",
+   "date": {
+    "text": "Creșterea animalelor se numește {0}; creșterea albinelor se numește {1}.",
+    "raspunsuri": [
+     "zootehnie",
+     "apicultură"
+    ],
+    "distractori": [
+     "pomicultură",
+     "viticultură"
+    ]
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Ramuri agricole."
+   }
+  },
+  {
+   "id": "VIII28b-18",
+   "nivel": "VIII-S28-regiunile-agricole-elemente-specifice",
+   "competente": [
+    "VIII-2.3"
+   ],
+   "tip": "grafic",
+   "dificultate": 3,
+   "enunt": "Graficul arată suprafața cultivată cu principalele culturi într-un județ imaginar de câmpie. Ce cultură domină?",
+   "date": {
+    "grafic": {
+     "tip": "structura",
+     "titlu": "Suprafața cultivată (județ imaginar)",
+     "date": [
+      {
+       "eticheta": "porumb",
+       "valoare": 40
+      },
+      {
+       "eticheta": "grâu",
+       "valoare": 30
+      },
+      {
+       "eticheta": "floarea-soarelui",
+       "valoare": 20
+      },
+      {
+       "eticheta": "legume",
+       "valoare": 5
+      },
+      {
+       "eticheta": "altele",
+       "valoare": 5
+      }
+     ],
+     "unitate": "%"
+    },
+    "variante": [
+     "porumbul",
+     "grâul",
+     "floarea-soarelui",
+     "legumele"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "40 % din suprafață."
+   }
+  },
+  {
+   "id": "VIII28b-19",
+   "nivel": "VIII-S28-regiunile-agricole-elemente-specifice",
+   "competente": [
+    "VIII-4.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 3,
+   "enunt": "Compară agricultura din Bărăgan cu cea din Maramureș.",
+   "date": {
+    "variante": [
+     "Bărăganul are culturi mari de cereale; Maramureșul are pășuni, fânețe și creșterea animalelor",
+     "Maramureșul are mai multe cereale",
+     "sunt identice",
+     "Bărăganul are păduri de molid"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Relieful și clima fac diferența."
+   }
+  },
+  {
+   "id": "VIII28b-20",
+   "nivel": "VIII-S28-regiunile-agricole-elemente-specifice",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "denumeste",
+   "dificultate": 2,
+   "enunt": "Ce județ cu podgoriile Odobești și Panciu e marcat pe hartă?",
+   "date": {
+    "harta": "romania",
+    "punct": {
+     "lat": 45.8,
+     "lon": 27.0
+    },
+    "variante": [
+     "Vrancea",
+     "Buzău",
+     "Galați",
+     "Bacău"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Vrancea e vecin cu Buzău."
+   }
+  },
+  {
+   "id": "VIII28b-21",
+   "nivel": "VIII-S28-regiunile-agricole-elemente-specifice",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce cultură tehnică dă ulei comestibil și e foarte răspândită în câmpie?",
+   "date": {
+    "variante": [
+     "floarea-soarelui",
+     "cartoful",
+     "prunul",
+     "via"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Și rapița."
+   }
+  },
+  {
+   "id": "VIII28b-22",
+   "nivel": "VIII-S28-regiunile-agricole-elemente-specifice",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce cultură tehnică dă zahăr?",
+   "date": {
+    "variante": [
+     "sfecla de zahăr",
+     "porumbul",
+     "floarea-soarelui",
+     "grâul"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Se cultivă în Transilvania, Moldova."
+   }
+  },
+  {
+   "id": "VIII28b-23",
+   "nivel": "VIII-S28-regiunile-agricole-elemente-specifice",
+   "competente": [
+    "VIII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce produse agricole exportă mult România?",
+   "date": {
+    "variante": [
+     "cereale (grâu, porumb) și semințe de floarea-soarelui",
+     "cafea",
+     "banane",
+     "orez"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Prin portul Constanța."
+   }
+  },
+  {
+   "id": "VIII28b-24",
+   "nivel": "VIII-S28-regiunile-agricole-elemente-specifice",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce zonă din jurul Bucureștiului e cunoscută pentru legume?",
+   "date": {
+    "variante": [
+     "Vidra (Ilfov)",
+     "Sinaia",
+     "Predeal",
+     "Sulina"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Legumicultură pentru piața capitalei."
+   }
+  },
+  {
+   "id": "VIII28b-25",
+   "nivel": "VIII-S28-regiunile-agricole-elemente-specifice",
+   "competente": [
+    "VIII-2.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "De ce legumele se cultivă des în luncile râurilor?",
+   "date": {
+    "variante": [
+     "solurile sunt fertile și apa pentru irigat e aproape",
+     "e mai frig",
+     "nu e apă",
+     "sunt munți"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Luncile sunt bune pentru grădinărit."
+   }
+  },
+  {
+   "id": "VIII28b-26",
+   "nivel": "VIII-S28-regiunile-agricole-elemente-specifice",
+   "competente": [
+    "VIII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce tezaur de aur s-a descoperit la Pietroasele (Buzău)?",
+   "date": {
+    "variante": [
+     "„Cloșca cu puii de aur”",
+     "Tezaurul de la Sânnicolau Mare",
+     "Tezaurul lui Decebal",
+     "Coroana de oțel"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Descoperit în 1837."
+   }
+  },
+  {
+   "id": "VIII28b-27",
+   "nivel": "VIII-S28-regiunile-agricole-elemente-specifice",
+   "competente": [
+    "VIII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce animal e crescut mult în Dobrogea și pe pășunile alpine?",
+   "date": {
+    "variante": [
+     "oaia",
+     "bivolul de apă",
+     "cămila",
+     "renul"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "România are unul dintre cele mai mari efective de oi din UE."
+   }
+  },
+  {
+   "id": "VIII28b-28",
+   "nivel": "VIII-S28-regiunile-agricole-elemente-specifice",
+   "competente": [
+    "VIII-4.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce cultură se face în jurul Râmnicului Sărat?",
+   "date": {
+    "variante": [
+     "cereale în câmpie și pomi și vii pe dealurile din nord-vest",
+     "orez și ceai",
+     "bumbac",
+     "cafea"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Contact deal–câmpie."
+   }
+  },
+  {
+   "id": "VIII28b-29",
+   "nivel": "VIII-S28-regiunile-agricole-elemente-specifice",
+   "competente": [
+    "VIII-2.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce înseamnă „podgorie”?",
+   "date": {
+    "variante": [
+     "regiune cu multe vii",
+     "regiune cu păduri",
+     "regiune cu mine",
+     "regiune cu lacuri"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Dealu Mare, Cotnari etc."
+   }
+  },
+  {
+   "id": "VIII28b-30",
+   "nivel": "VIII-S28-regiunile-agricole-elemente-specifice",
+   "competente": [
+    "VIII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 3,
+   "enunt": "De ce în jurul marilor orașe sunt multe ferme de legume, lapte și păsări?",
+   "date": {
+    "variante": [
+     "produsele sunt vândute repede pe piața mare a orașului",
+     "pentru că e mai frig",
+     "pentru că e interzis la sat",
+     "fără motiv"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Agricultura periurbană."
+   }
+  },
+  {
+   "id": "VIII28c-01",
+   "nivel": "VIII-S28-valorificarea-produselor-agricole-traditie",
+   "competente": [
+    "VIII-1.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 1,
+   "enunt": "Ce ramură industrială prelucrează produsele agricole?",
+   "date": {
+    "variante": [
+     "industria alimentară",
+     "industria metalurgică",
+     "industria energetică",
+     "industria chimică grea"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Pâine, lapte, ulei, zahăr."
+   }
+  },
+  {
+   "id": "VIII28c-02",
+   "nivel": "VIII-S28-valorificarea-produselor-agricole-traditie",
+   "competente": [
+    "VIII-1.2"
+   ],
+   "tip": "asociaza",
+   "dificultate": 2,
+   "enunt": "Asociază produsul agricol cu produsul obținut.",
+   "date": {
+    "perechi": [
+     [
+      "grâul",
+      "făină și pâine"
+     ],
+     [
+      "laptele",
+      "brânză"
+     ],
+     [
+      "floarea-soarelui",
+      "ulei"
+     ],
+     [
+      "sfecla de zahăr",
+      "zahăr"
+     ]
+    ]
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Valorificarea."
+   }
+  },
+  {
+   "id": "VIII28c-03",
+   "nivel": "VIII-S28-valorificarea-produselor-agricole-traditie",
+   "competente": [
+    "VIII-3.3"
+   ],
+   "tip": "asociaza",
+   "dificultate": 2,
+   "enunt": "Asociază produsul tradițional cu zona.",
+   "date": {
+    "perechi": [
+     [
+      "Cârnații de Pleșcoi",
+      "Buzău"
+     ],
+     [
+      "Magiunul de Topoloveni",
+      "Argeș"
+     ],
+     [
+      "Salamul de Sibiu",
+      "Sibiu"
+     ],
+     [
+      "Telemeaua de Ibănești",
+      "Mureș"
+     ]
+    ]
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Produse protejate."
+   }
+  },
+  {
+   "id": "VIII28c-04",
+   "nivel": "VIII-S28-valorificarea-produselor-agricole-traditie",
+   "competente": [
+    "VIII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce produs din județul Buzău e protejat în UE?",
+   "date": {
+    "variante": [
+     "Cârnații de Pleșcoi",
+     "Magiunul de Topoloveni",
+     "Salamul de Sibiu",
+     "Telemeaua de Ibănești"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Indicație geografică protejată."
+   },
+   "surse": [
+    "Comisia Europeană – eAmbrosia: Cârnați de Pleșcoi (IGP)",
+    "Ministerul Agriculturii – produse cu indicație geografică"
+   ]
+  },
+  {
+   "id": "VIII28c-05",
+   "nivel": "VIII-S28-valorificarea-produselor-agricole-traditie",
+   "competente": [
+    "VIII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce înseamnă un produs cu „indicație geografică protejată”?",
+   "date": {
+    "variante": [
+     "un produs legat de o anumită zonă, al cărui nume nu poate fi folosit de alții",
+     "un produs fabricat oriunde",
+     "un produs interzis",
+     "un produs importat"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Protejează tradiția locală."
+   }
+  },
+  {
+   "id": "VIII28c-06",
+   "nivel": "VIII-S28-valorificarea-produselor-agricole-traditie",
+   "competente": [
+    "VIII-4.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "De ce fabricile de lapte sunt adesea lângă zonele cu pășuni?",
+   "date": {
+    "variante": [
+     "laptele se strică repede și trebuie prelucrat aproape",
+     "pentru că e mai frumos",
+     "pentru că e lângă mare",
+     "fără motiv"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Materia primă perisabilă."
+   }
+  },
+  {
+   "id": "VIII28c-07",
+   "nivel": "VIII-S28-valorificarea-produselor-agricole-traditie",
+   "competente": [
+    "VIII-4.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "De ce fabricile de pâine sunt lângă orașe?",
+   "date": {
+    "variante": [
+     "pâinea se consumă proaspătă, aproape de cumpărători",
+     "grâul crește în oraș",
+     "pentru că e mai frig",
+     "fără motiv"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Aproape de consumator."
+   }
+  },
+  {
+   "id": "VIII28c-08",
+   "nivel": "VIII-S28-valorificarea-produselor-agricole-traditie",
+   "competente": [
+    "VIII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce tehnologie modernă se folosește în agricultură?",
+   "date": {
+    "variante": [
+     "irigarea prin picurare, drone, imagini satelitare",
+     "plugul de lemn tras de boi",
+     "secera",
+     "nicio tehnologie"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Agricultura de precizie."
+   }
+  },
+  {
+   "id": "VIII28c-09",
+   "nivel": "VIII-S28-valorificarea-produselor-agricole-traditie",
+   "competente": [
+    "VIII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce sunt piețele țărănești?",
+   "date": {
+    "variante": [
+     "piețe unde producătorii locali își vând direct produsele",
+     "supermarketuri",
+     "fabrici",
+     "bursa"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Produse locale, proaspete."
+   }
+  },
+  {
+   "id": "VIII28c-10",
+   "nivel": "VIII-S28-valorificarea-produselor-agricole-traditie",
+   "competente": [
+    "VIII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce ajută tinerii fermieri să-și înceapă afacerea?",
+   "date": {
+    "variante": [
+     "fondurile europene pentru dezvoltare rurală",
+     "taxele mari",
+     "interzicerea agriculturii",
+     "nimic"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Programe de sprijin."
+   }
+  },
+  {
+   "id": "VIII28c-11",
+   "nivel": "VIII-S28-valorificarea-produselor-agricole-traditie",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "pin",
+   "dificultate": 2,
+   "enunt": "Atinge pe harta României Pleșcoi (Buzău).",
+   "date": {
+    "harta": "romania",
+    "tinta": {
+     "lat": 45.27,
+     "lon": 26.65,
+     "nume": "Pleșcoi"
+    },
+    "toleranta": 30
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Comuna Berca, județul Buzău."
+   }
+  },
+  {
+   "id": "VIII28c-12",
+   "nivel": "VIII-S28-valorificarea-produselor-agricole-traditie",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "pin",
+   "dificultate": 3,
+   "enunt": "Atinge pe harta României Topoloveni (Argeș).",
+   "date": {
+    "harta": "romania",
+    "tinta": {
+     "lat": 44.81,
+     "lon": 25.08,
+     "nume": "Topoloveni"
+    },
+    "toleranta": 30
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Județul Argeș."
+   }
+  },
+  {
+   "id": "VIII28c-13",
+   "nivel": "VIII-S28-valorificarea-produselor-agricole-traditie",
+   "competente": [
+    "VIII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Adevărat sau fals? Produsele tradiționale nu au nicio protecție legală.",
+   "date": {
+    "variante": [
+     "Fals",
+     "Adevărat"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Fals: unele sunt protejate la nivel european."
+   }
+  },
+  {
+   "id": "VIII28c-14",
+   "nivel": "VIII-S28-valorificarea-produselor-agricole-traditie",
+   "competente": [
+    "VIII-4.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Adevărat sau fals? Agricultura modernă poate folosi drone pentru a urmări culturile.",
+   "date": {
+    "variante": [
+     "Adevărat",
+     "Fals"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Adevărat."
+   }
+  },
+  {
+   "id": "VIII28c-15",
+   "nivel": "VIII-S28-valorificarea-produselor-agricole-traditie",
+   "competente": [
+    "VIII-3.3"
+   ],
+   "tip": "lacunar",
+   "dificultate": 2,
+   "enunt": "Completează.",
+   "date": {
+    "text": "Din județul Buzău sunt protejați Cârnații de {0}; din Argeș, magiunul de {1}.",
+    "raspunsuri": [
+     "Pleșcoi",
+     "Topoloveni"
+    ],
+    "distractori": [
+     "Sibiu",
+     "Ibănești"
+    ]
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Produse protejate."
+   }
+  },
+  {
+   "id": "VIII28c-16",
+   "nivel": "VIII-S28-valorificarea-produselor-agricole-traditie",
+   "competente": [
+    "VIII-1.2"
+   ],
+   "tip": "lacunar",
+   "dificultate": 2,
+   "enunt": "Completează.",
+   "date": {
+    "text": "Din lapte se obține {0}, iar din floarea-soarelui se obține {1}.",
+    "raspunsuri": [
+     "brânza",
+     "uleiul"
+    ],
+    "distractori": [
+     "făina",
+     "zahărul"
+    ]
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Valorificarea produselor."
+   }
+  },
+  {
+   "id": "VIII28c-17",
+   "nivel": "VIII-S28-valorificarea-produselor-agricole-traditie",
+   "competente": [
+    "VIII-2.3"
+   ],
+   "tip": "grafic",
+   "dificultate": 3,
+   "enunt": "Graficul arată numărul de ferme ecologice într-o regiune imaginară. Ce tendință observi?",
+   "date": {
+    "grafic": {
+     "tip": "profil",
+     "titlu": "Ferme ecologice (regiune imaginară)",
+     "date": [
+      {
+       "eticheta": "2015",
+       "valoare": 120
+      },
+      {
+       "eticheta": "2018",
+       "valoare": 210
+      },
+      {
+       "eticheta": "2021",
+       "valoare": 340
+      },
+      {
+       "eticheta": "2024",
+       "valoare": 480
+      }
+     ],
+     "unitate": "ferme"
+    },
+    "variante": [
+     "crește numărul fermelor ecologice",
+     "scade",
+     "rămâne la fel",
+     "dispar"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Cererea pentru produse ecologice crește."
+   }
+  },
+  {
+   "id": "VIII28c-18",
+   "nivel": "VIII-S28-valorificarea-produselor-agricole-traditie",
+   "competente": [
+    "VIII-4.1"
+   ],
+   "tip": "ordoneaza",
+   "dificultate": 2,
+   "enunt": "Ordonează drumul brânzei de la stână la masă.",
+   "date": {
+    "elemente": [
+     "oile sunt mulse la stână",
+     "laptele e dus la fabrică sau prelucrat la stână",
+     "se face brânza",
+     "brânza e vândută în piață sau magazin",
+     "ajunge pe masa ta"
+    ],
+    "criteriu": "De la stână la masă"
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Valorificarea produselor agricole."
+   }
+  },
+  {
+   "id": "VIII28c-19",
+   "nivel": "VIII-S28-valorificarea-produselor-agricole-traditie",
+   "competente": [
+    "VIII-4.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 3,
+   "enunt": "Compară o stână tradițională cu o fermă modernă de lapte.",
+   "date": {
+    "variante": [
+     "stâna lucrează manual, sezonier, la munte; ferma modernă are mulgătoare mecanice și răcire, tot anul",
+     "sunt identice",
+     "stâna e mai mecanizată",
+     "ferma nu produce lapte"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Tradiție și modernitate."
+   }
+  },
+  {
+   "id": "VIII28c-20",
+   "nivel": "VIII-S28-valorificarea-produselor-agricole-traditie",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "denumeste",
+   "dificultate": 2,
+   "enunt": "Ce oraș, cunoscut pentru salamul care îi poartă numele, e marcat pe hartă?",
+   "date": {
+    "harta": "romania",
+    "punct": {
+     "lat": 45.79,
+     "lon": 24.15
+    },
+    "variante": [
+     "Sibiu",
+     "Brașov",
+     "Alba Iulia",
+     "Mediaș"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Sibiu e în sudul Transilvaniei."
+   }
+  },
+  {
+   "id": "VIII28c-21",
+   "nivel": "VIII-S28-valorificarea-produselor-agricole-traditie",
+   "competente": [
+    "VIII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce înseamnă „de la fermă la consumator”?",
+   "date": {
+    "variante": [
+     "produsele ajung direct de la producător la cumpărător, cu puțini intermediari",
+     "produsele sunt importate",
+     "produsele sunt aruncate",
+     "produsele sunt vândute doar în străinătate"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Lanțuri scurte de aprovizionare."
+   }
+  },
+  {
+   "id": "VIII28c-22",
+   "nivel": "VIII-S28-valorificarea-produselor-agricole-traditie",
+   "competente": [
+    "VIII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce băutură tradițională se face din prune?",
+   "date": {
+    "variante": [
+     "țuica (și pălinca)",
+     "vinul",
+     "berea",
+     "ceaiul"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Livezile de pruni."
+   }
+  },
+  {
+   "id": "VIII28c-23",
+   "nivel": "VIII-S28-valorificarea-produselor-agricole-traditie",
+   "competente": [
+    "VIII-4.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "De ce morile și silozurile sunt lângă zonele de cereale?",
+   "date": {
+    "variante": [
+     "cerealele se depozitează și se macină aproape de locul recoltării",
+     "pentru că e lângă munte",
+     "pentru că e lângă pădure",
+     "fără motiv"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Costuri mai mici de transport."
+   }
+  },
+  {
+   "id": "VIII28c-24",
+   "nivel": "VIII-S28-valorificarea-produselor-agricole-traditie",
+   "competente": [
+    "VIII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce produs dulce tradițional se face din fructe, fără zahăr adăugat, la Topoloveni?",
+   "date": {
+    "variante": [
+     "magiunul",
+     "mierea",
+     "dulceața de trandafiri",
+     "ciocolata"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Primul produs românesc protejat în UE (2011)."
+   }
+  },
+  {
+   "id": "VIII28c-25",
+   "nivel": "VIII-S28-valorificarea-produselor-agricole-traditie",
+   "competente": [
+    "VIII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce produs apicol de calitate exportă România?",
+   "date": {
+    "variante": [
+     "mierea de salcâm",
+     "cafeaua",
+     "cacaoa",
+     "ceaiul verde"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Salcâmul înflorește în mai."
+   }
+  },
+  {
+   "id": "VIII28c-26",
+   "nivel": "VIII-S28-valorificarea-produselor-agricole-traditie",
+   "competente": [
+    "VIII-4.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 3,
+   "enunt": "De ce e importantă păstrarea rețetelor tradiționale?",
+   "date": {
+    "variante": [
+     "fac parte din identitatea locală și atrag turiști",
+     "nu sunt importante",
+     "sunt interzise",
+     "sunt toate identice"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Patrimoniu gastronomic."
+   }
+  },
+  {
+   "id": "VIII28c-27",
+   "nivel": "VIII-S28-valorificarea-produselor-agricole-traditie",
+   "competente": [
+    "VIII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce sunt serele?",
+   "date": {
+    "variante": [
+     "construcții acoperite unde plantele cresc protejate, chiar și iarna",
+     "păduri",
+     "mine",
+     "lacuri"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Legume timpurii."
+   }
+  },
+  {
+   "id": "VIII28c-28",
+   "nivel": "VIII-S28-valorificarea-produselor-agricole-traditie",
+   "competente": [
+    "VIII-4.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce problemă au micii producători?",
+   "date": {
+    "variante": [
+     "greutăți în a-și vinde produsele la prețuri bune",
+     "prea mulți cumpărători",
+     "nu au produse",
+     "nu au pământ deloc"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Asociațiile de producători ajută."
+   }
+  },
+  {
+   "id": "VIII28c-29",
+   "nivel": "VIII-S28-valorificarea-produselor-agricole-traditie",
+   "competente": [
+    "VIII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce înseamnă „agroturism”?",
+   "date": {
+    "variante": [
+     "turism în gospodării rurale, cu produse de casă",
+     "turism la fabrici",
+     "turism în aeroporturi",
+     "turism doar la mare"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Leagă agricultura de turism."
+   }
+  },
+  {
+   "id": "VIII28c-30",
+   "nivel": "VIII-S28-valorificarea-produselor-agricole-traditie",
+   "competente": [
+    "VIII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce brânză tradițională de oaie se maturează în coajă de brad?",
+   "date": {
+    "variante": [
+     "brânza de burduf în coajă de brad",
+     "parmezanul",
+     "camembertul",
+     "mozzarella"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Tradiție din Bran și Mărginimea Sibiului."
+   }
+  },
+  {
+   "id": "VIII30a-01",
+   "nivel": "VIII-S30-resursele-naturale-industria",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "asociaza",
+   "dificultate": 1,
+   "enunt": "Asociază resursa cu zona.",
+   "date": {
+    "perechi": [
+     [
+      "gazele naturale",
+      "Depresiunea Transilvaniei"
+     ],
+     [
+      "huila",
+      "Valea Jiului"
+     ],
+     [
+      "lignitul",
+      "Oltenia"
+     ],
+     [
+      "aurul",
+      "Munții Apuseni"
+     ]
+    ]
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Resurse ale subsolului."
+   }
+  },
+  {
+   "id": "VIII30a-02",
+   "nivel": "VIII-S30-resursele-naturale-industria",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "asociaza",
+   "dificultate": 1,
+   "enunt": "Asociază salina cu județul.",
+   "date": {
+    "perechi": [
+     [
+      "Slănic",
+      "Prahova"
+     ],
+     [
+      "Turda",
+      "Cluj"
+     ],
+     [
+      "Praid",
+      "Harghita"
+     ],
+     [
+      "Ocnele Mari",
+      "Vâlcea"
+     ]
+    ]
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Saline."
+   }
+  },
+  {
+   "id": "VIII30a-03",
+   "nivel": "VIII-S30-resursele-naturale-industria",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 1,
+   "enunt": "Unde se extrage petrol în România?",
+   "date": {
+    "variante": [
+     "în Subcarpați, Podișul Getic, Câmpia Română și în Marea Neagră",
+     "doar în Delta Dunării",
+     "în Munții Retezat",
+     "nu se extrage"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Prahova e un vechi județ petrolier."
+   }
+  },
+  {
+   "id": "VIII30a-04",
+   "nivel": "VIII-S30-resursele-naturale-industria",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce zăcământ mare de gaze din Marea Neagră e în dezvoltare?",
+   "date": {
+    "variante": [
+     "Neptun Deep",
+     "Sărmășel",
+     "Mediaș",
+     "Rovinari"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Unul dintre cele mai mari din UE."
+   }
+  },
+  {
+   "id": "VIII30a-05",
+   "nivel": "VIII-S30-resursele-naturale-industria",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Unde se află principalul bazin de huilă?",
+   "date": {
+    "variante": [
+     "în Depresiunea Petroșani (Valea Jiului)",
+     "în Dobrogea",
+     "în Delta Dunării",
+     "în Bărăgan"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Exploatarea e în declin."
+   }
+  },
+  {
+   "id": "VIII30a-06",
+   "nivel": "VIII-S30-resursele-naturale-industria",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Unde se extrage lignit pentru termocentrale?",
+   "date": {
+    "variante": [
+     "în Oltenia (Rovinari, Motru)",
+     "în Maramureș",
+     "în Delta",
+     "pe litoral"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Exploatare la suprafață, în cariere."
+   }
+  },
+  {
+   "id": "VIII30a-07",
+   "nivel": "VIII-S30-resursele-naturale-industria",
+   "competente": [
+    "VIII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce oraș are cel mai mare combinat siderurgic (oțel) al României?",
+   "date": {
+    "variante": [
+     "Galați",
+     "Brașov",
+     "Sibiu",
+     "Suceava"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Pe Dunăre, cu acces la minereu importat."
+   }
+  },
+  {
+   "id": "VIII30a-08",
+   "nivel": "VIII-S30-resursele-naturale-industria",
+   "competente": [
+    "VIII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce oraș are o mare fabrică de aluminiu?",
+   "date": {
+    "variante": [
+     "Slatina",
+     "Constanța",
+     "Iași",
+     "Bistrița"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Alro Slatina."
+   }
+  },
+  {
+   "id": "VIII30a-09",
+   "nivel": "VIII-S30-resursele-naturale-industria",
+   "competente": [
+    "VIII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce oraș e un centru important al industriei petrochimice?",
+   "date": {
+    "variante": [
+     "Ploiești",
+     "Sinaia",
+     "Sighișoara",
+     "Sulina"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Rafinăriile Petrobrazi și Petrotel."
+   }
+  },
+  {
+   "id": "VIII30a-10",
+   "nivel": "VIII-S30-resursele-naturale-industria",
+   "competente": [
+    "VIII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce rafinărie mare e pe litoral, la Năvodari?",
+   "date": {
+    "variante": [
+     "Petromidia",
+     "Petrobrazi",
+     "Petrotel",
+     "Arpechim"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Lângă Constanța."
+   }
+  },
+  {
+   "id": "VIII30a-11",
+   "nivel": "VIII-S30-resursele-naturale-industria",
+   "competente": [
+    "VIII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce rocă de construcție se extrage la Ruschița?",
+   "date": {
+    "variante": [
+     "marmura",
+     "sarea",
+     "cărbunele",
+     "nisipul"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Marmura de Ruschița, Caraș-Severin."
+   }
+  },
+  {
+   "id": "VIII30a-12",
+   "nivel": "VIII-S30-resursele-naturale-industria",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "pin",
+   "dificultate": 2,
+   "enunt": "Atinge pe harta României Valea Jiului (Petroșani).",
+   "date": {
+    "harta": "romania",
+    "tinta": {
+     "lat": 45.41,
+     "lon": 23.37,
+     "nume": "Petroșani"
+    },
+    "toleranta": 35
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "În sudul județului Hunedoara."
+   }
+  },
+  {
+   "id": "VIII30a-13",
+   "nivel": "VIII-S30-resursele-naturale-industria",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "pin",
+   "dificultate": 2,
+   "enunt": "Atinge pe harta României Ploiești.",
+   "date": {
+    "harta": "romania",
+    "tinta": {
+     "lat": 44.94,
+     "lon": 26.02,
+     "nume": "Ploiești"
+    },
+    "toleranta": 30
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Capitala petrolului românesc."
+   }
+  },
+  {
+   "id": "VIII30a-14",
+   "nivel": "VIII-S30-resursele-naturale-industria",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "pin",
+   "dificultate": 3,
+   "enunt": "Atinge pe harta României Mediaș, centru al gazelor naturale.",
+   "date": {
+    "harta": "romania",
+    "tinta": {
+     "lat": 46.16,
+     "lon": 24.35,
+     "nume": "Mediaș"
+    },
+    "toleranta": 30
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "În Depresiunea Transilvaniei."
+   }
+  },
+  {
+   "id": "VIII30a-15",
+   "nivel": "VIII-S30-resursele-naturale-industria",
+   "competente": [
+    "VIII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Adevărat sau fals? România a fost prima țară cu producție de petrol înregistrată oficial, în 1857.",
+   "date": {
+    "variante": [
+     "Adevărat",
+     "Fals"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Adevărat."
+   },
+   "surse": [
+    "Encyclopaedia Britannica – Ploiești / Romanian petroleum industry",
+    "Muzeul Național al Petrolului, Ploiești"
+   ]
+  },
+  {
+   "id": "VIII30a-16",
+   "nivel": "VIII-S30-resursele-naturale-industria",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Adevărat sau fals? Gazele naturale se extrag mai ales în Delta Dunării.",
+   "date": {
+    "variante": [
+     "Fals",
+     "Adevărat"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Fals: mai ales în Depresiunea Transilvaniei și în Marea Neagră."
+   }
+  },
+  {
+   "id": "VIII30a-17",
+   "nivel": "VIII-S30-resursele-naturale-industria",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "lacunar",
+   "dificultate": 2,
+   "enunt": "Completează.",
+   "date": {
+    "text": "Huila se extrage în Valea {0}, iar lignitul în {1}.",
+    "raspunsuri": [
+     "Jiului",
+     "Oltenia"
+    ],
+    "distractori": [
+     "Prahovei",
+     "Dobrogea"
+    ]
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Cărbunele."
+   }
+  },
+  {
+   "id": "VIII30a-18",
+   "nivel": "VIII-S30-resursele-naturale-industria",
+   "competente": [
+    "VIII-3.3"
+   ],
+   "tip": "lacunar",
+   "dificultate": 2,
+   "enunt": "Completează.",
+   "date": {
+    "text": "Oțelul se produce la {0}, iar aluminiul la {1}.",
+    "raspunsuri": [
+     "Galați",
+     "Slatina"
+    ],
+    "distractori": [
+     "Ploiești",
+     "Sinaia"
+    ]
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Metalurgia."
+   }
+  },
+  {
+   "id": "VIII30a-19",
+   "nivel": "VIII-S30-resursele-naturale-industria",
+   "competente": [
+    "VIII-2.3"
+   ],
+   "tip": "grafic",
+   "dificultate": 3,
+   "enunt": "Graficul arată producția de cărbune într-un bazin imaginar. Ce tendință observi?",
+   "date": {
+    "grafic": {
+     "tip": "profil",
+     "titlu": "Producția de cărbune (bazin imaginar)",
+     "date": [
+      {
+       "eticheta": "1990",
+       "valoare": 40
+      },
+      {
+       "eticheta": "2000",
+       "valoare": 25
+      },
+      {
+       "eticheta": "2010",
+       "valoare": 18
+      },
+      {
+       "eticheta": "2020",
+       "valoare": 8
+      },
+      {
+       "eticheta": "2024",
+       "valoare": 4
+      }
+     ],
+     "unitate": "milioane t"
+    },
+    "variante": [
+     "producția scade puternic",
+     "crește",
+     "rămâne la fel",
+     "se dublează"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Închiderea minelor și tranziția energetică."
+   }
+  },
+  {
+   "id": "VIII30a-20",
+   "nivel": "VIII-S30-resursele-naturale-industria",
+   "competente": [
+    "VIII-4.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 3,
+   "enunt": "De ce minele de cărbune se închid treptat?",
+   "date": {
+    "variante": [
+     "cărbunele poluează mult, iar UE trece la energie curată; multe mine nu mai sunt rentabile",
+     "s-a terminat tot cărbunele lumii",
+     "e interzis să mai muncești",
+     "fără motiv"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Tranziția energetică."
+   }
+  },
+  {
+   "id": "VIII30a-21",
+   "nivel": "VIII-S30-resursele-naturale-industria",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "denumeste",
+   "dificultate": 2,
+   "enunt": "Ce oraș-port cu combinat siderurgic e marcat pe hartă?",
+   "date": {
+    "harta": "romania",
+    "punct": {
+     "lat": 45.44,
+     "lon": 28.05
+    },
+    "variante": [
+     "Galați",
+     "Brăila",
+     "Tulcea",
+     "Constanța"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Galați e pe Dunăre."
+   }
+  },
+  {
+   "id": "VIII30a-22",
+   "nivel": "VIII-S30-resursele-naturale-industria",
+   "competente": [
+    "VIII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce problemă a apărut în Valea Jiului după închiderea minelor?",
+   "date": {
+    "variante": [
+     "lipsa locurilor de muncă și plecarea oamenilor",
+     "prea multe locuri de muncă",
+     "prea mulți turiști",
+     "nicio problemă"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Reconversie profesională, turism, energie nouă."
+   }
+  },
+  {
+   "id": "VIII30a-23",
+   "nivel": "VIII-S30-resursele-naturale-industria",
+   "competente": [
+    "VIII-4.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce înseamnă industrie extractivă?",
+   "date": {
+    "variante": [
+     "industria care scoate resursele din subsol",
+     "industria care face mobilă",
+     "industria de software",
+     "industria textilă"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Mine, cariere, sonde."
+   }
+  },
+  {
+   "id": "VIII30a-24",
+   "nivel": "VIII-S30-resursele-naturale-industria",
+   "competente": [
+    "VIII-4.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce înseamnă industrie prelucrătoare?",
+   "date": {
+    "variante": [
+     "industria care transformă materiile prime în produse",
+     "industria care extrage petrol",
+     "agricultura",
+     "turismul"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Metalurgie, mașini, alimentară etc."
+   }
+  },
+  {
+   "id": "VIII30a-25",
+   "nivel": "VIII-S30-resursele-naturale-industria",
+   "competente": [
+    "VIII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce industrie folosește lemnul din Carpați?",
+   "date": {
+    "variante": [
+     "industria lemnului și a mobilei",
+     "industria aluminiului",
+     "industria petrolieră",
+     "industria pescuitului"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Fabrici de mobilă în Suceava, Bistrița, Maramureș."
+   }
+  },
+  {
+   "id": "VIII30a-26",
+   "nivel": "VIII-S30-resursele-naturale-industria",
+   "competente": [
+    "VIII-4.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 3,
+   "enunt": "De ce resursele de aur din Apuseni au fost exploatate din Antichitate?",
+   "date": {
+    "variante": [
+     "erau la suprafață sau aproape, în munți accesibili",
+     "erau în mare",
+     "au fost aduse de romani din Spania",
+     "nu au fost exploatate"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Galeriile romane de la Roșia Montană."
+   }
+  },
+  {
+   "id": "VIII30a-27",
+   "nivel": "VIII-S30-resursele-naturale-industria",
+   "competente": [
+    "VIII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce salină e una dintre cele mai vizitate atracții turistice din Transilvania?",
+   "date": {
+    "variante": [
+     "Salina Turda",
+     "Salina Slănic",
+     "Salina Praid",
+     "Salina Ocnele Mari"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Are un parc de distracții subteran."
+   }
+  },
+  {
+   "id": "VIII30a-28",
+   "nivel": "VIII-S30-resursele-naturale-industria",
+   "competente": [
+    "VIII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce industrie e importantă la Buzău?",
+   "date": {
+    "variante": [
+     "industria metalurgică ușoară, alimentară și a materialelor de construcții",
+     "construcția de nave maritime",
+     "mineritul aurului",
+     "industria aeronautică"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Buzău are o industrie diversificată."
+   }
+  },
+  {
+   "id": "VIII30a-29",
+   "nivel": "VIII-S30-resursele-naturale-industria",
+   "competente": [
+    "VIII-4.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce înseamnă „reconversia” unei zone industriale?",
+   "date": {
+    "variante": [
+     "transformarea ei pentru alte activități (servicii, turism, energie curată)",
+     "construirea de noi mine",
+     "abandonarea totală",
+     "nimic"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Ex.: muzee în foste mine."
+   }
+  },
+  {
+   "id": "VIII30a-30",
+   "nivel": "VIII-S30-resursele-naturale-industria",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce oraș din Bacău e un vechi centru petrolier?",
+   "date": {
+    "variante": [
+     "Moinești",
+     "Sulina",
+     "Vama Veche",
+     "Sinaia"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "În Subcarpații Moldovei."
+   }
+  },
+  {
+   "id": "VIII30b-01",
+   "nivel": "VIII-S30-industria-energetica-energiei-electrice",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "asociaza",
+   "dificultate": 2,
+   "enunt": "Asociază centrala cu locul.",
+   "date": {
+    "perechi": [
+     [
+      "hidrocentrala Porțile de Fier I",
+      "Dunăre"
+     ],
+     [
+      "centrala nucleară",
+      "Cernavodă"
+     ],
+     [
+      "termocentrala pe lignit",
+      "Rovinari"
+     ],
+     [
+      "parcul eolian",
+      "Fântânele–Cogealac"
+     ]
+    ]
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Centralele României."
+   }
+  },
+  {
+   "id": "VIII30b-02",
+   "nivel": "VIII-S30-industria-energetica-energiei-electrice",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 1,
+   "enunt": "Unde se află singura centrală nucleară a României?",
+   "date": {
+    "variante": [
+     "la Cernavodă",
+     "la Rovinari",
+     "la Porțile de Fier",
+     "la Ploiești"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Pe Canalul Dunăre–Marea Neagră."
+   },
+   "surse": [
+    "Nuclearelectrica – CNE Cernavodă (nuclearelectrica.ro)",
+    "World Nuclear Association – Nuclear Power in Romania"
+   ]
+  },
+  {
+   "id": "VIII30b-03",
+   "nivel": "VIII-S30-industria-energetica-energiei-electrice",
+   "competente": [
+    "VIII-3.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Câte reactoare funcționează la Cernavodă?",
+   "date": {
+    "variante": [
+     "două",
+     "unul",
+     "cinci",
+     "zece"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Se pregătesc unitățile 3 și 4."
+   },
+   "surse": [
+    "Nuclearelectrica – CNE Cernavodă (nuclearelectrica.ro)",
+    "World Nuclear Association – Nuclear Power in Romania"
+   ]
+  },
+  {
+   "id": "VIII30b-04",
+   "nivel": "VIII-S30-industria-energetica-energiei-electrice",
+   "competente": [
+    "VIII-3.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce parte din electricitatea României produce centrala de la Cernavodă?",
+   "date": {
+    "variante": [
+     "aproximativ o cincime",
+     "aproape toată",
+     "o sutime",
+     "jumătate"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Aproximativ 18–20 %."
+   },
+   "surse": [
+    "Nuclearelectrica – CNE Cernavodă (nuclearelectrica.ro)",
+    "World Nuclear Association – Nuclear Power in Romania"
+   ]
+  },
+  {
+   "id": "VIII30b-05",
+   "nivel": "VIII-S30-industria-energetica-energiei-electrice",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Care e cea mai mare hidrocentrală a României?",
+   "date": {
+    "variante": [
+     "Porțile de Fier I",
+     "Vidraru",
+     "Stejaru",
+     "Lotru"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Pe Dunăre, din 1972."
+   },
+   "surse": [
+    "Hidroelectrica – Porțile de Fier I (hidroelectrica.ro)",
+    "Encyclopaedia Britannica – Iron Gate"
+   ]
+  },
+  {
+   "id": "VIII30b-06",
+   "nivel": "VIII-S30-industria-energetica-energiei-electrice",
+   "competente": [
+    "VIII-2.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "De ce parcurile eoliene sunt mai ales în Dobrogea?",
+   "date": {
+    "variante": [
+     "acolo bate des vânt puternic, iar terenul e deschis",
+     "acolo e cărbune",
+     "acolo sunt munți înalți",
+     "acolo plouă mult"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Condiții bune pentru turbine."
+   }
+  },
+  {
+   "id": "VIII30b-07",
+   "nivel": "VIII-S30-industria-energetica-energiei-electrice",
+   "competente": [
+    "VIII-2.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "De ce hidrocentralele sunt construite pe râuri de munte?",
+   "date": {
+    "variante": [
+     "apa coboară de la înălțime și are multă energie",
+     "pentru că apa e caldă",
+     "pentru că e la mare",
+     "fără motiv"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Diferența de nivel produce energie."
+   }
+  },
+  {
+   "id": "VIII30b-08",
+   "nivel": "VIII-S30-industria-energetica-energiei-electrice",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Unde sunt marile termocentrale pe lignit?",
+   "date": {
+    "variante": [
+     "în Oltenia (Rovinari, Turceni)",
+     "în Delta Dunării",
+     "în Maramureș",
+     "pe litoral"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Aproape de carierele de lignit."
+   }
+  },
+  {
+   "id": "VIII30b-09",
+   "nivel": "VIII-S30-industria-energetica-energiei-electrice",
+   "competente": [
+    "VIII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce sursă de energie e geotermală?",
+   "date": {
+    "variante": [
+     "căldura din interiorul Pământului (apă fierbinte din adânc)",
+     "vântul",
+     "Soarele",
+     "cărbunele"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Folosită la Oradea și Beiuș."
+   }
+  },
+  {
+   "id": "VIII30b-10",
+   "nivel": "VIII-S30-industria-energetica-energiei-electrice",
+   "competente": [
+    "VIII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Care surse de energie nu emit dioxid de carbon la producere?",
+   "date": {
+    "variante": [
+     "hidro, nuclear, eolian, solar",
+     "cărbune și gaze",
+     "petrol",
+     "lemn ars"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Surse „curate”."
+   }
+  },
+  {
+   "id": "VIII30b-11",
+   "nivel": "VIII-S30-industria-energetica-energiei-electrice",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "pin",
+   "dificultate": 2,
+   "enunt": "Atinge pe harta României Cernavodă.",
+   "date": {
+    "harta": "romania",
+    "tinta": {
+     "lat": 44.34,
+     "lon": 28.03,
+     "nume": "Cernavodă"
+    },
+    "toleranta": 30
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "În județul Constanța."
+   },
+   "surse": [
+    "Nuclearelectrica – CNE Cernavodă (nuclearelectrica.ro)",
+    "World Nuclear Association – Nuclear Power in Romania"
+   ]
+  },
+  {
+   "id": "VIII30b-12",
+   "nivel": "VIII-S30-industria-energetica-energiei-electrice",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "pin",
+   "dificultate": 2,
+   "enunt": "Atinge pe harta României Fântânele–Cogealac, parcul eolian.",
+   "date": {
+    "harta": "romania",
+    "tinta": {
+     "lat": 44.55,
+     "lon": 28.55,
+     "nume": "Fântânele–Cogealac"
+    },
+    "toleranta": 35
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "În Dobrogea centrală."
+   }
+  },
+  {
+   "id": "VIII30b-13",
+   "nivel": "VIII-S30-industria-energetica-energiei-electrice",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "pin",
+   "dificultate": 3,
+   "enunt": "Atinge pe harta României Rovinari.",
+   "date": {
+    "harta": "romania",
+    "tinta": {
+     "lat": 44.92,
+     "lon": 23.17,
+     "nume": "Rovinari"
+    },
+    "toleranta": 30
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "În județul Gorj."
+   }
+  },
+  {
+   "id": "VIII30b-14",
+   "nivel": "VIII-S30-industria-energetica-energiei-electrice",
+   "competente": [
+    "VIII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Adevărat sau fals? Energia eoliană și solară sunt surse regenerabile.",
+   "date": {
+    "variante": [
+     "Adevărat",
+     "Fals"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Adevărat."
+   }
+  },
+  {
+   "id": "VIII30b-15",
+   "nivel": "VIII-S30-industria-energetica-energiei-electrice",
+   "competente": [
+    "VIII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Adevărat sau fals? România produce toată electricitatea din cărbune.",
+   "date": {
+    "variante": [
+     "Fals",
+     "Adevărat"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Fals: are un mix variat; cărbunele e în scădere."
+   }
+  },
+  {
+   "id": "VIII30b-16",
+   "nivel": "VIII-S30-industria-energetica-energiei-electrice",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "lacunar",
+   "dificultate": 2,
+   "enunt": "Completează.",
+   "date": {
+    "text": "Centrala nucleară e la {0}, iar cea mai mare hidrocentrală la Porțile de {1}.",
+    "raspunsuri": [
+     "Cernavodă",
+     "Fier"
+    ],
+    "distractori": [
+     "Rovinari",
+     "Aur"
+    ]
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Energia României."
+   },
+   "surse": [
+    "Nuclearelectrica – CNE Cernavodă (nuclearelectrica.ro)",
+    "World Nuclear Association – Nuclear Power in Romania"
+   ]
+  },
+  {
+   "id": "VIII30b-17",
+   "nivel": "VIII-S30-industria-energetica-energiei-electrice",
+   "competente": [
+    "VIII-3.3"
+   ],
+   "tip": "lacunar",
+   "dificultate": 2,
+   "enunt": "Completează.",
+   "date": {
+    "text": "Energia produsă de vânt se numește {0}, iar cea din căldura Pământului se numește {1}.",
+    "raspunsuri": [
+     "eoliană",
+     "geotermală"
+    ],
+    "distractori": [
+     "solară",
+     "nucleară"
+    ]
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Tipuri de energie."
+   }
+  },
+  {
+   "id": "VIII30b-18",
+   "nivel": "VIII-S30-industria-energetica-energiei-electrice",
+   "competente": [
+    "VIII-2.3"
+   ],
+   "tip": "grafic",
+   "dificultate": 3,
+   "enunt": "Graficul arată (schematic) mixul energetic al unei țări imaginare asemănătoare României. Ce surse produc împreună cea mai mare parte?",
+   "date": {
+    "grafic": {
+     "tip": "structura",
+     "titlu": "Producția de electricitate (țară imaginară)",
+     "date": [
+      {
+       "eticheta": "hidro",
+       "valoare": 30
+      },
+      {
+       "eticheta": "nuclear",
+       "valoare": 20
+      },
+      {
+       "eticheta": "eolian și solar",
+       "valoare": 18
+      },
+      {
+       "eticheta": "gaze",
+       "valoare": 17
+      },
+      {
+       "eticheta": "cărbune",
+       "valoare": 15
+      }
+     ],
+     "unitate": "%"
+    },
+    "variante": [
+     "hidro și nuclear",
+     "cărbune și gaze",
+     "doar cărbunele",
+     "doar solarul"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "50 % din producție."
+   }
+  },
+  {
+   "id": "VIII30b-19",
+   "nivel": "VIII-S30-industria-energetica-energiei-electrice",
+   "competente": [
+    "VIII-4.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 3,
+   "enunt": "De ce scade folosirea cărbunelui?",
+   "date": {
+    "variante": [
+     "cărbunele poluează cel mai mult și produce mult CO₂; UE trece la surse curate",
+     "pentru că e prea ieftin",
+     "pentru că e regenerabil",
+     "fără motiv"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Tranziția energetică."
+   }
+  },
+  {
+   "id": "VIII30b-20",
+   "nivel": "VIII-S30-industria-energetica-energiei-electrice",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "denumeste",
+   "dificultate": 2,
+   "enunt": "Ce baraj pe Argeș, în Munții Făgăraș, e marcat pe hartă?",
+   "date": {
+    "harta": "romania",
+    "punct": {
+     "lat": 45.37,
+     "lon": 24.63
+    },
+    "variante": [
+     "Vidraru",
+     "Stejaru",
+     "Porțile de Fier",
+     "Lotru"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Barajul Vidraru, din 1966."
+   }
+  },
+  {
+   "id": "VIII30b-21",
+   "nivel": "VIII-S30-industria-energetica-energiei-electrice",
+   "competente": [
+    "VIII-4.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce poți face acasă pentru a economisi energie?",
+   "date": {
+    "variante": [
+     "becuri LED, stingi lumina, scoți încărcătoarele din priză",
+     "lași totul aprins",
+     "deschizi geamul cu caloriferul pornit",
+     "folosești aparate vechi"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Eficiență energetică."
+   }
+  },
+  {
+   "id": "VIII30b-22",
+   "nivel": "VIII-S30-industria-energetica-energiei-electrice",
+   "competente": [
+    "VIII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce sunt panourile fotovoltaice?",
+   "date": {
+    "variante": [
+     "panouri care transformă lumina Soarelui în electricitate",
+     "turbine de vânt",
+     "baraje",
+     "reactoare"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Pe acoperișuri și în parcuri solare."
+   }
+  },
+  {
+   "id": "VIII30b-23",
+   "nivel": "VIII-S30-industria-energetica-energiei-electrice",
+   "competente": [
+    "VIII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce înseamnă „mix energetic”?",
+   "date": {
+    "variante": [
+     "combinația de surse din care o țară produce energie",
+     "un singur tip de centrală",
+     "un amestec de combustibili în mașină",
+     "o rețea de drumuri"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Hidro, nuclear, eolian, gaze etc."
+   }
+  },
+  {
+   "id": "VIII30b-24",
+   "nivel": "VIII-S30-industria-energetica-energiei-electrice",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce hidrocentrală mare e pe Bistrița, lângă Ceahlău?",
+   "date": {
+    "variante": [
+     "Stejaru (lacul Izvorul Muntelui)",
+     "Vidraru",
+     "Porțile de Fier",
+     "Ciunget"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Una dintre primele mari hidrocentrale."
+   }
+  },
+  {
+   "id": "VIII30b-25",
+   "nivel": "VIII-S30-industria-energetica-energiei-electrice",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce hidrocentrală subterană mare e pe Lotru?",
+   "date": {
+    "variante": [
+     "Ciunget (Lotru)",
+     "Vidraru",
+     "Stejaru",
+     "Porțile de Fier"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Centrala e săpată în munte."
+   }
+  },
+  {
+   "id": "VIII30b-26",
+   "nivel": "VIII-S30-industria-energetica-energiei-electrice",
+   "competente": [
+    "VIII-4.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 3,
+   "enunt": "Compară o hidrocentrală cu o termocentrală pe cărbune.",
+   "date": {
+    "variante": [
+     "hidrocentrala folosește apa, nu poluează aerul; termocentrala arde cărbune și poluează",
+     "sunt identice",
+     "hidrocentrala poluează mai mult",
+     "termocentrala folosește vântul"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Impact diferit asupra mediului."
+   }
+  },
+  {
+   "id": "VIII30b-27",
+   "nivel": "VIII-S30-industria-energetica-energiei-electrice",
+   "competente": [
+    "VIII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce înseamnă „prosumator”?",
+   "date": {
+    "variante": [
+     "o persoană care și produce energie (de exemplu, cu panouri solare), și consumă",
+     "un tip de centrală",
+     "un furnizor de gaze",
+     "un muncitor la mină"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Tot mai mulți români au panouri pe casă."
+   }
+  },
+  {
+   "id": "VIII30b-28",
+   "nivel": "VIII-S30-industria-energetica-energiei-electrice",
+   "competente": [
+    "VIII-4.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce dezavantaj are energia solară?",
+   "date": {
+    "variante": [
+     "nu se produce noaptea și scade iarna",
+     "poluează mult",
+     "folosește cărbune",
+     "e radioactivă"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Se folosesc baterii de stocare."
+   }
+  },
+  {
+   "id": "VIII30b-29",
+   "nivel": "VIII-S30-industria-energetica-energiei-electrice",
+   "competente": [
+    "VIII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce oraș folosește apa geotermală pentru încălzirea locuințelor?",
+   "date": {
+    "variante": [
+     "Oradea",
+     "Constanța",
+     "Iași",
+     "Suceava"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Și Beiuș."
+   }
+  },
+  {
+   "id": "VIII30b-30",
+   "nivel": "VIII-S30-industria-energetica-energiei-electrice",
+   "competente": [
+    "VIII-1.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce înseamnă „sursă regenerabilă de energie”?",
+   "date": {
+    "variante": [
+     "o sursă care se reface sau nu se termină (apă, vânt, Soare)",
+     "cărbunele",
+     "petrolul",
+     "gazele naturale"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Spre deosebire de combustibilii fosili."
+   }
+  },
+  {
+   "id": "VIII30c-01",
+   "nivel": "VIII-S30-industria-constructiilor-masini",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 1,
+   "enunt": "Unde se fabrică automobilele Dacia?",
+   "date": {
+    "variante": [
+     "la Mioveni (Argeș)",
+     "la Craiova",
+     "la Galați",
+     "la Brașov"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Din 1968."
+   },
+   "surse": [
+    "Automobile Dacia – istoric (dacia.ro)",
+    "Encyclopaedia Britannica – Dacia (automobile)"
+   ]
+  },
+  {
+   "id": "VIII30c-02",
+   "nivel": "VIII-S30-industria-constructiilor-masini",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Unde se fabrică automobile Ford în România?",
+   "date": {
+    "variante": [
+     "la Craiova",
+     "la Mioveni",
+     "la Arad",
+     "la Constanța"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Uzina din Oltenia."
+   }
+  },
+  {
+   "id": "VIII30c-03",
+   "nivel": "VIII-S30-industria-constructiilor-masini",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "asociaza",
+   "dificultate": 2,
+   "enunt": "Asociază produsul cu centrul industrial.",
+   "date": {
+    "perechi": [
+     [
+      "automobile Dacia",
+      "Mioveni"
+     ],
+     [
+      "nave",
+      "Galați"
+     ],
+     [
+      "vagoane",
+      "Arad"
+     ],
+     [
+      "elicoptere",
+      "Brașov (Ghimbav)"
+     ]
+    ]
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Centre ale industriei."
+   }
+  },
+  {
+   "id": "VIII30c-04",
+   "nivel": "VIII-S30-industria-constructiilor-masini",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce orașe-port construiesc nave?",
+   "date": {
+    "variante": [
+     "Galați, Constanța, Mangalia, Tulcea",
+     "Sibiu, Brașov",
+     "Cluj, Oradea",
+     "Iași, Suceava"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Șantiere navale."
+   }
+  },
+  {
+   "id": "VIII30c-05",
+   "nivel": "VIII-S30-industria-constructiilor-masini",
+   "competente": [
+    "VIII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "De ce industria construcțiilor de mașini e importantă pentru România?",
+   "date": {
+    "variante": [
+     "e una dintre ramurile cu cele mai mari exporturi",
+     "nu exportă nimic",
+     "e cea mai poluantă",
+     "nu are muncitori"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Automobile și componente auto."
+   }
+  },
+  {
+   "id": "VIII30c-06",
+   "nivel": "VIII-S30-industria-constructiilor-masini",
+   "competente": [
+    "VIII-4.1"
+   ],
+   "tip": "asociaza",
+   "dificultate": 2,
+   "enunt": "Asociază factorul de localizare cu exemplul.",
+   "date": {
+    "perechi": [
+     [
+      "port la apă",
+      "șantierele navale de la Galați"
+     ],
+     [
+      "tradiție industrială",
+      "Brașov"
+     ],
+     [
+      "autostradă și forță de muncă",
+      "fabricile de componente din Timișoara"
+     ],
+     [
+      "investiții străine",
+      "Ford Craiova"
+     ]
+    ]
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "De ce fabricile sunt acolo unde sunt."
+   }
+  },
+  {
+   "id": "VIII30c-07",
+   "nivel": "VIII-S30-industria-constructiilor-masini",
+   "competente": [
+    "VIII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "În ce an a fost produsă prima Dacia la Mioveni?",
+   "date": {
+    "variante": [
+     "1968",
+     "1918",
+     "1990",
+     "2007"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Dacia 1100."
+   },
+   "surse": [
+    "Automobile Dacia – istoric (dacia.ro)",
+    "Encyclopaedia Britannica – Dacia (automobile)"
+   ]
+  },
+  {
+   "id": "VIII30c-08",
+   "nivel": "VIII-S30-industria-constructiilor-masini",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce oraș are o tradiție de fabricare a camioanelor și tractoarelor?",
+   "date": {
+    "variante": [
+     "Brașov",
+     "Constanța",
+     "Sulina",
+     "Suceava"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Uzinele Steagul Roșu și Tractorul (azi alte activități)."
+   }
+  },
+  {
+   "id": "VIII30c-09",
+   "nivel": "VIII-S30-industria-constructiilor-masini",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce oraș din vest are fabrici de componente auto și electronice?",
+   "date": {
+    "variante": [
+     "Timișoara",
+     "Botoșani",
+     "Vaslui",
+     "Tulcea"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Și Arad, Oradea."
+   }
+  },
+  {
+   "id": "VIII30c-10",
+   "nivel": "VIII-S30-industria-constructiilor-masini",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "pin",
+   "dificultate": 2,
+   "enunt": "Atinge pe harta României Mioveni.",
+   "date": {
+    "harta": "romania",
+    "tinta": {
+     "lat": 44.95,
+     "lon": 24.94,
+     "nume": "Mioveni"
+    },
+    "toleranta": 30
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Lângă Pitești."
+   },
+   "surse": [
+    "Automobile Dacia – istoric (dacia.ro)",
+    "Encyclopaedia Britannica – Dacia (automobile)"
+   ]
+  },
+  {
+   "id": "VIII30c-11",
+   "nivel": "VIII-S30-industria-constructiilor-masini",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "pin",
+   "dificultate": 2,
+   "enunt": "Atinge pe harta României Craiova.",
+   "date": {
+    "harta": "romania",
+    "tinta": {
+     "lat": 44.32,
+     "lon": 23.8,
+     "nume": "Craiova"
+    },
+    "toleranta": 30
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "În Oltenia."
+   }
+  },
+  {
+   "id": "VIII30c-12",
+   "nivel": "VIII-S30-industria-constructiilor-masini",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "pin",
+   "dificultate": 3,
+   "enunt": "Atinge pe harta României Arad, centru de construcție a vagoanelor.",
+   "date": {
+    "harta": "romania",
+    "tinta": {
+     "lat": 46.18,
+     "lon": 21.32,
+     "nume": "Arad"
+    },
+    "toleranta": 30
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Pe Mureș."
+   }
+  },
+  {
+   "id": "VIII30c-13",
+   "nivel": "VIII-S30-industria-constructiilor-masini",
+   "competente": [
+    "VIII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Adevărat sau fals? Automobilele Dacia se exportă în multe țări europene.",
+   "date": {
+    "variante": [
+     "Adevărat",
+     "Fals"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Adevărat."
+   }
+  },
+  {
+   "id": "VIII30c-14",
+   "nivel": "VIII-S30-industria-constructiilor-masini",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Adevărat sau fals? Navele se construiesc mai ales în orașele de munte.",
+   "date": {
+    "variante": [
+     "Fals",
+     "Adevărat"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Fals: în porturi (Galați, Constanța, Mangalia, Tulcea)."
+   }
+  },
+  {
+   "id": "VIII30c-15",
+   "nivel": "VIII-S30-industria-constructiilor-masini",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "lacunar",
+   "dificultate": 2,
+   "enunt": "Completează.",
+   "date": {
+    "text": "Dacia se produce la {0}, iar Ford la {1}.",
+    "raspunsuri": [
+     "Mioveni",
+     "Craiova"
+    ],
+    "distractori": [
+     "Brașov",
+     "Arad"
+    ]
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Industria auto."
+   }
+  },
+  {
+   "id": "VIII30c-16",
+   "nivel": "VIII-S30-industria-constructiilor-masini",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "lacunar",
+   "dificultate": 2,
+   "enunt": "Completează.",
+   "date": {
+    "text": "Vagoanele se fac la {0}, iar elicopterele la {1}.",
+    "raspunsuri": [
+     "Arad",
+     "Brașov"
+    ],
+    "distractori": [
+     "Galați",
+     "Sulina"
+    ]
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Alte produse."
+   }
+  },
+  {
+   "id": "VIII30c-17",
+   "nivel": "VIII-S30-industria-constructiilor-masini",
+   "competente": [
+    "VIII-2.3"
+   ],
+   "tip": "grafic",
+   "dificultate": 3,
+   "enunt": "Graficul arată structura exporturilor unei țări imaginare. Ce grupă de produse domină?",
+   "date": {
+    "grafic": {
+     "tip": "structura",
+     "titlu": "Exporturi (țară imaginară)",
+     "date": [
+      {
+       "eticheta": "mașini și echipamente de transport",
+       "valoare": 45
+      },
+      {
+       "eticheta": "produse agricole",
+       "valoare": 15
+      },
+      {
+       "eticheta": "metale",
+       "valoare": 10
+      },
+      {
+       "eticheta": "chimice",
+       "valoare": 10
+      },
+      {
+       "eticheta": "altele",
+       "valoare": 20
+      }
+     ],
+     "unitate": "%"
+    },
+    "variante": [
+     "mașinile și echipamentele de transport",
+     "produsele agricole",
+     "metalele",
+     "produsele chimice"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Aproape jumătate din exporturi."
+   }
+  },
+  {
+   "id": "VIII30c-18",
+   "nivel": "VIII-S30-industria-constructiilor-masini",
+   "competente": [
+    "VIII-4.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 3,
+   "enunt": "De ce fabricile de componente auto s-au dezvoltat mult în vestul țării?",
+   "date": {
+    "variante": [
+     "aproape de granița cu UE, cu autostrăzi spre vest și forță de muncă calificată",
+     "pentru că e la mare",
+     "pentru că sunt mine de aur",
+     "fără motiv"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Accesibilitate spre piețele europene."
+   }
+  },
+  {
+   "id": "VIII30c-19",
+   "nivel": "VIII-S30-industria-constructiilor-masini",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "denumeste",
+   "dificultate": 2,
+   "enunt": "Ce oraș cu șantier naval, pe Dunăre, la intrarea în Deltă, e marcat pe hartă?",
+   "date": {
+    "harta": "romania",
+    "punct": {
+     "lat": 45.18,
+     "lon": 28.8
+    },
+    "variante": [
+     "Tulcea",
+     "Galați",
+     "Brăila",
+     "Giurgiu"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Șantierul naval Vard Tulcea."
+   }
+  },
+  {
+   "id": "VIII30c-20",
+   "nivel": "VIII-S30-industria-constructiilor-masini",
+   "competente": [
+    "VIII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce sunt mașinile-unelte?",
+   "date": {
+    "variante": [
+     "mașini care prelucrează alte piese (strunguri, freze)",
+     "mașini de oraș",
+     "jucării",
+     "tractoare"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Baza industriei."
+   }
+  },
+  {
+   "id": "VIII30c-21",
+   "nivel": "VIII-S30-industria-constructiilor-masini",
+   "competente": [
+    "VIII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce înseamnă „automobil electric”?",
+   "date": {
+    "variante": [
+     "un automobil care funcționează cu baterii, fără benzină",
+     "un automobil pe cărbune",
+     "un automobil cu cai",
+     "un tren"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Dacia produce și modele electrice."
+   }
+  },
+  {
+   "id": "VIII30c-22",
+   "nivel": "VIII-S30-industria-constructiilor-masini",
+   "competente": [
+    "VIII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce industrie cere mult oțel și aluminiu?",
+   "date": {
+    "variante": [
+     "construcțiile de mașini",
+     "turismul",
+     "agricultura ecologică",
+     "serviciile bancare"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Legături între ramuri."
+   }
+  },
+  {
+   "id": "VIII30c-23",
+   "nivel": "VIII-S30-industria-constructiilor-masini",
+   "competente": [
+    "VIII-4.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce înseamnă „investiție străină”?",
+   "date": {
+    "variante": [
+     "o companie din altă țară construiește o fabrică sau cumpără una în România",
+     "un împrumut de la prieteni",
+     "un concurs",
+     "un tip de taxă"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Ex.: Renault la Dacia, Ford la Craiova."
+   }
+  },
+  {
+   "id": "VIII30c-24",
+   "nivel": "VIII-S30-industria-constructiilor-masini",
+   "competente": [
+    "VIII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce industrie de mașini e importantă la Bârlad?",
+   "date": {
+    "variante": [
+     "rulmenții",
+     "navele",
+     "avioanele",
+     "vagoanele"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Rulmenți pentru mașini și utilaje."
+   }
+  },
+  {
+   "id": "VIII30c-25",
+   "nivel": "VIII-S30-industria-constructiilor-masini",
+   "competente": [
+    "VIII-4.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 3,
+   "enunt": "Ce avantaj are o fabrică de nave la Galați față de una la Sibiu?",
+   "date": {
+    "variante": [
+     "Galați e pe Dunărea maritimă, deci navele pot fi lansate direct pe apă",
+     "Sibiu e la mare",
+     "Galați e la munte",
+     "nu e niciun avantaj"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Localizare lângă apă."
+   }
+  },
+  {
+   "id": "VIII30c-26",
+   "nivel": "VIII-S30-industria-constructiilor-masini",
+   "competente": [
+    "VIII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce oraș din Moldova are o fabrică de avioane (aeronautică)?",
+   "date": {
+    "variante": [
+     "Bacău",
+     "Botoșani",
+     "Vaslui",
+     "Piatra Neamț"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Aerostar Bacău."
+   }
+  },
+  {
+   "id": "VIII30c-27",
+   "nivel": "VIII-S30-industria-constructiilor-masini",
+   "competente": [
+    "VIII-4.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce înseamnă „forță de muncă calificată”?",
+   "date": {
+    "variante": [
+     "muncitori și ingineri bine pregătiți pentru o anumită meserie",
+     "oameni fără pregătire",
+     "mașini",
+     "roboți doar"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Școlile profesionale și universitățile tehnice."
+   }
+  },
+  {
+   "id": "VIII30c-28",
+   "nivel": "VIII-S30-industria-constructiilor-masini",
+   "competente": [
+    "VIII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce sunt roboții industriali?",
+   "date": {
+    "variante": [
+     "mașini automate care fac operații repetitive în fabrici",
+     "jucării",
+     "mașini de curse",
+     "tractoare"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Folosiți în uzinele de automobile."
+   }
+  },
+  {
+   "id": "VIII30c-29",
+   "nivel": "VIII-S30-industria-constructiilor-masini",
+   "competente": [
+    "VIII-4.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 3,
+   "enunt": "De ce un parc industrial e construit lângă o autostradă?",
+   "date": {
+    "variante": [
+     "pentru transportul rapid al materiilor prime și al produselor",
+     "pentru priveliște",
+     "pentru că e interzis altundeva",
+     "fără motiv"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Accesibilitate."
+   }
+  },
+  {
+   "id": "VIII30c-30",
+   "nivel": "VIII-S30-industria-constructiilor-masini",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce oraș are o tradiție în construcția de autobuze și camioane, în trecut (Roman)?",
+   "date": {
+    "variante": [
+     "Brașov",
+     "Constanța",
+     "Tulcea",
+     "Mangalia"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Uzina ROMAN Brașov."
+   }
+  },
+  {
+   "id": "VIII31a-01",
+   "nivel": "VIII-S31-serviciile-caile-comunicatie-transporturile",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "asociaza",
+   "dificultate": 2,
+   "enunt": "Asociază autostrada cu traseul.",
+   "date": {
+    "perechi": [
+     [
+      "A1",
+      "București – Pitești – Sibiu – Arad"
+     ],
+     [
+      "A2",
+      "București – Constanța"
+     ],
+     [
+      "A3",
+      "București – Ploiești"
+     ],
+     [
+      "A0",
+      "centura Bucureștiului"
+     ]
+    ]
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Autostrăzi."
+   }
+  },
+  {
+   "id": "VIII31a-02",
+   "nivel": "VIII-S31-serviciile-caile-comunicatie-transporturile",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 1,
+   "enunt": "Ce autostradă leagă Bucureștiul de Constanța?",
+   "date": {
+    "variante": [
+     "A2 (Autostrada Soarelui)",
+     "A1",
+     "A3",
+     "A7"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Trece podurile de la Fetești–Cernavodă."
+   }
+  },
+  {
+   "id": "VIII31a-03",
+   "nivel": "VIII-S31-serviciile-caile-comunicatie-transporturile",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce autostradă în construcție va trece pe lângă Buzău și Râmnicu Sărat?",
+   "date": {
+    "variante": [
+     "A7 (Autostrada Moldovei)",
+     "A1",
+     "A2",
+     "A10"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Leagă Ploieștiul de nordul Moldovei."
+   }
+  },
+  {
+   "id": "VIII31a-04",
+   "nivel": "VIII-S31-serviciile-caile-comunicatie-transporturile",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Pe ce magistrală feroviară se află Râmnicu Sărat?",
+   "date": {
+    "variante": [
+     "București – Buzău – Focșani – Suceava",
+     "București – Constanța",
+     "București – Craiova – Timișoara",
+     "Cluj – Oradea"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Leagă Muntenia de Moldova."
+   }
+  },
+  {
+   "id": "VIII31a-05",
+   "nivel": "VIII-S31-serviciile-caile-comunicatie-transporturile",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Care e cel mai mare port maritim al României?",
+   "date": {
+    "variante": [
+     "Constanța",
+     "Galați",
+     "Brăila",
+     "Mangalia"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Cel mai mare de la Marea Neagră."
+   },
+   "surse": [
+    "Compania Națională Administrația Porturilor Maritime Constanța (portofconstantza.com)",
+    "Encyclopaedia Britannica – Constanța"
+   ]
+  },
+  {
+   "id": "VIII31a-06",
+   "nivel": "VIII-S31-serviciile-caile-comunicatie-transporturile",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Care e cel mai mare aeroport al României?",
+   "date": {
+    "variante": [
+     "Henri Coandă (Otopeni)",
+     "Traian Vuia (Timișoara)",
+     "Avram Iancu (Cluj)",
+     "Mihail Kogălniceanu (Constanța)"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Lângă București."
+   }
+  },
+  {
+   "id": "VIII31a-07",
+   "nivel": "VIII-S31-serviciile-caile-comunicatie-transporturile",
+   "competente": [
+    "VIII-3.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "În ce an a fost deschis Canalul Dunăre–Marea Neagră?",
+   "date": {
+    "variante": [
+     "1984",
+     "1918",
+     "1950",
+     "2007"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Lung de 64 km."
+   }
+  },
+  {
+   "id": "VIII31a-08",
+   "nivel": "VIII-S31-serviciile-caile-comunicatie-transporturile",
+   "competente": [
+    "VIII-2.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce se transportă prin conducte?",
+   "date": {
+    "variante": [
+     "petrol și gaze naturale",
+     "cereale",
+     "pasageri",
+     "mobilă"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Transport continuu și ieftin."
+   }
+  },
+  {
+   "id": "VIII31a-09",
+   "nivel": "VIII-S31-serviciile-caile-comunicatie-transporturile",
+   "competente": [
+    "VIII-3.1"
+   ],
+   "tip": "asociaza",
+   "dificultate": 2,
+   "enunt": "Asociază tipul de transport cu avantajul lui.",
+   "date": {
+    "perechi": [
+     [
+      "aerian",
+      "cel mai rapid pe distanțe mari"
+     ],
+     [
+      "naval",
+      "cel mai ieftin pentru mărfuri grele"
+     ],
+     [
+      "feroviar",
+      "multe mărfuri și pasageri, poluează puțin"
+     ],
+     [
+      "rutier",
+      "ajunge oriunde, din ușă în ușă"
+     ]
+    ]
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Avantajele transporturilor."
+   }
+  },
+  {
+   "id": "VIII31a-10",
+   "nivel": "VIII-S31-serviciile-caile-comunicatie-transporturile",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "pin",
+   "dificultate": 2,
+   "enunt": "Atinge pe harta României portul Constanța.",
+   "date": {
+    "harta": "romania",
+    "tinta": {
+     "lat": 44.17,
+     "lon": 28.65,
+     "nume": "Constanța"
+    },
+    "toleranta": 30
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "La Marea Neagră."
+   },
+   "surse": [
+    "Compania Națională Administrația Porturilor Maritime Constanța (portofconstantza.com)",
+    "Encyclopaedia Britannica – Constanța"
+   ]
+  },
+  {
+   "id": "VIII31a-11",
+   "nivel": "VIII-S31-serviciile-caile-comunicatie-transporturile",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "pin",
+   "dificultate": 2,
+   "enunt": "Atinge pe harta României Brașov, mare nod feroviar.",
+   "date": {
+    "harta": "romania",
+    "tinta": {
+     "lat": 45.66,
+     "lon": 25.61,
+     "nume": "Brașov"
+    },
+    "toleranta": 30
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "La curbura Carpaților."
+   }
+  },
+  {
+   "id": "VIII31a-12",
+   "nivel": "VIII-S31-serviciile-caile-comunicatie-transporturile",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "pin",
+   "dificultate": 3,
+   "enunt": "Atinge pe harta României Nădlac, unde A1 iese spre Ungaria.",
+   "date": {
+    "harta": "romania",
+    "tinta": {
+     "lat": 46.17,
+     "lon": 20.75,
+     "nume": "Nădlac"
+    },
+    "toleranta": 35
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "La granița de vest."
+   }
+  },
+  {
+   "id": "VIII31a-13",
+   "nivel": "VIII-S31-serviciile-caile-comunicatie-transporturile",
+   "competente": [
+    "VIII-2.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Adevărat sau fals? Transportul naval e cel mai ieftin pentru mărfurile grele.",
+   "date": {
+    "variante": [
+     "Adevărat",
+     "Fals"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Adevărat."
+   }
+  },
+  {
+   "id": "VIII31a-14",
+   "nivel": "VIII-S31-serviciile-caile-comunicatie-transporturile",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Adevărat sau fals? Râmnicu Sărat nu are cale ferată.",
+   "date": {
+    "variante": [
+     "Fals",
+     "Adevărat"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Fals: e pe magistrala București – Suceava."
+   }
+  },
+  {
+   "id": "VIII31a-15",
+   "nivel": "VIII-S31-serviciile-caile-comunicatie-transporturile",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "lacunar",
+   "dificultate": 2,
+   "enunt": "Completează.",
+   "date": {
+    "text": "Autostrada București – Constanța este {0}; autostrada care va lega Muntenia de Moldova este {1}.",
+    "raspunsuri": [
+     "A2",
+     "A7"
+    ],
+    "distractori": [
+     "A1",
+     "A3"
+    ]
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Autostrăzi."
+   }
+  },
+  {
+   "id": "VIII31a-16",
+   "nivel": "VIII-S31-serviciile-caile-comunicatie-transporturile",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "lacunar",
+   "dificultate": 2,
+   "enunt": "Completează.",
+   "date": {
+    "text": "Cel mai mare port este {0}; cel mai mare aeroport este {1}.",
+    "raspunsuri": [
+     "Constanța",
+     "Henri Coandă"
+    ],
+    "distractori": [
+     "Galați",
+     "Traian Vuia"
+    ]
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Noduri de transport."
+   },
+   "surse": [
+    "Compania Națională Administrația Porturilor Maritime Constanța (portofconstantza.com)",
+    "Encyclopaedia Britannica – Constanța"
+   ]
+  },
+  {
+   "id": "VIII31a-17",
+   "nivel": "VIII-S31-serviciile-caile-comunicatie-transporturile",
+   "competente": [
+    "VIII-2.3"
+   ],
+   "tip": "grafic",
+   "dificultate": 3,
+   "enunt": "Graficul arată timpul de călătorie Râmnicu Sărat – București cu diferite mijloace (valori aproximative). Care e cel mai rapid pe uscat?",
+   "date": {
+    "grafic": {
+     "tip": "bare",
+     "titlu": "Timp aproximativ de călătorie Râmnicu Sărat – București",
+     "date": [
+      {
+       "eticheta": "autoturism",
+       "valoare": 2
+      },
+      {
+       "eticheta": "tren",
+       "valoare": 2.5
+      },
+      {
+       "eticheta": "autocar",
+       "valoare": 2.7
+      },
+      {
+       "eticheta": "bicicletă",
+       "valoare": 9
+      }
+     ],
+     "unitate": "ore"
+    },
+    "variante": [
+     "autoturismul",
+     "trenul",
+     "autocarul",
+     "bicicleta"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Valorile depind de trafic și orar."
+   }
+  },
+  {
+   "id": "VIII31a-18",
+   "nivel": "VIII-S31-serviciile-caile-comunicatie-transporturile",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "ordoneaza",
+   "dificultate": 3,
+   "enunt": "Ordonează orașele pe magistrala feroviară, de la București spre nord.",
+   "date": {
+    "elemente": [
+     "București",
+     "Ploiești",
+     "Buzău",
+     "Râmnicu Sărat",
+     "Focșani",
+     "Bacău",
+     "Suceava"
+    ],
+    "criteriu": "De la sud la nord"
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Magistrala 500."
+   }
+  },
+  {
+   "id": "VIII31a-19",
+   "nivel": "VIII-S31-serviciile-caile-comunicatie-transporturile",
+   "competente": [
+    "VIII-4.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 3,
+   "enunt": "Compară transportul pe Dunăre cu cel rutier pentru cereale.",
+   "date": {
+    "variante": [
+     "pe Dunăre e mai ieftin și poluează mai puțin, dar e mai lent; pe șosea e mai rapid, dar mai scump",
+     "sunt identice",
+     "rutier e mereu mai ieftin",
+     "Dunărea e mai rapidă"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Alegerea depinde de marfă."
+   }
+  },
+  {
+   "id": "VIII31a-20",
+   "nivel": "VIII-S31-serviciile-caile-comunicatie-transporturile",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "denumeste",
+   "dificultate": 2,
+   "enunt": "Ce oraș-nod rutier și feroviar, vecin cu Râmnicu Sărat, e marcat pe hartă?",
+   "date": {
+    "harta": "romania",
+    "punct": {
+     "lat": 45.15,
+     "lon": 26.82
+    },
+    "variante": [
+     "Buzău",
+     "Ploiești",
+     "Focșani",
+     "Brăila"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Buzău e la intersecția drumurilor spre Moldova, Brașov și Brăila."
+   }
+  },
+  {
+   "id": "VIII31a-21",
+   "nivel": "VIII-S31-serviciile-caile-comunicatie-transporturile",
+   "competente": [
+    "VIII-4.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce mijloc de transport e cel mai prietenos cu mediul pentru distanțe lungi?",
+   "date": {
+    "variante": [
+     "trenul electric",
+     "avionul",
+     "autoturismul cu benzină",
+     "camionul"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Emisii mici pe pasager."
+   }
+  },
+  {
+   "id": "VIII31a-22",
+   "nivel": "VIII-S31-serviciile-caile-comunicatie-transporturile",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce drum spectaculos traversează Munții Făgăraș?",
+   "date": {
+    "variante": [
+     "Transfăgărășanul (DN7C)",
+     "A2",
+     "DN1",
+     "A7"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Deschis doar vara."
+   }
+  },
+  {
+   "id": "VIII31a-23",
+   "nivel": "VIII-S31-serviciile-caile-comunicatie-transporturile",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Pe unde trece DN1, cel mai circulat drum național?",
+   "date": {
+    "variante": [
+     "București – Ploiești – Valea Prahovei – Brașov",
+     "București – Constanța",
+     "Iași – Suceava",
+     "Cluj – Oradea"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Spre Transilvania."
+   }
+  },
+  {
+   "id": "VIII31a-24",
+   "nivel": "VIII-S31-serviciile-caile-comunicatie-transporturile",
+   "competente": [
+    "VIII-3.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce lungime are rețeaua de căi ferate a României?",
+   "date": {
+    "variante": [
+     "peste 10 000 km",
+     "aproximativ 100 km",
+     "aproximativ 1 000 000 km",
+     "aproximativ 500 km"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Una dintre cele mai întinse din UE."
+   },
+   "surse": [
+    "INS – Transporturi: lungimea liniilor de cale ferată",
+    "CFR SA – rețeaua feroviară"
+   ]
+  },
+  {
+   "id": "VIII31a-25",
+   "nivel": "VIII-S31-serviciile-caile-comunicatie-transporturile",
+   "competente": [
+    "VIII-3.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce coridor paneuropean de transport urmează Dunărea?",
+   "date": {
+    "variante": [
+     "Coridorul VII (Rin–Main–Dunăre)",
+     "Coridorul I",
+     "Coridorul X",
+     "niciunul"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Leagă Marea Nordului de Marea Neagră."
+   }
+  },
+  {
+   "id": "VIII31a-26",
+   "nivel": "VIII-S31-serviciile-caile-comunicatie-transporturile",
+   "competente": [
+    "VIII-4.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce înseamnă „nod de transport”?",
+   "date": {
+    "variante": [
+     "un loc unde se întâlnesc mai multe căi de comunicație",
+     "un drum fără ieșire",
+     "un munte",
+     "un lac"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Ex.: București, Brașov, Buzău."
+   }
+  },
+  {
+   "id": "VIII31a-27",
+   "nivel": "VIII-S31-serviciile-caile-comunicatie-transporturile",
+   "competente": [
+    "VIII-3.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "De ce Brașovul are un aeroport nou (Ghimbav)?",
+   "date": {
+    "variante": [
+     "pentru a lega mai bine centrul țării, cu turism și industrie, de alte orașe",
+     "pentru că e la mare",
+     "pentru că nu are drumuri",
+     "fără motiv"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Deschis în 2023."
+   },
+   "surse": [
+    "Aeroportul Internațional Brașov-Ghimbav (brasovairport.ro)",
+    "Wikipedia (ro) – Aeroportul Internațional Brașov-Ghimbav"
+   ]
+  },
+  {
+   "id": "VIII31a-28",
+   "nivel": "VIII-S31-serviciile-caile-comunicatie-transporturile",
+   "competente": [
+    "VIII-3.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce infrastructură digitală e o cale de comunicație modernă?",
+   "date": {
+    "variante": [
+     "rețelele de internet rapid și telefonie mobilă",
+     "drumurile de pământ",
+     "căruțele",
+     "poșta cu porumbei"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "România are internet foarte rapid."
+   }
+  },
+  {
+   "id": "VIII31a-29",
+   "nivel": "VIII-S31-serviciile-caile-comunicatie-transporturile",
+   "competente": [
+    "VIII-4.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce problemă au drumurile din zonele de munte?",
+   "date": {
+    "variante": [
+     "alunecări de teren, căderi de pietre, zăpezi iarna",
+     "prea mult soare",
+     "lipsa vehiculelor",
+     "nicio problemă"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Ex.: DN10 pe Valea Buzăului."
+   }
+  },
+  {
+   "id": "VIII31a-30",
+   "nivel": "VIII-S31-serviciile-caile-comunicatie-transporturile",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce pod lung leagă Brăila de Dobrogea peste Dunăre, din 2023?",
+   "date": {
+    "variante": [
+     "podul suspendat de la Brăila",
+     "Podul Prieteniei Giurgiu–Ruse",
+     "Podul Calafat–Vidin",
+     "Podul de la Cernavodă"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Scurtează drumul spre Tulcea."
+   }
+  },
+  {
+   "id": "VIII31b-01",
+   "nivel": "VIII-S31-comertul",
+   "competente": [
+    "VIII-1.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 1,
+   "enunt": "Ce înseamnă export?",
+   "date": {
+    "variante": [
+     "vânzarea produselor în alte țări",
+     "cumpărarea din alte țări",
+     "comerțul în țară",
+     "transportul local"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Opusul importului."
+   }
+  },
+  {
+   "id": "VIII31b-02",
+   "nivel": "VIII-S31-comertul",
+   "competente": [
+    "VIII-1.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 1,
+   "enunt": "Ce înseamnă import?",
+   "date": {
+    "variante": [
+     "cumpărarea produselor din alte țări",
+     "vânzarea în alte țări",
+     "producția în țară",
+     "depozitarea"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Ex.: banane, cafea."
+   }
+  },
+  {
+   "id": "VIII31b-03",
+   "nivel": "VIII-S31-comertul",
+   "competente": [
+    "VIII-1.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Care e principalul partener comercial al României?",
+   "date": {
+    "variante": [
+     "Germania",
+     "China",
+     "SUA",
+     "Brazilia"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "După INS și Eurostat."
+   },
+   "surse": [
+    "INS – Comerțul internațional cu bunuri (comunicate lunare)",
+    "Eurostat – International trade in goods by partner"
+   ]
+  },
+  {
+   "id": "VIII31b-04",
+   "nivel": "VIII-S31-comertul",
+   "competente": [
+    "VIII-3.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce produse exportă mult România?",
+   "date": {
+    "variante": [
+     "automobile și componente auto, mașini, echipamente electrice, cereale",
+     "cafea și cacao",
+     "petrol în cantități uriașe",
+     "banane"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Industria auto e principalul exportator."
+   },
+   "surse": [
+    "INS – Comerțul internațional cu bunuri (comunicate lunare)",
+    "Eurostat – International trade in goods by partner"
+   ]
+  },
+  {
+   "id": "VIII31b-05",
+   "nivel": "VIII-S31-comertul",
+   "competente": [
+    "VIII-3.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce înseamnă deficit comercial?",
+   "date": {
+    "variante": [
+     "importurile sunt mai mari decât exporturile",
+     "exporturile sunt mai mari",
+     "nu există comerț",
+     "comerțul e egal"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "România are deficit comercial."
+   },
+   "surse": [
+    "INS – Comerțul internațional cu bunuri (comunicate lunare)",
+    "Eurostat – International trade in goods by partner"
+   ]
+  },
+  {
+   "id": "VIII31b-06",
+   "nivel": "VIII-S31-comertul",
+   "competente": [
+    "VIII-1.2"
+   ],
+   "tip": "asociaza",
+   "dificultate": 2,
+   "enunt": "Asociază forma de comerț cu exemplul.",
+   "date": {
+    "perechi": [
+     [
+      "comerț interior",
+      "cumpărături în supermarketul din oraș"
+     ],
+     [
+      "export",
+      "Dacia vândută în Franța"
+     ],
+     [
+      "import",
+      "banane aduse din Ecuador"
+     ],
+     [
+      "comerț online",
+      "comandă pe internet"
+     ]
+    ]
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Forme de comerț."
+   }
+  },
+  {
+   "id": "VIII31b-07",
+   "nivel": "VIII-S31-comertul",
+   "competente": [
+    "VIII-1.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce înseamnă piața unică a UE?",
+   "date": {
+    "variante": [
+     "mărfurile circulă între statele membre fără taxe vamale",
+     "o piață dintr-un singur oraș",
+     "o piață de legume",
+     "un magazin online"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Libera circulație a mărfurilor."
+   }
+  },
+  {
+   "id": "VIII31b-08",
+   "nivel": "VIII-S31-comertul",
+   "competente": [
+    "VIII-1.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Cu ce grup de țări face România cea mai mare parte a comerțului?",
+   "date": {
+    "variante": [
+     "statele Uniunii Europene",
+     "țările din Africa",
+     "țările din America de Sud",
+     "țările din Oceania"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Aproximativ trei sferturi."
+   },
+   "surse": [
+    "INS – Comerțul internațional cu bunuri (comunicate lunare)",
+    "Eurostat – International trade in goods by partner"
+   ]
+  },
+  {
+   "id": "VIII31b-09",
+   "nivel": "VIII-S31-comertul",
+   "competente": [
+    "VIII-3.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce produse importă România?",
+   "date": {
+    "variante": [
+     "mașini și echipamente, produse chimice, medicamente, combustibili",
+     "doar cereale",
+     "doar automobile Dacia",
+     "nimic"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Importurile sunt variate."
+   }
+  },
+  {
+   "id": "VIII31b-10",
+   "nivel": "VIII-S31-comertul",
+   "competente": [
+    "VIII-4.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "De ce România importă banane și cafea?",
+   "date": {
+    "variante": [
+     "nu se pot cultiva în clima ei",
+     "sunt mai ieftine de cultivat aici",
+     "e obligatoriu",
+     "fără motiv"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Clima temperată."
+   }
+  },
+  {
+   "id": "VIII31b-11",
+   "nivel": "VIII-S31-comertul",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "pin",
+   "dificultate": 2,
+   "enunt": "Atinge pe harta României portul Constanța, poarta comerțului maritim.",
+   "date": {
+    "harta": "romania",
+    "tinta": {
+     "lat": 44.17,
+     "lon": 28.65,
+     "nume": "Constanța"
+    },
+    "toleranta": 30
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Pe aici trec cerealele exportate."
+   },
+   "surse": [
+    "Compania Națională Administrația Porturilor Maritime Constanța (portofconstantza.com)",
+    "Encyclopaedia Britannica – Constanța"
+   ]
+  },
+  {
+   "id": "VIII31b-12",
+   "nivel": "VIII-S31-comertul",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "pin",
+   "dificultate": 3,
+   "enunt": "Atinge pe harta României vama Nădlac, poarta rutieră spre vest.",
+   "date": {
+    "harta": "romania",
+    "tinta": {
+     "lat": 46.17,
+     "lon": 20.75,
+     "nume": "Nădlac"
+    },
+    "toleranta": 35
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Pe aici trec multe camioane cu mărfuri."
+   }
+  },
+  {
+   "id": "VIII31b-13",
+   "nivel": "VIII-S31-comertul",
+   "competente": [
+    "VIII-3.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Adevărat sau fals? România exportă mai mult decât importă.",
+   "date": {
+    "variante": [
+     "Fals",
+     "Adevărat"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Fals: importă mai mult (deficit comercial)."
+   },
+   "surse": [
+    "INS – Comerțul internațional cu bunuri (comunicate lunare)",
+    "Eurostat – International trade in goods by partner"
+   ]
+  },
+  {
+   "id": "VIII31b-14",
+   "nivel": "VIII-S31-comertul",
+   "competente": [
+    "VIII-1.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Adevărat sau fals? Comerțul online crește foarte mult în România.",
+   "date": {
+    "variante": [
+     "Adevărat",
+     "Fals"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Adevărat."
+   }
+  },
+  {
+   "id": "VIII31b-15",
+   "nivel": "VIII-S31-comertul",
+   "competente": [
+    "VIII-1.1"
+   ],
+   "tip": "lacunar",
+   "dificultate": 2,
+   "enunt": "Completează.",
+   "date": {
+    "text": "Vânzarea în alte țări se numește {0}; cumpărarea din alte țări se numește {1}.",
+    "raspunsuri": [
+     "export",
+     "import"
+    ],
+    "distractori": [
+     "tranzit",
+     "vamă"
+    ]
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Comerț exterior."
+   }
+  },
+  {
+   "id": "VIII31b-16",
+   "nivel": "VIII-S31-comertul",
+   "competente": [
+    "VIII-1.2"
+   ],
+   "tip": "lacunar",
+   "dificultate": 2,
+   "enunt": "Completează.",
+   "date": {
+    "text": "Principalul partener comercial al României este {0}; cele mai multe schimburi se fac cu Uniunea {1}.",
+    "raspunsuri": [
+     "Germania",
+     "Europeană"
+    ],
+    "distractori": [
+     "China",
+     "Africană"
+    ]
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Partenerii."
+   },
+   "surse": [
+    "INS – Comerțul internațional cu bunuri (comunicate lunare)",
+    "Eurostat – International trade in goods by partner"
+   ]
+  },
+  {
+   "id": "VIII31b-17",
+   "nivel": "VIII-S31-comertul",
+   "competente": [
+    "VIII-2.3"
+   ],
+   "tip": "grafic",
+   "dificultate": 3,
+   "enunt": "Graficul arată (schematic) exporturile și importurile unei țări imaginare în trei ani. În ce situație e țara?",
+   "date": {
+    "grafic": {
+     "tip": "bare",
+     "titlu": "Comerț exterior (țară imaginară, miliarde euro)",
+     "date": [
+      {
+       "eticheta": "export 2022",
+       "valoare": 90
+      },
+      {
+       "eticheta": "import 2022",
+       "valoare": 115
+      },
+      {
+       "eticheta": "export 2024",
+       "valoare": 95
+      },
+      {
+       "eticheta": "import 2024",
+       "valoare": 120
+      }
+     ],
+     "unitate": "miliarde euro"
+    },
+    "variante": [
+     "are deficit comercial (importă mai mult)",
+     "are excedent",
+     "comerțul e echilibrat",
+     "nu are comerț"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Importurile depășesc exporturile."
+   }
+  },
+  {
+   "id": "VIII31b-18",
+   "nivel": "VIII-S31-comertul",
+   "competente": [
+    "VIII-4.1"
+   ],
+   "tip": "ordoneaza",
+   "dificultate": 2,
+   "enunt": "Ordonează drumul unei mașini Dacia exportate în Franța.",
+   "date": {
+    "elemente": [
+     "e asamblată la Mioveni",
+     "e transportată pe tren sau camion",
+     "trece granița",
+     "ajunge la un dealer din Franța",
+     "e cumpărată de un client"
+    ],
+    "criteriu": "Drumul exportului"
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Producție, transport, vânzare."
+   }
+  },
+  {
+   "id": "VIII31b-19",
+   "nivel": "VIII-S31-comertul",
+   "competente": [
+    "VIII-4.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 3,
+   "enunt": "Ce avantaje are pentru România apartenența la piața unică?",
+   "date": {
+    "variante": [
+     "acces la un mare număr de cumpărători, fără taxe vamale",
+     "nu are niciun avantaj",
+     "închide granițele",
+     "interzice exporturile"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Comerț mai ușor."
+   }
+  },
+  {
+   "id": "VIII31b-20",
+   "nivel": "VIII-S31-comertul",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "denumeste",
+   "dificultate": 2,
+   "enunt": "Ce țară, principalul partener comercial al României, e marcată pe hartă?",
+   "date": {
+    "harta": "lume",
+    "punct": {
+     "lat": 51,
+     "lon": 10.5
+    },
+    "variante": [
+     "Germania",
+     "Franța",
+     "Polonia",
+     "Austria"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Germania e cea mai mare economie a UE."
+   }
+  },
+  {
+   "id": "VIII31b-21",
+   "nivel": "VIII-S31-comertul",
+   "competente": [
+    "VIII-3.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce produse agricole exportă România prin portul Constanța?",
+   "date": {
+    "variante": [
+     "cereale și semințe oleaginoase",
+     "cafea",
+     "ceai",
+     "banane"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Grâu, porumb, floarea-soarelui."
+   }
+  },
+  {
+   "id": "VIII31b-22",
+   "nivel": "VIII-S31-comertul",
+   "competente": [
+    "VIII-1.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce este un centru comercial (mall)?",
+   "date": {
+    "variante": [
+     "o clădire mare cu multe magazine, restaurante și cinematografe",
+     "o fabrică",
+     "o școală",
+     "o piață de animale"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "În marile orașe."
+   }
+  },
+  {
+   "id": "VIII31b-23",
+   "nivel": "VIII-S31-comertul",
+   "competente": [
+    "VIII-1.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce sunt târgurile tradiționale?",
+   "date": {
+    "variante": [
+     "piețe periodice, cu produse locale și meșteșuguri",
+     "bănci",
+     "fabrici",
+     "aeroporturi"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Târgul de la Râmnicu Sărat, de exemplu."
+   }
+  },
+  {
+   "id": "VIII31b-24",
+   "nivel": "VIII-S31-comertul",
+   "competente": [
+    "VIII-4.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce înseamnă „produs local”?",
+   "date": {
+    "variante": [
+     "produs în zona în care e vândut",
+     "produs importat din altă țară",
+     "produs fabricat în China",
+     "produs fără etichetă"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Susține economia locală."
+   }
+  },
+  {
+   "id": "VIII31b-25",
+   "nivel": "VIII-S31-comertul",
+   "competente": [
+    "VIII-4.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 3,
+   "enunt": "De ce cumpărarea de produse locale poate ajuta mediul?",
+   "date": {
+    "variante": [
+     "transportul e mai scurt, deci poluarea e mai mică",
+     "produsele locale sunt mereu mai scumpe",
+     "nu ajută",
+     "crește poluarea"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Amprenta de carbon mai mică."
+   }
+  },
+  {
+   "id": "VIII31b-26",
+   "nivel": "VIII-S31-comertul",
+   "competente": [
+    "VIII-1.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce țară din afara UE e un partener comercial important al României?",
+   "date": {
+    "variante": [
+     "Turcia (și China)",
+     "Australia",
+     "Argentina",
+     "Canada"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Prin Marea Neagră și pe uscat."
+   },
+   "surse": [
+    "INS – Comerțul internațional cu bunuri (comunicate lunare)",
+    "Eurostat – International trade in goods by partner"
+   ]
+  },
+  {
+   "id": "VIII31b-27",
+   "nivel": "VIII-S31-comertul",
+   "competente": [
+    "VIII-3.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce înseamnă „balanță comercială”?",
+   "date": {
+    "variante": [
+     "diferența dintre exporturi și importuri",
+     "un cântar în magazin",
+     "un tip de taxă",
+     "o bancă"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Pozitivă = excedent; negativă = deficit."
+   }
+  },
+  {
+   "id": "VIII31b-28",
+   "nivel": "VIII-S31-comertul",
+   "competente": [
+    "VIII-1.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce înseamnă „vamă”?",
+   "date": {
+    "variante": [
+     "locul unde se controlează mărfurile și persoanele la graniță",
+     "un magazin",
+     "un port turistic",
+     "o fabrică"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "În UE, controalele vamale interne au fost eliminate."
+   }
+  },
+  {
+   "id": "VIII31b-29",
+   "nivel": "VIII-S31-comertul",
+   "competente": [
+    "VIII-4.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce poți verifica pe eticheta unui produs?",
+   "date": {
+    "variante": [
+     "țara de origine, ingredientele, data expirării",
+     "numele vânzătorului",
+     "culoarea magazinului",
+     "nimic"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Consumator informat."
+   }
+  },
+  {
+   "id": "VIII31b-30",
+   "nivel": "VIII-S31-comertul",
+   "competente": [
+    "VIII-1.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce înseamnă „comerț electronic”?",
+   "date": {
+    "variante": [
+     "cumpărarea și vânzarea de produse pe internet",
+     "comerțul cu electronice doar",
+     "comerțul la piață",
+     "comerțul prin poștă cu scrisori"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Crește rapid în România."
+   }
+  },
+  {
+   "id": "VIII32-01",
+   "nivel": "VIII-S32-turismul-potential-valorificare-economica",
+   "competente": [
+    "VIII-3.3"
+   ],
+   "tip": "asociaza",
+   "dificultate": 2,
+   "enunt": "Asociază stațiunea cu tipul de turism.",
+   "date": {
+    "perechi": [
+     [
+      "Poiana Brașov",
+      "sporturi de iarnă"
+     ],
+     [
+      "Mamaia",
+      "litoral"
+     ],
+     [
+      "Băile Herculane",
+      "balnear"
+     ],
+     [
+      "Sirnea",
+      "rural"
+     ]
+    ]
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Forme de turism."
+   }
+  },
+  {
+   "id": "VIII32-02",
+   "nivel": "VIII-S32-turismul-potential-valorificare-economica",
+   "competente": [
+    "VIII-3.3"
+   ],
+   "tip": "asociaza",
+   "dificultate": 2,
+   "enunt": "Asociază obiectivul cultural cu regiunea.",
+   "date": {
+    "perechi": [
+     [
+      "mănăstirile pictate",
+      "Bucovina"
+     ],
+     [
+      "bisericile de lemn",
+      "Maramureș"
+     ],
+     [
+      "cetățile dacice",
+      "Munții Orăștiei"
+     ],
+     [
+      "Castelul Bran",
+      "Țara Bârsei"
+     ]
+    ]
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Obiective culturale."
+   },
+   "surse": [
+    "UNESCO World Heritage Centre – Romania: properties inscribed",
+    "Ministerul Culturii – Monumente UNESCO din România"
+   ]
+  },
+  {
+   "id": "VIII32-03",
+   "nivel": "VIII-S32-turismul-potential-valorificare-economica",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 1,
+   "enunt": "Ce stațiune montană e cunoscută pentru Castelul Peleș?",
+   "date": {
+    "variante": [
+     "Sinaia",
+     "Mamaia",
+     "Sovata",
+     "Sulina"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Pe Valea Prahovei."
+   }
+  },
+  {
+   "id": "VIII32-04",
+   "nivel": "VIII-S32-turismul-potential-valorificare-economica",
+   "competente": [
+    "VIII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce înseamnă turism balnear?",
+   "date": {
+    "variante": [
+     "turism pentru tratament, cu ape minerale, termale și nămoluri",
+     "turism la mare doar pentru plajă",
+     "turism la schi",
+     "turism în orașe"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Herculane, Felix, Sovata, Techirghiol."
+   }
+  },
+  {
+   "id": "VIII32-05",
+   "nivel": "VIII-S32-turismul-potential-valorificare-economica",
+   "competente": [
+    "VIII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce înseamnă ecoturism?",
+   "date": {
+    "variante": [
+     "turism în natură, care respectă mediul și comunitățile locale",
+     "turism în fabrici",
+     "turism cu mașini de teren peste tot",
+     "turism în mall"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Delta, parcuri naționale."
+   }
+  },
+  {
+   "id": "VIII32-06",
+   "nivel": "VIII-S32-turismul-potential-valorificare-economica",
+   "competente": [
+    "VIII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce obiectiv cultural din Bucovina e cunoscut pentru „albastrul de Voroneț”?",
+   "date": {
+    "variante": [
+     "Mănăstirea Voroneț",
+     "Castelul Bran",
+     "Cetatea Sighișoara",
+     "Ateneul Român"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Biserică pictată, patrimoniu UNESCO."
+   },
+   "surse": [
+    "UNESCO World Heritage Centre – Romania: properties inscribed",
+    "Ministerul Culturii – Monumente UNESCO din România"
+   ]
+  },
+  {
+   "id": "VIII32-07",
+   "nivel": "VIII-S32-turismul-potential-valorificare-economica",
+   "competente": [
+    "VIII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce castel e asociat cu legenda lui Dracula?",
+   "date": {
+    "variante": [
+     "Castelul Bran",
+     "Castelul Peleș",
+     "Castelul Corvinilor",
+     "Palatul Culturii"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Atrage turiști din toată lumea."
+   }
+  },
+  {
+   "id": "VIII32-08",
+   "nivel": "VIII-S32-turismul-potential-valorificare-economica",
+   "competente": [
+    "VIII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce problemă are turismul de litoral?",
+   "date": {
+    "variante": [
+     "sezonalitatea: e aglomerat vara și aproape gol iarna",
+     "e prea frig vara",
+     "nu are plaje",
+     "nu are hoteluri deloc"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Soluție: turism balnear tot anul."
+   }
+  },
+  {
+   "id": "VIII32-09",
+   "nivel": "VIII-S32-turismul-potential-valorificare-economica",
+   "competente": [
+    "VIII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce obiectiv turistic natural din județul Buzău e unic?",
+   "date": {
+    "variante": [
+     "Vulcanii Noroioși",
+     "Peștera Scărișoara",
+     "Cheile Bicazului",
+     "Lacul Sfânta Ana"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Rezervație naturală la Berca–Pâclele."
+   }
+  },
+  {
+   "id": "VIII32-10",
+   "nivel": "VIII-S32-turismul-potential-valorificare-economica",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "pin",
+   "dificultate": 2,
+   "enunt": "Atinge pe harta României Sinaia.",
+   "date": {
+    "harta": "romania",
+    "tinta": {
+     "lat": 45.35,
+     "lon": 25.55,
+     "nume": "Sinaia"
+    },
+    "toleranta": 30
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Pe Valea Prahovei."
+   }
+  },
+  {
+   "id": "VIII32-11",
+   "nivel": "VIII-S32-turismul-potential-valorificare-economica",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "pin",
+   "dificultate": 2,
+   "enunt": "Atinge pe harta României Băile Herculane.",
+   "date": {
+    "harta": "romania",
+    "tinta": {
+     "lat": 44.88,
+     "lon": 22.41,
+     "nume": "Băile Herculane"
+    },
+    "toleranta": 30
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Pe Valea Cernei."
+   }
+  },
+  {
+   "id": "VIII32-12",
+   "nivel": "VIII-S32-turismul-potential-valorificare-economica",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "pin",
+   "dificultate": 2,
+   "enunt": "Atinge pe harta României Sighișoara.",
+   "date": {
+    "harta": "romania",
+    "tinta": {
+     "lat": 46.22,
+     "lon": 24.79,
+     "nume": "Sighișoara"
+    },
+    "toleranta": 30
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Cetate medievală, patrimoniu UNESCO."
+   },
+   "surse": [
+    "UNESCO World Heritage Centre – Romania: properties inscribed",
+    "Ministerul Culturii – Monumente UNESCO din România"
+   ]
+  },
+  {
+   "id": "VIII32-13",
+   "nivel": "VIII-S32-turismul-potential-valorificare-economica",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "pin",
+   "dificultate": 3,
+   "enunt": "Atinge pe harta României Mănăstirea Voroneț.",
+   "date": {
+    "harta": "romania",
+    "tinta": {
+     "lat": 47.52,
+     "lon": 25.86,
+     "nume": "Voroneț"
+    },
+    "toleranta": 35
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Lângă Gura Humorului."
+   },
+   "surse": [
+    "UNESCO World Heritage Centre – Romania: properties inscribed",
+    "Ministerul Culturii – Monumente UNESCO din România"
+   ]
+  },
+  {
+   "id": "VIII32-14",
+   "nivel": "VIII-S32-turismul-potential-valorificare-economica",
+   "competente": [
+    "VIII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Adevărat sau fals? România are obiective înscrise în patrimoniul mondial UNESCO.",
+   "date": {
+    "variante": [
+     "Adevărat",
+     "Fals"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Adevărat: Delta, bisericile pictate, Sighișoara, cetățile dacice și altele."
+   },
+   "surse": [
+    "UNESCO World Heritage Centre – Romania: properties inscribed",
+    "Ministerul Culturii – Monumente UNESCO din România"
+   ]
+  },
+  {
+   "id": "VIII32-15",
+   "nivel": "VIII-S32-turismul-potential-valorificare-economica",
+   "competente": [
+    "VIII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Adevărat sau fals? Turismul balnear se practică doar vara.",
+   "date": {
+    "variante": [
+     "Fals",
+     "Adevărat"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Fals: se poate practica tot anul."
+   }
+  },
+  {
+   "id": "VIII32-16",
+   "nivel": "VIII-S32-turismul-potential-valorificare-economica",
+   "competente": [
+    "VIII-3.3"
+   ],
+   "tip": "lacunar",
+   "dificultate": 2,
+   "enunt": "Completează.",
+   "date": {
+    "text": "Castelul {0} e în Sinaia; Castelul {1} e asociat cu legenda lui Dracula.",
+    "raspunsuri": [
+     "Peleș",
+     "Bran"
+    ],
+    "distractori": [
+     "Corvinilor",
+     "Hunedoara"
+    ]
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Castele."
+   }
+  },
+  {
+   "id": "VIII32-17",
+   "nivel": "VIII-S32-turismul-potential-valorificare-economica",
+   "competente": [
+    "VIII-3.3"
+   ],
+   "tip": "lacunar",
+   "dificultate": 2,
+   "enunt": "Completează.",
+   "date": {
+    "text": "Turismul pentru tratament se numește turism {0}; turismul în natură, responsabil, se numește {1}.",
+    "raspunsuri": [
+     "balnear",
+     "ecoturism"
+    ],
+    "distractori": [
+     "urban",
+     "industrial"
+    ]
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Forme de turism."
+   }
+  },
+  {
+   "id": "VIII32-18",
+   "nivel": "VIII-S32-turismul-potential-valorificare-economica",
+   "competente": [
+    "VIII-2.3"
+   ],
+   "tip": "grafic",
+   "dificultate": 3,
+   "enunt": "Graficul arată numărul de turiști pe luni într-o stațiune imaginară de litoral. Ce observi?",
+   "date": {
+    "grafic": {
+     "tip": "bare",
+     "titlu": "Turiști pe lună (stațiune imaginară de litoral)",
+     "date": [
+      {
+       "eticheta": "ian.",
+       "valoare": 2
+      },
+      {
+       "eticheta": "apr.",
+       "valoare": 5
+      },
+      {
+       "eticheta": "iun.",
+       "valoare": 40
+      },
+      {
+       "eticheta": "iul.",
+       "valoare": 90
+      },
+      {
+       "eticheta": "aug.",
+       "valoare": 95
+      },
+      {
+       "eticheta": "sept.",
+       "valoare": 25
+      },
+      {
+       "eticheta": "nov.",
+       "valoare": 3
+      }
+     ],
+     "unitate": "mii"
+    },
+    "variante": [
+     "turismul e concentrat vara (sezonalitate)",
+     "turiștii vin egal tot anul",
+     "iarna vin cei mai mulți",
+     "nu vin turiști"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Iulie și august au cei mai mulți turiști."
+   }
+  },
+  {
+   "id": "VIII32-19",
+   "nivel": "VIII-S32-turismul-potential-valorificare-economica",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "ordoneaza",
+   "dificultate": 3,
+   "enunt": "Ordonează stațiunile de pe Valea Prahovei de la sud la nord.",
+   "date": {
+    "elemente": [
+     "Sinaia",
+     "Bușteni",
+     "Azuga",
+     "Predeal"
+    ],
+    "criteriu": "De la sud la nord"
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Pe DN1 spre Brașov."
+   }
+  },
+  {
+   "id": "VIII32-20",
+   "nivel": "VIII-S32-turismul-potential-valorificare-economica",
+   "competente": [
+    "VIII-4.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 3,
+   "enunt": "Compară turismul din Delta Dunării cu cel din Poiana Brașov.",
+   "date": {
+    "variante": [
+     "în Deltă e ecoturism și observarea păsărilor, vara; în Poiana Brașov sunt sporturi de iarnă",
+     "sunt identice",
+     "în Deltă se schiază",
+     "Poiana Brașov e pe mare"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Forme diferite de turism."
+   }
+  },
+  {
+   "id": "VIII32-21",
+   "nivel": "VIII-S32-turismul-potential-valorificare-economica",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "denumeste",
+   "dificultate": 2,
+   "enunt": "Ce oraș cu Palatul Culturii, mare centru cultural din Moldova, e marcat pe hartă?",
+   "date": {
+    "harta": "romania",
+    "punct": {
+     "lat": 47.16,
+     "lon": 27.59
+    },
+    "variante": [
+     "Iași",
+     "Suceava",
+     "Bacău",
+     "Botoșani"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Iași a fost capitala Moldovei."
+   }
+  },
+  {
+   "id": "VIII32-22",
+   "nivel": "VIII-S32-turismul-potential-valorificare-economica",
+   "competente": [
+    "VIII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce sunt Babele și Sfinxul?",
+   "date": {
+    "variante": [
+     "forme de relief din Bucegi, modelate de vânt și îngheț",
+     "statui antice",
+     "peșteri",
+     "lacuri"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Atracții turistice."
+   }
+  },
+  {
+   "id": "VIII32-23",
+   "nivel": "VIII-S32-turismul-potential-valorificare-economica",
+   "competente": [
+    "VIII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce venituri aduce turismul?",
+   "date": {
+    "variante": [
+     "locuri de muncă în hoteluri, restaurante, transport, ghizi",
+     "niciun venit",
+     "doar poluare",
+     "doar cheltuieli"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Turismul e un serviciu important."
+   }
+  },
+  {
+   "id": "VIII32-24",
+   "nivel": "VIII-S32-turismul-potential-valorificare-economica",
+   "competente": [
+    "VIII-4.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce poate face o comunitate pentru a atrage turiști?",
+   "date": {
+    "variante": [
+     "drumuri bune, cazare, trasee marcate, promovare, păstrarea tradițiilor",
+     "închiderea muzeelor",
+     "poluarea râurilor",
+     "tăierea pădurilor"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Dezvoltarea turismului."
+   }
+  },
+  {
+   "id": "VIII32-25",
+   "nivel": "VIII-S32-turismul-potential-valorificare-economica",
+   "competente": [
+    "VIII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce traseu turistic leagă Bucovina de Maramureș prin Pasul Prislop?",
+   "date": {
+    "variante": [
+     "drumul transcarpatic peste Pasul Prislop",
+     "Autostrada A2",
+     "Canalul Dunăre–Marea Neagră",
+     "Transfăgărășanul"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Leagă două regiuni cu biserici UNESCO."
+   }
+  },
+  {
+   "id": "VIII32-26",
+   "nivel": "VIII-S32-turismul-potential-valorificare-economica",
+   "competente": [
+    "VIII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce obiectiv turistic din Hunedoara e un castel gotic celebru?",
+   "date": {
+    "variante": [
+     "Castelul Corvinilor",
+     "Castelul Peleș",
+     "Castelul Bran",
+     "Palatul Parlamentului"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Unul dintre cele mai mari castele gotice din Europa."
+   }
+  },
+  {
+   "id": "VIII32-27",
+   "nivel": "VIII-S32-turismul-potential-valorificare-economica",
+   "competente": [
+    "VIII-4.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce înseamnă turismul responsabil?",
+   "date": {
+    "variante": [
+     "turism care respectă natura, cultura locală și nu lasă deșeuri",
+     "turism cu orice preț",
+     "turism fără reguli",
+     "turism doar în hoteluri de lux"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Lasă locul mai frumos decât l-ai găsit."
+   }
+  },
+  {
+   "id": "VIII32-28",
+   "nivel": "VIII-S32-turismul-potential-valorificare-economica",
+   "competente": [
+    "VIII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce stațiune balneară cu lac heliotermal e în județul Mureș?",
+   "date": {
+    "variante": [
+     "Sovata",
+     "Herculane",
+     "Felix",
+     "Techirghiol"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Lacul Ursu."
+   }
+  },
+  {
+   "id": "VIII32-29",
+   "nivel": "VIII-S32-turismul-potential-valorificare-economica",
+   "competente": [
+    "VIII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce traseu turistic din județul Buzău cuprinde Vulcanii Noroioși, Muzeul Chihlimbarului și Focul Viu?",
+   "date": {
+    "variante": [
+     "„Ținutul Buzăului” (Geoparcul Ținutul Buzăului)",
+     "Valea Prahovei",
+     "Transalpina",
+     "Drumul Vinului Cotnari"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Geoparc recunoscut de UNESCO în 2022."
+   },
+   "surse": [
+    "UNESCO – Global Geoparks: Buzău Land (2022)",
+    "Asociația Ținutul Buzăului (geoparc)"
+   ]
+  },
+  {
+   "id": "VIII32-30",
+   "nivel": "VIII-S32-turismul-potential-valorificare-economica",
+   "competente": [
+    "VIII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce stațiune de pe litoral e cea mai mare și mai cunoscută?",
+   "date": {
+    "variante": [
+     "Mamaia",
+     "Sulina",
+     "Sfântu Gheorghe",
+     "Tulcea"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "La nord de Constanța."
+   }
+  },
+  {
+   "id": "VIII33-01",
+   "nivel": "VIII-S33-aplicatii-practice-studii-caz",
+   "competente": [
+    "VIII-4.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 1,
+   "enunt": "Ce activități economice poți întâlni în jurul Râmnicului Sărat?",
+   "date": {
+    "variante": [
+     "agricultură, industrie alimentară, comerț, transport, servicii",
+     "minerit de aur",
+     "construcție de nave maritime",
+     "pescuit oceanic"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Economia locală."
+   }
+  },
+  {
+   "id": "VIII33-02",
+   "nivel": "VIII-S33-aplicatii-practice-studii-caz",
+   "competente": [
+    "VIII-4.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce surse de energie alternativă se pot folosi în județul Buzău?",
+   "date": {
+    "variante": [
+     "solară și eoliană, biomasă",
+     "energie geotermală vulcanică activă",
+     "energia mareelor",
+     "energie nucleară în fiecare sat"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Resurse alternative."
+   }
+  },
+  {
+   "id": "VIII33-03",
+   "nivel": "VIII-S33-aplicatii-practice-studii-caz",
+   "competente": [
+    "VIII-4.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce obiectiv din Geoparcul Ținutul Buzăului ai propune unui turist?",
+   "date": {
+    "variante": [
+     "Vulcanii Noroioși de la Berca–Pâclele",
+     "Castelul Peleș",
+     "Peștera Scărișoara",
+     "Delta Dunării"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Geoparc UNESCO din 2022."
+   }
+  }
+ ]
+}

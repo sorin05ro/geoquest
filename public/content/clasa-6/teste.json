@@ -1,0 +1,473 @@
+{
+ "clasa": 6,
+ "unitate": "Teste: Busola de start, Boss-uri, Marea Expediție",
+ "niveluri": [
+  {
+   "id": "VI-T0",
+   "tip": "nivel",
+   "titlu": "Busola de start",
+   "descopera": {
+    "intrebare": "Ce îți amintești de anul trecut?"
+   },
+   "invata": [
+    {
+     "titlu": "Busola de start",
+     "text": "Câteva întrebări din ce ai învățat anul trecut. Nu primești notă: rezultatul alege cât de grele vor fi exercițiile tale la început."
+    }
+   ]
+  }
+ ],
+ "itemi": [
+  {
+   "id": "VIT0-01",
+   "nivel": "VI-T0",
+   "competente": [
+    "VI-1.1"
+   ],
+   "tip": "asociaza",
+   "dificultate": 1,
+   "enunt": "Asociază geosfera cu ce cuprinde.",
+   "date": {
+    "perechi": [
+     [
+      "litosfera",
+      "rocile"
+     ],
+     [
+      "atmosfera",
+      "aerul"
+     ],
+     [
+      "hidrosfera",
+      "apa"
+     ],
+     [
+      "biosfera",
+      "viețuitoarele"
+     ]
+    ]
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Lito = piatră, atmo = aer, hidro = apă, bio = viață."
+   }
+  },
+  {
+   "id": "VIT0-02",
+   "nivel": "VI-T0",
+   "competente": [
+    "VI-1.1"
+   ],
+   "tip": "ordoneaza",
+   "dificultate": 1,
+   "enunt": "Ordonează straturile Pământului de la suprafață spre centru.",
+   "date": {
+    "elemente": [
+     "scoarța",
+     "mantaua",
+     "nucleul extern",
+     "nucleul intern"
+    ],
+    "criteriu": "Spre centru"
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Scoarța, mantaua, nucleul extern, nucleul intern."
+   }
+  },
+  {
+   "id": "VIT0-03",
+   "nivel": "VI-T0",
+   "competente": [
+    "VI-1.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 1,
+   "enunt": "Ce mișcare a Pământului produce ziua și noaptea?",
+   "date": {
+    "variante": [
+     "rotația",
+     "revoluția",
+     "eclipsa",
+     "mareea"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Rotația în jurul axei dă ziua și noaptea."
+   }
+  },
+  {
+   "id": "VIT0-04",
+   "nivel": "VI-T0",
+   "competente": [
+    "VI-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce paralelă împarte Pământul în emisfera nordică și sudică?",
+   "date": {
+    "variante": [
+     "Ecuatorul",
+     "Tropicul Racului",
+     "Cercul Polar de Nord",
+     "meridianul Greenwich"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Ecuatorul are latitudinea 0°."
+   }
+  },
+  {
+   "id": "VIT0-05",
+   "nivel": "VI-T0",
+   "competente": [
+    "VI-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Prin ce oraș trece meridianul de 0° (de origine)?",
+   "date": {
+    "variante": [
+     "Greenwich (Londra)",
+     "Paris",
+     "București",
+     "New York"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Meridianul de origine trece prin Greenwich, lângă Londra."
+   }
+  },
+  {
+   "id": "VIT0-06",
+   "nivel": "VI-T0",
+   "competente": [
+    "VI-2.1"
+   ],
+   "tip": "pin",
+   "dificultate": 1,
+   "enunt": "Atinge pe hartă Oceanul Pacific.",
+   "date": {
+    "harta": "lume",
+    "tinta": {
+     "lat": 0,
+     "lon": -150,
+     "nume": "Oceanul Pacific"
+    },
+    "toleranta": 4500
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Pacificul e cel mai mare ocean."
+   }
+  },
+  {
+   "id": "VIT0-07",
+   "nivel": "VI-T0",
+   "competente": [
+    "VI-2.1"
+   ],
+   "tip": "pin",
+   "dificultate": 2,
+   "enunt": "Atinge pe hartă Africa.",
+   "date": {
+    "harta": "lume",
+    "tinta": {
+     "lat": 5,
+     "lon": 20,
+     "nume": "Africa"
+    },
+    "toleranta": 1800
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Africa e la sud de Europa."
+   }
+  },
+  {
+   "id": "VIT0-08",
+   "nivel": "VI-T0",
+   "competente": [
+    "VI-1.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Cum se numește magma ajunsă la suprafață?",
+   "date": {
+    "variante": [
+     "lavă",
+     "cenușă",
+     "rocă sedimentară",
+     "nor"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Magma ieșită la suprafață se numește lavă."
+   }
+  },
+  {
+   "id": "VIT0-09",
+   "nivel": "VI-T0",
+   "competente": [
+    "VI-1.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Care este cel mai mare ocean?",
+   "date": {
+    "variante": [
+     "Pacific",
+     "Atlantic",
+     "Indian",
+     "Arctic"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Pacificul e cel mai mare ocean."
+   }
+  },
+  {
+   "id": "VIT0-10",
+   "nivel": "VI-T0",
+   "competente": [
+    "VI-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce zonă de vegetație e tipică pentru zona caldă, umedă, de lângă Ecuator?",
+   "date": {
+    "variante": [
+     "pădurea ecuatorială",
+     "tundra",
+     "taigaua",
+     "stepa"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "La Ecuator, căldura și ploile dau pădurea ecuatorială."
+   }
+  },
+  {
+   "id": "VIT0-11",
+   "nivel": "VI-T0",
+   "competente": [
+    "VI-1.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 1,
+   "enunt": "Cu ce aparat măsurăm temperatura aerului?",
+   "date": {
+    "variante": [
+     "termometrul",
+     "barometrul",
+     "pluviometrul",
+     "busola"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Termometrul măsoară temperatura."
+   }
+  },
+  {
+   "id": "VIT0-12",
+   "nivel": "VI-T0",
+   "competente": [
+    "VI-1.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce sunt ghețarii?",
+   "date": {
+    "variante": [
+     "mase mari de gheață care se mișcă încet",
+     "lacuri înghețate iarna",
+     "nori de gheață",
+     "ape subterane"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Ghețarii sunt mase de gheață formate din zăpadă tasată, care se deplasează lent."
+   }
+  },
+  {
+   "id": "VIT0-13",
+   "nivel": "VI-T0",
+   "competente": [
+    "VI-1.1"
+   ],
+   "tip": "lacunar",
+   "dificultate": 2,
+   "enunt": "Completează.",
+   "date": {
+    "text": "Locul din adânc unde se produce un cutremur se numește {0}, iar punctul de deasupra lui, la suprafață, {1}.",
+    "raspunsuri": [
+     "hipocentru",
+     "epicentru"
+    ],
+    "distractori": [
+     "crater"
+    ]
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Hipocentrul e în adânc, epicentrul la suprafață."
+   }
+  },
+  {
+   "id": "VIT0-14",
+   "nivel": "VI-T0",
+   "competente": [
+    "VI-3.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "De ce avem anotimpuri?",
+   "date": {
+    "variante": [
+     "axa Pământului e înclinată, iar Pământul se rotește în jurul Soarelui",
+     "Pământul se apropie și se depărtează de Lună",
+     "Soarele se stinge iarna",
+     "norii acoperă Soarele"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Înclinarea axei și revoluția schimbă unghiul razelor de-a lungul anului."
+   }
+  },
+  {
+   "id": "VIT0-15",
+   "nivel": "VI-T0",
+   "competente": [
+    "VI-1.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 1,
+   "enunt": "Ce este un râu?",
+   "date": {
+    "variante": [
+     "o apă curgătoare care pornește de la izvor și se varsă într-un alt râu, lac sau mare",
+     "o apă stătătoare",
+     "un ghețar",
+     "un val de mare"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Râul curge de la izvor până la gura de vărsare."
+   }
+  }
+ ],
+ "boss": [
+  {
+   "id": "VI-T0",
+   "test": "T0",
+   "titlu": "Busola de start",
+   "saptamana": 1,
+   "niveluri": [
+    "VI-T0"
+   ]
+  },
+  {
+   "id": "VI-T1",
+   "test": "T1",
+   "titlu": "Boss T₁: Cunoașterea lumii în care trăim",
+   "saptamana": 4,
+   "niveluri": [
+    "VI-S02-repere-cunoasterii-terrei-marile",
+    "VI-S03-continente-tari-reprezentari-cartografice"
+   ]
+  },
+  {
+   "id": "VI-T2",
+   "test": "T2",
+   "titlu": "Boss T₂: Antroposfera - omul și activitățile umane",
+   "saptamana": 11,
+   "niveluri": [
+    "VI-S05-aplicatii-practice-exercitii-apreciere",
+    "VI-S06-populatia-terrei-evolutia-numerica",
+    "VI-S07-asezarile-omenesti-forme-locuire",
+    "VI-S08-resursele-naturale-valorificarea-acestora",
+    "VI-S09-domeniile-activitatilor-economice-terra",
+    "VI-S10-efectele-activitatilor-umane-asupra"
+   ]
+  },
+  {
+   "id": "VI-T3",
+   "test": "T3",
+   "titlu": "Boss T₃: Europa - identitate geografică",
+   "saptamana": 20,
+   "niveluri": [
+    "VI-S12-aplicatii-practice-analiza-interpretarea",
+    "VI-S13-mediul-natural-ca-suport",
+    "VI-S16-pozitia-geografica-tarmurile-golfuri",
+    "VI-S17-caracteristici-generale-reliefului-unitati",
+    "VI-S18-hidrografia",
+    "VI-S19-diferentieri-climatice-biogeografice"
+   ]
+  },
+  {
+   "id": "VI-T4",
+   "test": "T4",
+   "titlu": "Boss T₄: Europa - identitate geografică",
+   "saptamana": 26,
+   "niveluri": [
+    "VI-S21-oameni-locuri-harta-politica",
+    "VI-S22-raspandirea-geografica-populatiei-elemente",
+    "VI-S23-mari-orase-europene",
+    "VI-S24-economia-resursele-naturale-valorificarea",
+    "VI-S25-activitatile-economice-agricultura-industria"
+   ]
+  },
+  {
+   "id": "VI-Tf",
+   "test": "Tf",
+   "titlu": "Marea Expediție: toată lumea ta",
+   "saptamana": 36,
+   "niveluri": [
+    "VI-S02-repere-cunoasterii-terrei-marile",
+    "VI-S03-continente-tari-reprezentari-cartografice",
+    "VI-S05-aplicatii-practice-exercitii-apreciere",
+    "VI-S06-populatia-terrei-evolutia-numerica",
+    "VI-S07-asezarile-omenesti-forme-locuire",
+    "VI-S08-resursele-naturale-valorificarea-acestora",
+    "VI-S09-domeniile-activitatilor-economice-terra",
+    "VI-S10-efectele-activitatilor-umane-asupra",
+    "VI-S12-aplicatii-practice-analiza-interpretarea",
+    "VI-S13-mediul-natural-ca-suport",
+    "VI-S16-pozitia-geografica-tarmurile-golfuri",
+    "VI-S17-caracteristici-generale-reliefului-unitati",
+    "VI-S18-hidrografia",
+    "VI-S19-diferentieri-climatice-biogeografice",
+    "VI-S21-oameni-locuri-harta-politica",
+    "VI-S22-raspandirea-geografica-populatiei-elemente",
+    "VI-S23-mari-orase-europene",
+    "VI-S24-economia-resursele-naturale-valorificarea",
+    "VI-S25-activitatile-economice-agricultura-industria",
+    "VI-S27-aplicatii-practice-studii-caz",
+    "VI-S28-caracterizarea-geografica-state-cel",
+    "VI-S30-caracterizarea-geografica-state-continuare",
+    "VI-S32-valori-culturale-umane-europene",
+    "VI-S33-calitatea-vietii-europa"
+   ]
+  }
+ ]
+}

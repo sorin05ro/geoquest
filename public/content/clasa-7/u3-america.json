@@ -1,0 +1,6396 @@
+{
+ "clasa": 7,
+ "unitate": "America de Nord și America de Sud",
+ "niveluri": [
+  {
+   "id": "VII-S23-caracterizare-geografica-pozitia-geografica",
+   "tip": "nivel",
+   "titlu": "America de Nord și America de Sud – poziția geografică",
+   "descopera": {
+    "intrebare": "De ce Columb credea că a ajuns în India?"
+   },
+   "invata": [
+    {
+     "titlu": "Două continente",
+     "text": "America de Nord (aproximativ 24 de milioane km²) și America de Sud (aproximativ 18 milioane km²) se află în emisfera vestică. Sunt legate prin Istmul Panama, prin care s-a săpat Canalul Panama (deschis în 1914).\nAmerica de Nord se întinde de la Oceanul Arctic până la Istmul Panama. America de Sud e străbătută de Ecuator și se termină la Capul Horn."
+    },
+    {
+     "titlu": "Oceane și mări",
+     "text": "Oceanul Atlantic la est, Oceanul Pacific la vest, Oceanul Arctic la nordul Americii de Nord. Mări și golfuri: Golful Mexic, Marea Caraibilor, Golful Hudson, Golful Alaska.\nStrâmtoarea Bering desparte America de Nord de Asia; Strâmtoarea Drake desparte America de Sud de Antarctica."
+    },
+    {
+     "titlu": "Țărmuri",
+     "text": "America de Nord are țărmuri crestate, cu multe peninsule (Alaska, Labrador, Florida, California, Yucatán) și insule (Groenlanda – cea mai mare insulă de pe Pământ, Arhipelagul Arctic Canadian, Antilele).\nAmerica de Sud are țărmuri puțin crestate; în sud are fiorduri și Țara de Foc."
+    }
+   ],
+   "stiaiCa": "Groenlanda e cea mai mare insulă de pe Pământ. Geografic aparține Americii de Nord, dar politic face parte din Regatul Danemarcei.",
+   "referintaProfesor": "Manual Art Klett, clasa a VII-a, ediția 2024 (manuale.edu.ro), lecția „Caracterizare geografică – Poziția geografică”"
+  },
+  {
+   "id": "VII-S23-relieful-caracteristici-generale-sistemul",
+   "tip": "nivel",
+   "titlu": "Relieful Americilor. Sistemul cordiliero-andin",
+   "descopera": {
+    "intrebare": "Care e cel mai lung lanț de munți de pe uscat?"
+   },
+   "invata": [
+    {
+     "titlu": "Sistemul cordiliero-andin",
+     "text": "Pe marginea vestică a celor două Americi se întinde un lanț uriaș de munți tineri: Cordilierii în America de Nord și Anzii în America de Sud. Anzii (aproximativ 7 000 km) sunt cel mai lung lanț de munți de pe uscat.\nS-au format prin coborârea plăcilor oceanice ale Pacificului sub plăcile continentale (subducție). De aceea aici sunt mulți vulcani și cutremure – Cercul de Foc al Pacificului."
+    },
+    {
+     "titlu": "Vârfuri și podișuri",
+     "text": "Cel mai înalt vârf din America de Sud și din emisfera vestică: Aconcagua (6 961 m), în Anzii argentinieni. Cel mai înalt din America de Nord: Denali (6 190 m), în Alaska.\nÎntre lanțurile munților sunt podișuri înalte: Podișul Mexicului, Altiplano (Bolivia, Peru), Marele Bazin (SUA)."
+    },
+    {
+     "titlu": "Estul Americilor",
+     "text": "La est sunt munți vechi (Apalași), podișuri vechi (Podișul Labrador, Podișul Braziliei, Podișul Guyanelor) și câmpii mari: Marile Câmpii și Câmpia Mississippi (America de Nord), Câmpia Amazonului, Câmpia Orinoco, Pampasul (America de Sud).\nValea Morții (SUA), la 86 m sub nivelul mării, e cel mai jos punct al Americii de Nord."
+    }
+   ],
+   "stiaiCa": "Marele Canion al râului Colorado, din SUA, are pe alocuri adâncimi de aproximativ 1 800 m; straturile lui de roci arată aproape două miliarde de ani de istorie a Pământului.",
+   "referintaProfesor": "Manual Art Klett, clasa a VII-a, ediția 2024 (manuale.edu.ro), lecția „Relieful – caracteristici generale. Sistemul muntos cordiliero-andin”"
+  },
+  {
+   "id": "VII-S24-hidrografia-caracteristici-generale-fluvii",
+   "tip": "nivel",
+   "titlu": "Americile – hidrografia. Fluvii și lacuri",
+   "descopera": {
+    "intrebare": "Ce fluviu duce mai multă apă decât următoarele câteva fluvii mari la un loc?"
+   },
+   "invata": [
+    {
+     "titlu": "Fluviile",
+     "text": "Amazonul e fluviul cu cea mai mare cantitate de apă și cu cel mai mare bazin hidrografic de pe Pământ; are peste 1 000 de afluenți. Lungimea lui, aproximativ 6 400 km, îl face al doilea sau chiar primul ca lungime, după metoda de măsurare.\nAlte fluvii: Mississippi–Missouri (SUA, spre Golful Mexic), Sfântul Laurențiu (din Marile Lacuri spre Atlantic), Mackenzie și Yukon (spre nord), Colorado, Orinoco, Paraná."
+    },
+    {
+     "titlu": "Lacurile",
+     "text": "Marile Lacuri (Superior, Michigan, Huron, Erie, Ontario), la granița SUA–Canada, formează cea mai mare suprafață de apă dulce de pe Pământ. Lacul Superior e cel mai mare lac de apă dulce ca suprafață. Între Erie și Ontario sunt Cascadele Niagara.\nLacul Titicaca (aproximativ 3 810 m altitudine), în Anzi, e cel mai înalt lac navigabil mare."
+    },
+    {
+     "titlu": "Cascadele",
+     "text": "Salto Angel (Venezuela), cu o cădere de 979 m, e cea mai înaltă cascadă de pe Pământ. Iguazú (la granița Argentinei cu Brazilia) e un șir de sute de cascade."
+    }
+   ],
+   "stiaiCa": "Gura de vărsare a Amazonului e atât de largă și duce atâta apă încât, la zeci de kilometri în largul Atlanticului, apa mării e aproape dulce.",
+   "referintaProfesor": "Manual Art Klett, clasa a VII-a, ediția 2024 (manuale.edu.ro), lecția „Hidrografia – caracteristici generale. Fluvii și lacuri”"
+  },
+  {
+   "id": "VII-S24-diferentieri-climatice-biogeografice",
+   "tip": "nivel",
+   "titlu": "Americile – climă, vegetație și faună",
+   "descopera": {
+    "intrebare": "Cum pot exista în aceeași Americă și cel mai uscat deșert, și cea mai mare pădure tropicală?"
+   },
+   "invata": [
+    {
+     "titlu": "Clima",
+     "text": "Americile se întind de la Arctic aproape până la Antarctica, deci au aproape toate climatele: polar și subpolar (nordul Canadei, Alaska), temperat (SUA, Canada de Sud, Argentina), subtropical și mediteranean (California, centrul Chile), tropical-deșertic (Mexic de nord, Atacama), ecuatorial (Amazonia).\nÎn America de Nord, relieful (munți la vest și la est, câmpii la mijloc) lasă aerul rece din nord și cel cald din sud să se întâlnească: apar tornade puternice. Pe țărmul Golfului Mexic lovesc uraganele."
+    },
+    {
+     "titlu": "Extreme",
+     "text": "Deșertul Atacama (Chile) e unul dintre cele mai uscate locuri de pe Pământ: în unele zone nu a plouat ani la rând.\nÎn Valea Morții (SUA) s-a înregistrat oficial cea mai ridicată temperatură a aerului: 56,7 °C, pe 10 iulie 1913."
+    },
+    {
+     "titlu": "Vegetația și fauna",
+     "text": "Tundra (nordul Canadei): reni (caribu), boi moscați, urși polari. Taigaua: urși grizzly, elani, castori. Preriile (stepa nord-americană), azi cultivate; bizonii. Deșerturile: cactuși uriași (saguaro), șerpi cu clopoței. Pădurea amazoniană (cea mai mare pădure tropicală): jaguari, maimuțe, papagali, anaconde, leneși. Pampasul: ierburi; Anzii: lame, alpaca, condori."
+    }
+   ],
+   "stiaiCa": "Pădurea amazoniană e numită uneori „plămânul planetei”, dar și ea respiră: o mare parte din oxigenul pe care îl produce e consumat chiar de pădure.",
+   "referintaProfesor": "Manual Art Klett, clasa a VII-a, ediția 2024 (manuale.edu.ro), lecția „Diferențieri climatice și biogeografice”"
+  },
+  {
+   "id": "VII-S25-elemente-diversitate-umana-etnica",
+   "tip": "nivel",
+   "titlu": "Americile – diversitatea umană",
+   "descopera": {
+    "intrebare": "De ce în America de Sud se vorbește spaniola și portugheza?"
+   },
+   "invata": [
+    {
+     "titlu": "Popoarele",
+     "text": "Primii locuitori au venit din Asia, peste Strâmtoarea Bering, acum peste 15 000 de ani. Ei au creat mari civilizații: mayașii (Peninsula Yucatán), aztecii (Mexic), incașii (Anzi).\nDupă 1492 au venit europenii (spanioli, portughezi, englezi, francezi), apoi africanii aduși cu forța ca sclavi. Mai târziu au venit imigranți din toată lumea. Din amestecul lor au rezultat metișii și mulatrii."
+    },
+    {
+     "titlu": "Limbi și religii",
+     "text": "Limbi: engleza (SUA, Canada), franceza (Québec, Haiti), spaniola (Mexic și cea mai mare parte a Americii de Sud), portugheza (Brazilia). Se vorbesc și limbi indigene: quechua, guarani, aymara, nahuatl.\nReligia majoritară e creștinismul: catolic în America Latină și Québec, protestant mai ales în SUA și Canada."
+    },
+    {
+     "titlu": "America Latină și America Anglo-Saxonă",
+     "text": "America Latină cuprinde țările unde se vorbesc limbi romanice (spaniola, portugheza, franceza): Mexic, America Centrală, Caraibe, America de Sud. America Anglo-Saxonă: SUA și Canada."
+    }
+   ],
+   "stiaiCa": "Machu Picchu, orașul incaș construit pe un munte din Anzii peruani, a fost înscris în patrimoniul UNESCO în 1983.",
+   "referintaProfesor": "Manual Art Klett, clasa a VII-a, ediția 2024 (manuale.edu.ro), lecția „Elemente de diversitate umană”"
+  },
+  {
+   "id": "VII-S26-harta-politica-contraste-teritoriale",
+   "tip": "nivel",
+   "titlu": "Americile – harta politică. Contraste între state",
+   "descopera": {
+    "intrebare": "Ce deosebește SUA de Haiti, deși sunt pe același continent?"
+   },
+   "invata": [
+    {
+     "titlu": "Statele",
+     "text": "America de Nord cuprinde: Canada, SUA, Mexic, statele Americii Centrale (Guatemala, Costa Rica, Panama etc.) și ale Caraibelor (Cuba, Jamaica, Haiti, Republica Dominicană). Groenlanda ține de Danemarca.\nAmerica de Sud are 12 state independente: Brazilia (cel mai mare), Argentina, Peru, Columbia, Bolivia, Venezuela, Chile, Paraguay, Ecuador, Guyana, Uruguay, Surinam; Guyana Franceză aparține Franței."
+    },
+    {
+     "titlu": "Contraste",
+     "text": "SUA și Canada sunt țări foarte dezvoltate, cu venituri mari. Multe state din America Latină sunt în dezvoltare, cu mari diferențe între bogați și săraci. Haiti e cea mai săracă țară din emisfera vestică.\nBrazilia, Mexicul, Argentina și Chile au economii mari, dar și regiuni sărace."
+    },
+    {
+     "titlu": "Organizații",
+     "text": "Statele colaborează în organizații: OSA (Organizația Statelor Americane), Mercosur (piața comună din sudul Americii de Sud), acordul comercial dintre SUA, Mexic și Canada."
+    }
+   ],
+   "stiaiCa": "Chile are o formă foarte alungită: lung de peste 4 000 km, dar lat, în medie, de doar aproximativ 180 km.",
+   "referintaProfesor": "Manual Art Klett, clasa a VII-a, ediția 2024 (manuale.edu.ro), lecția „Harta politică și contraste teritoriale între state”"
+  },
+  {
+   "id": "VII-S26-forme-aglomerare-urbana",
+   "tip": "nivel",
+   "titlu": "Americile – forme de aglomerare urbană",
+   "descopera": {
+    "intrebare": "Ce este o megalopolă?"
+   },
+   "invata": [
+    {
+     "titlu": "Urbanizare puternică",
+     "text": "Americile sunt foarte urbanizate: în SUA, Canada, Argentina, Chile, Brazilia, peste 8 din 10 oameni trăiesc la oraș.\nMari orașe: New York, Los Angeles, Chicago, Toronto, Ciudad de México, São Paulo, Rio de Janeiro, Buenos Aires, Lima, Bogotá."
+    },
+    {
+     "titlu": "Forme de aglomerare",
+     "text": "Aglomerarea urbană: un oraș mare și localitățile lipite de el. Zona metropolitană: orașul și împrejurimile legate prin navetă.\nMegalopola: un șir de orașe mari care se unesc între ele. Exemplul clasic e „BosWash”, de la Boston la Washington (prin New York, Philadelphia, Baltimore), pe coasta de est a SUA."
+    },
+    {
+     "titlu": "Probleme",
+     "text": "Orașele latino-americane au crescut foarte repede; la margine au apărut cartiere sărace: favelas în Brazilia, villas miseria în Argentina. Probleme: trafic, poluare, criminalitate, lipsa locuințelor.\nOrașele din SUA s-au extins mult în suburbii, ceea ce crește folosirea mașinii."
+    }
+   ],
+   "stiaiCa": "Ciudad de México e construit pe locul fostei capitale aztece Tenochtitlan, ridicată pe o insulă dintr-un lac. Din această cauză, unele clădiri se scufundă încet în solul moale.",
+   "referintaProfesor": "Manual Art Klett, clasa a VII-a, ediția 2024 (manuale.edu.ro), lecția „Forme de aglomerare urbană”"
+  },
+  {
+   "id": "VII-S27-diferentieri-economice-regionale",
+   "tip": "nivel",
+   "titlu": "Americile – diferențieri economice regionale",
+   "descopera": {
+    "intrebare": "Ce produse din Americi ajung pe masa ta?"
+   },
+   "invata": [
+    {
+     "titlu": "America de Nord",
+     "text": "SUA au cea mai mare economie din lume: industrie de vârf (aeronautică, IT, automobile, farmaceutică), agricultură mecanizată (porumb, soia, grâu), servicii (finanțe, divertisment). Silicon Valley (California) e centrul mondial al IT-ului.\nCanada: resurse (petrol, lemn, minereuri), agricultură (grâu), servicii. Mexic: petrol, industrie de automobile, turism."
+    },
+    {
+     "titlu": "America Latină",
+     "text": "Brazilia: soia, cafea, trestie de zahăr, carne de vită, minereu de fier, avioane; a doua economie mare a Americilor după SUA.\nArgentina: cereale și carne din Pampas. Chile: cupru (cel mai mare producător mondial). Venezuela: petrol. Peru: cupru, argint, aur. Columbia: cafea, flori. America Centrală și Caraibe: banane, trestie de zahăr, turism."
+    },
+    {
+     "titlu": "Contraste",
+     "text": "Regiunile foarte dezvoltate (nord-estul SUA, California, sud-estul Braziliei) contrastează cu regiuni sărace (nord-estul Braziliei, zonele rurale din Anzi, Haiti).\nComerțul leagă Americile de lume: Canalul Panama e una dintre cele mai importante rute maritime."
+    }
+   ],
+   "stiaiCa": "Chile produce aproximativ un sfert din cuprul lumii, după datele USGS; mina de la Chuquicamata e una dintre cele mai mari mine la suprafață.",
+   "referintaProfesor": "Manual Art Klett, clasa a VII-a, ediția 2024 (manuale.edu.ro), lecția „Diferențieri economice regionale”"
+  },
+  {
+   "id": "VII-S28-aplicatii-practice-studii-caz",
+   "tip": "expeditie",
+   "titlu": "Expediție: de la Alaska la Țara de Foc",
+   "descopera": {
+    "intrebare": "Ce ai vedea dacă ai călători pe uscat de la nordul la sudul Americilor?"
+   },
+   "invata": [
+    {
+     "titlu": "Ce faci în expediție",
+     "text": "Urmezi pașii, rezolvi sarcinile și notezi în Jurnalul exploratorului ce ai descoperit."
+    }
+   ],
+   "referintaProfesor": "Manual Art Klett, clasa a VII-a, ediția 2024 (manuale.edu.ro), lecția „Aplicații practice/studii de caz: Particularități geografice ale unor state”",
+   "pasi": [
+    {
+     "titlu": "1. Traseul",
+     "text": "Pe o hartă, trasează un drum de la Alaska până în Țara de Foc. Notează țările prin care treci.",
+     "itemi": [
+      "VII28-01"
+     ]
+    },
+    {
+     "titlu": "2. Peisajele",
+     "text": "Alege 4 opriri pe traseu și descrie peisajul fiecăreia: relief, climă, vegetație.",
+     "itemi": [
+      "VII28-02"
+     ],
+     "jurnal": {
+      "cerinta": "Fă un tabel cu cele 4 opriri: relief, climă, vegetație, un animal."
+     }
+    },
+    {
+     "titlu": "3. Statul ales",
+     "text": "Alege un stat de pe traseu și găsește o particularitate geografică și o problemă de mediu. Propune o soluție.",
+     "itemi": [
+      "VII28-03"
+     ],
+     "jurnal": {
+      "cerinta": "Scrie particularitatea, problema și soluția."
+     }
+    },
+    {
+     "titlu": "4. Jurnalul de călătorie",
+     "text": "Scrie o pagină de jurnal ca și cum ai fi făcut călătoria: ce ai văzut, ce te-a surprins.",
+     "jurnal": {
+      "cerinta": "Fotografiază pagina sau desenul.",
+      "foto": true
+     }
+    }
+   ]
+  }
+ ],
+ "itemi": [
+  {
+   "id": "VII23a-01",
+   "nivel": "VII-S23-caracterizare-geografica-pozitia-geografica",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 1,
+   "enunt": "În ce emisferă se află cele două Americi?",
+   "date": {
+    "variante": [
+     "emisfera vestică",
+     "emisfera estică",
+     "doar emisfera sudică",
+     "pe Ecuator, în întregime"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "La vest de meridianul de 0°."
+   }
+  },
+  {
+   "id": "VII23a-02",
+   "nivel": "VII-S23-caracterizare-geografica-pozitia-geografica",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce leagă America de Nord de America de Sud?",
+   "date": {
+    "variante": [
+     "Istmul Panama",
+     "Strâmtoarea Bering",
+     "Strâmtoarea Drake",
+     "Istmul Suez"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Prin istm s-a săpat Canalul Panama."
+   }
+  },
+  {
+   "id": "VII23a-03",
+   "nivel": "VII-S23-caracterizare-geografica-pozitia-geografica",
+   "competente": [
+    "VII-2.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Când a fost deschis Canalul Panama?",
+   "date": {
+    "variante": [
+     "în 1914",
+     "în 1492",
+     "în 1869",
+     "în 2001"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Canalul leagă Atlanticul de Pacific."
+   },
+   "surse": [
+    "Autoritatea Canalului Panama (pancanal.com) – istoric",
+    "Encyclopaedia Britannica – Panama Canal"
+   ]
+  },
+  {
+   "id": "VII23a-04",
+   "nivel": "VII-S23-caracterizare-geografica-pozitia-geografica",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Care e cea mai mare insulă de pe Pământ?",
+   "date": {
+    "variante": [
+     "Groenlanda",
+     "Madagascar",
+     "Marea Britanie",
+     "Cuba"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Groenlanda ține de Regatul Danemarcei."
+   }
+  },
+  {
+   "id": "VII23a-05",
+   "nivel": "VII-S23-caracterizare-geografica-pozitia-geografica",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce strâmtoare desparte America de Sud de Antarctica?",
+   "date": {
+    "variante": [
+     "Strâmtoarea Drake",
+     "Strâmtoarea Bering",
+     "Strâmtoarea Gibraltar",
+     "Strâmtoarea Magellan"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "E una dintre cele mai furtunoase mări."
+   }
+  },
+  {
+   "id": "VII23a-06",
+   "nivel": "VII-S23-caracterizare-geografica-pozitia-geografica",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "etichete",
+   "dificultate": 2,
+   "enunt": "Pune pe hartă oceanele din jurul celor două Americi.",
+   "date": {
+    "tinte": [
+     {
+      "id": "atl",
+      "eticheta": "Oceanul Atlantic",
+      "lat": 20,
+      "lon": -40
+     },
+     {
+      "id": "pac",
+      "eticheta": "Oceanul Pacific",
+      "lat": 10,
+      "lon": -120
+     },
+     {
+      "id": "arc",
+      "eticheta": "Oceanul Arctic",
+      "lat": 80,
+      "lon": -100
+     }
+    ],
+    "harta": "lume"
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Atlantic la est, Pacific la vest, Arctic la nord."
+   }
+  },
+  {
+   "id": "VII23a-07",
+   "nivel": "VII-S23-caracterizare-geografica-pozitia-geografica",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "pin",
+   "dificultate": 2,
+   "enunt": "Atinge pe hartă Canalul Panama.",
+   "date": {
+    "harta": "lume",
+    "tinta": {
+     "lat": 9.1,
+     "lon": -79.7,
+     "nume": "Canalul Panama"
+    },
+    "toleranta": 300
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Canalul e în Panama, în America Centrală."
+   },
+   "surse": [
+    "Autoritatea Canalului Panama (pancanal.com) – istoric",
+    "Encyclopaedia Britannica – Panama Canal"
+   ]
+  },
+  {
+   "id": "VII23a-08",
+   "nivel": "VII-S23-caracterizare-geografica-pozitia-geografica",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "pin",
+   "dificultate": 2,
+   "enunt": "Atinge pe hartă Golful Mexic.",
+   "date": {
+    "harta": "lume",
+    "tinta": {
+     "lat": 25,
+     "lon": -90,
+     "nume": "Golful Mexic"
+    },
+    "toleranta": 600
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Golful Mexic e între SUA, Mexic și Cuba."
+   }
+  },
+  {
+   "id": "VII23a-09",
+   "nivel": "VII-S23-caracterizare-geografica-pozitia-geografica",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "pin",
+   "dificultate": 2,
+   "enunt": "Atinge pe hartă Groenlanda.",
+   "date": {
+    "harta": "lume",
+    "tinta": {
+     "lat": 72,
+     "lon": -40,
+     "nume": "Groenlanda"
+    },
+    "toleranta": 900
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Groenlanda e la nord-est de Canada."
+   }
+  },
+  {
+   "id": "VII23a-10",
+   "nivel": "VII-S23-caracterizare-geografica-pozitia-geografica",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "pin",
+   "dificultate": 3,
+   "enunt": "Atinge pe hartă Capul Horn.",
+   "date": {
+    "harta": "lume",
+    "tinta": {
+     "lat": -55.98,
+     "lon": -67.27,
+     "nume": "Capul Horn"
+    },
+    "toleranta": 500
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Capul Horn e la capătul sudic al Americii de Sud."
+   }
+  },
+  {
+   "id": "VII23a-11",
+   "nivel": "VII-S23-caracterizare-geografica-pozitia-geografica",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "pin",
+   "dificultate": 3,
+   "enunt": "Atinge pe hartă Peninsula Florida.",
+   "date": {
+    "harta": "lume",
+    "tinta": {
+     "lat": 28,
+     "lon": -81.5,
+     "nume": "Florida"
+    },
+    "toleranta": 400
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Florida e în sud-estul SUA."
+   }
+  },
+  {
+   "id": "VII23a-12",
+   "nivel": "VII-S23-caracterizare-geografica-pozitia-geografica",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "asociaza",
+   "dificultate": 2,
+   "enunt": "Asociază peninsula cu țara.",
+   "date": {
+    "perechi": [
+     [
+      "Alaska",
+      "SUA – în nord-vest"
+     ],
+     [
+      "Labrador",
+      "Canada"
+     ],
+     [
+      "Yucatán",
+      "Mexic"
+     ],
+     [
+      "Florida",
+      "SUA – în sud-est"
+     ]
+    ]
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Peninsulele Americii de Nord."
+   }
+  },
+  {
+   "id": "VII23a-13",
+   "nivel": "VII-S23-caracterizare-geografica-pozitia-geografica",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce linie imaginară importantă străbate America de Sud?",
+   "date": {
+    "variante": [
+     "Ecuatorul",
+     "Cercul Polar de Nord",
+     "meridianul de 0°",
+     "Tropicul Racului"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Ecuatorul trece prin Ecuador, Columbia, Brazilia."
+   }
+  },
+  {
+   "id": "VII23a-14",
+   "nivel": "VII-S23-caracterizare-geografica-pozitia-geografica",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce țară sud-americană poartă numele unei linii imaginare?",
+   "date": {
+    "variante": [
+     "Ecuador",
+     "Peru",
+     "Chile",
+     "Bolivia"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Ecuador înseamnă „ecuator” în spaniolă."
+   }
+  },
+  {
+   "id": "VII23a-15",
+   "nivel": "VII-S23-caracterizare-geografica-pozitia-geografica",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce golf mare pătrunde în nordul Canadei?",
+   "date": {
+    "variante": [
+     "Golful Hudson",
+     "Golful Mexic",
+     "Golful Biscaya",
+     "Golful Persic"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Golful Hudson îngheață iarna."
+   }
+  },
+  {
+   "id": "VII23a-16",
+   "nivel": "VII-S23-caracterizare-geografica-pozitia-geografica",
+   "competente": [
+    "VII-2.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Adevărat sau fals? Țărmurile Americii de Sud sunt mai crestate decât ale Americii de Nord.",
+   "date": {
+    "variante": [
+     "Fals",
+     "Adevărat"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Fals: America de Nord are țărmuri mult mai crestate."
+   }
+  },
+  {
+   "id": "VII23a-17",
+   "nivel": "VII-S23-caracterizare-geografica-pozitia-geografica",
+   "competente": [
+    "VII-2.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Adevărat sau fals? America de Sud e mai mică decât America de Nord.",
+   "date": {
+    "variante": [
+     "Adevărat",
+     "Fals"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Adevărat: aproximativ 18 față de 24 de milioane km²."
+   },
+   "surse": [
+    "Encyclopaedia Britannica – North America / South America",
+    "Wikipedia – North America / South America"
+   ]
+  },
+  {
+   "id": "VII23a-18",
+   "nivel": "VII-S23-caracterizare-geografica-pozitia-geografica",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "lacunar",
+   "dificultate": 2,
+   "enunt": "Completează.",
+   "date": {
+    "text": "Cele două Americi sunt legate prin Istmul {0}; America de Nord e despărțită de Asia prin Strâmtoarea {1}.",
+    "raspunsuri": [
+     "Panama",
+     "Bering"
+    ],
+    "distractori": [
+     "Suez",
+     "Drake"
+    ]
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Panama, Bering."
+   }
+  },
+  {
+   "id": "VII23a-19",
+   "nivel": "VII-S23-caracterizare-geografica-pozitia-geografica",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "lacunar",
+   "dificultate": 2,
+   "enunt": "Completează.",
+   "date": {
+    "text": "Cea mai mare insulă de pe Pământ este {0}; capătul sudic al Americii de Sud e Capul {1}.",
+    "raspunsuri": [
+     "Groenlanda",
+     "Horn"
+    ],
+    "distractori": [
+     "Cuba",
+     "Bunei Speranțe"
+    ]
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Groenlanda, Horn."
+   }
+  },
+  {
+   "id": "VII23a-20",
+   "nivel": "VII-S23-caracterizare-geografica-pozitia-geografica",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "denumeste",
+   "dificultate": 2,
+   "enunt": "Ce insulă mare din Marea Caraibilor e marcată pe hartă?",
+   "date": {
+    "harta": "lume",
+    "punct": {
+     "lat": 21.5,
+     "lon": -79
+    },
+    "variante": [
+     "Cuba",
+     "Jamaica",
+     "Haiti",
+     "Puerto Rico"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Cuba e cea mai mare insulă din Antile."
+   }
+  },
+  {
+   "id": "VII23a-21",
+   "nivel": "VII-S23-caracterizare-geografica-pozitia-geografica",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "denumeste",
+   "dificultate": 3,
+   "enunt": "Ce peninsulă e marcată pe hartă?",
+   "date": {
+    "harta": "lume",
+    "punct": {
+     "lat": 64,
+     "lon": -153
+    },
+    "variante": [
+     "Alaska",
+     "Labrador",
+     "Kamciatka",
+     "Florida"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Alaska e statul nordic al SUA."
+   }
+  },
+  {
+   "id": "VII23a-22",
+   "nivel": "VII-S23-caracterizare-geografica-pozitia-geografica",
+   "competente": [
+    "VII-2.2",
+    "VII-3.1",
+    "VII-4.2"
+   ],
+   "tip": "ordoneaza",
+   "dificultate": 3,
+   "enunt": "Ordonează de la nord la sud.",
+   "date": {
+    "elemente": [
+     "Golful Hudson",
+     "Marile Lacuri",
+     "Golful Mexic",
+     "Canalul Panama",
+     "Ecuatorul",
+     "Capul Horn"
+    ],
+    "criteriu": "De la nord la sud"
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "De la Arctic spre Antarctica."
+   }
+  },
+  {
+   "id": "VII23a-23",
+   "nivel": "VII-S23-caracterizare-geografica-pozitia-geografica",
+   "competente": [
+    "VII-2.3",
+    "VII-4.1"
+   ],
+   "tip": "grafic",
+   "dificultate": 3,
+   "enunt": "Graficul compară suprafețele (milioane km², rotunjit). Cu cât e mai mare America de Nord decât America de Sud?",
+   "date": {
+    "grafic": {
+     "tip": "bare",
+     "titlu": "Suprafața (milioane km², rotunjit)",
+     "date": [
+      {
+       "eticheta": "America de Nord",
+       "valoare": 24
+      },
+      {
+       "eticheta": "America de Sud",
+       "valoare": 18
+      }
+     ],
+     "unitate": "milioane km²",
+     "sursa": "Encyclopaedia Britannica"
+    },
+    "variante": [
+     "cu aproximativ 6 milioane km²",
+     "cu 42 de milioane km²",
+     "sunt egale",
+     "cu 1 milion km²"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "24 − 18 = 6."
+   },
+   "surse": [
+    "Encyclopaedia Britannica – North America / South America",
+    "Wikipedia – North America / South America"
+   ]
+  },
+  {
+   "id": "VII23a-24",
+   "nivel": "VII-S23-caracterizare-geografica-pozitia-geografica",
+   "competente": [
+    "VII-1.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "De ce Canalul Panama e important pentru comerț?",
+   "date": {
+    "variante": [
+     "scurtează mult drumul vapoarelor între Atlantic și Pacific",
+     "produce electricitate",
+     "aduce apă de băut în SUA",
+     "oprește uraganele"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Vapoarele nu mai ocolesc America de Sud."
+   }
+  },
+  {
+   "id": "VII23a-25",
+   "nivel": "VII-S23-caracterizare-geografica-pozitia-geografica",
+   "competente": [
+    "VII-4.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 3,
+   "enunt": "Compară poziția Americii de Sud cu a Africii.",
+   "date": {
+    "variante": [
+     "ambele sunt străbătute de Ecuator; America de Sud e în emisfera vestică, Africa în ambele",
+     "America de Sud e la pol",
+     "Africa e toată în emisfera vestică",
+     "niciuna nu are Ecuator"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Asemănări climatice datorate Ecuatorului."
+   }
+  },
+  {
+   "id": "VII23a-26",
+   "nivel": "VII-S23-caracterizare-geografica-pozitia-geografica",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce arhipelag se află în Marea Caraibilor?",
+   "date": {
+    "variante": [
+     "Antilele",
+     "Filipinele",
+     "Hawaii",
+     "Maldivele"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Cuba, Haiti, Jamaica, Puerto Rico fac parte din Antile."
+   }
+  },
+  {
+   "id": "VII23a-27",
+   "nivel": "VII-S23-caracterizare-geografica-pozitia-geografica",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce țară e cea mai mare din America de Nord?",
+   "date": {
+    "variante": [
+     "Canada",
+     "SUA",
+     "Mexic",
+     "Groenlanda"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Canada e a doua țară ca mărime din lume."
+   }
+  },
+  {
+   "id": "VII23a-28",
+   "nivel": "VII-S23-caracterizare-geografica-pozitia-geografica",
+   "competente": [
+    "VII-1.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "De ce continentul se numește „America”?",
+   "date": {
+    "variante": [
+     "după numele navigatorului Amerigo Vespucci",
+     "după numele lui Columb",
+     "după un râu",
+     "după un munte"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Vespucci a înțeles că e o „Lume Nouă”, nu Asia."
+   }
+  },
+  {
+   "id": "VII23a-29",
+   "nivel": "VII-S23-caracterizare-geografica-pozitia-geografica",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce insule, în Atlanticul de Sud, aparțin Regatului Unit?",
+   "date": {
+    "variante": [
+     "Insulele Falkland (Malvine)",
+     "Galápagos",
+     "Hawaii",
+     "Bermude"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Sunt revendicate și de Argentina."
+   }
+  },
+  {
+   "id": "VII23a-30",
+   "nivel": "VII-S23-caracterizare-geografica-pozitia-geografica",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce arhipelag din Pacific, aparținând Ecuadorului, l-a inspirat pe Charles Darwin?",
+   "date": {
+    "variante": [
+     "Galápagos",
+     "Hawaii",
+     "Antilele",
+     "Falkland"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Speciile unice au ajutat la teoria evoluției."
+   }
+  },
+  {
+   "id": "VII23b-01",
+   "nivel": "VII-S23-relieful-caracteristici-generale-sistemul",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 1,
+   "enunt": "Care e cel mai lung lanț de munți de pe uscat?",
+   "date": {
+    "variante": [
+     "Anzii",
+     "Himalaya",
+     "Alpii",
+     "Uralii"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Anzii au aproximativ 7 000 km."
+   }
+  },
+  {
+   "id": "VII23b-02",
+   "nivel": "VII-S23-relieful-caracteristici-generale-sistemul",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Care e cel mai înalt vârf din America de Sud?",
+   "date": {
+    "variante": [
+     "Aconcagua (6 961 m)",
+     "Denali",
+     "Chimborazo",
+     "Kilimanjaro"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Aconcagua e în Argentina."
+   },
+   "surse": [
+    "Encyclopaedia Britannica – Aconcagua",
+    "Wikipedia – Aconcagua"
+   ]
+  },
+  {
+   "id": "VII23b-03",
+   "nivel": "VII-S23-relieful-caracteristici-generale-sistemul",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Care e cel mai înalt vârf din America de Nord?",
+   "date": {
+    "variante": [
+     "Denali (6 190 m)",
+     "Aconcagua",
+     "Mount Whitney",
+     "Popocatépetl"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Denali e în Alaska."
+   },
+   "surse": [
+    "U.S. Geological Survey (USGS), 2015 – Denali: 20 310 ft (6 190 m)",
+    "National Park Service – Denali National Park"
+   ]
+  },
+  {
+   "id": "VII23b-04",
+   "nivel": "VII-S23-relieful-caracteristici-generale-sistemul",
+   "competente": [
+    "VII-1.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Cum s-au format Anzii și Cordilierii?",
+   "date": {
+    "variante": [
+     "prin coborârea plăcilor oceanice sub plăcile continentale (subducție)",
+     "din ghețari",
+     "din dune de nisip",
+     "din coralieri"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "De aceea au vulcani și cutremure."
+   }
+  },
+  {
+   "id": "VII23b-05",
+   "nivel": "VII-S23-relieful-caracteristici-generale-sistemul",
+   "competente": [
+    "VII-2.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "De ce vestul celor două Americi are mulți vulcani și cutremure?",
+   "date": {
+    "variante": [
+     "pentru că face parte din Cercul de Foc al Pacificului",
+     "pentru că e deșert",
+     "pentru că e plat",
+     "pentru că e lângă Polul Sud"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Zonă de subducție."
+   }
+  },
+  {
+   "id": "VII23b-06",
+   "nivel": "VII-S23-relieful-caracteristici-generale-sistemul",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "asociaza",
+   "dificultate": 2,
+   "enunt": "Asociază unitatea de relief cu tipul ei.",
+   "date": {
+    "perechi": [
+     [
+      "Anzii",
+      "munți tineri"
+     ],
+     [
+      "Apalașii",
+      "munți vechi"
+     ],
+     [
+      "Podișul Braziliei",
+      "podiș vechi"
+     ],
+     [
+      "Pampasul",
+      "câmpie"
+     ]
+    ]
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Relieful celor două Americi."
+   }
+  },
+  {
+   "id": "VII23b-07",
+   "nivel": "VII-S23-relieful-caracteristici-generale-sistemul",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "asociaza",
+   "dificultate": 2,
+   "enunt": "Asociază unitatea de relief cu țara.",
+   "date": {
+    "perechi": [
+     [
+      "Marele Canion",
+      "SUA"
+     ],
+     [
+      "Aconcagua",
+      "Argentina"
+     ],
+     [
+      "Altiplano",
+      "Bolivia și Peru"
+     ],
+     [
+      "Denali",
+      "SUA (Alaska)"
+     ]
+    ]
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Locuri celebre."
+   }
+  },
+  {
+   "id": "VII23b-08",
+   "nivel": "VII-S23-relieful-caracteristici-generale-sistemul",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "pin",
+   "dificultate": 2,
+   "enunt": "Atinge pe hartă Munții Anzi.",
+   "date": {
+    "harta": "lume",
+    "tinta": {
+     "lat": -15,
+     "lon": -72,
+     "nume": "Anzii"
+    },
+    "toleranta": 700
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Anzii sunt pe toată latura vestică a Americii de Sud."
+   }
+  },
+  {
+   "id": "VII23b-09",
+   "nivel": "VII-S23-relieful-caracteristici-generale-sistemul",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "pin",
+   "dificultate": 2,
+   "enunt": "Atinge pe hartă Munții Stâncoși (Cordilierii, SUA).",
+   "date": {
+    "harta": "lume",
+    "tinta": {
+     "lat": 42,
+     "lon": -110,
+     "nume": "Munții Stâncoși"
+    },
+    "toleranta": 700
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Munții Stâncoși sunt în vestul SUA și Canadei."
+   }
+  },
+  {
+   "id": "VII23b-10",
+   "nivel": "VII-S23-relieful-caracteristici-generale-sistemul",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "pin",
+   "dificultate": 2,
+   "enunt": "Atinge pe hartă Aconcagua.",
+   "date": {
+    "harta": "lume",
+    "tinta": {
+     "lat": -32.65,
+     "lon": -70.01,
+     "nume": "Aconcagua"
+    },
+    "toleranta": 400
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Aconcagua e în Argentina, lângă granița cu Chile."
+   },
+   "surse": [
+    "Encyclopaedia Britannica – Aconcagua",
+    "Wikipedia – Aconcagua"
+   ]
+  },
+  {
+   "id": "VII23b-11",
+   "nivel": "VII-S23-relieful-caracteristici-generale-sistemul",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "pin",
+   "dificultate": 3,
+   "enunt": "Atinge pe hartă Marele Canion.",
+   "date": {
+    "harta": "lume",
+    "tinta": {
+     "lat": 36.1,
+     "lon": -112.1,
+     "nume": "Marele Canion"
+    },
+    "toleranta": 400
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Marele Canion e în statul Arizona."
+   }
+  },
+  {
+   "id": "VII23b-12",
+   "nivel": "VII-S23-relieful-caracteristici-generale-sistemul",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "pin",
+   "dificultate": 3,
+   "enunt": "Atinge pe hartă Munții Apalași.",
+   "date": {
+    "harta": "lume",
+    "tinta": {
+     "lat": 37,
+     "lon": -81,
+     "nume": "Apalașii"
+    },
+    "toleranta": 600
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Apalașii sunt în estul SUA."
+   }
+  },
+  {
+   "id": "VII23b-13",
+   "nivel": "VII-S23-relieful-caracteristici-generale-sistemul",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce munți vechi se află în estul SUA?",
+   "date": {
+    "variante": [
+     "Apalașii",
+     "Munții Stâncoși",
+     "Anzii",
+     "Sierra Nevada"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Sunt munți vechi, erodați."
+   }
+  },
+  {
+   "id": "VII23b-14",
+   "nivel": "VII-S23-relieful-caracteristici-generale-sistemul",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Care e cel mai jos punct al Americii de Nord?",
+   "date": {
+    "variante": [
+     "Valea Morții (−86 m)",
+     "Marele Canion",
+     "Golful Mexic",
+     "Lacul Superior"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Badwater, în Valea Morții."
+   },
+   "surse": [
+    "National Park Service – Death Valley: Badwater Basin (−282 ft / −86 m)",
+    "Encyclopaedia Britannica – Death Valley"
+   ]
+  },
+  {
+   "id": "VII23b-15",
+   "nivel": "VII-S23-relieful-caracteristici-generale-sistemul",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce podiș înalt se află între două lanțuri ale Anzilor, în Bolivia și Peru?",
+   "date": {
+    "variante": [
+     "Altiplano",
+     "Podișul Braziliei",
+     "Podișul Labrador",
+     "Marele Bazin"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Pe Altiplano e Lacul Titicaca."
+   }
+  },
+  {
+   "id": "VII23b-16",
+   "nivel": "VII-S23-relieful-caracteristici-generale-sistemul",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce câmpie întinsă se află în Argentina?",
+   "date": {
+    "variante": [
+     "Pampasul",
+     "Marile Câmpii",
+     "Câmpia Amazonului",
+     "Câmpia Orinoco"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Pampasul e o mare zonă agricolă."
+   }
+  },
+  {
+   "id": "VII23b-17",
+   "nivel": "VII-S23-relieful-caracteristici-generale-sistemul",
+   "competente": [
+    "VII-2.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Adevărat sau fals? Munții din vestul Americilor sunt tineri, iar cei din est sunt vechi.",
+   "date": {
+    "variante": [
+     "Adevărat",
+     "Fals"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Adevărat: Anzii și Cordilierii sunt tineri; Apalașii, vechi."
+   }
+  },
+  {
+   "id": "VII23b-18",
+   "nivel": "VII-S23-relieful-caracteristici-generale-sistemul",
+   "competente": [
+    "VII-2.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Adevărat sau fals? Aconcagua e un vârf din Munții Stâncoși.",
+   "date": {
+    "variante": [
+     "Fals",
+     "Adevărat"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Fals: e în Anzi, în Argentina."
+   }
+  },
+  {
+   "id": "VII23b-19",
+   "nivel": "VII-S23-relieful-caracteristici-generale-sistemul",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "lacunar",
+   "dificultate": 2,
+   "enunt": "Completează.",
+   "date": {
+    "text": "Cel mai înalt vârf din America de Sud este {0}, iar din America de Nord este {1}.",
+    "raspunsuri": [
+     "Aconcagua",
+     "Denali"
+    ],
+    "distractori": [
+     "Everest",
+     "Whitney"
+    ]
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Aconcagua, Denali."
+   }
+  },
+  {
+   "id": "VII23b-20",
+   "nivel": "VII-S23-relieful-caracteristici-generale-sistemul",
+   "competente": [
+    "VII-1.2"
+   ],
+   "tip": "lacunar",
+   "dificultate": 2,
+   "enunt": "Completează.",
+   "date": {
+    "text": "Râul {0} a săpat Marele Canion; Munții {1} sunt munți vechi din estul SUA.",
+    "raspunsuri": [
+     "Colorado",
+     "Apalași"
+    ],
+    "distractori": [
+     "Mississippi",
+     "Anzi"
+    ]
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Colorado, Apalași."
+   }
+  },
+  {
+   "id": "VII23b-21",
+   "nivel": "VII-S23-relieful-caracteristici-generale-sistemul",
+   "competente": [
+    "VII-2.3",
+    "VII-4.1"
+   ],
+   "tip": "grafic",
+   "dificultate": 3,
+   "enunt": "Profilul schematic arată relieful de la vest la est prin America de Sud, la latitudinea Perului. Unde e altitudinea cea mai mare?",
+   "date": {
+    "grafic": {
+     "tip": "profil",
+     "titlu": "Profil schematic: Pacific – Anzi – Amazonia – Atlantic",
+     "date": [
+      {
+       "eticheta": "țărmul Pacificului",
+       "valoare": 0
+      },
+      {
+       "eticheta": "Anzii",
+       "valoare": 6000
+      },
+      {
+       "eticheta": "Altiplano",
+       "valoare": 3800
+      },
+      {
+       "eticheta": "Câmpia Amazonului",
+       "valoare": 150
+      },
+      {
+       "eticheta": "Podișul Braziliei",
+       "valoare": 900
+      },
+      {
+       "eticheta": "țărmul Atlanticului",
+       "valoare": 0
+      }
+     ],
+     "unitate": "m"
+    },
+    "variante": [
+     "în Anzi",
+     "în Câmpia Amazonului",
+     "pe țărmul Atlanticului",
+     "în Podișul Braziliei"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Munții tineri sunt la vest."
+   }
+  },
+  {
+   "id": "VII23b-22",
+   "nivel": "VII-S23-relieful-caracteristici-generale-sistemul",
+   "competente": [
+    "VII-4.2",
+    "VII-3.1"
+   ],
+   "tip": "ordoneaza",
+   "dificultate": 3,
+   "enunt": "Ordonează vârfurile de la cel mai înalt la cel mai jos.",
+   "date": {
+    "elemente": [
+     "Everest",
+     "Aconcagua",
+     "Denali",
+     "Kilimanjaro",
+     "Mont Blanc"
+    ],
+    "criteriu": "Altitudine, descrescător"
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "8 848,86 / 6 961 / 6 190 / 5 895 / aproximativ 4 805 m."
+   },
+   "surse": [
+    "Encyclopaedia Britannica – Aconcagua",
+    "Wikipedia – Aconcagua"
+   ]
+  },
+  {
+   "id": "VII23b-23",
+   "nivel": "VII-S23-relieful-caracteristici-generale-sistemul",
+   "competente": [
+    "VII-4.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 3,
+   "enunt": "Compară Anzii cu Himalaya.",
+   "date": {
+    "variante": [
+     "ambii sunt munți tineri, dar Himalaya s-a format prin ciocnirea a două continente, iar Anzii prin subducția unei plăci oceanice",
+     "sunt munți vechi",
+     "s-au format din ghețari",
+     "sunt identici"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Două tipuri de margini de plăci."
+   }
+  },
+  {
+   "id": "VII23b-24",
+   "nivel": "VII-S23-relieful-caracteristici-generale-sistemul",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "denumeste",
+   "dificultate": 2,
+   "enunt": "Ce munți vechi, foarte erodați, din estul Canadei și SUA, sunt marcați pe hartă?",
+   "date": {
+    "harta": "lume",
+    "punct": {
+     "lat": 40,
+     "lon": -78
+    },
+    "variante": [
+     "Apalașii",
+     "Munții Stâncoși",
+     "Sierra Nevada",
+     "Anzii"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Apalașii au cărbune."
+   }
+  },
+  {
+   "id": "VII23b-25",
+   "nivel": "VII-S23-relieful-caracteristici-generale-sistemul",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce câmpie mare se află între Munții Stâncoși și Mississippi?",
+   "date": {
+    "variante": [
+     "Marile Câmpii",
+     "Pampasul",
+     "Câmpia Amazonului",
+     "Câmpia Orinoco"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Marile Câmpii sunt o zonă agricolă uriașă."
+   }
+  },
+  {
+   "id": "VII23b-26",
+   "nivel": "VII-S23-relieful-caracteristici-generale-sistemul",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce vulcan mexican e activ, lângă Ciudad de México?",
+   "date": {
+    "variante": [
+     "Popocatépetl",
+     "Denali",
+     "Aconcagua",
+     "Fuji"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Popocatépetl înseamnă „muntele care fumegă”."
+   }
+  },
+  {
+   "id": "VII23b-27",
+   "nivel": "VII-S23-relieful-caracteristici-generale-sistemul",
+   "competente": [
+    "VII-4.4"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce fenomen periculos amenință orașe ca San Francisco?",
+   "date": {
+    "variante": [
+     "cutremurele (falia San Andreas)",
+     "avalanșele de nisip",
+     "taifunurile de zăpadă",
+     "erupțiile de gheață"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Falia San Andreas e granița dintre două plăci."
+   }
+  },
+  {
+   "id": "VII23b-28",
+   "nivel": "VII-S23-relieful-caracteristici-generale-sistemul",
+   "competente": [
+    "VII-2.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "De ce Podișul Braziliei are altitudini mici, deși e vechi?",
+   "date": {
+    "variante": [
+     "pentru că a fost erodat milioane de ani",
+     "pentru că e tânăr",
+     "pentru că e sub mare",
+     "pentru că e vulcanic"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Reliefurile vechi sunt tocite."
+   }
+  },
+  {
+   "id": "VII23b-29",
+   "nivel": "VII-S23-relieful-caracteristici-generale-sistemul",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce vulcan din Ecuador, pe Ecuator, are vârful cel mai îndepărtat de centrul Pământului?",
+   "date": {
+    "variante": [
+     "Chimborazo",
+     "Aconcagua",
+     "Denali",
+     "Popocatépetl"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Din cauza turtirii Pământului la poli."
+   }
+  },
+  {
+   "id": "VII23b-30",
+   "nivel": "VII-S23-relieful-caracteristici-generale-sistemul",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce formă de relief a fost săpată de râul Colorado?",
+   "date": {
+    "variante": [
+     "Marele Canion",
+     "Valea Morții",
+     "Golful Mexic",
+     "Marile Lacuri"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Un canion e o vale foarte adâncă cu pereți abrupți."
+   }
+  },
+  {
+   "id": "VII24a-01",
+   "nivel": "VII-S24-hidrografia-caracteristici-generale-fluvii",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 1,
+   "enunt": "Ce fluviu are cea mai mare cantitate de apă de pe Pământ?",
+   "date": {
+    "variante": [
+     "Amazonul",
+     "Nilul",
+     "Mississippi",
+     "Dunărea"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Amazonul are și cel mai mare bazin."
+   },
+   "surse": [
+    "Encyclopaedia Britannica – Amazon River",
+    "Wikipedia – Amazon River"
+   ]
+  },
+  {
+   "id": "VII24a-02",
+   "nivel": "VII-S24-hidrografia-caracteristici-generale-fluvii",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Unde se varsă Amazonul?",
+   "date": {
+    "variante": [
+     "în Oceanul Atlantic",
+     "în Oceanul Pacific",
+     "în Golful Mexic",
+     "în Marea Caraibilor"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Amazonul curge de la Anzi spre est."
+   }
+  },
+  {
+   "id": "VII24a-03",
+   "nivel": "VII-S24-hidrografia-caracteristici-generale-fluvii",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Unde se varsă Mississippi?",
+   "date": {
+    "variante": [
+     "în Golful Mexic",
+     "în Oceanul Pacific",
+     "în Marile Lacuri",
+     "în Golful Hudson"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Mississippi formează o deltă lângă New Orleans."
+   },
+   "surse": [
+    "Encyclopaedia Britannica – Mississippi River",
+    "National Park Service – Mississippi River Facts"
+   ]
+  },
+  {
+   "id": "VII24a-04",
+   "nivel": "VII-S24-hidrografia-caracteristici-generale-fluvii",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce fluviu duce apa Marilor Lacuri spre Atlantic?",
+   "date": {
+    "variante": [
+     "Sfântul Laurențiu",
+     "Mississippi",
+     "Colorado",
+     "Yukon"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Fluviul trece pe lângă Montréal și Québec."
+   }
+  },
+  {
+   "id": "VII24a-05",
+   "nivel": "VII-S24-hidrografia-caracteristici-generale-fluvii",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "asociaza",
+   "dificultate": 2,
+   "enunt": "Asociază lacul sau cascada cu țara.",
+   "date": {
+    "perechi": [
+     [
+      "Lacul Titicaca",
+      "Peru și Bolivia"
+     ],
+     [
+      "Salto Angel",
+      "Venezuela"
+     ],
+     [
+      "Cascada Iguazú",
+      "Argentina și Brazilia"
+     ],
+     [
+      "Cascadele Niagara",
+      "SUA și Canada"
+     ]
+    ]
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Ape celebre."
+   }
+  },
+  {
+   "id": "VII24a-06",
+   "nivel": "VII-S24-hidrografia-caracteristici-generale-fluvii",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Care e cel mai mare lac de apă dulce ca suprafață?",
+   "date": {
+    "variante": [
+     "Lacul Superior",
+     "Lacul Titicaca",
+     "Lacul Baikal",
+     "Lacul Victoria"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Superior e unul dintre Marile Lacuri."
+   },
+   "surse": [
+    "Encyclopaedia Britannica – Lake Superior",
+    "U.S. EPA – Great Lakes Facts and Figures"
+   ]
+  },
+  {
+   "id": "VII24a-07",
+   "nivel": "VII-S24-hidrografia-caracteristici-generale-fluvii",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Care e cea mai înaltă cascadă de pe Pământ?",
+   "date": {
+    "variante": [
+     "Salto Angel (979 m)",
+     "Niagara",
+     "Iguazú",
+     "Victoria"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Salto Angel e în Venezuela."
+   },
+   "surse": [
+    "Encyclopaedia Britannica – Angel Falls",
+    "Wikipedia – Angel Falls"
+   ]
+  },
+  {
+   "id": "VII24a-08",
+   "nivel": "VII-S24-hidrografia-caracteristici-generale-fluvii",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "La ce altitudine se află Lacul Titicaca?",
+   "date": {
+    "variante": [
+     "aproximativ 3 810 m",
+     "aproximativ 381 m",
+     "la nivelul mării",
+     "aproximativ 8 000 m"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "E cel mai înalt lac navigabil mare."
+   },
+   "surse": [
+    "Encyclopaedia Britannica – Lake Titicaca",
+    "Wikipedia – Lake Titicaca"
+   ]
+  },
+  {
+   "id": "VII24a-09",
+   "nivel": "VII-S24-hidrografia-caracteristici-generale-fluvii",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "etichete",
+   "dificultate": 2,
+   "enunt": "Pune pe hartă Marile Lacuri.",
+   "date": {
+    "tinte": [
+     {
+      "id": "sup",
+      "eticheta": "Lacul Superior",
+      "lat": 47.7,
+      "lon": -87.5
+     },
+     {
+      "id": "mic",
+      "eticheta": "Lacul Michigan",
+      "lat": 44,
+      "lon": -87
+     },
+     {
+      "id": "hur",
+      "eticheta": "Lacul Huron",
+      "lat": 44.8,
+      "lon": -82.4
+     },
+     {
+      "id": "eri",
+      "eticheta": "Lacul Erie",
+      "lat": 42.2,
+      "lon": -81.2
+     },
+     {
+      "id": "ont",
+      "eticheta": "Lacul Ontario",
+      "lat": 43.7,
+      "lon": -77.9
+     }
+    ],
+    "harta": "lume"
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "De la vest la est: Superior, Michigan, Huron, Erie, Ontario."
+   }
+  },
+  {
+   "id": "VII24a-10",
+   "nivel": "VII-S24-hidrografia-caracteristici-generale-fluvii",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "pin",
+   "dificultate": 2,
+   "enunt": "Atinge pe hartă vărsarea Amazonului.",
+   "date": {
+    "harta": "lume",
+    "tinta": {
+     "lat": -0.5,
+     "lon": -50,
+     "nume": "vărsarea Amazonului"
+    },
+    "toleranta": 400
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Amazonul se varsă în Atlantic, în nordul Braziliei."
+   },
+   "surse": [
+    "Encyclopaedia Britannica – Amazon River",
+    "Wikipedia – Amazon River"
+   ]
+  },
+  {
+   "id": "VII24a-11",
+   "nivel": "VII-S24-hidrografia-caracteristici-generale-fluvii",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "pin",
+   "dificultate": 2,
+   "enunt": "Atinge pe hartă Delta Mississippi.",
+   "date": {
+    "harta": "lume",
+    "tinta": {
+     "lat": 29.2,
+     "lon": -89.3,
+     "nume": "Delta Mississippi"
+    },
+    "toleranta": 400
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Lângă New Orleans."
+   },
+   "surse": [
+    "Encyclopaedia Britannica – Mississippi River",
+    "National Park Service – Mississippi River Facts"
+   ]
+  },
+  {
+   "id": "VII24a-12",
+   "nivel": "VII-S24-hidrografia-caracteristici-generale-fluvii",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "pin",
+   "dificultate": 3,
+   "enunt": "Atinge pe hartă Lacul Titicaca.",
+   "date": {
+    "harta": "lume",
+    "tinta": {
+     "lat": -15.8,
+     "lon": -69.4,
+     "nume": "Lacul Titicaca"
+    },
+    "toleranta": 300
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Titicaca e la granița Peru–Bolivia."
+   },
+   "surse": [
+    "Encyclopaedia Britannica – Lake Titicaca",
+    "Wikipedia – Lake Titicaca"
+   ]
+  },
+  {
+   "id": "VII24a-13",
+   "nivel": "VII-S24-hidrografia-caracteristici-generale-fluvii",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "pin",
+   "dificultate": 3,
+   "enunt": "Atinge pe hartă Cascadele Niagara.",
+   "date": {
+    "harta": "lume",
+    "tinta": {
+     "lat": 43.08,
+     "lon": -79.07,
+     "nume": "Niagara"
+    },
+    "toleranta": 300
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Între Lacul Erie și Lacul Ontario."
+   }
+  },
+  {
+   "id": "VII24a-14",
+   "nivel": "VII-S24-hidrografia-caracteristici-generale-fluvii",
+   "competente": [
+    "VII-2.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "De ce Amazonul are atât de multă apă?",
+   "date": {
+    "variante": [
+     "bazinul lui primește ploi abundente tot anul, pe Ecuator",
+     "se topesc ghețari uriași",
+     "e alimentat de mare",
+     "nu are afluenți"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Peste 1 000 de afluenți."
+   }
+  },
+  {
+   "id": "VII24a-15",
+   "nivel": "VII-S24-hidrografia-caracteristici-generale-fluvii",
+   "competente": [
+    "VII-2.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Cum s-au format Marile Lacuri?",
+   "date": {
+    "variante": [
+     "ghețarii uriași au săpat depresiuni care s-au umplut cu apă",
+     "prin erupții vulcanice",
+     "le-au săpat oamenii",
+     "din meteoriți"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Sunt lacuri glaciare."
+   }
+  },
+  {
+   "id": "VII24a-16",
+   "nivel": "VII-S24-hidrografia-caracteristici-generale-fluvii",
+   "competente": [
+    "VII-2.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Adevărat sau fals? Marile Lacuri au apă sărată.",
+   "date": {
+    "variante": [
+     "Fals",
+     "Adevărat"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Fals: sunt cea mai mare suprafață de apă dulce de pe Pământ."
+   }
+  },
+  {
+   "id": "VII24a-17",
+   "nivel": "VII-S24-hidrografia-caracteristici-generale-fluvii",
+   "competente": [
+    "VII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Adevărat sau fals? Fluviul Mississippi e o cale de transport importantă în SUA.",
+   "date": {
+    "variante": [
+     "Adevărat",
+     "Fals"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Adevărat: pe el circulă șlepuri cu cereale și mărfuri."
+   }
+  },
+  {
+   "id": "VII24a-18",
+   "nivel": "VII-S24-hidrografia-caracteristici-generale-fluvii",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "lacunar",
+   "dificultate": 2,
+   "enunt": "Completează.",
+   "date": {
+    "text": "Între lacurile Erie și Ontario se află Cascadele {0}; cea mai înaltă cascadă din lume este {1}.",
+    "raspunsuri": [
+     "Niagara",
+     "Salto Angel"
+    ],
+    "distractori": [
+     "Victoria",
+     "Iguazú"
+    ]
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Niagara, Salto Angel."
+   }
+  },
+  {
+   "id": "VII24a-19",
+   "nivel": "VII-S24-hidrografia-caracteristici-generale-fluvii",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "lacunar",
+   "dificultate": 2,
+   "enunt": "Completează.",
+   "date": {
+    "text": "Amazonul se varsă în Oceanul {0}, iar Mississippi în Golful {1}.",
+    "raspunsuri": [
+     "Atlantic",
+     "Mexic"
+    ],
+    "distractori": [
+     "Pacific",
+     "Hudson"
+    ]
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Atlantic, Mexic."
+   }
+  },
+  {
+   "id": "VII24a-20",
+   "nivel": "VII-S24-hidrografia-caracteristici-generale-fluvii",
+   "competente": [
+    "VII-2.3",
+    "VII-4.1"
+   ],
+   "tip": "grafic",
+   "dificultate": 3,
+   "enunt": "Graficul compară debitul mediu al unor fluvii (mii m³/s, valori rotunjite). De câte ori e mai mare debitul Amazonului decât al Mississippi?",
+   "date": {
+    "grafic": {
+     "tip": "bare",
+     "titlu": "Debit mediu (mii m³/s, valori rotunjite)",
+     "date": [
+      {
+       "eticheta": "Amazon",
+       "valoare": 209
+      },
+      {
+       "eticheta": "Congo",
+       "valoare": 41
+      },
+      {
+       "eticheta": "Mississippi",
+       "valoare": 17
+      },
+      {
+       "eticheta": "Dunărea",
+       "valoare": 6.5
+      }
+     ],
+     "unitate": "mii m³/s",
+     "sursa": "Encyclopaedia Britannica; ICPDR"
+    },
+    "variante": [
+     "de aproximativ 12 ori",
+     "de 2 ori",
+     "la fel",
+     "de 100 de ori"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "209 : 17 ≈ 12."
+   },
+   "surse": [
+    "Encyclopaedia Britannica – Amazon River",
+    "Wikipedia – Amazon River"
+   ]
+  },
+  {
+   "id": "VII24a-21",
+   "nivel": "VII-S24-hidrografia-caracteristici-generale-fluvii",
+   "competente": [
+    "VII-4.2",
+    "VII-3.1"
+   ],
+   "tip": "ordoneaza",
+   "dificultate": 3,
+   "enunt": "Ordonează Marile Lacuri de la vest la est.",
+   "date": {
+    "elemente": [
+     "Superior",
+     "Michigan",
+     "Huron",
+     "Erie",
+     "Ontario"
+    ],
+    "criteriu": "De la vest la est"
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Apa curge de la Superior spre Ontario, apoi pe Sfântul Laurențiu."
+   }
+  },
+  {
+   "id": "VII24a-22",
+   "nivel": "VII-S24-hidrografia-caracteristici-generale-fluvii",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "denumeste",
+   "dificultate": 2,
+   "enunt": "Ce fluviu sud-american e marcat pe hartă, în Venezuela?",
+   "date": {
+    "harta": "lume",
+    "punct": {
+     "lat": 8,
+     "lon": -64
+    },
+    "variante": [
+     "Orinoco",
+     "Amazon",
+     "Paraná",
+     "Magdalena"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Orinoco se varsă în Atlantic printr-o deltă."
+   }
+  },
+  {
+   "id": "VII24a-23",
+   "nivel": "VII-S24-hidrografia-caracteristici-generale-fluvii",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce fluviu din Alaska curge spre Marea Bering?",
+   "date": {
+    "variante": [
+     "Yukon",
+     "Mackenzie",
+     "Colorado",
+     "Ohio"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Yukon traversează Canada și Alaska."
+   }
+  },
+  {
+   "id": "VII24a-24",
+   "nivel": "VII-S24-hidrografia-caracteristici-generale-fluvii",
+   "competente": [
+    "VII-4.4"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "De ce râul Colorado nu mai ajunge uneori la mare?",
+   "date": {
+    "variante": [
+     "apa lui e folosită aproape în întregime pentru orașe și irigații",
+     "s-a înghețat",
+     "l-a acoperit un vulcan",
+     "s-a schimbat clima brusc"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Barajele și irigațiile îl secătuiesc."
+   }
+  },
+  {
+   "id": "VII24a-25",
+   "nivel": "VII-S24-hidrografia-caracteristici-generale-fluvii",
+   "competente": [
+    "VII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce baraj mare de pe Paraná, între Brazilia și Paraguay, produce multă energie?",
+   "date": {
+    "variante": [
+     "Itaipu",
+     "Hoover",
+     "Assuan",
+     "Porțile de Fier"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Itaipu e una dintre cele mai mari hidrocentrale."
+   }
+  },
+  {
+   "id": "VII24a-26",
+   "nivel": "VII-S24-hidrografia-caracteristici-generale-fluvii",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce oraș mare e la vărsarea Mississippi?",
+   "date": {
+    "variante": [
+     "New Orleans",
+     "New York",
+     "Chicago",
+     "Los Angeles"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "New Orleans e un port important."
+   }
+  },
+  {
+   "id": "VII24a-27",
+   "nivel": "VII-S24-hidrografia-caracteristici-generale-fluvii",
+   "competente": [
+    "VII-2.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 3,
+   "enunt": "De ce Amazonul nu formează o deltă clasică, ca Nilul?",
+   "date": {
+    "variante": [
+     "curenții și mareele puternice ale Atlanticului împrăștie aluviunile",
+     "pentru că nu are aluviuni",
+     "pentru că se varsă în Pacific",
+     "pentru că e înghețat"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "La gura Amazonului sunt insule mari, ca Marajó."
+   }
+  },
+  {
+   "id": "VII24a-28",
+   "nivel": "VII-S24-hidrografia-caracteristici-generale-fluvii",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce oraș canadian e pe fluviul Sfântul Laurențiu?",
+   "date": {
+    "variante": [
+     "Montréal",
+     "Vancouver",
+     "Calgary",
+     "Edmonton"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Montréal e un mare port fluvial."
+   }
+  },
+  {
+   "id": "VII24a-29",
+   "nivel": "VII-S24-hidrografia-caracteristici-generale-fluvii",
+   "competente": [
+    "VII-3.4"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce cascadă celebră e în patrimoniul UNESCO, la granița Argentinei cu Brazilia?",
+   "date": {
+    "variante": [
+     "Iguazú",
+     "Niagara",
+     "Salto Angel",
+     "Victoria"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Parcul Iguazú e patrimoniu natural."
+   },
+   "surse": [
+    "UNESCO World Heritage Centre – lista patrimoniului mondial (whc.unesco.org)",
+    "Encyclopaedia Britannica – Machu Picchu"
+   ]
+  },
+  {
+   "id": "VII24a-30",
+   "nivel": "VII-S24-hidrografia-caracteristici-generale-fluvii",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "În ce țară e cea mai mare parte a bazinului Amazonului?",
+   "date": {
+    "variante": [
+     "Brazilia",
+     "Argentina",
+     "Chile",
+     "Mexic"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Amazonul izvorăște din Anzii peruani."
+   }
+  },
+  {
+   "id": "VII24b-01",
+   "nivel": "VII-S24-diferentieri-climatice-biogeografice",
+   "competente": [
+    "VII-2.2"
+   ],
+   "tip": "asociaza",
+   "dificultate": 1,
+   "enunt": "Asociază climatul cu regiunea.",
+   "date": {
+    "perechi": [
+     [
+      "polar",
+      "nordul Canadei"
+     ],
+     [
+      "mediteranean",
+      "California și centrul Chile"
+     ],
+     [
+      "tropical-deșertic",
+      "Atacama"
+     ],
+     [
+      "ecuatorial",
+      "Amazonia"
+     ]
+    ]
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Climatele Americilor."
+   }
+  },
+  {
+   "id": "VII24b-02",
+   "nivel": "VII-S24-diferentieri-climatice-biogeografice",
+   "competente": [
+    "VII-2.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 1,
+   "enunt": "Ce deșert din Chile e unul dintre cele mai uscate locuri de pe Pământ?",
+   "date": {
+    "variante": [
+     "Atacama",
+     "Sahara",
+     "Gobi",
+     "Kalahari"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "În unele zone nu a plouat ani la rând."
+   }
+  },
+  {
+   "id": "VII24b-03",
+   "nivel": "VII-S24-diferentieri-climatice-biogeografice",
+   "competente": [
+    "VII-4.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 1,
+   "enunt": "Unde s-a înregistrat cea mai ridicată temperatură a aerului de pe Pământ?",
+   "date": {
+    "variante": [
+     "în Valea Morții, SUA (56,7 °C)",
+     "în Sahara",
+     "în Atacama",
+     "în Amazonia"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Pe 10 iulie 1913."
+   },
+   "surse": [
+    "WMO – World Weather and Climate Extremes Archive",
+    "NOAA NCEI – Global extremes"
+   ]
+  },
+  {
+   "id": "VII24b-04",
+   "nivel": "VII-S24-diferentieri-climatice-biogeografice",
+   "competente": [
+    "VII-2.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "De ce în SUA apar multe tornade?",
+   "date": {
+    "variante": [
+     "aerul rece din nord și cel cald și umed din sud se întâlnesc deasupra câmpiilor",
+     "pentru că e deșert",
+     "pentru că e lângă pol",
+     "pentru că sunt vulcani"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Câmpiile centrale sunt numite „Aleea tornadelor”."
+   }
+  },
+  {
+   "id": "VII24b-05",
+   "nivel": "VII-S24-diferentieri-climatice-biogeografice",
+   "competente": [
+    "VII-2.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce furtuni tropicale lovesc țărmul Golfului Mexic?",
+   "date": {
+    "variante": [
+     "uraganele",
+     "musonii",
+     "viscolele",
+     "harmattanul"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Uraganele se formează deasupra apelor calde ale oceanului."
+   }
+  },
+  {
+   "id": "VII24b-06",
+   "nivel": "VII-S24-diferentieri-climatice-biogeografice",
+   "competente": [
+    "VII-3.3"
+   ],
+   "tip": "asociaza",
+   "dificultate": 2,
+   "enunt": "Asociază animalul cu zona.",
+   "date": {
+    "perechi": [
+     [
+      "jaguarul",
+      "pădurea amazoniană"
+     ],
+     [
+      "bizonul",
+      "preria"
+     ],
+     [
+      "lama",
+      "Anzii"
+     ],
+     [
+      "caribu",
+      "tundra"
+     ]
+    ]
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Fauna Americilor."
+   }
+  },
+  {
+   "id": "VII24b-07",
+   "nivel": "VII-S24-diferentieri-climatice-biogeografice",
+   "competente": [
+    "VII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce animale din Anzi sunt crescute pentru lână?",
+   "date": {
+    "variante": [
+     "lama și alpaca",
+     "bizonul și elanul",
+     "jaguarul și puma",
+     "castorul și ratonul"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Lâna de alpaca e foarte fină."
+   }
+  },
+  {
+   "id": "VII24b-08",
+   "nivel": "VII-S24-diferentieri-climatice-biogeografice",
+   "competente": [
+    "VII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce sunt preriile?",
+   "date": {
+    "variante": [
+     "întinderi cu ierburi din centrul Americii de Nord, azi în mare parte cultivate",
+     "păduri tropicale",
+     "deșerturi de gheață",
+     "munți înalți"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Pe prerii trăiau milioane de bizoni."
+   }
+  },
+  {
+   "id": "VII24b-09",
+   "nivel": "VII-S24-diferentieri-climatice-biogeografice",
+   "competente": [
+    "VII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Care e cea mai mare pădure tropicală de pe Pământ?",
+   "date": {
+    "variante": [
+     "pădurea amazoniană",
+     "pădurea Congo",
+     "taigaua",
+     "pădurea din Borneo"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Amazonia se întinde în nouă țări."
+   }
+  },
+  {
+   "id": "VII24b-10",
+   "nivel": "VII-S24-diferentieri-climatice-biogeografice",
+   "competente": [
+    "VII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce cactus uriaș e simbolul deșerturilor din sud-vestul SUA și Mexic?",
+   "date": {
+    "variante": [
+     "saguaro",
+     "baobabul",
+     "molidul",
+     "bambusul"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Saguaro poate trăi peste 150 de ani."
+   }
+  },
+  {
+   "id": "VII24b-11",
+   "nivel": "VII-S24-diferentieri-climatice-biogeografice",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "pin",
+   "dificultate": 2,
+   "enunt": "Atinge pe hartă deșertul Atacama.",
+   "date": {
+    "harta": "lume",
+    "tinta": {
+     "lat": -24,
+     "lon": -69.5,
+     "nume": "Atacama"
+    },
+    "toleranta": 500
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Atacama e în nordul Chile."
+   }
+  },
+  {
+   "id": "VII24b-12",
+   "nivel": "VII-S24-diferentieri-climatice-biogeografice",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "pin",
+   "dificultate": 2,
+   "enunt": "Atinge pe hartă Valea Morții.",
+   "date": {
+    "harta": "lume",
+    "tinta": {
+     "lat": 36.5,
+     "lon": -117,
+     "nume": "Valea Morții"
+    },
+    "toleranta": 400
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Valea Morții e în California."
+   },
+   "surse": [
+    "National Park Service – Death Valley: Badwater Basin (−282 ft / −86 m)",
+    "Encyclopaedia Britannica – Death Valley"
+   ]
+  },
+  {
+   "id": "VII24b-13",
+   "nivel": "VII-S24-diferentieri-climatice-biogeografice",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "pin",
+   "dificultate": 3,
+   "enunt": "Atinge pe hartă Pampasul argentinian.",
+   "date": {
+    "harta": "lume",
+    "tinta": {
+     "lat": -35,
+     "lon": -62,
+     "nume": "Pampasul"
+    },
+    "toleranta": 600
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Pampasul e în jurul orașului Buenos Aires."
+   }
+  },
+  {
+   "id": "VII24b-14",
+   "nivel": "VII-S24-diferentieri-climatice-biogeografice",
+   "competente": [
+    "VII-4.4"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce amenință pădurea amazoniană?",
+   "date": {
+    "variante": [
+     "defrișările pentru pășuni, culturi de soia și exploatarea lemnului",
+     "zăpada",
+     "frigul polar",
+     "lipsa ploii totală"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Incendiile sunt folosite pentru curățarea terenului."
+   }
+  },
+  {
+   "id": "VII24b-15",
+   "nivel": "VII-S24-diferentieri-climatice-biogeografice",
+   "competente": [
+    "VII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce animal din taiga construiește baraje pe râuri?",
+   "date": {
+    "variante": [
+     "castorul",
+     "jaguarul",
+     "lama",
+     "condorul"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Castorul e simbolul Canadei."
+   }
+  },
+  {
+   "id": "VII24b-16",
+   "nivel": "VII-S24-diferentieri-climatice-biogeografice",
+   "competente": [
+    "VII-2.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Adevărat sau fals? În America de Nord, munții orientați de la nord la sud lasă aerul rece și cel cald să circule liber prin câmpiile centrale.",
+   "date": {
+    "variante": [
+     "Adevărat",
+     "Fals"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Adevărat: de aceea apar tornade și ierni geroase până în sud."
+   }
+  },
+  {
+   "id": "VII24b-17",
+   "nivel": "VII-S24-diferentieri-climatice-biogeografice",
+   "competente": [
+    "VII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Adevărat sau fals? Lamele trăiesc în pădurea amazoniană.",
+   "date": {
+    "variante": [
+     "Fals",
+     "Adevărat"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Fals: trăiesc în Anzi, la altitudini mari."
+   }
+  },
+  {
+   "id": "VII24b-18",
+   "nivel": "VII-S24-diferentieri-climatice-biogeografice",
+   "competente": [
+    "VII-2.2"
+   ],
+   "tip": "lacunar",
+   "dificultate": 2,
+   "enunt": "Completează.",
+   "date": {
+    "text": "Cel mai uscat deșert e {0}, iar cea mai mare pădure tropicală e pădurea {1}.",
+    "raspunsuri": [
+     "Atacama",
+     "amazoniană"
+    ],
+    "distractori": [
+     "Sahara",
+     "siberiană"
+    ]
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Atacama, amazoniană."
+   }
+  },
+  {
+   "id": "VII24b-19",
+   "nivel": "VII-S24-diferentieri-climatice-biogeografice",
+   "competente": [
+    "VII-3.3"
+   ],
+   "tip": "lacunar",
+   "dificultate": 2,
+   "enunt": "Completează.",
+   "date": {
+    "text": "Pe prerii trăiau milioane de {0}; în Anzi zboară {1}.",
+    "raspunsuri": [
+     "bizoni",
+     "condorul"
+    ],
+    "distractori": [
+     "pinguini",
+     "vulturul pleșuv"
+    ]
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Bizoni, condor."
+   }
+  },
+  {
+   "id": "VII24b-20",
+   "nivel": "VII-S24-diferentieri-climatice-biogeografice",
+   "competente": [
+    "VII-2.3",
+    "VII-4.1"
+   ],
+   "tip": "grafic",
+   "dificultate": 3,
+   "enunt": "Graficul arată suprafața defrișată anual într-o zonă imaginară din Amazonia. Ce observi?",
+   "date": {
+    "grafic": {
+     "tip": "profil",
+     "titlu": "Suprafață defrișată pe an (date imaginare)",
+     "date": [
+      {
+       "eticheta": "2016",
+       "valoare": 8
+      },
+      {
+       "eticheta": "2018",
+       "valoare": 9
+      },
+      {
+       "eticheta": "2020",
+       "valoare": 12
+      },
+      {
+       "eticheta": "2022",
+       "valoare": 11
+      },
+      {
+       "eticheta": "2024",
+       "valoare": 7
+      }
+     ],
+     "unitate": "mii km²"
+    },
+    "variante": [
+     "defrișarea a crescut până în 2020, apoi a scăzut",
+     "a crescut mereu",
+     "a scăzut mereu",
+     "a fost aceeași"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Politicile de protecție pot reduce defrișările."
+   }
+  },
+  {
+   "id": "VII24b-21",
+   "nivel": "VII-S24-diferentieri-climatice-biogeografice",
+   "competente": [
+    "VII-4.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 3,
+   "enunt": "Compară clima Californiei cu cea a Chile centrale.",
+   "date": {
+    "variante": [
+     "ambele au climat mediteranean, pe țărmul Pacificului, în emisfere diferite",
+     "sunt polare",
+     "sunt ecuatoriale",
+     "nu au nimic în comun"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Simetrie față de Ecuator."
+   }
+  },
+  {
+   "id": "VII24b-22",
+   "nivel": "VII-S24-diferentieri-climatice-biogeografice",
+   "competente": [
+    "VII-2.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "De ce Atacama e atât de uscat?",
+   "date": {
+    "variante": [
+     "curentul rece al Perului răcește aerul, iar Anzii opresc ploile din est",
+     "pentru că e lângă Ecuator și plouă",
+     "pentru că e muntos și umed",
+     "pentru că bate musonul"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Două bariere împotriva ploii."
+   }
+  },
+  {
+   "id": "VII24b-23",
+   "nivel": "VII-S24-diferentieri-climatice-biogeografice",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "denumeste",
+   "dificultate": 2,
+   "enunt": "Ce stat american, cu climat mediteranean și pădurile de sequoia, e marcat pe hartă?",
+   "date": {
+    "harta": "lume",
+    "punct": {
+     "lat": 37,
+     "lon": -120
+    },
+    "variante": [
+     "California",
+     "Texas",
+     "Florida",
+     "Alaska"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "California e pe țărmul Pacificului."
+   }
+  },
+  {
+   "id": "VII24b-24",
+   "nivel": "VII-S24-diferentieri-climatice-biogeografice",
+   "competente": [
+    "VII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce copaci uriași, printre cei mai înalți din lume, cresc în California?",
+   "date": {
+    "variante": [
+     "sequoia",
+     "baobabii",
+     "palmierii",
+     "mestecenii"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Unele sequoia au peste 100 m."
+   }
+  },
+  {
+   "id": "VII24b-25",
+   "nivel": "VII-S24-diferentieri-climatice-biogeografice",
+   "competente": [
+    "VII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce pasăre e simbolul SUA?",
+   "date": {
+    "variante": [
+     "vulturul pleșuv",
+     "condorul",
+     "papagalul",
+     "colibri"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Apare pe stema SUA."
+   }
+  },
+  {
+   "id": "VII24b-26",
+   "nivel": "VII-S24-diferentieri-climatice-biogeografice",
+   "competente": [
+    "VII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce animal lent trăiește în copacii pădurii amazoniene?",
+   "date": {
+    "variante": [
+     "leneșul",
+     "bizonul",
+     "lama",
+     "elanul"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Leneșul coboară foarte rar din copac."
+   }
+  },
+  {
+   "id": "VII24b-27",
+   "nivel": "VII-S24-diferentieri-climatice-biogeografice",
+   "competente": [
+    "VII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce șarpe uriaș trăiește în apele Amazoniei?",
+   "date": {
+    "variante": [
+     "anaconda",
+     "cobra regală",
+     "vipera",
+     "șarpele cu clopoței"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Anaconda verde e unul dintre cei mai grei șerpi."
+   }
+  },
+  {
+   "id": "VII24b-28",
+   "nivel": "VII-S24-diferentieri-climatice-biogeografice",
+   "competente": [
+    "VII-2.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 3,
+   "enunt": "De ce în Canada iernile sunt mai reci decât în Europa, la aceeași latitudine?",
+   "date": {
+    "variante": [
+     "Canada e expusă aerului arctic, iar țărmul estic e răcit de curentul rece al Labradorului",
+     "pentru că e mai aproape de Ecuator",
+     "pentru că are Golfstromul",
+     "fără motiv"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Europa de Vest e încălzită de Golfstrom."
+   }
+  },
+  {
+   "id": "VII24b-29",
+   "nivel": "VII-S24-diferentieri-climatice-biogeografice",
+   "competente": [
+    "VII-4.4"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce poate face lumea pentru protejarea Amazoniei?",
+   "date": {
+    "variante": [
+     "arii protejate, oprirea defrișărilor ilegale, sprijinirea popoarelor indigene",
+     "mai multe incendii",
+     "mai multe drumuri prin pădure",
+     "nimic"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Popoarele indigene protejează pădurea."
+   }
+  },
+  {
+   "id": "VII24b-30",
+   "nivel": "VII-S24-diferentieri-climatice-biogeografice",
+   "competente": [
+    "VII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce pasăre mică poate zbura și înapoi și pe loc, în America?",
+   "date": {
+    "variante": [
+     "colibri",
+     "condorul",
+     "pinguinul",
+     "struțul"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Colibri bate din aripi foarte repede."
+   }
+  },
+  {
+   "id": "VII25-01",
+   "nivel": "VII-S25-elemente-diversitate-umana-etnica",
+   "competente": [
+    "VII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 1,
+   "enunt": "De unde au venit primii locuitori ai Americilor?",
+   "date": {
+    "variante": [
+     "din Asia, peste Strâmtoarea Bering",
+     "din Europa, cu Columb",
+     "din Africa, pe mare",
+     "din Australia"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Acum peste 15 000 de ani."
+   }
+  },
+  {
+   "id": "VII25-02",
+   "nivel": "VII-S25-elemente-diversitate-umana-etnica",
+   "competente": [
+    "VII-3.3"
+   ],
+   "tip": "asociaza",
+   "dificultate": 2,
+   "enunt": "Asociază civilizația cu regiunea.",
+   "date": {
+    "perechi": [
+     [
+      "mayașii",
+      "Peninsula Yucatán"
+     ],
+     [
+      "aztecii",
+      "Podișul Mexicului"
+     ],
+     [
+      "incașii",
+      "Anzi (Peru)"
+     ]
+    ]
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Marile civilizații precolumbiene."
+   }
+  },
+  {
+   "id": "VII25-03",
+   "nivel": "VII-S25-elemente-diversitate-umana-etnica",
+   "competente": [
+    "VII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce limbă se vorbește în Brazilia?",
+   "date": {
+    "variante": [
+     "portugheza",
+     "spaniola",
+     "engleza",
+     "franceza"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Brazilia a fost colonie portugheză."
+   }
+  },
+  {
+   "id": "VII25-04",
+   "nivel": "VII-S25-elemente-diversitate-umana-etnica",
+   "competente": [
+    "VII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce limbă se vorbește în Mexic?",
+   "date": {
+    "variante": [
+     "spaniola",
+     "portugheza",
+     "engleza",
+     "franceza"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Mexicul are cei mai mulți vorbitori de spaniolă din lume."
+   }
+  },
+  {
+   "id": "VII25-05",
+   "nivel": "VII-S25-elemente-diversitate-umana-etnica",
+   "competente": [
+    "VII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "În ce provincie canadiană se vorbește mai ales franceza?",
+   "date": {
+    "variante": [
+     "Québec",
+     "Ontario",
+     "Alberta",
+     "Columbia Britanică"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Canada are două limbi oficiale."
+   }
+  },
+  {
+   "id": "VII25-06",
+   "nivel": "VII-S25-elemente-diversitate-umana-etnica",
+   "competente": [
+    "VII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce înseamnă America Latină?",
+   "date": {
+    "variante": [
+     "țările americane unde se vorbesc limbi romanice (spaniolă, portugheză, franceză)",
+     "SUA și Canada",
+     "doar Brazilia",
+     "insulele din Pacific"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Limbile provin din latină."
+   }
+  },
+  {
+   "id": "VII25-07",
+   "nivel": "VII-S25-elemente-diversitate-umana-etnica",
+   "competente": [
+    "VII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce limbă indigenă e vorbită de milioane de oameni în Anzi?",
+   "date": {
+    "variante": [
+     "quechua",
+     "swahili",
+     "hindi",
+     "zulu"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Era limba Imperiului Incaș."
+   }
+  },
+  {
+   "id": "VII25-08",
+   "nivel": "VII-S25-elemente-diversitate-umana-etnica",
+   "competente": [
+    "VII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce religie e majoritară în America Latină?",
+   "date": {
+    "variante": [
+     "creștinismul catolic",
+     "islamul",
+     "budismul",
+     "hinduismul"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Adus de spanioli și portughezi."
+   }
+  },
+  {
+   "id": "VII25-09",
+   "nivel": "VII-S25-elemente-diversitate-umana-etnica",
+   "competente": [
+    "VII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Cine sunt metișii?",
+   "date": {
+    "variante": [
+     "urmașii din amestecul europenilor cu populațiile indigene",
+     "urmașii doar ai europenilor",
+     "imigranți asiatici",
+     "popoare din Arctica"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Sunt majoritari în multe țări din America Latină."
+   }
+  },
+  {
+   "id": "VII25-10",
+   "nivel": "VII-S25-elemente-diversitate-umana-etnica",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "pin",
+   "dificultate": 2,
+   "enunt": "Atinge pe hartă Machu Picchu.",
+   "date": {
+    "harta": "lume",
+    "tinta": {
+     "lat": -13.16,
+     "lon": -72.55,
+     "nume": "Machu Picchu"
+    },
+    "toleranta": 400
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Machu Picchu e în Anzii peruani."
+   },
+   "surse": [
+    "UNESCO World Heritage Centre – lista patrimoniului mondial (whc.unesco.org)",
+    "Encyclopaedia Britannica – Machu Picchu"
+   ]
+  },
+  {
+   "id": "VII25-11",
+   "nivel": "VII-S25-elemente-diversitate-umana-etnica",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "pin",
+   "dificultate": 2,
+   "enunt": "Atinge pe hartă Peninsula Yucatán, unde au trăit mayașii.",
+   "date": {
+    "harta": "lume",
+    "tinta": {
+     "lat": 20,
+     "lon": -89,
+     "nume": "Yucatán"
+    },
+    "toleranta": 400
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Yucatán e în sud-estul Mexicului."
+   }
+  },
+  {
+   "id": "VII25-12",
+   "nivel": "VII-S25-elemente-diversitate-umana-etnica",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "pin",
+   "dificultate": 3,
+   "enunt": "Atinge pe hartă Québec.",
+   "date": {
+    "harta": "lume",
+    "tinta": {
+     "lat": 47,
+     "lon": -71.5,
+     "nume": "Québec"
+    },
+    "toleranta": 700
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Québec e în estul Canadei."
+   }
+  },
+  {
+   "id": "VII25-13",
+   "nivel": "VII-S25-elemente-diversitate-umana-etnica",
+   "competente": [
+    "VII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Adevărat sau fals? În toată America de Sud se vorbește portugheza.",
+   "date": {
+    "variante": [
+     "Fals",
+     "Adevărat"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Fals: portugheza doar în Brazilia; în majoritatea celorlalte țări, spaniola."
+   }
+  },
+  {
+   "id": "VII25-14",
+   "nivel": "VII-S25-elemente-diversitate-umana-etnica",
+   "competente": [
+    "VII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Adevărat sau fals? Africanii au fost aduși în America cu forța, ca sclavi, între secolele XVI și XIX.",
+   "date": {
+    "variante": [
+     "Adevărat",
+     "Fals"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Adevărat: comerțul cu sclavi a marcat istoria Americilor."
+   }
+  },
+  {
+   "id": "VII25-15",
+   "nivel": "VII-S25-elemente-diversitate-umana-etnica",
+   "competente": [
+    "VII-3.3"
+   ],
+   "tip": "lacunar",
+   "dificultate": 2,
+   "enunt": "Completează.",
+   "date": {
+    "text": "În Brazilia se vorbește {0}, iar în Argentina {1}.",
+    "raspunsuri": [
+     "portugheza",
+     "spaniola"
+    ],
+    "distractori": [
+     "engleza",
+     "franceza"
+    ]
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Moștenirea colonială."
+   }
+  },
+  {
+   "id": "VII25-16",
+   "nivel": "VII-S25-elemente-diversitate-umana-etnica",
+   "competente": [
+    "VII-3.4"
+   ],
+   "tip": "lacunar",
+   "dificultate": 2,
+   "enunt": "Completează.",
+   "date": {
+    "text": "Orașul incaș {0} e în Anzii din {1}.",
+    "raspunsuri": [
+     "Machu Picchu",
+     "Peru"
+    ],
+    "distractori": [
+     "Teotihuacan",
+     "Mexic"
+    ]
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Machu Picchu, Peru."
+   },
+   "surse": [
+    "UNESCO World Heritage Centre – lista patrimoniului mondial (whc.unesco.org)",
+    "Encyclopaedia Britannica – Machu Picchu"
+   ]
+  },
+  {
+   "id": "VII25-17",
+   "nivel": "VII-S25-elemente-diversitate-umana-etnica",
+   "competente": [
+    "VII-2.3",
+    "VII-4.1"
+   ],
+   "tip": "grafic",
+   "dificultate": 3,
+   "enunt": "Graficul arată (schematic) limbile principale vorbite în cele două Americi. Ce limbă au cei mai mulți vorbitori?",
+   "date": {
+    "grafic": {
+     "tip": "structura",
+     "titlu": "Limbi principale în Americi (aproximativ)",
+     "date": [
+      {
+       "eticheta": "spaniola",
+       "valoare": 42
+      },
+      {
+       "eticheta": "engleza",
+       "valoare": 35
+      },
+      {
+       "eticheta": "portugheza",
+       "valoare": 20
+      },
+      {
+       "eticheta": "altele",
+       "valoare": 3
+      }
+     ],
+     "unitate": "%"
+    },
+    "variante": [
+     "spaniola",
+     "engleza",
+     "portugheza",
+     "franceza"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Spaniola e vorbită în cele mai multe țări."
+   },
+   "surse": [
+    "Instituto Cervantes – El español: una lengua viva (2024)",
+    "Ethnologue – languages of the Americas"
+   ]
+  },
+  {
+   "id": "VII25-18",
+   "nivel": "VII-S25-elemente-diversitate-umana-etnica",
+   "competente": [
+    "VII-4.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 3,
+   "enunt": "Compară colonizarea Americii de Nord cu a Americii de Sud.",
+   "date": {
+    "variante": [
+     "nordul a fost colonizat mai ales de englezi și francezi, sudul de spanioli și portughezi",
+     "toată America a fost colonizată de englezi",
+     "nicio parte nu a fost colonizată",
+     "sudul de englezi, nordul de spanioli"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "De aici diferențele de limbă și religie."
+   }
+  },
+  {
+   "id": "VII25-19",
+   "nivel": "VII-S25-elemente-diversitate-umana-etnica",
+   "competente": [
+    "VII-3.4"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce piramide mari construite de azteci și de popoarele dinaintea lor sunt lângă Ciudad de México?",
+   "date": {
+    "variante": [
+     "Teotihuacan",
+     "Gizeh",
+     "Machu Picchu",
+     "Chichén Itzá"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Piramida Soarelui e una dintre cele mai mari."
+   }
+  },
+  {
+   "id": "VII25-20",
+   "nivel": "VII-S25-elemente-diversitate-umana-etnica",
+   "competente": [
+    "VII-3.4"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce oraș mayaș din Yucatán, cu piramida Kukulcán, e în patrimoniul UNESCO?",
+   "date": {
+    "variante": [
+     "Chichén Itzá",
+     "Machu Picchu",
+     "Cuzco",
+     "Teotihuacan"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Chichén Itzá e în Mexic."
+   },
+   "surse": [
+    "UNESCO World Heritage Centre – lista patrimoniului mondial (whc.unesco.org)",
+    "Encyclopaedia Britannica – Machu Picchu"
+   ]
+  },
+  {
+   "id": "VII25-21",
+   "nivel": "VII-S25-elemente-diversitate-umana-etnica",
+   "competente": [
+    "VII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce sărbătoare mexicană îi onorează pe cei dragi care au murit?",
+   "date": {
+    "variante": [
+     "Ziua Morților (Día de Muertos)",
+     "Halloween",
+     "Crăciunul",
+     "Ziua Recunoștinței"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "E în patrimoniul imaterial UNESCO."
+   }
+  },
+  {
+   "id": "VII25-22",
+   "nivel": "VII-S25-elemente-diversitate-umana-etnica",
+   "competente": [
+    "VII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce dans e simbolul Argentinei?",
+   "date": {
+    "variante": [
+     "tangoul",
+     "samba",
+     "flamenco",
+     "valsul"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Tangoul s-a născut la Buenos Aires."
+   }
+  },
+  {
+   "id": "VII25-23",
+   "nivel": "VII-S25-elemente-diversitate-umana-etnica",
+   "competente": [
+    "VII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce dans și carnaval sunt simbolul Braziliei?",
+   "date": {
+    "variante": [
+     "samba și Carnavalul de la Rio",
+     "tangoul",
+     "polka",
+     "Călușul"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Carnavalul de la Rio e celebru în lume."
+   }
+  },
+  {
+   "id": "VII25-24",
+   "nivel": "VII-S25-elemente-diversitate-umana-etnica",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "denumeste",
+   "dificultate": 2,
+   "enunt": "Ce țară, cu cea mai mare populație vorbitoare de spaniolă, e marcată pe hartă?",
+   "date": {
+    "harta": "lume",
+    "punct": {
+     "lat": 23.6,
+     "lon": -102.5
+    },
+    "variante": [
+     "Mexic",
+     "Spania",
+     "Argentina",
+     "Columbia"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Mexicul are peste 120 de milioane de locuitori."
+   }
+  },
+  {
+   "id": "VII25-25",
+   "nivel": "VII-S25-elemente-diversitate-umana-etnica",
+   "competente": [
+    "VII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Cum se numesc popoarele indigene din Arctica americană?",
+   "date": {
+    "variante": [
+     "inuiți",
+     "incași",
+     "azteci",
+     "mayași"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Inuiții trăiesc în Canada, Alaska și Groenlanda."
+   }
+  },
+  {
+   "id": "VII25-26",
+   "nivel": "VII-S25-elemente-diversitate-umana-etnica",
+   "competente": [
+    "VII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce înseamnă „indigen”?",
+   "date": {
+    "variante": [
+     "care trăiește de la început într-un loc, înaintea colonizatorilor",
+     "venit recent",
+     "turist",
+     "străin"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Popoarele indigene au drepturi speciale protejate."
+   }
+  },
+  {
+   "id": "VII25-27",
+   "nivel": "VII-S25-elemente-diversitate-umana-etnica",
+   "competente": [
+    "VII-1.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 3,
+   "enunt": "De ce SUA sunt numite „țară a imigranților”?",
+   "date": {
+    "variante": [
+     "cei mai mulți locuitori sunt urmașii unor oameni veniți din toată lumea",
+     "pentru că nimeni nu s-a născut acolo",
+     "pentru că e interzis să te naști acolo",
+     "pentru că nu au popoare indigene"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Diversitatea etnică e foarte mare."
+   }
+  },
+  {
+   "id": "VII25-28",
+   "nivel": "VII-S25-elemente-diversitate-umana-etnica",
+   "competente": [
+    "VII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce limbă oficială are Haiti, alături de creola haitiană?",
+   "date": {
+    "variante": [
+     "franceza",
+     "spaniola",
+     "portugheza",
+     "engleza"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Haiti a fost colonie franceză."
+   }
+  },
+  {
+   "id": "VII25-29",
+   "nivel": "VII-S25-elemente-diversitate-umana-etnica",
+   "competente": [
+    "VII-3.4"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce oraș din Peru a fost capitala Imperiului Incaș?",
+   "date": {
+    "variante": [
+     "Cuzco",
+     "Lima",
+     "Quito",
+     "La Paz"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Cuzco e în patrimoniul UNESCO."
+   },
+   "surse": [
+    "UNESCO World Heritage Centre – lista patrimoniului mondial (whc.unesco.org)",
+    "Encyclopaedia Britannica – Machu Picchu"
+   ]
+  },
+  {
+   "id": "VII25-30",
+   "nivel": "VII-S25-elemente-diversitate-umana-etnica",
+   "competente": [
+    "VII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce sărbătoare americană, din noiembrie, are rădăcini în primii coloniști englezi?",
+   "date": {
+    "variante": [
+     "Ziua Recunoștinței (Thanksgiving)",
+     "Ziua Morților",
+     "Carnavalul",
+     "Anul Nou Chinezesc"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Se sărbătorește în SUA și Canada."
+   }
+  },
+  {
+   "id": "VII26a-01",
+   "nivel": "VII-S26-harta-politica-contraste-teritoriale",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "asociaza",
+   "dificultate": 1,
+   "enunt": "Asociază statul cu capitala.",
+   "date": {
+    "perechi": [
+     [
+      "SUA",
+      "Washington"
+     ],
+     [
+      "Canada",
+      "Ottawa"
+     ],
+     [
+      "Mexic",
+      "Ciudad de México"
+     ],
+     [
+      "Cuba",
+      "Havana"
+     ]
+    ]
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Capitale nord-americane."
+   }
+  },
+  {
+   "id": "VII26a-02",
+   "nivel": "VII-S26-harta-politica-contraste-teritoriale",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "asociaza",
+   "dificultate": 1,
+   "enunt": "Asociază statul cu capitala.",
+   "date": {
+    "perechi": [
+     [
+      "Brazilia",
+      "Brasília"
+     ],
+     [
+      "Argentina",
+      "Buenos Aires"
+     ],
+     [
+      "Peru",
+      "Lima"
+     ],
+     [
+      "Chile",
+      "Santiago"
+     ]
+    ]
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Capitale sud-americane."
+   }
+  },
+  {
+   "id": "VII26a-03",
+   "nivel": "VII-S26-harta-politica-contraste-teritoriale",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 1,
+   "enunt": "Care e cel mai mare stat din America de Sud?",
+   "date": {
+    "variante": [
+     "Brazilia",
+     "Argentina",
+     "Peru",
+     "Chile"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Brazilia ocupă aproape jumătate din continent."
+   }
+  },
+  {
+   "id": "VII26a-04",
+   "nivel": "VII-S26-harta-politica-contraste-teritoriale",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Câte state independente are America de Sud?",
+   "date": {
+    "variante": [
+     "12",
+     "3",
+     "27",
+     "54"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Guyana Franceză aparține Franței."
+   }
+  },
+  {
+   "id": "VII26a-05",
+   "nivel": "VII-S26-harta-politica-contraste-teritoriale",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Care e capitala Braziliei?",
+   "date": {
+    "variante": [
+     "Brasília",
+     "Rio de Janeiro",
+     "São Paulo",
+     "Salvador"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Brasília a fost construită în anii 1950 ca o capitală nouă."
+   }
+  },
+  {
+   "id": "VII26a-06",
+   "nivel": "VII-S26-harta-politica-contraste-teritoriale",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Care e capitala Canadei?",
+   "date": {
+    "variante": [
+     "Ottawa",
+     "Toronto",
+     "Montréal",
+     "Vancouver"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Toronto e cel mai mare oraș."
+   }
+  },
+  {
+   "id": "VII26a-07",
+   "nivel": "VII-S26-harta-politica-contraste-teritoriale",
+   "competente": [
+    "VII-4.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce țară din emisfera vestică are cele mai mici venituri?",
+   "date": {
+    "variante": [
+     "Haiti",
+     "Canada",
+     "SUA",
+     "Chile"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Haiti a fost lovită și de cutremure puternice."
+   }
+  },
+  {
+   "id": "VII26a-08",
+   "nivel": "VII-S26-harta-politica-contraste-teritoriale",
+   "competente": [
+    "VII-4.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce state americane sunt foarte dezvoltate?",
+   "date": {
+    "variante": [
+     "SUA și Canada",
+     "Haiti și Bolivia",
+     "Honduras și Nicaragua",
+     "Paraguay și Guyana"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Venituri mari, economie diversificată."
+   }
+  },
+  {
+   "id": "VII26a-09",
+   "nivel": "VII-S26-harta-politica-contraste-teritoriale",
+   "competente": [
+    "VII-1.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce este Mercosur?",
+   "date": {
+    "variante": [
+     "o piață comună a unor state din sudul Americii de Sud",
+     "un munte",
+     "un fluviu",
+     "un oraș"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Membri: Brazilia, Argentina, Uruguay, Paraguay și alții."
+   }
+  },
+  {
+   "id": "VII26a-10",
+   "nivel": "VII-S26-harta-politica-contraste-teritoriale",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "pin",
+   "dificultate": 2,
+   "enunt": "Atinge pe hartă Chile.",
+   "date": {
+    "harta": "lume",
+    "tinta": {
+     "lat": -30,
+     "lon": -71,
+     "nume": "Chile"
+    },
+    "toleranta": 900
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Chile e o fâșie lungă între Anzi și Pacific."
+   }
+  },
+  {
+   "id": "VII26a-11",
+   "nivel": "VII-S26-harta-politica-contraste-teritoriale",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "pin",
+   "dificultate": 2,
+   "enunt": "Atinge pe hartă Brazilia.",
+   "date": {
+    "harta": "lume",
+    "tinta": {
+     "lat": -10,
+     "lon": -52,
+     "nume": "Brazilia"
+    },
+    "toleranta": 1200
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Brazilia e în estul Americii de Sud."
+   }
+  },
+  {
+   "id": "VII26a-12",
+   "nivel": "VII-S26-harta-politica-contraste-teritoriale",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "pin",
+   "dificultate": 3,
+   "enunt": "Atinge pe hartă Haiti.",
+   "date": {
+    "harta": "lume",
+    "tinta": {
+     "lat": 19,
+     "lon": -72.5,
+     "nume": "Haiti"
+    },
+    "toleranta": 300
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Haiti ocupă vestul insulei Hispaniola."
+   }
+  },
+  {
+   "id": "VII26a-13",
+   "nivel": "VII-S26-harta-politica-contraste-teritoriale",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "pin",
+   "dificultate": 3,
+   "enunt": "Atinge pe hartă Washington.",
+   "date": {
+    "harta": "lume",
+    "tinta": {
+     "lat": 38.9,
+     "lon": -77,
+     "nume": "Washington"
+    },
+    "toleranta": 300
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Washington e pe coasta de est a SUA."
+   }
+  },
+  {
+   "id": "VII26a-14",
+   "nivel": "VII-S26-harta-politica-contraste-teritoriale",
+   "competente": [
+    "VII-4.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Adevărat sau fals? Toate statele americane au același nivel de dezvoltare.",
+   "date": {
+    "variante": [
+     "Fals",
+     "Adevărat"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Fals: contrastele sunt mari, de la SUA la Haiti."
+   }
+  },
+  {
+   "id": "VII26a-15",
+   "nivel": "VII-S26-harta-politica-contraste-teritoriale",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Adevărat sau fals? Brasília e capitala Braziliei, nu Rio de Janeiro.",
+   "date": {
+    "variante": [
+     "Adevărat",
+     "Fals"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Adevărat: din 1960."
+   }
+  },
+  {
+   "id": "VII26a-16",
+   "nivel": "VII-S26-harta-politica-contraste-teritoriale",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "lacunar",
+   "dificultate": 2,
+   "enunt": "Completează.",
+   "date": {
+    "text": "Capitala SUA este {0}, iar capitala Argentinei este {1}.",
+    "raspunsuri": [
+     "Washington",
+     "Buenos Aires"
+    ],
+    "distractori": [
+     "New York",
+     "Córdoba"
+    ]
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Washington, Buenos Aires."
+   }
+  },
+  {
+   "id": "VII26a-17",
+   "nivel": "VII-S26-harta-politica-contraste-teritoriale",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "lacunar",
+   "dificultate": 2,
+   "enunt": "Completează.",
+   "date": {
+    "text": "Cel mai mare stat al Americii de Sud este {0}; cel mai alungit stat este {1}.",
+    "raspunsuri": [
+     "Brazilia",
+     "Chile"
+    ],
+    "distractori": [
+     "Argentina",
+     "Peru"
+    ]
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Brazilia, Chile."
+   }
+  },
+  {
+   "id": "VII26a-18",
+   "nivel": "VII-S26-harta-politica-contraste-teritoriale",
+   "competente": [
+    "VII-2.3",
+    "VII-4.1"
+   ],
+   "tip": "grafic",
+   "dificultate": 3,
+   "enunt": "Graficul compară speranța de viață în trei țări americane (ani, valori rotunjite). Ce arată?",
+   "date": {
+    "grafic": {
+     "tip": "bare",
+     "titlu": "Speranța de viață (ani, valori rotunjite)",
+     "date": [
+      {
+       "eticheta": "Canada",
+       "valoare": 82
+      },
+      {
+       "eticheta": "Brazilia",
+       "valoare": 76
+      },
+      {
+       "eticheta": "Haiti",
+       "valoare": 64
+      }
+     ],
+     "unitate": "ani",
+     "sursa": "Banca Mondială – Life expectancy at birth"
+    },
+    "variante": [
+     "contraste mari între țări",
+     "toate au aceeași speranță de viață",
+     "Haiti are cea mai mare",
+     "Brazilia are cea mai mică"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Diferența Canada–Haiti e de aproximativ 18 ani."
+   },
+   "surse": [
+    "Banca Mondială – Life expectancy at birth, total (years)",
+    "OMS – Global Health Observatory"
+   ]
+  },
+  {
+   "id": "VII26a-19",
+   "nivel": "VII-S26-harta-politica-contraste-teritoriale",
+   "competente": [
+    "VII-2.2",
+    "VII-3.1",
+    "VII-4.2"
+   ],
+   "tip": "ordoneaza",
+   "dificultate": 3,
+   "enunt": "Ordonează capitalele de la nord la sud.",
+   "date": {
+    "elemente": [
+     "Ottawa",
+     "Washington",
+     "Ciudad de México",
+     "Lima",
+     "Santiago"
+    ],
+    "criteriu": "De la nord la sud"
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "De la Canada spre Chile."
+   }
+  },
+  {
+   "id": "VII26a-20",
+   "nivel": "VII-S26-harta-politica-contraste-teritoriale",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "denumeste",
+   "dificultate": 2,
+   "enunt": "Ce stat fără ieșire la mare, din Anzi, e marcat pe hartă?",
+   "date": {
+    "harta": "lume",
+    "punct": {
+     "lat": -17,
+     "lon": -65
+    },
+    "variante": [
+     "Bolivia",
+     "Peru",
+     "Paraguay",
+     "Ecuador"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Bolivia are două capitale: La Paz (sediul guvernului) și Sucre."
+   }
+  },
+  {
+   "id": "VII26a-21",
+   "nivel": "VII-S26-harta-politica-contraste-teritoriale",
+   "competente": [
+    "VII-4.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 3,
+   "enunt": "De ce în multe țări latino-americane există diferențe mari între bogați și săraci?",
+   "date": {
+    "variante": [
+     "moștenirea colonială, pământul concentrat în mâinile puținora și acces inegal la educație",
+     "pentru că toți sunt bogați",
+     "pentru că nu au resurse",
+     "pentru că e frig"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Inegalitatea e o problemă importantă."
+   }
+  },
+  {
+   "id": "VII26a-22",
+   "nivel": "VII-S26-harta-politica-contraste-teritoriale",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce state din America Centrală sunt cunoscute pentru natură și ecoturism?",
+   "date": {
+    "variante": [
+     "Costa Rica",
+     "Haiti",
+     "Cuba",
+     "Groenlanda"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Costa Rica protejează peste un sfert din teritoriu."
+   }
+  },
+  {
+   "id": "VII26a-23",
+   "nivel": "VII-S26-harta-politica-contraste-teritoriale",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce stat sud-american e străbătut de Ecuator și îi poartă numele?",
+   "date": {
+    "variante": [
+     "Ecuador",
+     "Peru",
+     "Chile",
+     "Uruguay"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Capitala, Quito, e aproape de Ecuator."
+   }
+  },
+  {
+   "id": "VII26a-24",
+   "nivel": "VII-S26-harta-politica-contraste-teritoriale",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce teritoriu din America de Sud aparține Franței?",
+   "date": {
+    "variante": [
+     "Guyana Franceză",
+     "Surinam",
+     "Guyana",
+     "Falkland"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Aici e baza spațială europeană de la Kourou."
+   }
+  },
+  {
+   "id": "VII26a-25",
+   "nivel": "VII-S26-harta-politica-contraste-teritoriale",
+   "competente": [
+    "VII-4.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Prin ce se deosebesc SUA de Mexic?",
+   "date": {
+    "variante": [
+     "SUA au venituri medii mult mai mari și o economie mai diversificată",
+     "Mexicul e mai bogat",
+     "sunt identice",
+     "SUA nu au industrie"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Granița SUA–Mexic e una dintre cele mai traversate."
+   }
+  },
+  {
+   "id": "VII26a-26",
+   "nivel": "VII-S26-harta-politica-contraste-teritoriale",
+   "competente": [
+    "VII-1.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce înseamnă stat federal, ca SUA sau Brazilia?",
+   "date": {
+    "variante": [
+     "un stat format din mai multe state sau provincii care au propriile guverne",
+     "un stat fără guvern",
+     "o colonie",
+     "un oraș-stat"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "SUA au 50 de state."
+   }
+  },
+  {
+   "id": "VII26a-27",
+   "nivel": "VII-S26-harta-politica-contraste-teritoriale",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Câte state are SUA?",
+   "date": {
+    "variante": [
+     "50",
+     "13",
+     "27",
+     "100"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Alaska și Hawaii au fost ultimele, în 1959."
+   }
+  },
+  {
+   "id": "VII26a-28",
+   "nivel": "VII-S26-harta-politica-contraste-teritoriale",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce stat sud-american e cel mai mic ca suprafață, cu capitala la Paramaribo?",
+   "date": {
+    "variante": [
+     "Surinam",
+     "Uruguay",
+     "Paraguay",
+     "Ecuador"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Surinamul a fost colonie olandeză."
+   }
+  },
+  {
+   "id": "VII26a-29",
+   "nivel": "VII-S26-harta-politica-contraste-teritoriale",
+   "competente": [
+    "VII-4.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 3,
+   "enunt": "Ce au în comun Canada și Brazilia?",
+   "date": {
+    "variante": [
+     "sunt state foarte mari, cu resurse bogate și populație concentrată pe o mică parte din teritoriu",
+     "sunt mici",
+     "au aceeași limbă",
+     "sunt în aceeași emisferă nord–sud"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Canada în sud, Brazilia pe coasta de est."
+   }
+  },
+  {
+   "id": "VII26a-30",
+   "nivel": "VII-S26-harta-politica-contraste-teritoriale",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce țară din Caraibe împarte insula Hispaniola cu Haiti?",
+   "date": {
+    "variante": [
+     "Republica Dominicană",
+     "Cuba",
+     "Jamaica",
+     "Puerto Rico"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Hispaniola e a doua insulă ca mărime din Antile."
+   }
+  },
+  {
+   "id": "VII26b-01",
+   "nivel": "VII-S26-forme-aglomerare-urbana",
+   "competente": [
+    "VII-1.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 1,
+   "enunt": "Ce este o megalopolă?",
+   "date": {
+    "variante": [
+     "un șir de orașe mari care s-au unit între ele",
+     "un sat mare",
+     "un oraș mic",
+     "un parc național"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Exemplu: BosWash, în SUA."
+   }
+  },
+  {
+   "id": "VII26b-02",
+   "nivel": "VII-S26-forme-aglomerare-urbana",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce orașe formează megalopola BosWash?",
+   "date": {
+    "variante": [
+     "Boston, New York, Philadelphia, Baltimore, Washington",
+     "Los Angeles și San Francisco",
+     "Toronto și Montréal",
+     "Rio și São Paulo"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Pe coasta de est a SUA."
+   }
+  },
+  {
+   "id": "VII26b-03",
+   "nivel": "VII-S26-forme-aglomerare-urbana",
+   "competente": [
+    "VII-1.1"
+   ],
+   "tip": "asociaza",
+   "dificultate": 2,
+   "enunt": "Asociază forma de aglomerare cu definiția.",
+   "date": {
+    "perechi": [
+     [
+      "aglomerare urbană",
+      "orașul și localitățile lipite de el"
+     ],
+     [
+      "zonă metropolitană",
+      "orașul și împrejurimile legate prin navetă"
+     ],
+     [
+      "megalopolă",
+      "șir de orașe mari unite"
+     ],
+     [
+      "suburbie",
+      "cartier de locuințe la marginea orașului"
+     ]
+    ]
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Forme urbane."
+   }
+  },
+  {
+   "id": "VII26b-04",
+   "nivel": "VII-S26-forme-aglomerare-urbana",
+   "competente": [
+    "VII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce sunt favelele?",
+   "date": {
+    "variante": [
+     "cartiere sărace de la marginea orașelor din Brazilia",
+     "cartiere de lux",
+     "parcuri",
+     "centre de afaceri"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Favelele de pe dealurile din Rio sunt cunoscute."
+   }
+  },
+  {
+   "id": "VII26b-05",
+   "nivel": "VII-S26-forme-aglomerare-urbana",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "asociaza",
+   "dificultate": 2,
+   "enunt": "Asociază orașul cu țara.",
+   "date": {
+    "perechi": [
+     [
+      "São Paulo",
+      "Brazilia"
+     ],
+     [
+      "Toronto",
+      "Canada"
+     ],
+     [
+      "Bogotá",
+      "Columbia"
+     ],
+     [
+      "Chicago",
+      "SUA"
+     ]
+    ]
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Orașe mari ale Americilor."
+   }
+  },
+  {
+   "id": "VII26b-06",
+   "nivel": "VII-S26-forme-aglomerare-urbana",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "pin",
+   "dificultate": 2,
+   "enunt": "Atinge pe hartă New York.",
+   "date": {
+    "harta": "lume",
+    "tinta": {
+     "lat": 40.7,
+     "lon": -74,
+     "nume": "New York"
+    },
+    "toleranta": 300
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "New York e pe coasta de est a SUA."
+   }
+  },
+  {
+   "id": "VII26b-07",
+   "nivel": "VII-S26-forme-aglomerare-urbana",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "pin",
+   "dificultate": 2,
+   "enunt": "Atinge pe hartă Ciudad de México.",
+   "date": {
+    "harta": "lume",
+    "tinta": {
+     "lat": 19.43,
+     "lon": -99.13,
+     "nume": "Ciudad de México"
+    },
+    "toleranta": 300
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Capitala Mexicului e pe un podiș înalt."
+   }
+  },
+  {
+   "id": "VII26b-08",
+   "nivel": "VII-S26-forme-aglomerare-urbana",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "pin",
+   "dificultate": 2,
+   "enunt": "Atinge pe hartă São Paulo.",
+   "date": {
+    "harta": "lume",
+    "tinta": {
+     "lat": -23.55,
+     "lon": -46.63,
+     "nume": "São Paulo"
+    },
+    "toleranta": 300
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "São Paulo e cel mai mare oraș al Braziliei."
+   }
+  },
+  {
+   "id": "VII26b-09",
+   "nivel": "VII-S26-forme-aglomerare-urbana",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "pin",
+   "dificultate": 3,
+   "enunt": "Atinge pe hartă Buenos Aires.",
+   "date": {
+    "harta": "lume",
+    "tinta": {
+     "lat": -34.6,
+     "lon": -58.38,
+     "nume": "Buenos Aires"
+    },
+    "toleranta": 300
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Buenos Aires e pe estuarul La Plata."
+   }
+  },
+  {
+   "id": "VII26b-10",
+   "nivel": "VII-S26-forme-aglomerare-urbana",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "pin",
+   "dificultate": 3,
+   "enunt": "Atinge pe hartă Los Angeles.",
+   "date": {
+    "harta": "lume",
+    "tinta": {
+     "lat": 34.05,
+     "lon": -118.24,
+     "nume": "Los Angeles"
+    },
+    "toleranta": 300
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Los Angeles e pe coasta Pacificului."
+   }
+  },
+  {
+   "id": "VII26b-11",
+   "nivel": "VII-S26-forme-aglomerare-urbana",
+   "competente": [
+    "VII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce problemă apare când orașele se extind mult în suburbii?",
+   "date": {
+    "variante": [
+     "oamenii folosesc mult mașina, deci crește traficul și poluarea",
+     "dispar mașinile",
+     "orașele devin mai mici",
+     "nu apare nicio problemă"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Distanțele mari descurajează mersul pe jos."
+   }
+  },
+  {
+   "id": "VII26b-12",
+   "nivel": "VII-S26-forme-aglomerare-urbana",
+   "competente": [
+    "VII-3.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "De ce orașele din America Latină au crescut foarte repede?",
+   "date": {
+    "variante": [
+     "migrația masivă de la sat la oraș",
+     "pentru că satele au dispărut într-o zi",
+     "pentru că nu se nasc copii",
+     "pentru că e interzis la sat"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Oamenii caută muncă și servicii."
+   }
+  },
+  {
+   "id": "VII26b-13",
+   "nivel": "VII-S26-forme-aglomerare-urbana",
+   "competente": [
+    "VII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce oraș american e cunoscut pentru Hollywood și industria filmului?",
+   "date": {
+    "variante": [
+     "Los Angeles",
+     "Chicago",
+     "Boston",
+     "Houston"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Hollywood e un cartier din Los Angeles."
+   }
+  },
+  {
+   "id": "VII26b-14",
+   "nivel": "VII-S26-forme-aglomerare-urbana",
+   "competente": [
+    "VII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce oraș american e un mare centru financiar, cu bursa de pe Wall Street?",
+   "date": {
+    "variante": [
+     "New York",
+     "Washington",
+     "Miami",
+     "Seattle"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Wall Street e în Manhattan."
+   }
+  },
+  {
+   "id": "VII26b-15",
+   "nivel": "VII-S26-forme-aglomerare-urbana",
+   "competente": [
+    "VII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Adevărat sau fals? În SUA și Canada majoritatea oamenilor trăiesc la oraș.",
+   "date": {
+    "variante": [
+     "Adevărat",
+     "Fals"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Adevărat: peste 8 din 10."
+   }
+  },
+  {
+   "id": "VII26b-16",
+   "nivel": "VII-S26-forme-aglomerare-urbana",
+   "competente": [
+    "VII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Adevărat sau fals? Favelele sunt cartiere de lux.",
+   "date": {
+    "variante": [
+     "Fals",
+     "Adevărat"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Fals: sunt cartiere sărace."
+   }
+  },
+  {
+   "id": "VII26b-17",
+   "nivel": "VII-S26-forme-aglomerare-urbana",
+   "competente": [
+    "VII-1.1"
+   ],
+   "tip": "lacunar",
+   "dificultate": 2,
+   "enunt": "Completează.",
+   "date": {
+    "text": "Un șir de orașe mari unite se numește {0}; cartierele sărace din Brazilia se numesc {1}.",
+    "raspunsuri": [
+     "megalopolă",
+     "favele"
+    ],
+    "distractori": [
+     "suburbie",
+     "pampasuri"
+    ]
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Megalopolă, favele."
+   }
+  },
+  {
+   "id": "VII26b-18",
+   "nivel": "VII-S26-forme-aglomerare-urbana",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "lacunar",
+   "dificultate": 2,
+   "enunt": "Completează.",
+   "date": {
+    "text": "Cel mai mare oraș al Braziliei este {0}, iar cel mai mare oraș al Canadei este {1}.",
+    "raspunsuri": [
+     "São Paulo",
+     "Toronto"
+    ],
+    "distractori": [
+     "Brasília",
+     "Ottawa"
+    ]
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "São Paulo, Toronto."
+   }
+  },
+  {
+   "id": "VII26b-19",
+   "nivel": "VII-S26-forme-aglomerare-urbana",
+   "competente": [
+    "VII-2.3",
+    "VII-4.1"
+   ],
+   "tip": "grafic",
+   "dificultate": 3,
+   "enunt": "Graficul arată ponderea populației urbane în trei țări americane (valori rotunjite). Care e cea mai urbanizată?",
+   "date": {
+    "grafic": {
+     "tip": "bare",
+     "titlu": "Populația urbană (valori rotunjite)",
+     "date": [
+      {
+       "eticheta": "Argentina",
+       "valoare": 92
+      },
+      {
+       "eticheta": "SUA",
+       "valoare": 83
+      },
+      {
+       "eticheta": "Haiti",
+       "valoare": 59
+      }
+     ],
+     "unitate": "%",
+     "sursa": "Banca Mondială – Urban population (% of total)"
+    },
+    "variante": [
+     "Argentina",
+     "SUA",
+     "Haiti",
+     "sunt egale"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Peste 9 din 10 argentinieni trăiesc la oraș."
+   },
+   "surse": [
+    "Banca Mondială – Urban population (% of total population)",
+    "ONU – World Urbanization Prospects"
+   ]
+  },
+  {
+   "id": "VII26b-20",
+   "nivel": "VII-S26-forme-aglomerare-urbana",
+   "competente": [
+    "VII-2.2",
+    "VII-3.1",
+    "VII-4.2"
+   ],
+   "tip": "ordoneaza",
+   "dificultate": 3,
+   "enunt": "Ordonează orașele megalopolei BosWash de la nord la sud.",
+   "date": {
+    "elemente": [
+     "Boston",
+     "New York",
+     "Philadelphia",
+     "Baltimore",
+     "Washington"
+    ],
+    "criteriu": "De la nord la sud"
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "De-a lungul coastei de est."
+   }
+  },
+  {
+   "id": "VII26b-21",
+   "nivel": "VII-S26-forme-aglomerare-urbana",
+   "competente": [
+    "VII-4.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 3,
+   "enunt": "Compară o suburbie din SUA cu o favelă din Brazilia.",
+   "date": {
+    "variante": [
+     "suburbia are case individuale și servicii; favela are locuințe improvizate și servicii puține",
+     "sunt identice",
+     "favela e mai bogată",
+     "suburbia e un sat"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Contraste urbane."
+   }
+  },
+  {
+   "id": "VII26b-22",
+   "nivel": "VII-S26-forme-aglomerare-urbana",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "denumeste",
+   "dificultate": 2,
+   "enunt": "Ce oraș, al treilea ca mărime din SUA, pe Lacul Michigan, e marcat pe hartă?",
+   "date": {
+    "harta": "lume",
+    "punct": {
+     "lat": 41.88,
+     "lon": -87.63
+    },
+    "variante": [
+     "Chicago",
+     "Detroit",
+     "Toronto",
+     "Cleveland"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Chicago e un mare nod de transport."
+   }
+  },
+  {
+   "id": "VII26b-23",
+   "nivel": "VII-S26-forme-aglomerare-urbana",
+   "competente": [
+    "VII-3.4"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce statuie e simbolul orașului Rio de Janeiro?",
+   "date": {
+    "variante": [
+     "statuia lui Hristos Mântuitorul",
+     "Statuia Libertății",
+     "Turnul Eiffel",
+     "Colosseumul"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Statuia e pe muntele Corcovado."
+   }
+  },
+  {
+   "id": "VII26b-24",
+   "nivel": "VII-S26-forme-aglomerare-urbana",
+   "competente": [
+    "VII-3.4"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce statuie e simbolul orașului New York?",
+   "date": {
+    "variante": [
+     "Statuia Libertății",
+     "statuia lui Hristos Mântuitorul",
+     "Big Ben",
+     "Partenonul"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "A fost un dar al Franței, în 1886."
+   }
+  },
+  {
+   "id": "VII26b-25",
+   "nivel": "VII-S26-forme-aglomerare-urbana",
+   "competente": [
+    "VII-4.4"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce soluție a folosit orașul Curitiba (Brazilia) pentru trafic?",
+   "date": {
+    "variante": [
+     "un sistem rapid de autobuze pe benzi speciale",
+     "interzicerea autobuzelor",
+     "mai multe autostrăzi prin centru",
+     "închiderea parcurilor"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Exemplul a fost copiat în multe orașe."
+   }
+  },
+  {
+   "id": "VII26b-26",
+   "nivel": "VII-S26-forme-aglomerare-urbana",
+   "competente": [
+    "VII-3.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "De ce Ciudad de México are probleme cu poluarea aerului?",
+   "date": {
+    "variante": [
+     "e într-o depresiune înconjurată de munți, unde aerul poluat stagnează",
+     "e lângă ocean",
+     "plouă mult",
+     "are prea puține mașini"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Relieful influențează calitatea aerului."
+   }
+  },
+  {
+   "id": "VII26b-27",
+   "nivel": "VII-S26-forme-aglomerare-urbana",
+   "competente": [
+    "VII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce înseamnă „zgârie-nori”?",
+   "date": {
+    "variante": [
+     "clădiri foarte înalte, cu multe etaje",
+     "case mici",
+     "poduri",
+     "tuneluri"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Primul a fost construit la Chicago, în 1885."
+   }
+  },
+  {
+   "id": "VII26b-28",
+   "nivel": "VII-S26-forme-aglomerare-urbana",
+   "competente": [
+    "VII-1.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce este o suburbie?",
+   "date": {
+    "variante": [
+     "un cartier de locuințe la marginea orașului",
+     "centrul orașului",
+     "un sat izolat",
+     "un port"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Mulți americani locuiesc în suburbii."
+   }
+  },
+  {
+   "id": "VII26b-29",
+   "nivel": "VII-S26-forme-aglomerare-urbana",
+   "competente": [
+    "VII-4.4"
+   ],
+   "tip": "alegere",
+   "dificultate": 3,
+   "enunt": "Cum pot orașele mari să devină mai prietenoase cu mediul?",
+   "date": {
+    "variante": [
+     "transport public, piste de biciclete, parcuri și clădiri eficiente energetic",
+     "mai multe mașini",
+     "tăierea parcurilor",
+     "închiderea metroului"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Orașe verzi."
+   }
+  },
+  {
+   "id": "VII26b-30",
+   "nivel": "VII-S26-forme-aglomerare-urbana",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Pe ce estuar se află Buenos Aires?",
+   "date": {
+    "variante": [
+     "Río de la Plata",
+     "Amazon",
+     "Orinoco",
+     "Mississippi"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Pe celălalt mal e Montevideo, capitala Uruguayului."
+   }
+  },
+  {
+   "id": "VII27-01",
+   "nivel": "VII-S27-diferentieri-economice-regionale",
+   "competente": [
+    "VII-3.3"
+   ],
+   "tip": "asociaza",
+   "dificultate": 1,
+   "enunt": "Asociază țara cu produsul principal.",
+   "date": {
+    "perechi": [
+     [
+      "Chile",
+      "cupru"
+     ],
+     [
+      "Brazilia",
+      "cafea și soia"
+     ],
+     [
+      "Venezuela",
+      "petrol"
+     ],
+     [
+      "Argentina",
+      "carne de vită și cereale"
+     ]
+    ]
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Resurse și produse ale Americii Latine."
+   }
+  },
+  {
+   "id": "VII27-02",
+   "nivel": "VII-S27-diferentieri-economice-regionale",
+   "competente": [
+    "VII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 1,
+   "enunt": "Ce țară are cea mai mare economie din lume?",
+   "date": {
+    "variante": [
+     "SUA",
+     "Brazilia",
+     "Canada",
+     "Mexic"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "SUA au cea mai mare economie, urmate de China."
+   }
+  },
+  {
+   "id": "VII27-03",
+   "nivel": "VII-S27-diferentieri-economice-regionale",
+   "competente": [
+    "VII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 1,
+   "enunt": "Ce este Silicon Valley?",
+   "date": {
+    "variante": [
+     "o regiune din California, centrul mondial al companiilor de IT",
+     "o vale cu nisip",
+     "o mină de siliciu",
+     "un parc național"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Aici sunt sediile multor companii tehnologice."
+   }
+  },
+  {
+   "id": "VII27-04",
+   "nivel": "VII-S27-diferentieri-economice-regionale",
+   "competente": [
+    "VII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce țară e cel mai mare producător de cupru din lume?",
+   "date": {
+    "variante": [
+     "Chile",
+     "Canada",
+     "Argentina",
+     "Mexic"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Aproximativ un sfert din producția mondială."
+   },
+   "surse": [
+    "U.S. Geological Survey – Mineral Commodity Summaries 2025: Copper",
+    "Encyclopaedia Britannica – Chile: economy"
+   ]
+  },
+  {
+   "id": "VII27-05",
+   "nivel": "VII-S27-diferentieri-economice-regionale",
+   "competente": [
+    "VII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce țară e un mare exportator de cafea și soia?",
+   "date": {
+    "variante": [
+     "Brazilia",
+     "Canada",
+     "Chile",
+     "Cuba"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Brazilia e cel mai mare producător de cafea."
+   }
+  },
+  {
+   "id": "VII27-06",
+   "nivel": "VII-S27-diferentieri-economice-regionale",
+   "competente": [
+    "VII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce produc mai ales țările din America Centrală?",
+   "date": {
+    "variante": [
+     "banane, cafea, trestie de zahăr",
+     "petrol și diamante",
+     "lemn de taiga",
+     "grâu de tundră"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Clima tropicală permite aceste culturi."
+   }
+  },
+  {
+   "id": "VII27-07",
+   "nivel": "VII-S27-diferentieri-economice-regionale",
+   "competente": [
+    "VII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce resurse are Canada?",
+   "date": {
+    "variante": [
+     "petrol, lemn, minereuri, grâu, apă dulce",
+     "cafea și cacao",
+     "banane",
+     "nimic"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Canada e bogată în resurse naturale."
+   }
+  },
+  {
+   "id": "VII27-08",
+   "nivel": "VII-S27-diferentieri-economice-regionale",
+   "competente": [
+    "VII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce industrie e importantă în Mexic, lângă granița cu SUA?",
+   "date": {
+    "variante": [
+     "industria de automobile și de asamblare",
+     "creșterea renilor",
+     "pescuitul de balene",
+     "mineritul de diamante"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Fabricile exportă spre SUA."
+   }
+  },
+  {
+   "id": "VII27-09",
+   "nivel": "VII-S27-diferentieri-economice-regionale",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "pin",
+   "dificultate": 2,
+   "enunt": "Atinge pe hartă Silicon Valley (San Francisco).",
+   "date": {
+    "harta": "lume",
+    "tinta": {
+     "lat": 37.4,
+     "lon": -122,
+     "nume": "Silicon Valley"
+    },
+    "toleranta": 300
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Silicon Valley e la sud de San Francisco."
+   }
+  },
+  {
+   "id": "VII27-10",
+   "nivel": "VII-S27-diferentieri-economice-regionale",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "pin",
+   "dificultate": 3,
+   "enunt": "Atinge pe hartă mina de cupru Chuquicamata (nordul Chile).",
+   "date": {
+    "harta": "lume",
+    "tinta": {
+     "lat": -22.3,
+     "lon": -68.9,
+     "nume": "Chuquicamata"
+    },
+    "toleranta": 400
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Mina e în deșertul Atacama."
+   }
+  },
+  {
+   "id": "VII27-11",
+   "nivel": "VII-S27-diferentieri-economice-regionale",
+   "competente": [
+    "VII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce animale se cresc pe scară largă în Pampas?",
+   "date": {
+    "variante": [
+     "vitele (pentru carne)",
+     "renii",
+     "cămilele",
+     "lamele"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Argentina e cunoscută pentru carnea de vită."
+   }
+  },
+  {
+   "id": "VII27-12",
+   "nivel": "VII-S27-diferentieri-economice-regionale",
+   "competente": [
+    "VII-4.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce regiune a Braziliei e mai săracă?",
+   "date": {
+    "variante": [
+     "nord-estul",
+     "sud-estul (São Paulo)",
+     "Rio de Janeiro",
+     "Brasília"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Seceta și moștenirea plantațiilor au lăsat sărăcie."
+   }
+  },
+  {
+   "id": "VII27-13",
+   "nivel": "VII-S27-diferentieri-economice-regionale",
+   "competente": [
+    "VII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Adevărat sau fals? Economia SUA se bazează numai pe agricultură.",
+   "date": {
+    "variante": [
+     "Fals",
+     "Adevărat"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Fals: industrie de vârf și servicii."
+   }
+  },
+  {
+   "id": "VII27-14",
+   "nivel": "VII-S27-diferentieri-economice-regionale",
+   "competente": [
+    "VII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Adevărat sau fals? Brazilia produce și exportă avioane.",
+   "date": {
+    "variante": [
+     "Adevărat",
+     "Fals"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Adevărat: compania Embraer."
+   }
+  },
+  {
+   "id": "VII27-15",
+   "nivel": "VII-S27-diferentieri-economice-regionale",
+   "competente": [
+    "VII-3.3"
+   ],
+   "tip": "lacunar",
+   "dificultate": 2,
+   "enunt": "Completează.",
+   "date": {
+    "text": "Cel mai mare producător de cupru e {0}, iar cel mai mare producător de cafea e {1}.",
+    "raspunsuri": [
+     "Chile",
+     "Brazilia"
+    ],
+    "distractori": [
+     "Canada",
+     "Mexic"
+    ]
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Chile, Brazilia."
+   }
+  },
+  {
+   "id": "VII27-16",
+   "nivel": "VII-S27-diferentieri-economice-regionale",
+   "competente": [
+    "VII-3.3"
+   ],
+   "tip": "lacunar",
+   "dificultate": 2,
+   "enunt": "Completează.",
+   "date": {
+    "text": "Centrul mondial al IT-ului e {0}, în statul {1}.",
+    "raspunsuri": [
+     "Silicon Valley",
+     "California"
+    ],
+    "distractori": [
+     "Wall Street",
+     "Texas"
+    ]
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Silicon Valley, California."
+   }
+  },
+  {
+   "id": "VII27-17",
+   "nivel": "VII-S27-diferentieri-economice-regionale",
+   "competente": [
+    "VII-2.3",
+    "VII-4.1"
+   ],
+   "tip": "grafic",
+   "dificultate": 3,
+   "enunt": "Graficul arată venitul mediu pe locuitor în trei țări americane (mii dolari, valori rotunjite). Câte ori e mai mare în SUA decât în Brazilia?",
+   "date": {
+    "grafic": {
+     "tip": "bare",
+     "titlu": "PIB pe locuitor (mii dolari, valori rotunjite)",
+     "date": [
+      {
+       "eticheta": "SUA",
+       "valoare": 85
+      },
+      {
+       "eticheta": "Brazilia",
+       "valoare": 10
+      },
+      {
+       "eticheta": "Haiti",
+       "valoare": 2
+      }
+     ],
+     "unitate": "mii dolari",
+     "sursa": "Banca Mondială – GDP per capita"
+    },
+    "variante": [
+     "de aproximativ 8 ori",
+     "la fel",
+     "de 2 ori",
+     "de 85 de ori"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "85 : 10 ≈ 8."
+   },
+   "surse": [
+    "Banca Mondială – GDP per capita (current US$)",
+    "FMI – World Economic Outlook database"
+   ]
+  },
+  {
+   "id": "VII27-18",
+   "nivel": "VII-S27-diferentieri-economice-regionale",
+   "competente": [
+    "VII-4.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 3,
+   "enunt": "Compară economia SUA cu cea a Haitiului.",
+   "date": {
+    "variante": [
+     "SUA au industrie, tehnologie și servicii de vârf; Haiti are agricultură de subzistență și venituri foarte mici",
+     "sunt identice",
+     "Haiti e mai dezvoltat",
+     "SUA nu au industrie"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Contrastele economice."
+   }
+  },
+  {
+   "id": "VII27-19",
+   "nivel": "VII-S27-diferentieri-economice-regionale",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "denumeste",
+   "dificultate": 2,
+   "enunt": "Ce țară, mare producătoare de cafea și flori, e marcată pe hartă?",
+   "date": {
+    "harta": "lume",
+    "punct": {
+     "lat": 4.5,
+     "lon": -74
+    },
+    "variante": [
+     "Columbia",
+     "Venezuela",
+     "Ecuador",
+     "Peru"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Columbia e în nord-vestul Americii de Sud."
+   }
+  },
+  {
+   "id": "VII27-20",
+   "nivel": "VII-S27-diferentieri-economice-regionale",
+   "competente": [
+    "VII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce înseamnă „agricultură de subzistență”?",
+   "date": {
+    "variante": [
+     "oamenii cultivă doar cât le trebuie pentru propria familie",
+     "agricultură pentru export",
+     "agricultură mecanizată",
+     "agricultură în seră"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "E frecventă în zonele sărace."
+   }
+  },
+  {
+   "id": "VII27-21",
+   "nivel": "VII-S27-diferentieri-economice-regionale",
+   "competente": [
+    "VII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce mare producție agricolă are Midwest-ul american?",
+   "date": {
+    "variante": [
+     "porumb și soia (Corn Belt)",
+     "banane",
+     "cafea",
+     "cacao"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Corn Belt = „centura porumbului”."
+   }
+  },
+  {
+   "id": "VII27-22",
+   "nivel": "VII-S27-diferentieri-economice-regionale",
+   "competente": [
+    "VII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce industrie e importantă la Detroit?",
+   "date": {
+    "variante": [
+     "industria de automobile",
+     "industria cafelei",
+     "pescuitul",
+     "mineritul cuprului"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Detroit e numit „Motor City”."
+   }
+  },
+  {
+   "id": "VII27-23",
+   "nivel": "VII-S27-diferentieri-economice-regionale",
+   "competente": [
+    "VII-4.4"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce efect are cultivarea soiei în Brazilia asupra mediului?",
+   "date": {
+    "variante": [
+     "poate duce la defrișarea pădurilor și a savanei",
+     "crește pădurea",
+     "răcește clima",
+     "nu are efecte"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Se caută soia certificată, fără defrișări."
+   }
+  },
+  {
+   "id": "VII27-24",
+   "nivel": "VII-S27-diferentieri-economice-regionale",
+   "competente": [
+    "VII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce domeniu economic e foarte important în Caraibe?",
+   "date": {
+    "variante": [
+     "turismul",
+     "mineritul cărbunelui",
+     "industria oțelului",
+     "creșterea renilor"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Plaje, soare, croaziere."
+   }
+  },
+  {
+   "id": "VII27-25",
+   "nivel": "VII-S27-diferentieri-economice-regionale",
+   "competente": [
+    "VII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 3,
+   "enunt": "De ce Canalul Panama e important pentru economia mondială?",
+   "date": {
+    "variante": [
+     "prin el trec mii de vapoare pe an între Atlantic și Pacific, scurtând drumul",
+     "produce petrol",
+     "e un port de pescuit",
+     "e o atracție doar pentru turiști"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Prin canal trec, în fiecare an, mii de vapoare."
+   },
+   "surse": [
+    "Autoritatea Canalului Panama (pancanal.com) – istoric",
+    "Encyclopaedia Britannica – Panama Canal"
+   ]
+  },
+  {
+   "id": "VII27-26",
+   "nivel": "VII-S27-diferentieri-economice-regionale",
+   "competente": [
+    "VII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce țară e un mare producător de petrol în America de Sud?",
+   "date": {
+    "variante": [
+     "Venezuela",
+     "Uruguay",
+     "Paraguay",
+     "Chile"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Venezuela are mari rezerve de petrol."
+   }
+  },
+  {
+   "id": "VII27-27",
+   "nivel": "VII-S27-diferentieri-economice-regionale",
+   "competente": [
+    "VII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce fruct tropical se exportă mult din Ecuador și America Centrală?",
+   "date": {
+    "variante": [
+     "banana",
+     "mărul",
+     "pera",
+     "prunele"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Ecuador e un mare exportator de banane."
+   }
+  },
+  {
+   "id": "VII27-28",
+   "nivel": "VII-S27-diferentieri-economice-regionale",
+   "competente": [
+    "VII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce fac companiile de divertisment din Los Angeles?",
+   "date": {
+    "variante": [
+     "filme, seriale, muzică",
+     "oțel",
+     "cafea",
+     "automobile"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Hollywood e capitala filmului."
+   }
+  },
+  {
+   "id": "VII27-29",
+   "nivel": "VII-S27-diferentieri-economice-regionale",
+   "competente": [
+    "VII-4.4"
+   ],
+   "tip": "alegere",
+   "dificultate": 3,
+   "enunt": "Cum pot țările Americii Latine să reducă dependența de exportul de materii prime?",
+   "date": {
+    "variante": [
+     "prin prelucrarea lor în țară, educație și industrii noi",
+     "prin exportul mai mult de materii prime brute",
+     "prin închiderea școlilor",
+     "nu pot face nimic"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Valoarea adăugată crește veniturile."
+   }
+  },
+  {
+   "id": "VII27-30",
+   "nivel": "VII-S27-diferentieri-economice-regionale",
+   "competente": [
+    "VII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce țară e un mare exportator de grâu din America de Nord, alături de SUA?",
+   "date": {
+    "variante": [
+     "Canada",
+     "Mexic",
+     "Cuba",
+     "Guatemala"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Preriile canadiene sunt o zonă de cereale."
+   }
+  },
+  {
+   "id": "VII28-01",
+   "nivel": "VII-S28-aplicatii-practice-studii-caz",
+   "competente": [
+    "VII-4.1",
+    "VII-3.1",
+    "VII-4.2"
+   ],
+   "tip": "ordoneaza",
+   "dificultate": 1,
+   "enunt": "Ordonează țările pe drumul de la nord la sud.",
+   "date": {
+    "elemente": [
+     "Canada",
+     "SUA",
+     "Mexic",
+     "Panama",
+     "Peru",
+     "Chile"
+    ],
+    "criteriu": "De la nord la sud"
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Drumul Panamerican leagă aceste țări."
+   }
+  },
+  {
+   "id": "VII28-02",
+   "nivel": "VII-S28-aplicatii-practice-studii-caz",
+   "competente": [
+    "VII-4.4"
+   ],
+   "tip": "asociaza",
+   "dificultate": 2,
+   "enunt": "Asociază etapa călătoriei cu peisajul.",
+   "date": {
+    "perechi": [
+     [
+      "Alaska",
+      "tundră și ghețari"
+     ],
+     [
+      "Marile Câmpii",
+      "culturi de porumb"
+     ],
+     [
+      "Amazonia",
+      "pădure tropicală"
+     ],
+     [
+      "Patagonia",
+      "stepă rece și vânt"
+     ]
+    ]
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Peisaje de la nord la sud."
+   }
+  },
+  {
+   "id": "VII28-03",
+   "nivel": "VII-S28-aplicatii-practice-studii-caz",
+   "competente": [
+    "VII-4.4"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce problemă de mediu ai întâlni în Amazonia?",
+   "date": {
+    "variante": [
+     "defrișarea",
+     "topirea calotei antarctice",
+     "deșertificarea Saharei",
+     "poluarea Mării Negre"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Pădurea e tăiată pentru pășuni și culturi."
+   }
+  }
+ ]
+}

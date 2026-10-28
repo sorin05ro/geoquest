@@ -1,0 +1,1611 @@
+{
+ "clasa": 7,
+ "unitate": "Elemente de geografia mediului înconjurător",
+ "niveluri": [
+  {
+   "id": "VII-S33-componentele-mediului-inconjurator-relatiile",
+   "tip": "nivel",
+   "titlu": "Componentele mediului înconjurător și relațiile dintre ele",
+   "descopera": {
+    "intrebare": "Ce se întâmplă cu un râu dacă se taie pădurea de lângă izvorul lui?"
+   },
+   "invata": [
+    {
+     "titlu": "Componentele",
+     "text": "Mediul înconjurător cuprinde componente naturale (aerul, apa, relieful și rocile, solul, plantele, animalele) și componente create de om (așezări, drumuri, fabrici, terenuri agricole).\nToate sunt legate între ele: o schimbare într-o componentă le influențează pe celelalte."
+    },
+    {
+     "titlu": "Relații",
+     "text": "Clima influențează apele, vegetația, solurile. Relieful influențează clima (altitudinea) și drumul apelor. Vegetația protejează solul și reține apa. Animalele depind de plante. Oamenii folosesc toate componentele și le modifică.\nUn ecosistem este un loc în care viețuitoarele și mediul lor fizic formează un întreg: o pădure, un lac, o deltă."
+    },
+    {
+     "titlu": "Echilibrul",
+     "text": "În natură există un echilibru. Când omul intervine prea mult (defrișări, poluare, vânat excesiv, specii invazive), echilibrul se strică, iar efectele se pot transmite în lanț."
+    }
+   ],
+   "stiaiCa": "Când lupii au fost readuși în Parcul Național Yellowstone (SUA), în 1995, cerbii au început să evite văile râurilor; vegetația de pe maluri s-a refăcut, iar malurile au devenit mai stabile.",
+   "referintaProfesor": "Manual Art Klett, clasa a VII-a, ediția 2024 (manuale.edu.ro), lecția „Componentele mediului înconjurător și relațiile dintre acestea”"
+  },
+  {
+   "id": "VII-S34-degradarea-mediului-inconjurator-problema",
+   "tip": "nivel",
+   "titlu": "Degradarea mediului – o problemă a lumii contemporane",
+   "descopera": {
+    "intrebare": "Este încălzirea globală reală și ce putem face?"
+   },
+   "invata": [
+    {
+     "titlu": "Forme de degradare",
+     "text": "Poluarea aerului (fabrici, transport, încălzire), a apei (ape uzate, plastic, petrol) și a solului (deșeuri, pesticide).\nDefrișările (Amazonia, Indonezia, Africa centrală), deșertificarea (Sahel), pierderea biodiversității, epuizarea resurselor, eroziunea solului."
+    },
+    {
+     "titlu": "Schimbări globale",
+     "text": "Arderea combustibililor fosili a crescut concentrația de dioxid de carbon din atmosferă: de la aproximativ 280 ppm înainte de era industrială la peste 420 ppm azi, după măsurătorile NOAA. Efectul de seră s-a intensificat, iar temperatura medie a planetei a crescut. După WMO, 2024 a fost cel mai cald an înregistrat, cu aproximativ 1,55 °C peste nivelul preindustrial.\nUrmări: topirea ghețarilor, creșterea nivelului mării, valuri de căldură, secete, ploi torențiale, incendii."
+    },
+    {
+     "titlu": "Soluții",
+     "text": "Acordul de la Paris (2015): statele s-au angajat să limiteze încălzirea mult sub 2 °C, încercând 1,5 °C. Protocolul de la Montreal (1987) a interzis substanțele care distrugeau stratul de ozon, iar acesta se reface.\nSoluții: energie regenerabilă, eficiență energetică, transport public, reciclare, protejarea pădurilor, agricultură durabilă."
+    }
+   ],
+   "stiaiCa": "Datorită Protocolului de la Montreal, stratul de ozon se reface; oamenii de știință estimează că deasupra Antarcticii va reveni la nivelul din 1980 în jurul anului 2066.",
+   "referintaProfesor": "Manual Art Klett, clasa a VII-a, ediția 2024 (manuale.edu.ro), lecția „Degradarea mediului înconjurător, o problemă a lumii contemporane”"
+  }
+ ],
+ "itemi": [
+  {
+   "id": "VII33-01",
+   "nivel": "VII-S33-componentele-mediului-inconjurator-relatiile",
+   "competente": [
+    "VII-1.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 1,
+   "enunt": "Ce cuprinde mediul înconjurător?",
+   "date": {
+    "variante": [
+     "componente naturale (aer, apă, sol, relief, plante, animale) și componente create de om",
+     "doar orașele",
+     "doar pădurile",
+     "doar oceanele"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Mediul e tot ce ne înconjoară."
+   }
+  },
+  {
+   "id": "VII33-02",
+   "nivel": "VII-S33-componentele-mediului-inconjurator-relatiile",
+   "competente": [
+    "VII-1.2"
+   ],
+   "tip": "asociaza",
+   "dificultate": 2,
+   "enunt": "Asociază componenta cu tipul ei.",
+   "date": {
+    "perechi": [
+     [
+      "solul",
+      "componentă naturală"
+     ],
+     [
+      "autostrada",
+      "componentă creată de om"
+     ],
+     [
+      "roua",
+      "fenomen natural"
+     ],
+     [
+      "lacul de acumulare",
+      "apă amenajată de om"
+     ]
+    ]
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Natural și antropic."
+   }
+  },
+  {
+   "id": "VII33-03",
+   "nivel": "VII-S33-componentele-mediului-inconjurator-relatiile",
+   "competente": [
+    "VII-1.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce este un ecosistem?",
+   "date": {
+    "variante": [
+     "un loc în care viețuitoarele și mediul lor fizic formează un întreg",
+     "un tip de rocă",
+     "o hartă",
+     "un oraș"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Exemple: pădurea, lacul, delta."
+   }
+  },
+  {
+   "id": "VII33-04",
+   "nivel": "VII-S33-componentele-mediului-inconjurator-relatiile",
+   "competente": [
+    "VII-2.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce se întâmplă cu un râu dacă se taie pădurea din bazinul lui?",
+   "date": {
+    "variante": [
+     "crește riscul de viituri și apa devine mai tulbure, din cauza eroziunii",
+     "râul devine mai curat",
+     "râul dispare imediat",
+     "nu se întâmplă nimic"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Pădurea reține apa și solul."
+   }
+  },
+  {
+   "id": "VII33-05",
+   "nivel": "VII-S33-componentele-mediului-inconjurator-relatiile",
+   "competente": [
+    "VII-2.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Cum influențează relieful clima?",
+   "date": {
+    "variante": [
+     "pe munte e mai frig și plouă mai mult decât în câmpie",
+     "nu o influențează",
+     "pe munte e mai cald",
+     "câmpia e mereu mai rece"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Altitudinea modifică temperatura și precipitațiile."
+   }
+  },
+  {
+   "id": "VII33-06",
+   "nivel": "VII-S33-componentele-mediului-inconjurator-relatiile",
+   "competente": [
+    "VII-2.3",
+    "VII-3.1",
+    "VII-4.2"
+   ],
+   "tip": "ordoneaza",
+   "dificultate": 3,
+   "enunt": "Ordonează efectele în lanț ale tăierii unei păduri de pe pantă.",
+   "date": {
+    "elemente": [
+     "se taie pădurea",
+     "ploile spală solul",
+     "râul primește mult mâl",
+     "albia se colmatează",
+     "cresc inundațiile în aval"
+    ],
+    "criteriu": "Efecte în lanț"
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "O schimbare produce altele."
+   }
+  },
+  {
+   "id": "VII33-07",
+   "nivel": "VII-S33-componentele-mediului-inconjurator-relatiile",
+   "competente": [
+    "VII-2.3",
+    "VII-3.1",
+    "VII-4.2"
+   ],
+   "tip": "ordoneaza",
+   "dificultate": 3,
+   "enunt": "Ordonează efectele poluării unui lac cu îngrășăminte.",
+   "date": {
+    "elemente": [
+     "îngrășămintele ajung în lac",
+     "algele se înmulțesc foarte mult",
+     "algele moarte consumă oxigenul",
+     "peștii mor"
+    ],
+    "criteriu": "Efecte în lanț"
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Fenomenul se numește eutrofizare."
+   }
+  },
+  {
+   "id": "VII33-08",
+   "nivel": "VII-S33-componentele-mediului-inconjurator-relatiile",
+   "competente": [
+    "VII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce rol au plantele în mediu?",
+   "date": {
+    "variante": [
+     "produc oxigen, protejează solul, rețin apa, dau hrană și adăpost",
+     "nu au niciun rol",
+     "poluează aerul",
+     "usucă solul"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Plantele sunt baza ecosistemelor."
+   }
+  },
+  {
+   "id": "VII33-09",
+   "nivel": "VII-S33-componentele-mediului-inconjurator-relatiile",
+   "competente": [
+    "VII-4.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce se întâmplă dacă dispar prădătorii dintr-un ecosistem?",
+   "date": {
+    "variante": [
+     "ierbivorele se înmulțesc prea mult și distrug vegetația",
+     "nu se întâmplă nimic",
+     "plantele cresc mai bine mereu",
+     "dispar și plantele imediat"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Exemplul lupilor din Yellowstone."
+   }
+  },
+  {
+   "id": "VII33-10",
+   "nivel": "VII-S33-componentele-mediului-inconjurator-relatiile",
+   "competente": [
+    "VII-4.4"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce sunt speciile invazive?",
+   "date": {
+    "variante": [
+     "specii aduse dintr-o altă regiune, care se înmulțesc și dăunează speciilor locale",
+     "specii pe cale de dispariție",
+     "plante de cameră",
+     "animale domestice obișnuite"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Exemple: iepurii în Australia, ambrozia în Europa."
+   }
+  },
+  {
+   "id": "VII33-11",
+   "nivel": "VII-S33-componentele-mediului-inconjurator-relatiile",
+   "competente": [
+    "VII-1.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Adevărat sau fals? Componentele mediului nu se influențează între ele.",
+   "date": {
+    "variante": [
+     "Fals",
+     "Adevărat"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Fals: sunt strâns legate."
+   }
+  },
+  {
+   "id": "VII33-12",
+   "nivel": "VII-S33-componentele-mediului-inconjurator-relatiile",
+   "competente": [
+    "VII-2.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Adevărat sau fals? Delta Dunării e un ecosistem.",
+   "date": {
+    "variante": [
+     "Adevărat",
+     "Fals"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Adevărat: un ecosistem de zonă umedă, foarte bogat."
+   }
+  },
+  {
+   "id": "VII33-13",
+   "nivel": "VII-S33-componentele-mediului-inconjurator-relatiile",
+   "competente": [
+    "VII-1.2"
+   ],
+   "tip": "lacunar",
+   "dificultate": 2,
+   "enunt": "Completează.",
+   "date": {
+    "text": "Un loc unde viețuitoarele și mediul formează un întreg se numește {0}; specia adusă din altă parte care dăunează se numește specie {1}.",
+    "raspunsuri": [
+     "ecosistem",
+     "invazivă"
+    ],
+    "distractori": [
+     "habitat",
+     "endemică"
+    ]
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Ecosistem, invazivă."
+   }
+  },
+  {
+   "id": "VII33-14",
+   "nivel": "VII-S33-componentele-mediului-inconjurator-relatiile",
+   "competente": [
+    "VII-2.3"
+   ],
+   "tip": "lacunar",
+   "dificultate": 2,
+   "enunt": "Completează.",
+   "date": {
+    "text": "Pădurea {0} apa și protejează {1} de eroziune.",
+    "raspunsuri": [
+     "reține",
+     "solul"
+    ],
+    "distractori": [
+     "evaporă",
+     "aerul"
+    ]
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Rolul pădurii."
+   }
+  },
+  {
+   "id": "VII33-15",
+   "nivel": "VII-S33-componentele-mediului-inconjurator-relatiile",
+   "competente": [
+    "VII-2.3"
+   ],
+   "tip": "pin",
+   "dificultate": 2,
+   "enunt": "Atinge pe harta României Delta Dunării, un ecosistem protejat.",
+   "date": {
+    "harta": "romania",
+    "tinta": {
+     "lat": 45.1,
+     "lon": 29.3,
+     "nume": "Delta Dunării"
+    },
+    "toleranta": 50
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Delta e Rezervație a Biosferei."
+   }
+  },
+  {
+   "id": "VII33-16",
+   "nivel": "VII-S33-componentele-mediului-inconjurator-relatiile",
+   "competente": [
+    "VII-2.3"
+   ],
+   "tip": "pin",
+   "dificultate": 3,
+   "enunt": "Atinge pe hartă Parcul Național Yellowstone (SUA).",
+   "date": {
+    "harta": "lume",
+    "tinta": {
+     "lat": 44.6,
+     "lon": -110.5,
+     "nume": "Yellowstone"
+    },
+    "toleranta": 400
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Yellowstone, înființat în 1872, e primul parc național din lume."
+   }
+  },
+  {
+   "id": "VII33-17",
+   "nivel": "VII-S33-componentele-mediului-inconjurator-relatiile",
+   "competente": [
+    "VII-2.3",
+    "VII-4.1"
+   ],
+   "tip": "grafic",
+   "dificultate": 3,
+   "enunt": "Graficul arată numărul de cerbi și lupi într-un parc imaginar. Ce s-a întâmplat după revenirea lupilor?",
+   "date": {
+    "grafic": {
+     "tip": "profil",
+     "titlu": "Număr de cerbi într-un parc imaginar",
+     "date": [
+      {
+       "eticheta": "anul 0",
+       "valoare": 18
+      },
+      {
+       "eticheta": "anul 5 (vin lupii)",
+       "valoare": 17
+      },
+      {
+       "eticheta": "anul 10",
+       "valoare": 12
+      },
+      {
+       "eticheta": "anul 15",
+       "valoare": 9
+      },
+      {
+       "eticheta": "anul 20",
+       "valoare": 8
+      }
+     ],
+     "unitate": "mii"
+    },
+    "variante": [
+     "numărul cerbilor a scăzut și s-a stabilizat",
+     "a crescut",
+     "a rămas neschimbat",
+     "cerbii au dispărut"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Prădătorii refac echilibrul."
+   }
+  },
+  {
+   "id": "VII33-18",
+   "nivel": "VII-S33-componentele-mediului-inconjurator-relatiile",
+   "competente": [
+    "VII-4.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 3,
+   "enunt": "Compară un ecosistem natural cu un câmp cultivat cu o singură plantă.",
+   "date": {
+    "variante": [
+     "ecosistemul natural are multe specii și e mai stabil; monocultura are puține specii și e mai vulnerabilă",
+     "sunt identice",
+     "monocultura e mai bogată",
+     "ecosistemul natural nu are plante"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Biodiversitatea dă stabilitate."
+   }
+  },
+  {
+   "id": "VII33-19",
+   "nivel": "VII-S33-componentele-mediului-inconjurator-relatiile",
+   "competente": [
+    "VII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce componentă a mediului e esențială pentru agricultură?",
+   "date": {
+    "variante": [
+     "solul fertil (și apa)",
+     "asfaltul",
+     "zgomotul",
+     "fumul"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Hrana noastră crește din sol."
+   }
+  },
+  {
+   "id": "VII33-20",
+   "nivel": "VII-S33-componentele-mediului-inconjurator-relatiile",
+   "competente": [
+    "VII-2.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Cum influențează clima solurile?",
+   "date": {
+    "variante": [
+     "clima decide ce plante cresc și cât de repede se formează humusul",
+     "nu le influențează",
+     "solurile decid clima",
+     "doar relieful contează"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Cernoziomul s-a format sub stepă, în climă temperată."
+   }
+  },
+  {
+   "id": "VII33-21",
+   "nivel": "VII-S33-componentele-mediului-inconjurator-relatiile",
+   "competente": [
+    "VII-4.4"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce înseamnă „arie protejată”?",
+   "date": {
+    "variante": [
+     "un teritoriu unde natura e ocrotită prin lege",
+     "un oraș nou",
+     "o zonă industrială",
+     "o parcare"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Parcuri naționale, rezervații, situri Natura 2000."
+   }
+  },
+  {
+   "id": "VII33-22",
+   "nivel": "VII-S33-componentele-mediului-inconjurator-relatiile",
+   "competente": [
+    "VII-4.4"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce este rețeaua Natura 2000?",
+   "date": {
+    "variante": [
+     "rețeaua europeană de arii protejate pentru specii și habitate",
+     "o rețea de autostrăzi",
+     "un program TV",
+     "o rețea de telefonie"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "România are sute de situri Natura 2000."
+   }
+  },
+  {
+   "id": "VII33-23",
+   "nivel": "VII-S33-componentele-mediului-inconjurator-relatiile",
+   "competente": [
+    "VII-2.3"
+   ],
+   "tip": "denumeste",
+   "dificultate": 2,
+   "enunt": "Ce zonă umedă protejată din România e marcată pe hartă?",
+   "date": {
+    "harta": "romania",
+    "punct": {
+     "lat": 45.1,
+     "lon": 29.3
+    },
+    "variante": [
+     "Delta Dunării",
+     "Lacul Razim",
+     "Balta Brăilei",
+     "Lacul Snagov"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Delta are peste 300 de specii de păsări."
+   }
+  },
+  {
+   "id": "VII33-24",
+   "nivel": "VII-S33-componentele-mediului-inconjurator-relatiile",
+   "competente": [
+    "VII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce legătură e între albine și agricultură?",
+   "date": {
+    "variante": [
+     "albinele polenizează multe culturi; fără ele, recoltele scad",
+     "albinele distrug culturile",
+     "nu e nicio legătură",
+     "albinele produc îngrășăminte"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Polenizatorii sunt esențiali."
+   }
+  },
+  {
+   "id": "VII33-25",
+   "nivel": "VII-S33-componentele-mediului-inconjurator-relatiile",
+   "competente": [
+    "VII-4.4"
+   ],
+   "tip": "alegere",
+   "dificultate": 3,
+   "enunt": "De ce o mlaștină desecată poate duce la inundații în aval?",
+   "date": {
+    "variante": [
+     "mlaștina reținea apa ca un burete; fără ea, apa ajunge repede în râu",
+     "mlaștina producea ploaie",
+     "desecarea răcește clima",
+     "fără motiv"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Zonele umede protejează contra inundațiilor."
+   }
+  },
+  {
+   "id": "VII33-26",
+   "nivel": "VII-S33-componentele-mediului-inconjurator-relatiile",
+   "competente": [
+    "VII-1.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce componentă creată de om modifică cel mai mult cursul unui râu?",
+   "date": {
+    "variante": [
+     "barajul",
+     "un copac",
+     "o pasăre",
+     "o piatră"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Barajul transformă râul în lac."
+   }
+  },
+  {
+   "id": "VII33-27",
+   "nivel": "VII-S33-componentele-mediului-inconjurator-relatiile",
+   "competente": [
+    "VII-4.4"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce poate face o școală pentru ecosistemul local?",
+   "date": {
+    "variante": [
+     "plantează specii locale și amenajează un colț pentru insecte polenizatoare",
+     "taie copacii din curte",
+     "betonează curtea",
+     "aruncă deșeurile în pârâu"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Acțiuni concrete."
+   }
+  },
+  {
+   "id": "VII33-28",
+   "nivel": "VII-S33-componentele-mediului-inconjurator-relatiile",
+   "competente": [
+    "VII-1.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce înseamnă echilibru ecologic?",
+   "date": {
+    "variante": [
+     "starea în care componentele unui ecosistem se mențin în proporții stabile",
+     "dispariția tuturor speciilor",
+     "un singur tip de plantă",
+     "lipsa apei"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Echilibrul poate fi stricat de om."
+   }
+  },
+  {
+   "id": "VII33-29",
+   "nivel": "VII-S33-componentele-mediului-inconjurator-relatiile",
+   "competente": [
+    "VII-2.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 3,
+   "enunt": "Cum influențează orașul clima locală?",
+   "date": {
+    "variante": [
+     "orașul e mai cald decât împrejurimile (insulă de căldură), din cauza betonului și asfaltului",
+     "orașul e mereu mai rece",
+     "orașul nu influențează clima",
+     "orașul aduce zăpadă vara"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Spațiile verzi reduc insula de căldură."
+   }
+  },
+  {
+   "id": "VII33-30",
+   "nivel": "VII-S33-componentele-mediului-inconjurator-relatiile",
+   "competente": [
+    "VII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce sunt speciile endemice?",
+   "date": {
+    "variante": [
+     "specii care trăiesc doar într-un anumit loc",
+     "specii aduse din altă parte",
+     "specii domestice",
+     "specii dispărute"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Exemple: lemurii din Madagascar, garofița Pietrei Craiului."
+   }
+  },
+  {
+   "id": "VII34-01",
+   "nivel": "VII-S34-degradarea-mediului-inconjurator-problema",
+   "competente": [
+    "VII-1.2"
+   ],
+   "tip": "asociaza",
+   "dificultate": 1,
+   "enunt": "Asociază forma de degradare cu un exemplu.",
+   "date": {
+    "perechi": [
+     [
+      "defrișarea",
+      "tăierea pădurii amazoniene"
+     ],
+     [
+      "deșertificarea",
+      "înaintarea deșertului în Sahel"
+     ],
+     [
+      "poluarea apei",
+      "plasticul din oceane"
+     ],
+     [
+      "poluarea aerului",
+      "smogul din marile orașe"
+     ]
+    ]
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Forme de degradare."
+   }
+  },
+  {
+   "id": "VII34-02",
+   "nivel": "VII-S34-degradarea-mediului-inconjurator-problema",
+   "competente": [
+    "VII-2.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 1,
+   "enunt": "Ce gaz a crescut cel mai mult în atmosferă din cauza arderii combustibililor fosili?",
+   "date": {
+    "variante": [
+     "dioxidul de carbon",
+     "oxigenul",
+     "azotul",
+     "argonul"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Concentrația a trecut de 420 ppm."
+   },
+   "surse": [
+    "NOAA Global Monitoring Laboratory – Trends in Atmospheric Carbon Dioxide (Mauna Loa)",
+    "NASA Climate – Carbon Dioxide vital sign"
+   ]
+  },
+  {
+   "id": "VII34-03",
+   "nivel": "VII-S34-degradarea-mediului-inconjurator-problema",
+   "competente": [
+    "VII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 1,
+   "enunt": "Ce concentrație de dioxid de carbon avea aerul înainte de era industrială?",
+   "date": {
+    "variante": [
+     "aproximativ 280 ppm",
+     "aproximativ 4 200 ppm",
+     "aproximativ 28 ppm",
+     "0 ppm"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Azi depășește 420 ppm."
+   },
+   "surse": [
+    "NOAA Global Monitoring Laboratory – Trends in Atmospheric Carbon Dioxide (Mauna Loa)",
+    "NASA Climate – Carbon Dioxide vital sign"
+   ]
+  },
+  {
+   "id": "VII34-04",
+   "nivel": "VII-S34-degradarea-mediului-inconjurator-problema",
+   "competente": [
+    "VII-1.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce este efectul de seră?",
+   "date": {
+    "variante": [
+     "reținerea căldurii în atmosferă de către unele gaze, ca într-o seră",
+     "răcirea Pământului de către Lună",
+     "formarea norilor",
+     "lumina stelelor"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Natural e util; accentuat de om încălzește planeta."
+   }
+  },
+  {
+   "id": "VII34-05",
+   "nivel": "VII-S34-degradarea-mediului-inconjurator-problema",
+   "competente": [
+    "VII-2.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Care a fost cel mai cald an înregistrat, după WMO?",
+   "date": {
+    "variante": [
+     "2024",
+     "1950",
+     "1990",
+     "2005"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Aproximativ 1,55 °C peste nivelul preindustrial."
+   },
+   "surse": [
+    "WMO – State of the Global Climate 2024",
+    "Copernicus Climate Change Service – Global Climate Highlights 2024"
+   ]
+  },
+  {
+   "id": "VII34-06",
+   "nivel": "VII-S34-degradarea-mediului-inconjurator-problema",
+   "competente": [
+    "VII-4.3"
+   ],
+   "tip": "asociaza",
+   "dificultate": 2,
+   "enunt": "Asociază urmarea încălzirii cu regiunea.",
+   "date": {
+    "perechi": [
+     [
+      "topirea ghețarilor",
+      "Alpi și Himalaya"
+     ],
+     [
+      "creșterea nivelului mării",
+      "Maldive și Tuvalu"
+     ],
+     [
+      "secetele",
+      "Sahel și sudul Europei"
+     ],
+     [
+      "incendiile de vegetație",
+      "Australia și California"
+     ]
+    ]
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Efectele schimbărilor climatice."
+   }
+  },
+  {
+   "id": "VII34-07",
+   "nivel": "VII-S34-degradarea-mediului-inconjurator-problema",
+   "competente": [
+    "VII-4.4"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce prevede Acordul de la Paris (2015)?",
+   "date": {
+    "variante": [
+     "limitarea încălzirii globale mult sub 2 °C, încercând 1,5 °C",
+     "oprirea tuturor fabricilor",
+     "construirea de noi centrale pe cărbune",
+     "nimic concret"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "A fost semnat de aproape toate statele lumii."
+   },
+   "surse": [
+    "UNFCCC – The Paris Agreement",
+    "Comisia Europeană – Acordul de la Paris"
+   ]
+  },
+  {
+   "id": "VII34-08",
+   "nivel": "VII-S34-degradarea-mediului-inconjurator-problema",
+   "competente": [
+    "VII-4.4"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce a interzis Protocolul de la Montreal (1987)?",
+   "date": {
+    "variante": [
+     "substanțele care distrugeau stratul de ozon (freonii)",
+     "petrolul",
+     "plasticul",
+     "mașinile"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Stratul de ozon se reface."
+   },
+   "surse": [
+    "UNEP Ozone Secretariat – The Montreal Protocol",
+    "WMO/UNEP – Scientific Assessment of Ozone Depletion 2022"
+   ]
+  },
+  {
+   "id": "VII34-09",
+   "nivel": "VII-S34-degradarea-mediului-inconjurator-problema",
+   "competente": [
+    "VII-4.4"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Care dintre acestea e o soluție contra încălzirii globale?",
+   "date": {
+    "variante": [
+     "energia solară și eoliană",
+     "mai multe centrale pe cărbune",
+     "tăierea pădurilor",
+     "arderea deșeurilor"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Energia regenerabilă nu emite dioxid de carbon."
+   }
+  },
+  {
+   "id": "VII34-10",
+   "nivel": "VII-S34-degradarea-mediului-inconjurator-problema",
+   "competente": [
+    "VII-1.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "De ce crește nivelul mării?",
+   "date": {
+    "variante": [
+     "se topesc ghețarii de pe uscat și apa se dilată când se încălzește",
+     "plouă mai mult pe mare",
+     "râurile sunt mai lungi",
+     "Luna e mai aproape"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Două cauze principale."
+   }
+  },
+  {
+   "id": "VII34-11",
+   "nivel": "VII-S34-degradarea-mediului-inconjurator-problema",
+   "competente": [
+    "VII-2.3"
+   ],
+   "tip": "pin",
+   "dificultate": 2,
+   "enunt": "Atinge pe hartă o regiune afectată de deșertificare: Sahelul.",
+   "date": {
+    "harta": "lume",
+    "tinta": {
+     "lat": 15,
+     "lon": 5,
+     "nume": "Sahel"
+    },
+    "toleranta": 800
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Sahelul e la sud de Sahara."
+   }
+  },
+  {
+   "id": "VII34-12",
+   "nivel": "VII-S34-degradarea-mediului-inconjurator-problema",
+   "competente": [
+    "VII-2.3"
+   ],
+   "tip": "pin",
+   "dificultate": 3,
+   "enunt": "Atinge pe hartă Paris, orașul în care s-a semnat acordul climatic din 2015.",
+   "date": {
+    "harta": "lume",
+    "tinta": {
+     "lat": 48.86,
+     "lon": 2.35,
+     "nume": "Paris"
+    },
+    "toleranta": 300
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Acordul de la Paris."
+   },
+   "surse": [
+    "UNFCCC – The Paris Agreement",
+    "Comisia Europeană – Acordul de la Paris"
+   ]
+  },
+  {
+   "id": "VII34-13",
+   "nivel": "VII-S34-degradarea-mediului-inconjurator-problema",
+   "competente": [
+    "VII-2.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Adevărat sau fals? Concentrația de dioxid de carbon din atmosferă a crescut mult după începutul erei industriale.",
+   "date": {
+    "variante": [
+     "Adevărat",
+     "Fals"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Adevărat: de la ~280 la peste 420 ppm."
+   },
+   "surse": [
+    "NOAA Global Monitoring Laboratory – Trends in Atmospheric Carbon Dioxide (Mauna Loa)",
+    "NASA Climate – Carbon Dioxide vital sign"
+   ]
+  },
+  {
+   "id": "VII34-14",
+   "nivel": "VII-S34-degradarea-mediului-inconjurator-problema",
+   "competente": [
+    "VII-4.4"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Adevărat sau fals? Stratul de ozon nu se mai poate reface niciodată.",
+   "date": {
+    "variante": [
+     "Fals",
+     "Adevărat"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Fals: datorită Protocolului de la Montreal, se reface."
+   },
+   "surse": [
+    "UNEP Ozone Secretariat – The Montreal Protocol",
+    "WMO/UNEP – Scientific Assessment of Ozone Depletion 2022"
+   ]
+  },
+  {
+   "id": "VII34-15",
+   "nivel": "VII-S34-degradarea-mediului-inconjurator-problema",
+   "competente": [
+    "VII-4.4"
+   ],
+   "tip": "lacunar",
+   "dificultate": 2,
+   "enunt": "Completează.",
+   "date": {
+    "text": "Acordul climatic din 2015 s-a semnat la {0}; protocolul pentru stratul de ozon s-a semnat la {1}.",
+    "raspunsuri": [
+     "Paris",
+     "Montreal"
+    ],
+    "distractori": [
+     "Kyoto",
+     "Londra"
+    ]
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Paris, Montreal."
+   }
+  },
+  {
+   "id": "VII34-16",
+   "nivel": "VII-S34-degradarea-mediului-inconjurator-problema",
+   "competente": [
+    "VII-1.2"
+   ],
+   "tip": "lacunar",
+   "dificultate": 2,
+   "enunt": "Completează.",
+   "date": {
+    "text": "Gazul care a crescut cel mai mult din cauza arderilor este {0}; el intensifică efectul de {1}.",
+    "raspunsuri": [
+     "dioxidul de carbon",
+     "seră"
+    ],
+    "distractori": [
+     "oxigenul",
+     "ozon"
+    ]
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "CO₂, efect de seră."
+   }
+  },
+  {
+   "id": "VII34-17",
+   "nivel": "VII-S34-degradarea-mediului-inconjurator-problema",
+   "competente": [
+    "VII-2.3",
+    "VII-4.1"
+   ],
+   "tip": "grafic",
+   "dificultate": 3,
+   "enunt": "Graficul arată concentrația de dioxid de carbon măsurată la Mauna Loa (valori rotunjite). Ce observi?",
+   "date": {
+    "grafic": {
+     "tip": "profil",
+     "titlu": "CO₂ în atmosferă, Mauna Loa (valori rotunjite)",
+     "date": [
+      {
+       "eticheta": "1960",
+       "valoare": 317
+      },
+      {
+       "eticheta": "1980",
+       "valoare": 339
+      },
+      {
+       "eticheta": "2000",
+       "valoare": 370
+      },
+      {
+       "eticheta": "2010",
+       "valoare": 390
+      },
+      {
+       "eticheta": "2024",
+       "valoare": 424
+      }
+     ],
+     "unitate": "ppm",
+     "sursa": "NOAA Global Monitoring Laboratory"
+    },
+    "variante": [
+     "concentrația crește din ce în ce mai repede",
+     "a scăzut",
+     "a rămas aceeași",
+     "a crescut doar până în 1980"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Curba Keeling."
+   },
+   "surse": [
+    "NOAA Global Monitoring Laboratory – Trends in Atmospheric Carbon Dioxide (Mauna Loa)",
+    "NASA Climate – Carbon Dioxide vital sign"
+   ]
+  },
+  {
+   "id": "VII34-18",
+   "nivel": "VII-S34-degradarea-mediului-inconjurator-problema",
+   "competente": [
+    "VII-2.3",
+    "VII-4.3",
+    "VII-4.1"
+   ],
+   "tip": "grafic",
+   "dificultate": 3,
+   "enunt": "În același grafic, cu cât a crescut concentrația între 1960 și 2024?",
+   "date": {
+    "grafic": {
+     "tip": "profil",
+     "titlu": "CO₂ în atmosferă, Mauna Loa (valori rotunjite)",
+     "date": [
+      {
+       "eticheta": "1960",
+       "valoare": 317
+      },
+      {
+       "eticheta": "1980",
+       "valoare": 339
+      },
+      {
+       "eticheta": "2000",
+       "valoare": 370
+      },
+      {
+       "eticheta": "2010",
+       "valoare": 390
+      },
+      {
+       "eticheta": "2024",
+       "valoare": 424
+      }
+     ],
+     "unitate": "ppm",
+     "sursa": "NOAA Global Monitoring Laboratory"
+    },
+    "variante": [
+     "cu aproximativ 107 ppm",
+     "cu 7 ppm",
+     "cu 424 ppm",
+     "cu 1 000 ppm"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "424 − 317 = 107."
+   },
+   "surse": [
+    "NOAA Global Monitoring Laboratory – Trends in Atmospheric Carbon Dioxide (Mauna Loa)",
+    "NASA Climate – Carbon Dioxide vital sign"
+   ]
+  },
+  {
+   "id": "VII34-19",
+   "nivel": "VII-S34-degradarea-mediului-inconjurator-problema",
+   "competente": [
+    "VII-4.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 3,
+   "enunt": "Compară cauzele deșertificării din Sahel cu cele ale defrișării din Amazonia.",
+   "date": {
+    "variante": [
+     "în Sahel: secete și pășunat excesiv; în Amazonia: tăierea pădurii pentru pășuni și culturi",
+     "sunt cauzate de vulcani",
+     "sunt identice",
+     "nu au cauze umane"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Ambele sunt accentuate de om."
+   }
+  },
+  {
+   "id": "VII34-20",
+   "nivel": "VII-S34-degradarea-mediului-inconjurator-problema",
+   "competente": [
+    "VII-4.4"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce poți face tu pentru a reduce amprenta de carbon?",
+   "date": {
+    "variante": [
+     "mergi pe jos sau cu bicicleta, economisești energia, reduci risipa de mâncare",
+     "lași lumina aprinsă",
+     "folosești mașina pentru 200 m",
+     "arunci mâncarea"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Obiceiurile zilnice contează."
+   }
+  },
+  {
+   "id": "VII34-21",
+   "nivel": "VII-S34-degradarea-mediului-inconjurator-problema",
+   "competente": [
+    "VII-1.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce înseamnă „amprentă de carbon”?",
+   "date": {
+    "variante": [
+     "cantitatea de gaze cu efect de seră produsă de activitățile unei persoane sau ale unei țări",
+     "urma lăsată de un pantof",
+     "un tip de cărbune",
+     "o hartă"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Se măsoară în tone de CO₂ pe an."
+   }
+  },
+  {
+   "id": "VII34-22",
+   "nivel": "VII-S34-degradarea-mediului-inconjurator-problema",
+   "competente": [
+    "VII-4.4"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce înseamnă „economie verde”?",
+   "date": {
+    "variante": [
+     "o economie care reduce poluarea și folosește resursele cu grijă",
+     "o economie care produce doar vopsea verde",
+     "o economie fără energie",
+     "o economie bazată pe cărbune"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Locuri de muncă în energie curată, reciclare."
+   }
+  },
+  {
+   "id": "VII34-23",
+   "nivel": "VII-S34-degradarea-mediului-inconjurator-problema",
+   "competente": [
+    "VII-2.3"
+   ],
+   "tip": "denumeste",
+   "dificultate": 2,
+   "enunt": "Ce pădure, amenințată de defrișări, e marcată pe hartă?",
+   "date": {
+    "harta": "lume",
+    "punct": {
+     "lat": -4,
+     "lon": -62
+    },
+    "variante": [
+     "pădurea amazoniană",
+     "pădurea Congo",
+     "taigaua",
+     "pădurea Borneo"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Amazonia e cea mai mare pădure tropicală."
+   }
+  },
+  {
+   "id": "VII34-24",
+   "nivel": "VII-S34-degradarea-mediului-inconjurator-problema",
+   "competente": [
+    "VII-4.4"
+   ],
+   "tip": "alegere",
+   "dificultate": 3,
+   "enunt": "De ce problemele de mediu trebuie rezolvate prin cooperare internațională?",
+   "date": {
+    "variante": [
+     "poluarea și clima nu țin cont de granițe",
+     "pentru că fiecare țară e izolată",
+     "pentru că nu există granițe",
+     "nu trebuie rezolvate"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Atmosfera și oceanele sunt comune."
+   }
+  },
+  {
+   "id": "VII34-25",
+   "nivel": "VII-S34-degradarea-mediului-inconjurator-problema",
+   "competente": [
+    "VII-4.4"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce înseamnă „dezvoltare durabilă”?",
+   "date": {
+    "variante": [
+     "dezvoltare care satisface nevoile de azi fără să compromită viitorul",
+     "dezvoltare cu orice preț",
+     "oprirea oricărei dezvoltări",
+     "exploatare maximă a resurselor"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Definiția din Raportul Brundtland (1987)."
+   }
+  },
+  {
+   "id": "VII34-26",
+   "nivel": "VII-S34-degradarea-mediului-inconjurator-problema",
+   "competente": [
+    "VII-2.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce înseamnă „insula de plastic” din Pacific?",
+   "date": {
+    "variante": [
+     "o zonă imensă în care curenții adună deșeuri de plastic",
+     "o insulă construită din plastic pentru turiști",
+     "o insulă vulcanică",
+     "un atol"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Plasticul se rupe în microplastice."
+   }
+  },
+  {
+   "id": "VII34-27",
+   "nivel": "VII-S34-degradarea-mediului-inconjurator-problema",
+   "competente": [
+    "VII-4.4"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce face poluarea cu plastic animalelor marine?",
+   "date": {
+    "variante": [
+     "le rănește sau le omoară când îl înghit sau se încurcă în el",
+     "le hrănește",
+     "le ajută să înoate",
+     "nu are efect"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Țestoasele confundă pungile cu meduzele."
+   }
+  },
+  {
+   "id": "VII34-28",
+   "nivel": "VII-S34-degradarea-mediului-inconjurator-problema",
+   "competente": [
+    "VII-4.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 3,
+   "enunt": "De ce încălzirea globală poate produce și ploi mai puternice?",
+   "date": {
+    "variante": [
+     "aerul mai cald poate reține mai mulți vapori de apă, care cad apoi ca ploi torențiale",
+     "pentru că se răcește oceanul",
+     "pentru că dispar norii",
+     "fără motiv"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Extremele devin mai frecvente."
+   }
+  },
+  {
+   "id": "VII34-29",
+   "nivel": "VII-S34-degradarea-mediului-inconjurator-problema",
+   "competente": [
+    "VII-4.4"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce înseamnă „reducere, refolosire, reciclare”?",
+   "date": {
+    "variante": [
+     "consumi mai puțin, folosești lucrurile de mai multe ori și reciclezi ce nu mai poți folosi",
+     "cumperi mai mult",
+     "arunci tot",
+     "arzi deșeurile"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Regula celor trei R."
+   }
+  },
+  {
+   "id": "VII34-30",
+   "nivel": "VII-S34-degradarea-mediului-inconjurator-problema",
+   "competente": [
+    "VII-4.4"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce poate face orașul tău pentru mediu?",
+   "date": {
+    "variante": [
+     "colectare selectivă, transport public, spații verzi, iluminat eficient",
+     "mai multe gropi de gunoi neecologice",
+     "tăierea parcurilor",
+     "închiderea transportului public"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Soluții locale."
+   }
+  }
+ ]
+}

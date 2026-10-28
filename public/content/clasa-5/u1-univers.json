@@ -1,0 +1,1656 @@
+{
+ "clasa": 5,
+ "unitate": "Terra – o planetă a Universului",
+ "niveluri": [
+  {
+   "id": "V-S02-universul-sistemul-solar-aspecte",
+   "tip": "nivel",
+   "titlu": "Universul și Sistemul Solar",
+   "descopera": {
+    "intrebare": "Noaptea, pe cer vezi mii de puncte luminoase. Sunt toate stele? Ce e Pământul printre ele?"
+   },
+   "invata": [
+    {
+     "titlu": "Universul",
+     "text": "Universul cuprinde tot ce există: galaxii, stele, planete, praf și gaze. Galaxiile sunt grupări uriașe de stele. Galaxia noastră se numește Calea Lactee.\nO stea, ca Soarele, produce lumină și căldură. Planetele și sateliții nu au lumină proprie: reflectă lumina Soarelui."
+    },
+    {
+     "titlu": "Sistemul Solar",
+     "text": "Sistemul Solar e format din Soare și din corpurile care se rotesc în jurul lui: 8 planete, sateliții lor, planete pitice, asteroizi și comete.\nPlanetele, de la Soare spre exterior: Mercur, Venus, Pământ, Marte (planete telurice, mici și stâncoase), Jupiter, Saturn, Uranus, Neptun (planete gigantice, mari, formate mai ales din gaze).\nÎntre Marte și Jupiter se află centura de asteroizi. Pluto este, din 2006, planetă pitică."
+    }
+   ],
+   "stiaiCa": "Lumina Soarelui ajunge la noi în aproximativ 8 minute și 20 de secunde. Când privești Soarele, îl vezi așa cum era acum 8 minute.",
+   "referintaProfesor": "Manual Art Klett, clasa a V-a (manuale.edu.ro), lecția „Universul și Sistemul Solar”"
+  },
+  {
+   "id": "V-S03-terra-planeta-sistemului-solar",
+   "tip": "nivel",
+   "titlu": "Terra – o planetă a Sistemului Solar (formă și dimensiuni)",
+   "descopera": {
+    "intrebare": "Dacă Pământul ar fi plat, ce ar trebui să vezi când o corabie pleacă spre orizont?"
+   },
+   "invata": [
+    {
+     "titlu": "Forma Pământului",
+     "text": "Pământul are formă aproape sferică, ușor turtită la poli. Forma lui reală se numește geoid.\nDovezi: fotografiile din spațiu; umbra rotundă a Pământului pe Lună, în timpul eclipsei de Lună; corabia care dispare treptat la orizont (întâi carena, apoi catargul); călătoriile în jurul lumii."
+    },
+    {
+     "titlu": "Dimensiuni și consecințe",
+     "text": "Raza Pământului e de aproximativ 6 378 km la Ecuator și 6 357 km la poli; în medie, 6 371 km. Lungimea Ecuatorului e de aproximativ 40 000 km.\nPentru că Pământul e rotund, razele Soarelui cad diferit: aproape vertical la Ecuator (cald) și foarte înclinat la poli (rece). De aici apar zonele de climă."
+    }
+   ],
+   "stiaiCa": "Diferența dintre raza de la Ecuator și cea de la poli e de doar circa 21 km. Pe un glob de clasă, turtirea nici nu s-ar vedea.",
+   "referintaProfesor": "Manual Art Klett, clasa a V-a (manuale.edu.ro), lecția „Terra – o planetă a Sistemului Solar”"
+  },
+  {
+   "id": "V-S04-aplicatie-practica-calatorie-virtuala",
+   "tip": "expeditie",
+   "titlu": "Expediție: călătorie virtuală în Univers",
+   "descopera": {
+    "intrebare": "Dacă ai putea zbura de la Soare până la Neptun, pe lângă ce ai trece?"
+   },
+   "invata": [
+    {
+     "titlu": "Ce faci în expediție",
+     "text": "Urmezi pașii, rezolvi sarcinile și notezi în Jurnalul exploratorului ce ai descoperit."
+    }
+   ],
+   "referintaProfesor": "Manual Art Klett, clasa a V-a (manuale.edu.ro), lecția „Aplicație practică: Călătorie virtuală în Univers”",
+   "pasi": [
+    {
+     "titlu": "1. Traseul navei",
+     "text": "Pregătește drumul prin Sistemul Solar.",
+     "itemi": [
+      "V4-01",
+      "V4-02"
+     ]
+    },
+    {
+     "titlu": "2. Observă cerul",
+     "text": "Într-o seară senină, ieși cu un adult și privește cerul timp de 10 minute. Caută Luna și cele mai strălucitoare puncte.",
+     "itemi": [
+      "V4-03"
+     ],
+     "jurnal": {
+      "cerinta": "Notează data, ora, cum arăta Luna (ce formă avea) și câte stele strălucitoare ai văzut."
+     }
+    },
+    {
+     "titlu": "3. Machetă sau desen",
+     "text": "Desenează sau construiește o machetă a Sistemului Solar, cu planetele în ordine. Folosește mărimi diferite: Jupiter cel mai mare, Mercur cel mai mic.",
+     "jurnal": {
+      "cerinta": "Fotografiază lucrarea și scrie ce materiale ai folosit.",
+      "foto": true
+     }
+    },
+    {
+     "titlu": "4. Prezintă o planetă",
+     "text": "Alege o planetă și află 3 lucruri despre ea din manual sau dintr-o sursă sigură (de exemplu, site-ul NASA).",
+     "jurnal": {
+      "cerinta": "Scrie numele planetei, 3 informații și sursa."
+     }
+    }
+   ]
+  }
+ ],
+ "itemi": [
+  {
+   "id": "V2-01",
+   "nivel": "V-S02-universul-sistemul-solar-aspecte",
+   "competente": [
+    "V-1.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 1,
+   "enunt": "Cum se numește galaxia noastră?",
+   "date": {
+    "variante": [
+     "Calea Lactee",
+     "Andromeda",
+     "Sistemul Solar",
+     "Carul Mare"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Galaxia în care se află Sistemul Solar se numește Calea Lactee."
+   }
+  },
+  {
+   "id": "V2-02",
+   "nivel": "V-S02-universul-sistemul-solar-aspecte",
+   "competente": [
+    "V-1.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 1,
+   "enunt": "Ce este Soarele?",
+   "date": {
+    "variante": [
+     "o stea",
+     "o planetă",
+     "un satelit",
+     "o cometă"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Soarele e o stea: produce lumină și căldură."
+   }
+  },
+  {
+   "id": "V2-03",
+   "nivel": "V-S02-universul-sistemul-solar-aspecte",
+   "competente": [
+    "V-4.2"
+   ],
+   "tip": "ordoneaza",
+   "dificultate": 1,
+   "enunt": "Ordonează planetele de la cea mai apropiată de Soare la cea mai îndepărtată.",
+   "date": {
+    "elemente": [
+     "Mercur",
+     "Venus",
+     "Pământ",
+     "Marte",
+     "Jupiter",
+     "Saturn",
+     "Uranus",
+     "Neptun"
+    ],
+    "criteriu": "De la Soare spre exterior"
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Ordinea: Mercur, Venus, Pământ, Marte, Jupiter, Saturn, Uranus, Neptun."
+   },
+   "indiciu": "Pământul e a treia planetă."
+  },
+  {
+   "id": "V2-04",
+   "nivel": "V-S02-universul-sistemul-solar-aspecte",
+   "competente": [
+    "V-1.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 1,
+   "enunt": "Câte planete are Sistemul Solar?",
+   "date": {
+    "variante": [
+     "8",
+     "9",
+     "7",
+     "10"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Sunt 8 planete. Pluto a fost reclasificat ca planetă pitică în 2006."
+   }
+  },
+  {
+   "id": "V2-05",
+   "nivel": "V-S02-universul-sistemul-solar-aspecte",
+   "competente": [
+    "V-4.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Care este cea mai mare planetă din Sistemul Solar?",
+   "date": {
+    "variante": [
+     "Jupiter",
+     "Saturn",
+     "Pământul",
+     "Neptun"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Jupiter e cea mai mare planetă; în el ar încăpea peste o mie de Pământuri."
+   }
+  },
+  {
+   "id": "V2-06",
+   "nivel": "V-S02-universul-sistemul-solar-aspecte",
+   "competente": [
+    "V-4.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Care planetă este cea mai apropiată de Soare?",
+   "date": {
+    "variante": [
+     "Mercur",
+     "Venus",
+     "Marte",
+     "Pământul"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Mercur e prima planetă de la Soare."
+   }
+  },
+  {
+   "id": "V2-07",
+   "nivel": "V-S02-universul-sistemul-solar-aspecte",
+   "competente": [
+    "V-1.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 1,
+   "enunt": "Ce este Luna?",
+   "date": {
+    "variante": [
+     "satelitul natural al Pământului",
+     "o stea",
+     "o planetă pitică",
+     "o cometă"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Luna se rotește în jurul Pământului: e satelitul lui natural."
+   }
+  },
+  {
+   "id": "V2-08",
+   "nivel": "V-S02-universul-sistemul-solar-aspecte",
+   "competente": [
+    "V-1.1"
+   ],
+   "tip": "asociaza",
+   "dificultate": 1,
+   "enunt": "Asociază corpul ceresc cu ce este.",
+   "date": {
+    "perechi": [
+     [
+      "Soarele",
+      "stea"
+     ],
+     [
+      "Pământul",
+      "planetă"
+     ],
+     [
+      "Luna",
+      "satelit natural"
+     ],
+     [
+      "Calea Lactee",
+      "galaxie"
+     ]
+    ]
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Soarele e stea, Pământul planetă, Luna satelit, Calea Lactee galaxie."
+   }
+  },
+  {
+   "id": "V2-09",
+   "nivel": "V-S02-universul-sistemul-solar-aspecte",
+   "competente": [
+    "V-1.1"
+   ],
+   "tip": "lacunar",
+   "dificultate": 1,
+   "enunt": "Completează.",
+   "date": {
+    "text": "Pământul este a {0} planetă de la Soare.",
+    "raspunsuri": [
+     "treia"
+    ],
+    "distractori": [
+     "doua",
+     "patra"
+    ]
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Ordinea: Mercur, Venus, Pământ. Pământul e a treia."
+   }
+  },
+  {
+   "id": "V2-10",
+   "nivel": "V-S02-universul-sistemul-solar-aspecte",
+   "competente": [
+    "V-1.2",
+    "V-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Care grup cuprinde doar planete telurice (mici și stâncoase)?",
+   "date": {
+    "variante": [
+     "Mercur, Venus, Pământ, Marte",
+     "Jupiter, Saturn, Uranus, Neptun",
+     "Mercur, Jupiter, Marte, Neptun",
+     "Venus, Saturn, Pământ, Uranus"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Primele patru planete de la Soare sunt telurice; ultimele patru sunt gigantice, gazoase."
+   }
+  },
+  {
+   "id": "V2-11",
+   "nivel": "V-S02-universul-sistemul-solar-aspecte",
+   "competente": [
+    "V-1.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce este o cometă?",
+   "date": {
+    "variante": [
+     "un corp din gheață și praf care capătă o coadă luminoasă când se apropie de Soare",
+     "o stea căzătoare",
+     "o planetă mică",
+     "un satelit al lui Jupiter"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Cometele sunt din gheață și praf; lângă Soare, gheața se evaporă și apare coada."
+   }
+  },
+  {
+   "id": "V2-12",
+   "nivel": "V-S02-universul-sistemul-solar-aspecte",
+   "competente": [
+    "V-1.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce numim meteorit?",
+   "date": {
+    "variante": [
+     "o bucată de rocă din spațiu care ajunge la suprafața Pământului",
+     "o stea nouă",
+     "un nor de gaze",
+     "un satelit artificial"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Meteoritul e un fragment din spațiu care cade pe Pământ."
+   }
+  },
+  {
+   "id": "V2-13",
+   "nivel": "V-S02-universul-sistemul-solar-aspecte",
+   "competente": [
+    "V-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Între ce planete se află centura principală de asteroizi?",
+   "date": {
+    "variante": [
+     "Marte și Jupiter",
+     "Pământ și Marte",
+     "Jupiter și Saturn",
+     "Venus și Pământ"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Centura de asteroizi e între Marte și Jupiter."
+   }
+  },
+  {
+   "id": "V2-14",
+   "nivel": "V-S02-universul-sistemul-solar-aspecte",
+   "competente": [
+    "V-3.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Cât timp îi ia, în medie, luminii Soarelui să ajungă pe Pământ?",
+   "date": {
+    "variante": [
+     "aproximativ 8 minute și 20 de secunde",
+     "o secundă",
+     "o zi",
+     "un an"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Lumina parcurge distanța Soare–Pământ în aproximativ 8 minute și 20 de secunde."
+   },
+   "surse": [
+    "BBC Sky at Night Magazine – How long does it take for light from the Sun to reach Earth?",
+    "Universe Today – How Long Does It Take Sunlight to Reach the Earth?"
+   ]
+  },
+  {
+   "id": "V2-15",
+   "nivel": "V-S02-universul-sistemul-solar-aspecte",
+   "competente": [
+    "V-3.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 3,
+   "enunt": "Care este, aproximativ, distanța medie dintre Pământ și Soare?",
+   "date": {
+    "variante": [
+     "150 de milioane de km",
+     "150 de mii de km",
+     "15 milioane de km",
+     "1,5 miliarde de km"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Distanța medie e de aproximativ 150 de milioane de kilometri (149,6 milioane)."
+   },
+   "surse": [
+    "NASA – Earth Fact Sheet (nssdc.gsfc.nasa.gov): semiaxa mare 149,598 milioane km",
+    "Universe Today – How Long Does It Take Sunlight to Reach the Earth?"
+   ]
+  },
+  {
+   "id": "V2-16",
+   "nivel": "V-S02-universul-sistemul-solar-aspecte",
+   "competente": [
+    "V-3.2",
+    "V-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "De ce există viață pe Pământ?",
+   "date": {
+    "variante": [
+     "are apă lichidă, aer cu oxigen și e la o distanță potrivită de Soare",
+     "e cea mai mare planetă",
+     "e cea mai apropiată de Soare",
+     "nu are atmosferă"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Apa lichidă, atmosfera și temperatura potrivită (datorată distanței față de Soare) permit viața."
+   }
+  },
+  {
+   "id": "V2-17",
+   "nivel": "V-S02-universul-sistemul-solar-aspecte",
+   "competente": [
+    "V-1.1"
+   ],
+   "tip": "lacunar",
+   "dificultate": 2,
+   "enunt": "Completează.",
+   "date": {
+    "text": "Sistemul Solar este format din {0} și din corpurile care se rotesc în jurul lui: {1}, sateliți, asteroizi și comete.",
+    "raspunsuri": [
+     "Soare",
+     "planete"
+    ],
+    "distractori": [
+     "Luna",
+     "galaxii"
+    ]
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "În centrul Sistemului Solar e Soarele; în jurul lui se rotesc planetele și celelalte corpuri."
+   }
+  },
+  {
+   "id": "V2-18",
+   "nivel": "V-S02-universul-sistemul-solar-aspecte",
+   "competente": [
+    "V-3.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 1,
+   "enunt": "Cu ce instrument observăm corpurile cerești îndepărtate?",
+   "date": {
+    "variante": [
+     "telescopul",
+     "microscopul",
+     "busola",
+     "termometrul"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Telescopul mărește imaginea corpurilor cerești îndepărtate."
+   }
+  },
+  {
+   "id": "V2-19",
+   "nivel": "V-S02-universul-sistemul-solar-aspecte",
+   "competente": [
+    "V-1.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce sunt constelațiile?",
+   "date": {
+    "variante": [
+     "grupuri de stele care, văzute de pe Pământ, par să formeze figuri",
+     "planete apropiate între ele",
+     "nori de gaze",
+     "sateliți artificiali"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Constelațiile sunt grupuri de stele, ca Ursa Mare (Carul Mare)."
+   }
+  },
+  {
+   "id": "V2-20",
+   "nivel": "V-S02-universul-sistemul-solar-aspecte",
+   "competente": [
+    "V-1.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 1,
+   "enunt": "De ce strălucește Luna noaptea?",
+   "date": {
+    "variante": [
+     "reflectă lumina Soarelui",
+     "produce lumină proprie",
+     "arde",
+     "e o stea"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Luna nu are lumină proprie: reflectă lumina Soarelui."
+   }
+  },
+  {
+   "id": "V2-21",
+   "nivel": "V-S02-universul-sistemul-solar-aspecte",
+   "competente": [
+    "V-4.2"
+   ],
+   "tip": "ordoneaza",
+   "dificultate": 2,
+   "enunt": "Ordonează corpurile cerești de la cel mai mic la cel mai mare.",
+   "date": {
+    "elemente": [
+     "Luna",
+     "Pământul",
+     "Jupiter",
+     "Soarele"
+    ],
+    "criteriu": "De la mic la mare"
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Luna e mai mică decât Pământul, Pământul decât Jupiter, iar Soarele e cel mai mare."
+   }
+  },
+  {
+   "id": "V2-22",
+   "nivel": "V-S02-universul-sistemul-solar-aspecte",
+   "competente": [
+    "V-1.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 1,
+   "enunt": "Adevărat sau fals? Soarele se rotește în jurul Pământului.",
+   "date": {
+    "variante": [
+     "Fals",
+     "Adevărat"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Fals: Pământul se rotește în jurul Soarelui."
+   }
+  },
+  {
+   "id": "V2-23",
+   "nivel": "V-S02-universul-sistemul-solar-aspecte",
+   "competente": [
+    "V-1.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Adevărat sau fals? Planetele nu au lumină proprie; ele reflectă lumina Soarelui.",
+   "date": {
+    "variante": [
+     "Adevărat",
+     "Fals"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Adevărat: doar stelele produc lumină."
+   }
+  },
+  {
+   "id": "V2-24",
+   "nivel": "V-S02-universul-sistemul-solar-aspecte",
+   "competente": [
+    "V-1.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 1,
+   "enunt": "Care planetă este numită „planeta roșie”?",
+   "date": {
+    "variante": [
+     "Marte",
+     "Venus",
+     "Jupiter",
+     "Mercur"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Marte are culoarea roșiatică datorită rocilor bogate în fier."
+   }
+  },
+  {
+   "id": "V2-25",
+   "nivel": "V-S02-universul-sistemul-solar-aspecte",
+   "competente": [
+    "V-1.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Care planetă are cele mai spectaculoase inele?",
+   "date": {
+    "variante": [
+     "Saturn",
+     "Marte",
+     "Venus",
+     "Mercur"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Inelele lui Saturn, din gheață și roci, se văd chiar și cu un telescop mic."
+   }
+  },
+  {
+   "id": "V2-26",
+   "nivel": "V-S02-universul-sistemul-solar-aspecte",
+   "competente": [
+    "V-1.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Cum se numește mișcarea unei planete în jurul Soarelui?",
+   "date": {
+    "variante": [
+     "mișcarea de revoluție",
+     "mișcarea de rotație",
+     "eclipsa",
+     "maree"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Revoluția e mișcarea în jurul Soarelui; rotația e mișcarea în jurul axei proprii."
+   }
+  },
+  {
+   "id": "V2-27",
+   "nivel": "V-S02-universul-sistemul-solar-aspecte",
+   "competente": [
+    "V-1.1",
+    "V-3.3"
+   ],
+   "tip": "asociaza",
+   "dificultate": 3,
+   "enunt": "Asociază planeta cu caracteristica ei.",
+   "date": {
+    "perechi": [
+     [
+      "Mercur",
+      "cea mai apropiată de Soare"
+     ],
+     [
+      "Jupiter",
+      "cea mai mare planetă"
+     ],
+     [
+      "Saturn",
+      "inele foarte vizibile"
+     ],
+     [
+      "Neptun",
+      "cea mai îndepărtată de Soare"
+     ]
+    ]
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Mercur e primul, Neptun ultimul; Jupiter e cel mai mare; Saturn are inelele cele mai vizibile."
+   }
+  },
+  {
+   "id": "V2-28",
+   "nivel": "V-S02-universul-sistemul-solar-aspecte",
+   "competente": [
+    "V-1.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 3,
+   "enunt": "De ce a devenit Pluto „planetă pitică” în 2006?",
+   "date": {
+    "variante": [
+     "e mic și orbita lui are multe alte corpuri, pe care nu le-a „curățat”",
+     "a fost distrus",
+     "s-a apropiat de Soare",
+     "a devenit satelit al lui Neptun"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Uniunea Astronomică Internațională a stabilit că o planetă trebuie să-și fi „curățat” orbita; Pluto nu a făcut asta."
+   }
+  },
+  {
+   "id": "V2-29",
+   "nivel": "V-S02-universul-sistemul-solar-aspecte",
+   "competente": [
+    "V-1.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 1,
+   "enunt": "Cum se numește știința care studiază corpurile cerești?",
+   "date": {
+    "variante": [
+     "astronomia",
+     "geologia",
+     "biologia",
+     "meteorologia"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Astronomia studiază stelele, planetele și galaxiile."
+   }
+  },
+  {
+   "id": "V2-30",
+   "nivel": "V-S02-universul-sistemul-solar-aspecte",
+   "competente": [
+    "V-1.1",
+    "V-1.2"
+   ],
+   "tip": "lacunar",
+   "dificultate": 3,
+   "enunt": "Completează.",
+   "date": {
+    "text": "Planetele {0} sunt mici și stâncoase, iar planetele {1} sunt mari și formate mai ales din gaze.",
+    "raspunsuri": [
+     "telurice",
+     "gigantice"
+    ],
+    "distractori": [
+     "pitice",
+     "înghețate"
+    ]
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Telurice: Mercur, Venus, Pământ, Marte. Gigantice: Jupiter, Saturn, Uranus, Neptun."
+   }
+  },
+  {
+   "id": "V3-01",
+   "nivel": "V-S03-terra-planeta-sistemului-solar",
+   "competente": [
+    "V-1.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 1,
+   "enunt": "Ce formă are Pământul?",
+   "date": {
+    "variante": [
+     "aproape sferică, ușor turtită la poli",
+     "plată",
+     "de cub",
+     "de con"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Pământul e aproape sferic, ușor turtit la poli."
+   }
+  },
+  {
+   "id": "V3-02",
+   "nivel": "V-S03-terra-planeta-sistemului-solar",
+   "competente": [
+    "V-1.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Cum se numește forma reală a Pământului?",
+   "date": {
+    "variante": [
+     "geoid",
+     "cerc",
+     "elipsă",
+     "piramidă"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Forma proprie a Pământului se numește geoid."
+   }
+  },
+  {
+   "id": "V3-03",
+   "nivel": "V-S03-terra-planeta-sistemului-solar",
+   "competente": [
+    "V-1.2",
+    "V-4.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Care este o dovadă că Pământul e rotund?",
+   "date": {
+    "variante": [
+     "umbra rotundă a Pământului pe Lună, în timpul eclipsei",
+     "Soarele răsare dimineața",
+     "plouă primăvara",
+     "munții sunt înalți"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "În eclipsa de Lună, umbra Pământului pe Lună e mereu rotundă."
+   }
+  },
+  {
+   "id": "V3-04",
+   "nivel": "V-S03-terra-planeta-sistemului-solar",
+   "competente": [
+    "V-1.2",
+    "V-2.3"
+   ],
+   "tip": "ordoneaza",
+   "dificultate": 2,
+   "enunt": "O corabie se îndepărtează spre orizont. În ce ordine dispare din vedere?",
+   "date": {
+    "elemente": [
+     "carena (partea de jos)",
+     "puntea",
+     "vârful catargului"
+    ],
+    "criteriu": "Ce dispare primul"
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Pentru că suprafața mării e curbă, întâi dispare partea de jos, la final vârful catargului."
+   }
+  },
+  {
+   "id": "V3-05",
+   "nivel": "V-S03-terra-planeta-sistemului-solar",
+   "competente": [
+    "V-3.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Care este, aproximativ, raza medie a Pământului?",
+   "date": {
+    "variante": [
+     "6 371 km",
+     "637 km",
+     "63 710 km",
+     "1 000 km"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Raza medie e de aproximativ 6 371 km."
+   },
+   "surse": [
+    "NASA – Earth Fact Sheet (nssdc.gsfc.nasa.gov)",
+    "Wikipedia – Earth radius"
+   ]
+  },
+  {
+   "id": "V3-06",
+   "nivel": "V-S03-terra-planeta-sistemului-solar",
+   "competente": [
+    "V-3.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Unde e mai mare raza Pământului?",
+   "date": {
+    "variante": [
+     "la Ecuator",
+     "la poli",
+     "e la fel peste tot",
+     "la Tropice"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "La Ecuator raza e de aproximativ 6 378 km, la poli de 6 357 km: Pământul e turtit la poli."
+   },
+   "surse": [
+    "NASA – Earth Fact Sheet (nssdc.gsfc.nasa.gov)",
+    "Wikipedia – Earth radius"
+   ]
+  },
+  {
+   "id": "V3-07",
+   "nivel": "V-S03-terra-planeta-sistemului-solar",
+   "competente": [
+    "V-3.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Cât măsoară, aproximativ, Ecuatorul?",
+   "date": {
+    "variante": [
+     "40 000 km",
+     "4 000 km",
+     "400 000 km",
+     "12 000 km"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Ecuatorul are aproximativ 40 000 km (calculat din raza ecuatorială: 2 × 3,14 × 6 378 km ≈ 40 075 km)."
+   },
+   "surse": [
+    "NASA – Earth Fact Sheet (nssdc.gsfc.nasa.gov) (raza ecuatorială; lungimea rezultă prin calcul)"
+   ]
+  },
+  {
+   "id": "V3-08",
+   "nivel": "V-S03-terra-planeta-sistemului-solar",
+   "competente": [
+    "V-1.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 1,
+   "enunt": "Ce este Ecuatorul?",
+   "date": {
+    "variante": [
+     "cercul imaginar care împarte Pământul în emisfera nordică și emisfera sudică",
+     "o linie de la un pol la altul",
+     "un fluviu",
+     "un munte"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Ecuatorul e la egală distanță de cei doi poli."
+   }
+  },
+  {
+   "id": "V3-09",
+   "nivel": "V-S03-terra-planeta-sistemului-solar",
+   "competente": [
+    "V-1.1"
+   ],
+   "tip": "lacunar",
+   "dificultate": 1,
+   "enunt": "Completează.",
+   "date": {
+    "text": "Ecuatorul împarte Pământul în emisfera {0} și emisfera {1}.",
+    "raspunsuri": [
+     "nordică",
+     "sudică"
+    ],
+    "distractori": [
+     "estică",
+     "vestică"
+    ]
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Ecuatorul separă nordul de sud."
+   }
+  },
+  {
+   "id": "V3-10",
+   "nivel": "V-S03-terra-planeta-sistemului-solar",
+   "competente": [
+    "V-1.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 1,
+   "enunt": "Ce este axa terestră?",
+   "date": {
+    "variante": [
+     "linia imaginară care trece prin centrul Pământului, de la Polul Nord la Polul Sud",
+     "Ecuatorul",
+     "un meridian",
+     "orbita Pământului"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Pământul se rotește în jurul axei terestre, care unește cei doi poli."
+   }
+  },
+  {
+   "id": "V3-11",
+   "nivel": "V-S03-terra-planeta-sistemului-solar",
+   "competente": [
+    "V-3.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "De ce e mai cald la Ecuator decât la poli?",
+   "date": {
+    "variante": [
+     "razele Soarelui cad aproape vertical la Ecuator și foarte înclinat la poli",
+     "la Ecuator sunt mai mulți munți",
+     "Ecuatorul e mai aproape de Lună",
+     "la poli e mai mult vânt"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Razele verticale încălzesc mai mult; cele înclinate se împrăștie pe o suprafață mare și încălzesc puțin."
+   }
+  },
+  {
+   "id": "V3-12",
+   "nivel": "V-S03-terra-planeta-sistemului-solar",
+   "competente": [
+    "V-1.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 1,
+   "enunt": "Cum se numește modelul micșorat al Pământului?",
+   "date": {
+    "variante": [
+     "globul geografic",
+     "harta",
+     "busola",
+     "telescopul"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Globul geografic e o reprezentare micșorată a Pământului, cu formă sferică."
+   }
+  },
+  {
+   "id": "V3-13",
+   "nivel": "V-S03-terra-planeta-sistemului-solar",
+   "competente": [
+    "V-2.1"
+   ],
+   "tip": "pin",
+   "dificultate": 1,
+   "enunt": "Atinge pe hartă un punct de pe Ecuator, în Africa.",
+   "date": {
+    "harta": "lume",
+    "tinta": {
+     "lat": 0,
+     "lon": 20,
+     "nume": "Ecuatorul, în Africa"
+    },
+    "toleranta": 900
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Ecuatorul traversează Africa prin centru (Gabon, Congo, Kenya)."
+   },
+   "indiciu": "Ecuatorul e linia orizontală din mijlocul hărții."
+  },
+  {
+   "id": "V3-14",
+   "nivel": "V-S03-terra-planeta-sistemului-solar",
+   "competente": [
+    "V-2.1"
+   ],
+   "tip": "pin",
+   "dificultate": 2,
+   "enunt": "Atinge pe hartă Polul Nord.",
+   "date": {
+    "harta": "lume",
+    "tinta": {
+     "lat": 89.5,
+     "lon": 0,
+     "nume": "Polul Nord"
+    },
+    "toleranta": 1200
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Polul Nord e marginea de sus a hărții, în Oceanul Arctic."
+   }
+  },
+  {
+   "id": "V3-15",
+   "nivel": "V-S03-terra-planeta-sistemului-solar",
+   "competente": [
+    "V-1.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 1,
+   "enunt": "Adevărat sau fals? Pământul este perfect sferic.",
+   "date": {
+    "variante": [
+     "Fals",
+     "Adevărat"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Fals: e ușor turtit la poli (geoid)."
+   }
+  },
+  {
+   "id": "V3-16",
+   "nivel": "V-S03-terra-planeta-sistemului-solar",
+   "competente": [
+    "V-1.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Adevărat sau fals? Călătoriile în jurul lumii, pornind spre vest și revenind din est, arată că Pământul e rotund.",
+   "date": {
+    "variante": [
+     "Adevărat",
+     "Fals"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Adevărat: mergând mereu în aceeași direcție, revii la punctul de plecare."
+   }
+  },
+  {
+   "id": "V3-17",
+   "nivel": "V-S03-terra-planeta-sistemului-solar",
+   "competente": [
+    "V-1.1"
+   ],
+   "tip": "asociaza",
+   "dificultate": 2,
+   "enunt": "Asociază termenul cu explicația.",
+   "date": {
+    "perechi": [
+     [
+      "Ecuatorul",
+      "împarte Pământul în nord și sud"
+     ],
+     [
+      "axa terestră",
+      "unește cei doi poli"
+     ],
+     [
+      "polii",
+      "capetele axei terestre"
+     ],
+     [
+      "emisfera",
+      "jumătate de Pământ"
+     ]
+    ]
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Ecuatorul împarte Pământul în emisfere; axa unește polii."
+   }
+  },
+  {
+   "id": "V3-18",
+   "nivel": "V-S03-terra-planeta-sistemului-solar",
+   "competente": [
+    "V-1.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce vede un astronaut din spațiu?",
+   "date": {
+    "variante": [
+     "Pământul ca o sferă albastră, cu nori albi",
+     "Pământul plat, ca o masă",
+     "doar Luna",
+     "Pământul ca un cub"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Fotografiile din spațiu arată clar forma sferică."
+   }
+  },
+  {
+   "id": "V3-19",
+   "nivel": "V-S03-terra-planeta-sistemului-solar",
+   "competente": [
+    "V-3.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 3,
+   "enunt": "Cu câți kilometri e mai mare raza de la Ecuator decât cea de la poli?",
+   "date": {
+    "variante": [
+     "cu aproximativ 21 km",
+     "cu aproximativ 2 100 km",
+     "cu aproximativ 210 km",
+     "sunt egale"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "6 378 km − 6 357 km ≈ 21 km. Diferența e foarte mică față de mărimea Pământului."
+   },
+   "surse": [
+    "NASA – Earth Fact Sheet (nssdc.gsfc.nasa.gov)",
+    "Wikipedia – Earth radius"
+   ]
+  },
+  {
+   "id": "V3-20",
+   "nivel": "V-S03-terra-planeta-sistemului-solar",
+   "competente": [
+    "V-1.1"
+   ],
+   "tip": "lacunar",
+   "dificultate": 2,
+   "enunt": "Completează.",
+   "date": {
+    "text": "Pământul este turtit la {0} și ușor bombat la {1}.",
+    "raspunsuri": [
+     "poli",
+     "Ecuator"
+    ],
+    "distractori": [
+     "Tropice",
+     "munți"
+    ]
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Turtirea e la poli, bombarea la Ecuator."
+   }
+  },
+  {
+   "id": "V3-21",
+   "nivel": "V-S03-terra-planeta-sistemului-solar",
+   "competente": [
+    "V-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Unde găsim cele mai reci regiuni ale Pământului?",
+   "date": {
+    "variante": [
+     "în jurul polilor",
+     "la Ecuator",
+     "la Tropice",
+     "în mijlocul oceanelor"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "La poli razele Soarelui cad foarte înclinat și încălzesc puțin."
+   }
+  },
+  {
+   "id": "V3-22",
+   "nivel": "V-S03-terra-planeta-sistemului-solar",
+   "competente": [
+    "V-3.2"
+   ],
+   "tip": "ordoneaza",
+   "dificultate": 3,
+   "enunt": "Ordonează locurile de la cel mai cald la cel mai rece, după unghiul razelor Soarelui.",
+   "date": {
+    "elemente": [
+     "Ecuatorul",
+     "România",
+     "Polul Nord"
+    ],
+    "criteriu": "De la cald la rece"
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "La Ecuator razele cad aproape vertical; în România, înclinat; la pol, foarte înclinat."
+   }
+  },
+  {
+   "id": "V3-23",
+   "nivel": "V-S03-terra-planeta-sistemului-solar",
+   "competente": [
+    "V-1.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 1,
+   "enunt": "Cum se numesc cele două capete ale axei terestre?",
+   "date": {
+    "variante": [
+     "Polul Nord și Polul Sud",
+     "Estul și Vestul",
+     "Tropicele",
+     "Ecuatorul și Greenwich"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Axa terestră iese la suprafață în cei doi poli."
+   }
+  },
+  {
+   "id": "V3-24",
+   "nivel": "V-S03-terra-planeta-sistemului-solar",
+   "competente": [
+    "V-4.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce experiment simplu arată de ce dispare corabia treptat?",
+   "date": {
+    "variante": [
+     "o furnică plimbată pe o minge pare că „coboară” după curbura ei",
+     "aprinzi o lanternă într-o cameră întunecată",
+     "pui apă la înghețat",
+     "arunci o piatră în apă"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Pe o suprafață curbă, obiectele care se îndepărtează dispar de jos în sus."
+   }
+  },
+  {
+   "id": "V3-25",
+   "nivel": "V-S03-terra-planeta-sistemului-solar",
+   "competente": [
+    "V-1.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Care dintre acestea NU este o dovadă a formei Pământului?",
+   "date": {
+    "variante": [
+     "existența anotimpurilor în România",
+     "fotografiile din spațiu",
+     "umbra rotundă pe Lună",
+     "dispariția treptată a corăbiilor"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Anotimpurile se datorează înclinării axei și revoluției, nu formei."
+   }
+  },
+  {
+   "id": "V3-26",
+   "nivel": "V-S03-terra-planeta-sistemului-solar",
+   "competente": [
+    "V-1.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 1,
+   "enunt": "Pe ce planetă trăim?",
+   "date": {
+    "variante": [
+     "Terra (Pământul)",
+     "Marte",
+     "Venus",
+     "Luna"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Terra este numele latin al Pământului."
+   }
+  },
+  {
+   "id": "V3-27",
+   "nivel": "V-S03-terra-planeta-sistemului-solar",
+   "competente": [
+    "V-3.1"
+   ],
+   "tip": "lacunar",
+   "dificultate": 3,
+   "enunt": "Completează cu valorile aproximative.",
+   "date": {
+    "text": "Raza Pământului la Ecuator este de aproximativ {0} km, iar la poli de aproximativ {1} km.",
+    "raspunsuri": [
+     "6 378",
+     "6 357"
+    ],
+    "distractori": [
+     "3 780",
+     "63 570"
+    ]
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "La Ecuator: 6 378 km; la poli: 6 357 km."
+   },
+   "surse": [
+    "NASA – Earth Fact Sheet (nssdc.gsfc.nasa.gov)",
+    "Wikipedia – Earth radius"
+   ]
+  },
+  {
+   "id": "V3-28",
+   "nivel": "V-S03-terra-planeta-sistemului-solar",
+   "competente": [
+    "V-3.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Adevărat sau fals? La Polul Nord, Soarele nu urcă niciodată sus pe cer, de aceea e frig.",
+   "date": {
+    "variante": [
+     "Adevărat",
+     "Fals"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Adevărat: la poli razele cad foarte înclinat tot anul."
+   }
+  },
+  {
+   "id": "V3-29",
+   "nivel": "V-S03-terra-planeta-sistemului-solar",
+   "competente": [
+    "V-3.2",
+    "V-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 3,
+   "enunt": "Ce consecință are forma sferică a Pământului?",
+   "date": {
+    "variante": [
+     "regiunile se încălzesc diferit, de la Ecuator spre poli",
+     "toate regiunile au aceeași temperatură",
+     "există cutremure",
+     "există maree"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Forma sferică face ca unghiul razelor să scadă de la Ecuator spre poli, deci și căldura."
+   }
+  },
+  {
+   "id": "V3-30",
+   "nivel": "V-S03-terra-planeta-sistemului-solar",
+   "competente": [
+    "V-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 1,
+   "enunt": "Ce emisferă locuim noi, în România?",
+   "date": {
+    "variante": [
+     "emisfera nordică",
+     "emisfera sudică",
+     "pe Ecuator",
+     "la Polul Sud"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "România e la nord de Ecuator, în emisfera nordică."
+   }
+  },
+  {
+   "id": "V3-31",
+   "nivel": "V-S03-terra-planeta-sistemului-solar",
+   "competente": [
+    "V-1.2",
+    "V-4.1"
+   ],
+   "tip": "asociaza",
+   "dificultate": 3,
+   "enunt": "Asociază dovada cu ce observăm.",
+   "date": {
+    "perechi": [
+     [
+      "eclipsa de Lună",
+      "umbră rotundă pe Lună"
+     ],
+     [
+      "corabia la orizont",
+      "dispare de jos în sus"
+     ],
+     [
+      "fotografia din spațiu",
+      "o sferă albastră"
+     ],
+     [
+      "călătoria în jurul lumii",
+      "revii de unde ai plecat"
+     ]
+    ]
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Toate arată că Pământul e rotund."
+   }
+  },
+  {
+   "id": "V4-01",
+   "nivel": "V-S04-aplicatie-practica-calatorie-virtuala",
+   "competente": [
+    "V-4.2"
+   ],
+   "tip": "ordoneaza",
+   "dificultate": 1,
+   "enunt": "Planifică traseul navei: ordonează opririle de la Soare spre exterior.",
+   "date": {
+    "elemente": [
+     "Mercur",
+     "Venus",
+     "Pământ",
+     "Marte",
+     "centura de asteroizi",
+     "Jupiter"
+    ],
+    "criteriu": "De la Soare spre exterior"
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "După Marte urmează centura de asteroizi, apoi Jupiter."
+   }
+  },
+  {
+   "id": "V4-02",
+   "nivel": "V-S04-aplicatie-practica-calatorie-virtuala",
+   "competente": [
+    "V-4.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Nava trebuie să ocolească o zonă cu multe corpuri mici de rocă. Între ce planete se află?",
+   "date": {
+    "variante": [
+     "Marte și Jupiter",
+     "Venus și Pământ",
+     "Saturn și Uranus",
+     "Mercur și Venus"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Centura de asteroizi e între Marte și Jupiter."
+   }
+  },
+  {
+   "id": "V4-03",
+   "nivel": "V-S04-aplicatie-practica-calatorie-virtuala",
+   "competente": [
+    "V-4.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce planetă vezi cu ochiul liber, dimineața sau seara, ca pe un punct foarte strălucitor?",
+   "date": {
+    "variante": [
+     "Venus",
+     "Neptun",
+     "Uranus",
+     "Pluto"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Venus e cel mai strălucitor punct de pe cer după Lună; e numită și Luceafărul."
+   }
+  }
+ ]
+}

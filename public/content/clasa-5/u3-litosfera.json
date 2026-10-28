@@ -1,0 +1,3389 @@
+{
+ "clasa": 5,
+ "unitate": "Terra – o planetă în transformare. Litosfera",
+ "niveluri": [
+  {
+   "id": "V-S10-caracteristici-generale-importanta",
+   "tip": "nivel",
+   "titlu": "Litosfera: caracteristici generale și importanță",
+   "descopera": {
+    "intrebare": "Pe ce stăm, pe ce construim case și de unde scoatem cărbunele? Toate țin de un singur înveliș al Pământului. Care?"
+   },
+   "invata": [
+    {
+     "titlu": "Geosferele Terrei",
+     "text": "Pământul are mai multe învelișuri, numite geosfere: litosfera (învelișul de roci), atmosfera (aerul), hidrosfera (apa) și biosfera (viețuitoarele).\nLitosfera cuprinde scoarța terestră și partea de sus a mantalei. Numele vine din grecescul „lithos”, care înseamnă piatră."
+    },
+    {
+     "titlu": "Rocile și importanța litosferei",
+     "text": "Rocile pot fi magmatice (din magmă sau lavă răcită, ca granitul și bazaltul), sedimentare (din materiale depuse în straturi, ca calcarul) și metamorfice (roci transformate de temperatură și presiune, ca marmura).\nLitosfera ne dă locul pe care trăim, solul pentru plante și resurse: cărbune, petrol, gaze naturale, metale, sare, piatră de construcție.\nEa e formată din plăci tectonice, care se mișcă foarte încet."
+    }
+   ],
+   "stiaiCa": "Marmura albă folosită la statui era la început calcar, transformat în adâncuri de căldură și presiune.",
+   "referintaProfesor": "Manual Art Klett, clasa a V-a (manuale.edu.ro), lecția „Litosfera – caracteristici generale și importanță”"
+  },
+  {
+   "id": "V-S11-structura-interna-terrei",
+   "tip": "nivel",
+   "titlu": "Structura internă a Terrei",
+   "descopera": {
+    "intrebare": "Dacă ai putea săpa o groapă până în centrul Pământului, prin ce straturi ai trece?",
+    "schema": "structura-interna"
+   },
+   "invata": [
+    {
+     "titlu": "Patru straturi",
+     "schema": "structura-interna",
+     "text": "Scoarța terestră e stratul subțire de roci de la suprafață: mai subțire sub oceane, mai groasă sub continente.\nMantaua e cel mai gros strat, din roci foarte fierbinți; ajunge până la aproximativ 2 900 km adâncime.\nNucleul extern e format din metale topite (mai ales fier și nichel). Nucleul intern, din centru, e din metale în stare solidă."
+    },
+    {
+     "titlu": "Cum știm?",
+     "text": "Nimeni n-a ajuns în mantaua Pământului. Oamenii de știință studiază undele produse de cutremure: ele se propagă diferit prin roci solide și prin materiale topite.\nCentrul Pământului e la aproximativ 6 370 km adâncime. Nucleul intern rămâne solid, deși e foarte fierbinte, pentru că presiunea e uriașă."
+    }
+   ],
+   "stiaiCa": "Mantaua ocupă cea mai mare parte din volumul Pământului.",
+   "referintaProfesor": "Manual Art Klett, clasa a V-a (manuale.edu.ro), lecția „Structura internă a Terrei”"
+  },
+  {
+   "id": "V-S12-relieful-continente-bazine-oceanice",
+   "tip": "nivel",
+   "titlu": "Relieful: continente și bazine oceanice",
+   "descopera": {
+    "intrebare": "Dacă ai goli oceanele, ce ai vedea pe fundul lor: o câmpie netedă sau munți și prăpăstii?",
+    "schema": "fund-oceanic"
+   },
+   "invata": [
+    {
+     "titlu": "Continente și oceane",
+     "text": "Uscatul formează continentele: Europa, Asia, Africa, America de Nord, America de Sud, Australia și Antarctica.\nApa sărată formează Oceanul Planetar, împărțit în Oceanul Pacific (cel mai mare), Atlanticul, Oceanul Indian și Oceanul Arctic (Înghețat de Nord). Oceanele acoperă cea mai mare parte a Terrei."
+    },
+    {
+     "titlu": "Formele majore de relief",
+     "schema": "fund-oceanic",
+     "text": "Pe continente: munți (cele mai înalte), dealuri și podișuri (înălțimi mijlocii) și câmpii (joase și netede).\nPe fundul oceanelor: platforma continentală (uscatul continuă sub apă la adâncimi mici), abruptul continental, câmpiile abisale, dorsalele oceanice (lanțuri de munți submarini) și gropile abisale, cele mai adânci locuri.\nCel mai înalt vârf e Everest (8 848,86 m), în Munții Himalaya. Cel mai adânc loc cunoscut e în Groapa Marianelor, în Oceanul Pacific."
+    }
+   ],
+   "stiaiCa": "Cel mai lung lanț muntos al Pământului e sub apă: dorsalele oceanice înconjoară planeta.",
+   "referintaProfesor": "Manual Art Klett, clasa a V-a (manuale.edu.ro), lecția „Relieful: bazine oceanice și continente; forme majore de relief”"
+  },
+  {
+   "id": "V-S13-vulcanii-cutremurele",
+   "tip": "nivel",
+   "titlu": "Vulcanii și cutremurele",
+   "descopera": {
+    "intrebare": "Ce au în comun un vulcan din Italia și un cutremur din Vrancea?",
+    "schema": "vulcan"
+   },
+   "invata": [
+    {
+     "titlu": "Vulcanii",
+     "schema": "vulcan",
+     "text": "Sub vulcan, magma se adună în camera magmatică. Când presiunea gazelor crește, magma urcă prin coșul vulcanic și iese prin crater.\nMagma ajunsă la suprafață se numește lavă. Lava răcită, cenușa și bucățile de rocă formează conul vulcanului.\nExemple: Etna și Vezuviul (Italia), Fuji (Japonia)."
+    },
+    {
+     "titlu": "Cutremurele",
+     "text": "Cutremurul e o mișcare bruscă a scoarței. Locul din adânc unde se produce se numește hipocentru (focar); punctul de la suprafață, chiar deasupra lui, se numește epicentru.\nCutremurele se înregistrează cu seismograful. Vulcanii și cutremurele apar mai ales la marginile plăcilor tectonice.\nÎn România, cele mai multe cutremure puternice se produc în zona Vrancea, aproape de Râmnicu Sărat.\nLa cutremur: te adăpostești sub bancă și te ții de ea, stai departe de geamuri, nu folosești liftul, ieși calm abia după ce se oprește mișcarea."
+    }
+   ],
+   "stiaiCa": "Cutremurele de sub ocean pot produce valuri uriașe, numite tsunami.",
+   "referintaProfesor": "Manual Art Klett, clasa a V-a (manuale.edu.ro), lecția „Vulcanii și cutremurele”"
+  },
+  {
+   "id": "V-S16-aplicatii-practice-relieful-orizontului",
+   "tip": "expeditie",
+   "titlu": "Expediție: relieful orizontului local",
+   "descopera": {
+    "intrebare": "Ce forme de relief sunt în jurul orașului nostru și ce pericole ascund?"
+   },
+   "invata": [
+    {
+     "titlu": "Ce faci în expediție",
+     "text": "Observi relieful din jurul școlii, înveți semnele unei alunecări de teren și faci un plan pentru cutremur, acasă."
+    }
+   ],
+   "pasi": [
+    {
+     "titlu": "1. Relieful din jurul școlii",
+     "text": "Orașul Râmnicu Sărat se află în zona în care Câmpia Română se întâlnește cu dealurile Subcarpaților de Curbură.\nDin curtea școlii sau de la geam, uită-te spre nord-vest și spre sud-est.",
+     "jurnal": {
+      "cerinta": "În ce direcție vezi teren mai înalt? Cum arată terenul în direcția opusă? Desenează și fotografiază o schiță.",
+      "foto": true
+     }
+    },
+    {
+     "titlu": "2. Alunecările de teren",
+     "text": "Pe versanții cu roci argiloase, după ploi multe, pământul poate aluneca la vale.",
+     "itemi": [
+      "V16-01",
+      "V16-02"
+     ]
+    },
+    {
+     "titlu": "3. Planul familiei pentru cutremur",
+     "text": "Discută acasă: unde vă adăpostiți, unde vă întâlniți afară, ce puneți în rucsacul de urgență.",
+     "itemi": [
+      "V16-03"
+     ],
+     "jurnal": {
+      "cerinta": "Scrie 3 reguli ale familiei tale pentru cutremur și 5 lucruri din rucsacul de urgență."
+     }
+    }
+   ],
+   "referintaProfesor": "Manual Art Klett, clasa a V-a (manuale.edu.ro), lecția „Aplicații practice: Relieful orizontului local; reguli de comportare”"
+  }
+ ],
+ "itemi": [
+  {
+   "id": "V10-01",
+   "nivel": "V-S10-caracteristici-generale-importanta",
+   "competente": [
+    "V-1.1"
+   ],
+   "tip": "asociaza",
+   "dificultate": 1,
+   "enunt": "Asociază fiecare geosferă cu ce cuprinde.",
+   "date": {
+    "perechi": [
+     [
+      "Litosfera",
+      "învelișul de roci"
+     ],
+     [
+      "Atmosfera",
+      "învelișul de aer"
+     ],
+     [
+      "Hidrosfera",
+      "învelișul de apă"
+     ],
+     [
+      "Biosfera",
+      "plantele și animalele"
+     ]
+    ]
+   },
+   "feedback": {
+    "corect": "Toate perechile sunt corecte.",
+    "gresit": "Lito- = piatră, atmo- = aer, hidro- = apă, bio- = viață."
+   }
+  },
+  {
+   "id": "V10-02",
+   "nivel": "V-S10-caracteristici-generale-importanta",
+   "competente": [
+    "V-1.1"
+   ],
+   "tip": "lacunar",
+   "dificultate": 1,
+   "enunt": "Completează.",
+   "date": {
+    "text": "Cuvântul „litosferă” vine din grecescul „lithos”, care înseamnă {0}.",
+    "raspunsuri": [
+     "piatră"
+    ],
+    "distractori": [
+     "apă",
+     "aer"
+    ]
+   },
+   "feedback": {
+    "corect": "Corect, litosfera e învelișul de piatră.",
+    "gresit": "„Lithos” înseamnă piatră."
+   }
+  },
+  {
+   "id": "V10-03",
+   "nivel": "V-S10-caracteristici-generale-importanta",
+   "competente": [
+    "V-1.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 1,
+   "enunt": "Care geosferă este formată din roci?",
+   "date": {
+    "variante": [
+     "litosfera",
+     "atmosfera",
+     "hidrosfera",
+     "biosfera"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, litosfera.",
+    "gresit": "Rocile formează litosfera."
+   }
+  },
+  {
+   "id": "V10-04",
+   "nivel": "V-S10-caracteristici-generale-importanta",
+   "competente": [
+    "V-1.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce cuprinde litosfera?",
+   "date": {
+    "variante": [
+     "scoarța terestră și partea de sus a mantalei",
+     "doar munții",
+     "nucleul Pământului",
+     "apele și aerul"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Litosfera = scoarța terestră + partea de sus a mantalei."
+   }
+  },
+  {
+   "id": "V10-05",
+   "nivel": "V-S10-caracteristici-generale-importanta",
+   "competente": [
+    "V-1.1",
+    "V-3.3"
+   ],
+   "tip": "asociaza",
+   "dificultate": 1,
+   "enunt": "În ce geosferă intră fiecare element?",
+   "date": {
+    "perechi": [
+     [
+      "granitul",
+      "litosfera"
+     ],
+     [
+      "norii",
+      "atmosfera"
+     ],
+     [
+      "râul",
+      "hidrosfera"
+     ],
+     [
+      "pădurea",
+      "biosfera"
+     ]
+    ]
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Granitul e rocă (litosfera), norii sunt în aer (atmosfera), râul e apă (hidrosfera), pădurea e vie (biosfera)."
+   }
+  },
+  {
+   "id": "V10-06",
+   "nivel": "V-S10-caracteristici-generale-importanta",
+   "competente": [
+    "V-1.1",
+    "V-3.1"
+   ],
+   "tip": "asociaza",
+   "dificultate": 2,
+   "enunt": "Asociază fiecare rocă cu tipul ei.",
+   "date": {
+    "perechi": [
+     [
+      "granitul",
+      "rocă magmatică"
+     ],
+     [
+      "calcarul",
+      "rocă sedimentară"
+     ],
+     [
+      "marmura",
+      "rocă metamorfică"
+     ]
+    ]
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Granitul vine din magmă răcită, calcarul din depuneri, marmura din calcar transformat."
+   }
+  },
+  {
+   "id": "V10-07",
+   "nivel": "V-S10-caracteristici-generale-importanta",
+   "competente": [
+    "V-1.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Bazaltul se formează din lava răcită la suprafață. Ce fel de rocă este?",
+   "date": {
+    "variante": [
+     "magmatică",
+     "sedimentară",
+     "metamorfică",
+     "nu e rocă"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Tot ce vine din magmă sau lavă răcită e rocă magmatică."
+   }
+  },
+  {
+   "id": "V10-08",
+   "nivel": "V-S10-caracteristici-generale-importanta",
+   "competente": [
+    "V-3.3",
+    "V-4.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Care dintre acestea NU este o resursă oferită de litosferă?",
+   "date": {
+    "variante": [
+     "oxigenul din aer",
+     "cărbunele",
+     "sarea",
+     "piatra de construcție"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect, oxigenul vine din atmosferă.",
+    "gresit": "Cărbunele, sarea și piatra se scot din litosferă. Oxigenul ține de atmosferă."
+   }
+  },
+  {
+   "id": "V10-09",
+   "nivel": "V-S10-caracteristici-generale-importanta",
+   "competente": [
+    "V-1.1"
+   ],
+   "tip": "lacunar",
+   "dificultate": 2,
+   "enunt": "Completează.",
+   "date": {
+    "text": "Rocile formate din lava răcită sunt roci {0}. Rocile formate din materiale depuse în straturi sunt roci {1}.",
+    "raspunsuri": [
+     "magmatice",
+     "sedimentare"
+    ],
+    "distractori": [
+     "metamorfice"
+    ]
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Lava răcită → magmatice; depuneri în straturi → sedimentare."
+   }
+  },
+  {
+   "id": "V10-10",
+   "nivel": "V-S10-caracteristici-generale-importanta",
+   "competente": [
+    "V-1.2",
+    "V-2.3"
+   ],
+   "tip": "ordoneaza",
+   "dificultate": 3,
+   "enunt": "Ordonează etapele formării unei roci sedimentare.",
+   "date": {
+    "elemente": [
+     "Rocile sunt sfărâmate de apă, vânt și variații de temperatură",
+     "Fragmentele sunt transportate de râuri",
+     "Fragmentele se depun în straturi pe fundul lacurilor și mărilor",
+     "Straturile se tasează și se cimentează, formând roca"
+    ],
+    "criteriu": "Ordinea etapelor"
+   },
+   "feedback": {
+    "corect": "Perfect!",
+    "gresit": "Întâi sfărâmare, apoi transport, depunere și, la final, tasare."
+   }
+  },
+  {
+   "id": "V10-11",
+   "nivel": "V-S10-caracteristici-generale-importanta",
+   "competente": [
+    "V-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 1,
+   "enunt": "Pe ce geosferă construim case și cultivăm plante?",
+   "date": {
+    "variante": [
+     "litosfera",
+     "atmosfera",
+     "hidrosfera",
+     "nucleul"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Trăim și construim pe litosferă; solul pentru plante se formează tot din roci."
+   }
+  },
+  {
+   "id": "V10-12",
+   "nivel": "V-S10-caracteristici-generale-importanta",
+   "competente": [
+    "V-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Cărbunele, petrolul și gazele naturale se găsesc...",
+   "date": {
+    "variante": [
+     "în rocile din litosferă",
+     "în atmosferă",
+     "în nucleul Pământului",
+     "în nori"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, în rocile din litosferă.",
+    "gresit": "Aceste resurse se găsesc în rocile din litosferă."
+   }
+  },
+  {
+   "id": "V10-13",
+   "nivel": "V-S10-caracteristici-generale-importanta",
+   "competente": [
+    "V-3.2",
+    "V-3.3"
+   ],
+   "tip": "asociaza",
+   "dificultate": 3,
+   "enunt": "Cum acționează celelalte geosfere asupra litosferei? Asociază.",
+   "date": {
+    "perechi": [
+     [
+      "Râul roade malul",
+      "hidrosfera"
+     ],
+     [
+      "Vântul mută nisipul",
+      "atmosfera"
+     ],
+     [
+      "Rădăcinile crapă roca",
+      "biosfera"
+     ]
+    ]
+   },
+   "feedback": {
+    "corect": "Corect: toate geosferele modelează litosfera.",
+    "gresit": "Râul = apă (hidrosfera), vântul = aer (atmosfera), rădăcinile = viață (biosfera)."
+   }
+  },
+  {
+   "id": "V10-14",
+   "nivel": "V-S10-caracteristici-generale-importanta",
+   "competente": [
+    "V-1.1"
+   ],
+   "tip": "lacunar",
+   "dificultate": 3,
+   "enunt": "Completează.",
+   "date": {
+    "text": "Litosfera este împărțită în plăci care se mișcă foarte încet. Ele se numesc plăci {0}.",
+    "raspunsuri": [
+     "tectonice"
+    ],
+    "distractori": [
+     "solare",
+     "abisale"
+    ]
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Se numesc plăci tectonice."
+   }
+  },
+  {
+   "id": "V10-15",
+   "nivel": "V-S10-caracteristici-generale-importanta",
+   "competente": [
+    "V-1.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 1,
+   "enunt": "Care dintre acestea este o rocă?",
+   "date": {
+    "variante": [
+     "granitul",
+     "apa de ploaie",
+     "aerul",
+     "frunza"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Granitul e o rocă din litosferă."
+   }
+  },
+  {
+   "id": "V10-16",
+   "nivel": "V-S10-caracteristici-generale-importanta",
+   "competente": [
+    "V-1.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Cum se numește roca magmatică formată din magmă răcită încet, în adânc, cu cristale mari?",
+   "date": {
+    "variante": [
+     "granitul",
+     "bazaltul",
+     "calcarul",
+     "nisipul"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Granitul se răcește încet, în adânc; bazaltul se răcește repede, la suprafață."
+   }
+  },
+  {
+   "id": "V10-17",
+   "nivel": "V-S10-caracteristici-generale-importanta",
+   "competente": [
+    "V-1.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Din ce se formează rocile sedimentare?",
+   "date": {
+    "variante": [
+     "din materiale depuse în straturi (nisip, mâl, scoici)",
+     "din lava răcită",
+     "din roci topite",
+     "din gheață"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Sedimentele depuse în straturi se tasează și formează roci sedimentare."
+   }
+  },
+  {
+   "id": "V10-18",
+   "nivel": "V-S10-caracteristici-generale-importanta",
+   "competente": [
+    "V-1.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Cum se formează rocile metamorfice?",
+   "date": {
+    "variante": [
+     "din alte roci, transformate de temperatură și presiune mare",
+     "din lava răcită la suprafață",
+     "din nisip adus de vânt",
+     "din ploaie"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Metamorfic înseamnă „transformat”: calcarul devine marmură, argila devine ardezie."
+   }
+  },
+  {
+   "id": "V10-19",
+   "nivel": "V-S10-caracteristici-generale-importanta",
+   "competente": [
+    "V-1.1",
+    "V-3.1"
+   ],
+   "tip": "asociaza",
+   "dificultate": 2,
+   "enunt": "Asociază roca cu folosirea ei.",
+   "date": {
+    "perechi": [
+     [
+      "marmura",
+      "statui și placări"
+     ],
+     [
+      "calcarul",
+      "fabricarea varului și a cimentului"
+     ],
+     [
+      "argila",
+      "cărămizi și ceramică"
+     ],
+     [
+      "cărbunele",
+      "combustibil"
+     ]
+    ]
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Rocile sunt resurse folosite în construcții, industrie și energie."
+   }
+  },
+  {
+   "id": "V10-20",
+   "nivel": "V-S10-caracteristici-generale-importanta",
+   "competente": [
+    "V-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce se formează din roci, sub acțiunea apei, aerului și a viețuitoarelor, și hrănește plantele?",
+   "date": {
+    "variante": [
+     "solul",
+     "magma",
+     "lava",
+     "ghețarul"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Solul e stratul afânat de la suprafață, format din roci mărunțite și humus."
+   }
+  },
+  {
+   "id": "V10-21",
+   "nivel": "V-S10-caracteristici-generale-importanta",
+   "competente": [
+    "V-3.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 3,
+   "enunt": "Ce înseamnă eroziune?",
+   "date": {
+    "variante": [
+     "roaderea și îndepărtarea rocilor de către apă, vânt sau gheață",
+     "formarea vulcanilor",
+     "răcirea lavei",
+     "creșterea plantelor"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Eroziunea modelează relieful: râurile sapă văi, vântul șlefuiește rocile."
+   }
+  },
+  {
+   "id": "V10-22",
+   "nivel": "V-S10-caracteristici-generale-importanta",
+   "competente": [
+    "V-3.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 3,
+   "enunt": "Ce înseamnă dezagregare?",
+   "date": {
+    "variante": [
+     "sfărâmarea rocilor în bucăți mai mici, mai ales din cauza variațiilor de temperatură",
+     "topirea rocilor",
+     "transformarea rocilor în aur",
+     "formarea solului fertil într-o zi"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Încălzirea ziua și răcirea noaptea crapă rocile."
+   }
+  },
+  {
+   "id": "V10-23",
+   "nivel": "V-S10-caracteristici-generale-importanta",
+   "competente": [
+    "V-1.2"
+   ],
+   "tip": "ordoneaza",
+   "dificultate": 2,
+   "enunt": "Ordonează pașii prin care o rocă devine sol.",
+   "date": {
+    "elemente": [
+     "roca e sfărâmată de îngheț și dezgheț",
+     "fragmentele se mărunțesc tot mai mult",
+     "plantele și animalele adaugă materie organică (humus)",
+     "se formează solul"
+    ],
+    "criteriu": "Ordinea formării solului"
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Sfărâmare, mărunțire, humus, sol."
+   }
+  },
+  {
+   "id": "V10-24",
+   "nivel": "V-S10-caracteristici-generale-importanta",
+   "competente": [
+    "V-1.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Adevărat sau fals? Litosfera este fixă și nu se schimbă niciodată.",
+   "date": {
+    "variante": [
+     "Fals",
+     "Adevărat"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Fals: plăcile tectonice se mișcă, iar relieful e modelat continuu de apă, vânt și gheață."
+   }
+  },
+  {
+   "id": "V10-25",
+   "nivel": "V-S10-caracteristici-generale-importanta",
+   "competente": [
+    "V-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 1,
+   "enunt": "Adevărat sau fals? Oamenii scot din litosferă metale, sare și combustibili.",
+   "date": {
+    "variante": [
+     "Adevărat",
+     "Fals"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Adevărat: litosfera e o sursă importantă de resurse."
+   }
+  },
+  {
+   "id": "V10-26",
+   "nivel": "V-S10-caracteristici-generale-importanta",
+   "competente": [
+    "V-1.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce înseamnă „plăci tectonice”?",
+   "date": {
+    "variante": [
+     "bucățile mari în care e împărțită litosfera, care se mișcă foarte încet",
+     "straturile nucleului",
+     "continentele desenate pe hartă",
+     "platformele de foraj"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Litosfera e fragmentată în plăci care plutesc pe partea topită a mantalei."
+   }
+  },
+  {
+   "id": "V10-27",
+   "nivel": "V-S10-caracteristici-generale-importanta",
+   "competente": [
+    "V-3.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 3,
+   "enunt": "Ce se poate întâmpla la marginea a două plăci tectonice care se ciocnesc?",
+   "date": {
+    "variante": [
+     "se înalță munți și se produc cutremure",
+     "se formează deșerturi",
+     "se topește gheața",
+     "apar oaze"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Ciocnirea plăcilor înalță lanțuri de munți (ex. Himalaya) și produce cutremure."
+   }
+  },
+  {
+   "id": "V10-28",
+   "nivel": "V-S10-caracteristici-generale-importanta",
+   "competente": [
+    "V-1.2"
+   ],
+   "tip": "asociaza",
+   "dificultate": 3,
+   "enunt": "Asociază tipul de rocă cu exemplul.",
+   "date": {
+    "perechi": [
+     [
+      "magmatică",
+      "bazaltul"
+     ],
+     [
+      "sedimentară",
+      "gresia"
+     ],
+     [
+      "metamorfică",
+      "ardezia"
+     ],
+     [
+      "organică",
+      "cărbunele"
+     ]
+    ]
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Bazalt – magmatic; gresie – sedimentar; ardezie – metamorfic; cărbune – din resturi de plante."
+   }
+  },
+  {
+   "id": "V10-29",
+   "nivel": "V-S10-caracteristici-generale-importanta",
+   "competente": [
+    "V-1.1"
+   ],
+   "tip": "lacunar",
+   "dificultate": 2,
+   "enunt": "Completează.",
+   "date": {
+    "text": "Stratul afânat de la suprafața litosferei, în care cresc plantele, se numește {0}; partea lui închisă la culoare, bogată în resturi de plante, se numește {1}.",
+    "raspunsuri": [
+     "sol",
+     "humus"
+    ],
+    "distractori": [
+     "lavă",
+     "granit"
+    ]
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Humusul face solul fertil."
+   }
+  },
+  {
+   "id": "V10-30",
+   "nivel": "V-S10-caracteristici-generale-importanta",
+   "competente": [
+    "V-4.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Cum poți arăta, acasă, cum se depun sedimentele în straturi?",
+   "date": {
+    "variante": [
+     "agiți într-un borcan apă cu pământ și nisip, apoi lași să se așeze",
+     "încălzești o piatră",
+     "pui o piatră la congelator o oră",
+     "speli o piatră cu săpun"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Bucățile grele se depun primele, cele fine deasupra: se formează straturi."
+   }
+  },
+  {
+   "id": "V11-01",
+   "nivel": "V-S11-structura-interna-terrei",
+   "competente": [
+    "V-1.2",
+    "V-2.3"
+   ],
+   "tip": "etichete",
+   "dificultate": 1,
+   "enunt": "Pune numele straturilor pe secțiunea prin Pământ.",
+   "date": {
+    "tinte": [
+     {
+      "id": "scoarta",
+      "eticheta": "scoarța"
+     },
+     {
+      "id": "manta",
+      "eticheta": "mantaua"
+     },
+     {
+      "id": "nucleu-extern",
+      "eticheta": "nucleul extern"
+     },
+     {
+      "id": "nucleu-intern",
+      "eticheta": "nucleul intern"
+     }
+    ],
+    "schema": "structura-interna"
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "De la suprafață spre centru: scoarța, mantaua, nucleul extern, nucleul intern."
+   }
+  },
+  {
+   "id": "V11-02",
+   "nivel": "V-S11-structura-interna-terrei",
+   "competente": [
+    "V-1.2"
+   ],
+   "tip": "denumeste",
+   "dificultate": 1,
+   "enunt": "Cum se numește stratul evidențiat cu roșu?",
+   "date": {
+    "variante": [
+     "nucleul intern",
+     "nucleul extern",
+     "mantaua",
+     "scoarța"
+    ],
+    "corect": 0,
+    "schema": "structura-interna",
+    "evidentiat": "nucleu-intern"
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Stratul din centru e nucleul intern."
+   }
+  },
+  {
+   "id": "V11-03",
+   "nivel": "V-S11-structura-interna-terrei",
+   "competente": [
+    "V-1.2"
+   ],
+   "tip": "denumeste",
+   "dificultate": 2,
+   "enunt": "Cum se numește stratul evidențiat cu roșu?",
+   "date": {
+    "variante": [
+     "mantaua",
+     "scoarța",
+     "nucleul extern",
+     "litosfera"
+    ],
+    "corect": 0,
+    "schema": "structura-interna",
+    "evidentiat": "manta"
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Stratul gros dintre scoarță și nucleu e mantaua."
+   }
+  },
+  {
+   "id": "V11-04",
+   "nivel": "V-S11-structura-interna-terrei",
+   "competente": [
+    "V-1.2",
+    "V-4.2"
+   ],
+   "tip": "ordoneaza",
+   "dificultate": 1,
+   "enunt": "Ordonează straturile de la suprafață spre centru.",
+   "date": {
+    "elemente": [
+     "scoarța",
+     "mantaua",
+     "nucleul extern",
+     "nucleul intern"
+    ],
+    "criteriu": "De la suprafață spre centru"
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Ordinea: scoarța, mantaua, nucleul extern, nucleul intern."
+   }
+  },
+  {
+   "id": "V11-05",
+   "nivel": "V-S11-structura-interna-terrei",
+   "competente": [
+    "V-1.2",
+    "V-3.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Care este cel mai gros strat al Pământului?",
+   "date": {
+    "variante": [
+     "mantaua",
+     "scoarța",
+     "nucleul extern",
+     "nucleul intern"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, mantaua: aproximativ 2 900 km grosime.",
+    "gresit": "Mantaua e cel mai gros strat (aproximativ 2 900 km)."
+   },
+   "surse": [
+    "University of Alaska Fairbanks, Geophysical Institute – Earth's Layers (ATEP 58)",
+    "ZME Science – Layers of the Earth"
+   ]
+  },
+  {
+   "id": "V11-06",
+   "nivel": "V-S11-structura-interna-terrei",
+   "competente": [
+    "V-1.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "În ce stare este nucleul extern?",
+   "date": {
+    "variante": [
+     "lichidă (metale topite)",
+     "solidă",
+     "gazoasă",
+     "e format din gheață"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Nucleul extern e din metale topite; nucleul intern e solid."
+   }
+  },
+  {
+   "id": "V11-07",
+   "nivel": "V-S11-structura-interna-terrei",
+   "competente": [
+    "V-1.2",
+    "V-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Unde este scoarța terestră mai subțire?",
+   "date": {
+    "variante": [
+     "sub oceane",
+     "sub munți",
+     "sub continente",
+     "e la fel peste tot"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Scoarța e mai subțire sub oceane și mai groasă sub continente, mai ales sub munți."
+   },
+   "surse": [
+    "University of Alaska Fairbanks, Geophysical Institute – Earth's Layers (ATEP 58)",
+    "ZME Science – Layers of the Earth"
+   ]
+  },
+  {
+   "id": "V11-08",
+   "nivel": "V-S11-structura-interna-terrei",
+   "competente": [
+    "V-3.1"
+   ],
+   "tip": "lacunar",
+   "dificultate": 2,
+   "enunt": "Completează cu valorile aproximative.",
+   "date": {
+    "text": "Mantaua ajunge până la aproximativ {0} km adâncime, iar centrul Pământului se află la aproximativ {1} km.",
+    "raspunsuri": [
+     "2 900",
+     "6 370"
+    ],
+    "distractori": [
+     "290",
+     "63 700"
+    ]
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Mantaua: aproximativ 2 900 km; centrul: aproximativ 6 370 km."
+   },
+   "surse": [
+    "University of Alaska Fairbanks, Geophysical Institute – Earth's Layers (ATEP 58)",
+    "ZME Science – Layers of the Earth"
+   ]
+  },
+  {
+   "id": "V11-09",
+   "nivel": "V-S11-structura-interna-terrei",
+   "competente": [
+    "V-2.3",
+    "V-3.1"
+   ],
+   "tip": "grafic",
+   "dificultate": 3,
+   "enunt": "Graficul arată adâncimea la care se termină fiecare strat. Cât de gros este, aproximativ, nucleul extern?",
+   "date": {
+    "grafic": {
+     "tip": "bare",
+     "titlu": "Adâncimea la care se termină stratul (aproximativ)",
+     "unitate": "km",
+     "date": [
+      {
+       "eticheta": "Mantaua",
+       "valoare": 2900
+      },
+      {
+       "eticheta": "Nucleul extern",
+       "valoare": 5150
+      },
+      {
+       "eticheta": "Nucleul intern (centrul)",
+       "valoare": 6370
+      }
+     ],
+     "sursa": "University of Alaska Fairbanks, Geophysical Institute"
+    },
+    "variante": [
+     "aproximativ 2 250 km",
+     "aproximativ 5 150 km",
+     "aproximativ 1 220 km",
+     "aproximativ 2 900 km"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect: 5 150 − 2 900 = 2 250 km.",
+    "gresit": "Nucleul extern începe unde se termină mantaua (2 900 km) și se termină la 5 150 km: 5 150 − 2 900 = 2 250 km."
+   },
+   "indiciu": "Scade adâncimea la care începe din adâncimea la care se termină.",
+   "surse": [
+    "University of Alaska Fairbanks, Geophysical Institute – Earth's Layers (ATEP 58)",
+    "ZME Science – Layers of the Earth"
+   ]
+  },
+  {
+   "id": "V11-10",
+   "nivel": "V-S11-structura-interna-terrei",
+   "competente": [
+    "V-3.2",
+    "V-4.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 3,
+   "enunt": "Cum au aflat oamenii de știință cum arată interiorul Pământului?",
+   "date": {
+    "variante": [
+     "studiind undele produse de cutremure",
+     "au forat până în centru",
+     "au coborât cu un submarin",
+     "au fotografiat Pământul din spațiu"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Nimeni n-a forat dincolo de scoarță. Undele cutremurelor trec diferit prin roci solide și topite, iar așa se pot deduce straturile."
+   }
+  },
+  {
+   "id": "V11-11",
+   "nivel": "V-S11-structura-interna-terrei",
+   "competente": [
+    "V-1.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 1,
+   "enunt": "Pe ce strat trăim?",
+   "date": {
+    "variante": [
+     "scoarța terestră",
+     "mantaua",
+     "nucleul extern",
+     "nucleul intern"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Trăim pe scoarța terestră."
+   }
+  },
+  {
+   "id": "V11-12",
+   "nivel": "V-S11-structura-interna-terrei",
+   "competente": [
+    "V-1.2"
+   ],
+   "tip": "asociaza",
+   "dificultate": 2,
+   "enunt": "Asociază fiecare strat cu descrierea lui.",
+   "date": {
+    "perechi": [
+     [
+      "Scoarța",
+      "strat subțire de roci, la suprafață"
+     ],
+     [
+      "Mantaua",
+      "cel mai gros strat, din roci fierbinți"
+     ],
+     [
+      "Nucleul extern",
+      "metale topite"
+     ],
+     [
+      "Nucleul intern",
+      "metale solide, în centru"
+     ]
+    ]
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Scoarța e subțire, mantaua e cea mai groasă, nucleul extern e topit, nucleul intern e solid."
+   }
+  },
+  {
+   "id": "V11-13",
+   "nivel": "V-S11-structura-interna-terrei",
+   "competente": [
+    "V-3.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 3,
+   "enunt": "Nucleul intern e cel mai fierbinte, dar e solid. De ce?",
+   "date": {
+    "variante": [
+     "presiunea acolo e uriașă",
+     "e acoperit de gheață",
+     "e format din piatră obișnuită",
+     "acolo nu ajunge căldura"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect: presiunea uriașă ține metalele în stare solidă.",
+    "gresit": "Presiunea foarte mare din centru împiedică metalele să se topească."
+   }
+  },
+  {
+   "id": "V11-14",
+   "nivel": "V-S11-structura-interna-terrei",
+   "competente": [
+    "V-1.1"
+   ],
+   "tip": "lacunar",
+   "dificultate": 1,
+   "enunt": "Completează.",
+   "date": {
+    "text": "Nucleul Pământului este format mai ales din {0} și nichel.",
+    "raspunsuri": [
+     "fier"
+    ],
+    "distractori": [
+     "aur",
+     "cupru"
+    ]
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Nucleul e format mai ales din fier și nichel."
+   }
+  },
+  {
+   "id": "V11-15",
+   "nivel": "V-S11-structura-interna-terrei",
+   "competente": [
+    "V-1.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 1,
+   "enunt": "Care strat al Pământului e cel mai subțire?",
+   "date": {
+    "variante": [
+     "scoarța terestră",
+     "mantaua",
+     "nucleul extern",
+     "nucleul intern"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Scoarța e foarte subțire față de celelalte straturi."
+   },
+   "surse": [
+    "University of Alaska Fairbanks, Geophysical Institute – Earth's Layers (ATEP 58)",
+    "ZME Science – Layers of the Earth"
+   ]
+  },
+  {
+   "id": "V11-16",
+   "nivel": "V-S11-structura-interna-terrei",
+   "competente": [
+    "V-3.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce grosime are scoarța terestră?",
+   "date": {
+    "variante": [
+     "de la câțiva kilometri sub oceane până la peste 60 km sub munți",
+     "exact 1 000 km",
+     "aproximativ 2 900 km",
+     "câțiva metri"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Scoarța are aproximativ 5–70 km: mai subțire sub oceane, mai groasă sub munți."
+   },
+   "surse": [
+    "University of Alaska Fairbanks, Geophysical Institute – Earth's Layers (ATEP 58)",
+    "ZME Science – Layers of the Earth"
+   ]
+  },
+  {
+   "id": "V11-17",
+   "nivel": "V-S11-structura-interna-terrei",
+   "competente": [
+    "V-3.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce se întâmplă cu temperatura cu cât cobori mai adânc în Pământ?",
+   "date": {
+    "variante": [
+     "crește",
+     "scade",
+     "rămâne aceeași",
+     "devine sub 0 °C"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "În adânc temperatura crește: de aceea mantaua și nucleul sunt foarte fierbinți."
+   }
+  },
+  {
+   "id": "V11-18",
+   "nivel": "V-S11-structura-interna-terrei",
+   "competente": [
+    "V-1.2"
+   ],
+   "tip": "denumeste",
+   "dificultate": 2,
+   "enunt": "Ce strat e evidențiat cu roșu?",
+   "date": {
+    "schema": "structura-interna",
+    "evidentiat": "scoarta",
+    "variante": [
+     "scoarța",
+     "mantaua",
+     "nucleul extern",
+     "nucleul intern"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Stratul subțire de la suprafață e scoarța."
+   }
+  },
+  {
+   "id": "V11-19",
+   "nivel": "V-S11-structura-interna-terrei",
+   "competente": [
+    "V-1.2"
+   ],
+   "tip": "denumeste",
+   "dificultate": 2,
+   "enunt": "Ce strat e evidențiat cu roșu?",
+   "date": {
+    "schema": "structura-interna",
+    "evidentiat": "nucleu-extern",
+    "variante": [
+     "nucleul extern",
+     "nucleul intern",
+     "mantaua",
+     "scoarța"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Stratul dintre manta și nucleul intern e nucleul extern, din metale topite."
+   }
+  },
+  {
+   "id": "V11-20",
+   "nivel": "V-S11-structura-interna-terrei",
+   "competente": [
+    "V-1.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Adevărat sau fals? Nucleul intern al Pământului este lichid.",
+   "date": {
+    "variante": [
+     "Fals",
+     "Adevărat"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Fals: nucleul intern e solid; nucleul extern e lichid."
+   }
+  },
+  {
+   "id": "V11-21",
+   "nivel": "V-S11-structura-interna-terrei",
+   "competente": [
+    "V-3.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Adevărat sau fals? Magma care iese din vulcani provine din adâncul Pământului.",
+   "date": {
+    "variante": [
+     "Adevărat",
+     "Fals"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Adevărat: magma se formează în adânc, unde rocile se topesc."
+   }
+  },
+  {
+   "id": "V11-22",
+   "nivel": "V-S11-structura-interna-terrei",
+   "competente": [
+    "V-3.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 3,
+   "enunt": "Ce face nucleul extern, lichid și în mișcare, pentru Pământ?",
+   "date": {
+    "variante": [
+     "produce câmpul magnetic, care orientează acul busolei",
+     "produce ploile",
+     "încălzește oceanele",
+     "creează Luna"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Mișcarea metalelor topite din nucleul extern generează câmpul magnetic al Pământului."
+   }
+  },
+  {
+   "id": "V11-23",
+   "nivel": "V-S11-structura-interna-terrei",
+   "competente": [
+    "V-3.1"
+   ],
+   "tip": "ordoneaza",
+   "dificultate": 3,
+   "enunt": "Ordonează straturile după grosime, de la cel mai subțire la cel mai gros.",
+   "date": {
+    "elemente": [
+     "scoarța",
+     "nucleul intern",
+     "nucleul extern",
+     "mantaua"
+    ],
+    "criteriu": "De la subțire la gros"
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Scoarța (zeci de km), nucleul intern (raza ~1 220 km), nucleul extern (~2 250 km), mantaua (~2 900 km)."
+   },
+   "surse": [
+    "University of Alaska Fairbanks, Geophysical Institute – Earth's Layers (ATEP 58)",
+    "ZME Science – Layers of the Earth"
+   ]
+  },
+  {
+   "id": "V11-24",
+   "nivel": "V-S11-structura-interna-terrei",
+   "competente": [
+    "V-1.2"
+   ],
+   "tip": "asociaza",
+   "dificultate": 2,
+   "enunt": "Asociază stratul cu starea lui.",
+   "date": {
+    "perechi": [
+     [
+      "scoarța",
+      "rocă solidă, rece la suprafață"
+     ],
+     [
+      "mantaua",
+      "rocă fierbinte, care curge foarte încet"
+     ],
+     [
+      "nucleul extern",
+      "metale lichide"
+     ],
+     [
+      "nucleul intern",
+      "metale solide"
+     ]
+    ]
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Doar nucleul extern e complet lichid."
+   }
+  },
+  {
+   "id": "V11-25",
+   "nivel": "V-S11-structura-interna-terrei",
+   "competente": [
+    "V-1.1"
+   ],
+   "tip": "lacunar",
+   "dificultate": 2,
+   "enunt": "Completează.",
+   "date": {
+    "text": "Între scoarță și nucleu se află {0}, iar în centrul Pământului se află {1}.",
+    "raspunsuri": [
+     "mantaua",
+     "nucleul intern"
+    ],
+    "distractori": [
+     "litosfera",
+     "atmosfera"
+    ]
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Ordinea: scoarță, manta, nucleu extern, nucleu intern."
+   }
+  },
+  {
+   "id": "V11-26",
+   "nivel": "V-S11-structura-interna-terrei",
+   "competente": [
+    "V-1.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce cuprinde litosfera, în legătură cu straturile Pământului?",
+   "date": {
+    "variante": [
+     "scoarța și partea de sus a mantalei",
+     "doar nucleul",
+     "mantaua și nucleul",
+     "atmosfera și scoarța"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Litosfera = scoarța + partea superioară, solidă, a mantalei."
+   }
+  },
+  {
+   "id": "V11-27",
+   "nivel": "V-S11-structura-interna-terrei",
+   "competente": [
+    "V-4.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 3,
+   "enunt": "Cel mai adânc foraj făcut de oameni are puțin peste 12 km. Ce strat a atins?",
+   "date": {
+    "variante": [
+     "doar scoarța",
+     "mantaua",
+     "nucleul extern",
+     "nucleul intern"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "12 km e mult mai puțin decât grosimea scoarței continentale; nimeni n-a ajuns în manta."
+   }
+  },
+  {
+   "id": "V11-28",
+   "nivel": "V-S11-structura-interna-terrei",
+   "competente": [
+    "V-1.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Cu ce seamănă structura Pământului?",
+   "date": {
+    "variante": [
+     "cu un ou: coaja (scoarța), albușul (mantaua), gălbenușul (nucleul)",
+     "cu un cub de gheață",
+     "cu o portocală goală pe dinăuntru",
+     "cu o minge plină cu aer"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Comparația cu oul ajută: coaja subțire, apoi straturi tot mai dense spre centru."
+   }
+  },
+  {
+   "id": "V11-29",
+   "nivel": "V-S11-structura-interna-terrei",
+   "competente": [
+    "V-3.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Care strat ocupă cea mai mare parte din volumul Pământului?",
+   "date": {
+    "variante": [
+     "mantaua",
+     "scoarța",
+     "nucleul intern",
+     "nucleul extern"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Mantaua reprezintă cea mai mare parte din volumul Pământului."
+   },
+   "surse": [
+    "University of Alaska Fairbanks, Geophysical Institute – Earth's Layers (ATEP 58)",
+    "ZME Science – Layers of the Earth"
+   ]
+  },
+  {
+   "id": "V11-30",
+   "nivel": "V-S11-structura-interna-terrei",
+   "competente": [
+    "V-2.3",
+    "V-3.1"
+   ],
+   "tip": "grafic",
+   "dificultate": 3,
+   "enunt": "Graficul arată adâncimea la care începe fiecare strat. La ce adâncime începe nucleul intern?",
+   "date": {
+    "grafic": {
+     "tip": "bare",
+     "titlu": "Adâncimea la care începe stratul (aproximativ)",
+     "date": [
+      {
+       "eticheta": "Mantaua",
+       "valoare": 35
+      },
+      {
+       "eticheta": "Nucleul extern",
+       "valoare": 2900
+      },
+      {
+       "eticheta": "Nucleul intern",
+       "valoare": 5150
+      }
+     ],
+     "unitate": "km",
+     "sursa": "University of Alaska Fairbanks, Geophysical Institute"
+    },
+    "variante": [
+     "aproximativ 5 150 km",
+     "aproximativ 2 900 km",
+     "aproximativ 35 km",
+     "aproximativ 6 370 km"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Nucleul intern începe la aproximativ 5 150 km adâncime."
+   },
+   "surse": [
+    "University of Alaska Fairbanks, Geophysical Institute – Earth's Layers (ATEP 58)",
+    "ZME Science – Layers of the Earth"
+   ]
+  },
+  {
+   "id": "V12-01",
+   "nivel": "V-S12-relieful-continente-bazine-oceanice",
+   "competente": [
+    "V-2.1",
+    "V-2.2"
+   ],
+   "tip": "etichete",
+   "dificultate": 2,
+   "enunt": "Pune numele continentelor pe hartă.",
+   "date": {
+    "tinte": [
+     {
+      "id": "europa",
+      "eticheta": "Europa",
+      "lat": 52,
+      "lon": 15
+     },
+     {
+      "id": "asia",
+      "eticheta": "Asia",
+      "lat": 45,
+      "lon": 90
+     },
+     {
+      "id": "africa",
+      "eticheta": "Africa",
+      "lat": 5,
+      "lon": 20
+     },
+     {
+      "id": "amn",
+      "eticheta": "America de Nord",
+      "lat": 45,
+      "lon": -100
+     },
+     {
+      "id": "ams",
+      "eticheta": "America de Sud",
+      "lat": -15,
+      "lon": -60
+     },
+     {
+      "id": "australia",
+      "eticheta": "Australia",
+      "lat": -25,
+      "lon": 134
+     },
+     {
+      "id": "antarctica",
+      "eticheta": "Antarctica",
+      "lat": -80,
+      "lon": 30
+     }
+    ],
+    "harta": "lume"
+   },
+   "feedback": {
+    "corect": "Toate continentele sunt la locul lor!",
+    "gresit": "Verifică: Europa și Asia sunt lipite, Africa e la sud de Europa, cele două Americi sunt în vest."
+   },
+   "indiciu": "Începe cu Antarctica: e jos, la Polul Sud."
+  },
+  {
+   "id": "V12-02",
+   "nivel": "V-S12-relieful-continente-bazine-oceanice",
+   "competente": [
+    "V-2.1"
+   ],
+   "tip": "etichete",
+   "dificultate": 2,
+   "enunt": "Pune numele oceanelor pe hartă.",
+   "date": {
+    "tinte": [
+     {
+      "id": "pacific",
+      "eticheta": "Oceanul Pacific",
+      "lat": 0,
+      "lon": -140
+     },
+     {
+      "id": "atlantic",
+      "eticheta": "Oceanul Atlantic",
+      "lat": 15,
+      "lon": -40
+     },
+     {
+      "id": "indian",
+      "eticheta": "Oceanul Indian",
+      "lat": -20,
+      "lon": 75
+     },
+     {
+      "id": "arctic",
+      "eticheta": "Oceanul Arctic",
+      "lat": 80,
+      "lon": -10
+     }
+    ],
+    "harta": "lume"
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Pacificul e între Asia–Australia și cele două Americi; Atlanticul între Americi și Europa–Africa; Indianul la sud de Asia; Arcticul în nord."
+   }
+  },
+  {
+   "id": "V12-03",
+   "nivel": "V-S12-relieful-continente-bazine-oceanice",
+   "competente": [
+    "V-2.1"
+   ],
+   "tip": "pin",
+   "dificultate": 1,
+   "enunt": "Atinge pe hartă Oceanul Pacific.",
+   "date": {
+    "harta": "lume",
+    "tinta": {
+     "lat": 0,
+     "lon": -150,
+     "nume": "Oceanul Pacific"
+    },
+    "toleranta": 4500
+   },
+   "feedback": {
+    "corect": "Corect, cel mai mare ocean.",
+    "gresit": "Pacificul e oceanul uriaș dintre Asia–Australia și cele două Americi."
+   }
+  },
+  {
+   "id": "V12-04",
+   "nivel": "V-S12-relieful-continente-bazine-oceanice",
+   "competente": [
+    "V-4.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 1,
+   "enunt": "Care este cel mai mare ocean?",
+   "date": {
+    "variante": [
+     "Oceanul Pacific",
+     "Oceanul Atlantic",
+     "Oceanul Indian",
+     "Oceanul Arctic"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Pacificul e cel mai mare ocean."
+   }
+  },
+  {
+   "id": "V12-05",
+   "nivel": "V-S12-relieful-continente-bazine-oceanice",
+   "competente": [
+    "V-1.1",
+    "V-2.3"
+   ],
+   "tip": "etichete",
+   "dificultate": 2,
+   "enunt": "Pune denumirile pe profilul fundului oceanic.",
+   "date": {
+    "tinte": [
+     {
+      "id": "platforma",
+      "eticheta": "platforma continentală"
+     },
+     {
+      "id": "abrupt",
+      "eticheta": "abruptul continental"
+     },
+     {
+      "id": "campie-abisala",
+      "eticheta": "câmpia abisală"
+     },
+     {
+      "id": "dorsala",
+      "eticheta": "dorsala oceanică"
+     },
+     {
+      "id": "groapa",
+      "eticheta": "groapa abisală"
+     }
+    ],
+    "schema": "fund-oceanic"
+   },
+   "feedback": {
+    "corect": "Excelent!",
+    "gresit": "De la țărm spre larg: platforma continentală, abruptul, câmpia abisală; dorsala e un munte submarin, groapa e cea mai adâncă."
+   }
+  },
+  {
+   "id": "V12-06",
+   "nivel": "V-S12-relieful-continente-bazine-oceanice",
+   "competente": [
+    "V-1.1",
+    "V-2.3"
+   ],
+   "tip": "denumeste",
+   "dificultate": 2,
+   "enunt": "Ce formă de relief oceanic e evidențiată?",
+   "date": {
+    "variante": [
+     "groapa abisală",
+     "dorsala oceanică",
+     "platforma continentală",
+     "câmpia abisală"
+    ],
+    "corect": 0,
+    "schema": "fund-oceanic",
+    "evidentiat": "groapa"
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Partea cea mai adâncă, îngustă, e groapa abisală."
+   }
+  },
+  {
+   "id": "V12-07",
+   "nivel": "V-S12-relieful-continente-bazine-oceanice",
+   "competente": [
+    "V-1.1",
+    "V-4.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Care este cel mai înalt vârf de pe Terra?",
+   "date": {
+    "variante": [
+     "Everest, 8 848,86 m (Himalaya)",
+     "Mont Blanc (Alpi)",
+     "Moldoveanu (Carpați)",
+     "Kilimanjaro (Africa)"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Everest, în Munții Himalaya, are 8 848,86 m (măsurătoarea Nepal–China din 2020)."
+   },
+   "surse": [
+    "Al Jazeera, 8.12.2020 – anunțul Nepal–China: 8 848,86 m",
+    "The Himalayan Times, 8.12.2020"
+   ]
+  },
+  {
+   "id": "V12-08",
+   "nivel": "V-S12-relieful-continente-bazine-oceanice",
+   "competente": [
+    "V-2.1"
+   ],
+   "tip": "pin",
+   "dificultate": 2,
+   "enunt": "Atinge pe hartă vârful Everest, în Munții Himalaya.",
+   "date": {
+    "harta": "lume",
+    "tinta": {
+     "lat": 27.99,
+     "lon": 86.93,
+     "nume": "Vârful Everest"
+    },
+    "toleranta": 800
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Everest e în Asia, la granița dintre Nepal și China, la nord de India."
+   },
+   "indiciu": "Caută la nord de India."
+  },
+  {
+   "id": "V12-09",
+   "nivel": "V-S12-relieful-continente-bazine-oceanice",
+   "competente": [
+    "V-2.1"
+   ],
+   "tip": "pin",
+   "dificultate": 3,
+   "enunt": "Atinge pe hartă Groapa Marianelor, cel mai adânc loc cunoscut din ocean.",
+   "date": {
+    "harta": "lume",
+    "tinta": {
+     "lat": 11.35,
+     "lon": 142.2,
+     "nume": "Groapa Marianelor"
+    },
+    "toleranta": 1000
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Groapa Marianelor e în vestul Oceanului Pacific, la est de Filipine."
+   },
+   "indiciu": "E în Pacific, la est de Filipine."
+  },
+  {
+   "id": "V12-10",
+   "nivel": "V-S12-relieful-continente-bazine-oceanice",
+   "competente": [
+    "V-1.1",
+    "V-1.2"
+   ],
+   "tip": "asociaza",
+   "dificultate": 1,
+   "enunt": "Asociază forma de relief cu descrierea ei.",
+   "date": {
+    "perechi": [
+     [
+      "Munții",
+      "cele mai înalte forme, cu vârfuri și văi adânci"
+     ],
+     [
+      "Dealurile",
+      "înălțimi mai mici, cu pante domoale"
+     ],
+     [
+      "Podișurile",
+      "suprafețe înalte, aproape netede, tăiate de văi"
+     ],
+     [
+      "Câmpiile",
+      "suprafețe joase și netede"
+     ]
+    ]
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Munții sunt cei mai înalți, câmpiile cele mai joase și netede; podișurile sunt înalte, dar netede."
+   }
+  },
+  {
+   "id": "V12-11",
+   "nivel": "V-S12-relieful-continente-bazine-oceanice",
+   "competente": [
+    "V-4.2"
+   ],
+   "tip": "ordoneaza",
+   "dificultate": 1,
+   "enunt": "Ordonează formele de relief de la cea mai joasă la cea mai înaltă.",
+   "date": {
+    "elemente": [
+     "câmpia",
+     "dealul",
+     "muntele"
+    ],
+    "criteriu": "De la jos la sus"
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Câmpia e cea mai joasă, apoi dealul, apoi muntele."
+   }
+  },
+  {
+   "id": "V12-12",
+   "nivel": "V-S12-relieful-continente-bazine-oceanice",
+   "competente": [
+    "V-2.3",
+    "V-3.1"
+   ],
+   "tip": "grafic",
+   "dificultate": 3,
+   "enunt": "Profilul arată altitudinile într-un ținut imaginar. Între care două puncte urci cel mai mult?",
+   "date": {
+    "grafic": {
+     "tip": "profil",
+     "titlu": "Profil printr-un ținut imaginar (altitudini în metri)",
+     "unitate": "m",
+     "date": [
+      {
+       "eticheta": "A",
+       "valoare": 120
+      },
+      {
+       "eticheta": "B",
+       "valoare": 450
+      },
+      {
+       "eticheta": "C",
+       "valoare": 1800
+      },
+      {
+       "eticheta": "D",
+       "valoare": 2300
+      },
+      {
+       "eticheta": "E",
+       "valoare": 900
+      },
+      {
+       "eticheta": "F",
+       "valoare": 150
+      }
+     ]
+    },
+    "variante": [
+     "între B și C",
+     "între C și D",
+     "între A și B",
+     "între E și F"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect: de la 450 la 1 800 m urci 1 350 m.",
+    "gresit": "Calculează diferențele: A–B = 330 m, B–C = 1 350 m, C–D = 500 m. Cel mai mult urci între B și C."
+   },
+   "indiciu": "Scade altitudinile vecine două câte două."
+  },
+  {
+   "id": "V12-13",
+   "nivel": "V-S12-relieful-continente-bazine-oceanice",
+   "competente": [
+    "V-1.1"
+   ],
+   "tip": "lacunar",
+   "dificultate": 2,
+   "enunt": "Completează.",
+   "date": {
+    "text": "Partea de uscat care continuă sub apă, la adâncimi mici, se numește {0}. Lanțurile de munți de pe fundul oceanelor se numesc {1}.",
+    "raspunsuri": [
+     "platformă continentală",
+     "dorsale oceanice"
+    ],
+    "distractori": [
+     "câmpie abisală",
+     "gropi abisale"
+    ]
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Platforma continentală e la adâncimi mici; dorsalele sunt munți submarini."
+   }
+  },
+  {
+   "id": "V12-14",
+   "nivel": "V-S12-relieful-continente-bazine-oceanice",
+   "competente": [
+    "V-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce ocupă cea mai mare parte din suprafața Pământului?",
+   "date": {
+    "variante": [
+     "oceanele",
+     "continentele",
+     "munții",
+     "deșerturile"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, oceanele.",
+    "gresit": "Oceanul Planetar acoperă mai mult de jumătate din suprafața Pământului, adică mai mult decât uscatul."
+   }
+  },
+  {
+   "id": "V12-15",
+   "nivel": "V-S12-relieful-continente-bazine-oceanice",
+   "competente": [
+    "V-2.1"
+   ],
+   "tip": "pin",
+   "dificultate": 2,
+   "enunt": "Atinge pe hartă continentul Asia.",
+   "date": {
+    "harta": "lume",
+    "tinta": {
+     "lat": 45,
+     "lon": 90,
+     "nume": "Asia"
+    },
+    "toleranta": 2000
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Asia e cel mai mare continent, la est de Europa."
+   }
+  },
+  {
+   "id": "V12-16",
+   "nivel": "V-S12-relieful-continente-bazine-oceanice",
+   "competente": [
+    "V-2.1"
+   ],
+   "tip": "pin",
+   "dificultate": 2,
+   "enunt": "Atinge pe hartă America de Sud.",
+   "date": {
+    "harta": "lume",
+    "tinta": {
+     "lat": -15,
+     "lon": -60,
+     "nume": "America de Sud"
+    },
+    "toleranta": 1800
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "America de Sud e în emisfera vestică, la sud de America de Nord."
+   }
+  },
+  {
+   "id": "V12-17",
+   "nivel": "V-S12-relieful-continente-bazine-oceanice",
+   "competente": [
+    "V-2.1"
+   ],
+   "tip": "pin",
+   "dificultate": 3,
+   "enunt": "Atinge pe hartă Oceanul Indian.",
+   "date": {
+    "harta": "lume",
+    "tinta": {
+     "lat": -20,
+     "lon": 75,
+     "nume": "Oceanul Indian"
+    },
+    "toleranta": 2500
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Oceanul Indian e între Africa, Asia și Australia."
+   }
+  },
+  {
+   "id": "V12-18",
+   "nivel": "V-S12-relieful-continente-bazine-oceanice",
+   "competente": [
+    "V-4.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 1,
+   "enunt": "Care este cel mai mare continent?",
+   "date": {
+    "variante": [
+     "Asia",
+     "Africa",
+     "Europa",
+     "Australia"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Asia e cel mai mare continent, ca suprafață și populație."
+   }
+  },
+  {
+   "id": "V12-19",
+   "nivel": "V-S12-relieful-continente-bazine-oceanice",
+   "competente": [
+    "V-4.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Care este cel mai mic continent?",
+   "date": {
+    "variante": [
+     "Australia",
+     "Europa",
+     "Antarctica",
+     "America de Sud"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Australia e cel mai mic continent."
+   }
+  },
+  {
+   "id": "V12-20",
+   "nivel": "V-S12-relieful-continente-bazine-oceanice",
+   "competente": [
+    "V-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce continent e acoperit aproape în întregime de gheață?",
+   "date": {
+    "variante": [
+     "Antarctica",
+     "Europa",
+     "Asia",
+     "Africa"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Antarctica e acoperită de o calotă de gheață."
+   }
+  },
+  {
+   "id": "V12-21",
+   "nivel": "V-S12-relieful-continente-bazine-oceanice",
+   "competente": [
+    "V-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce ocean se află între Europa și America de Nord?",
+   "date": {
+    "variante": [
+     "Oceanul Atlantic",
+     "Oceanul Pacific",
+     "Oceanul Indian",
+     "Oceanul Arctic"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Atlanticul desparte Europa și Africa de cele două Americi."
+   }
+  },
+  {
+   "id": "V12-22",
+   "nivel": "V-S12-relieful-continente-bazine-oceanice",
+   "competente": [
+    "V-1.1"
+   ],
+   "tip": "asociaza",
+   "dificultate": 2,
+   "enunt": "Asociază forma de relief oceanic cu descrierea.",
+   "date": {
+    "perechi": [
+     [
+      "platforma continentală",
+      "uscatul care continuă sub apă, la adâncimi mici"
+     ],
+     [
+      "abruptul continental",
+      "panta repede spre adânc"
+     ],
+     [
+      "câmpia abisală",
+      "fundul aproape plan al oceanului"
+     ],
+     [
+      "groapa abisală",
+      "cea mai adâncă parte, îngustă și lungă"
+     ]
+    ]
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "De la țărm spre larg: platformă, abrupt, câmpie abisală; gropile sunt cele mai adânci."
+   }
+  },
+  {
+   "id": "V12-23",
+   "nivel": "V-S12-relieful-continente-bazine-oceanice",
+   "competente": [
+    "V-1.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce sunt dorsalele oceanice?",
+   "date": {
+    "variante": [
+     "lanțuri de munți de pe fundul oceanelor",
+     "insule vulcanice izolate",
+     "curenți de apă",
+     "gropi foarte adânci"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Dorsalele sunt munți submarini, unde plăcile se depărtează."
+   }
+  },
+  {
+   "id": "V12-24",
+   "nivel": "V-S12-relieful-continente-bazine-oceanice",
+   "competente": [
+    "V-4.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Cât are vârful Everest?",
+   "date": {
+    "variante": [
+     "8 848,86 m",
+     "4 810 m",
+     "2 544 m",
+     "11 000 m"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Everest are 8 848,86 m, după măsurătoarea comună Nepal–China din 2020."
+   },
+   "surse": [
+    "Al Jazeera, 8.12.2020 – anunțul Nepal–China: 8 848,86 m",
+    "The Himalayan Times, 8.12.2020"
+   ]
+  },
+  {
+   "id": "V12-25",
+   "nivel": "V-S12-relieful-continente-bazine-oceanice",
+   "competente": [
+    "V-1.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Adevărat sau fals? Pe fundul oceanelor există munți, câmpii și gropi, ca pe uscat.",
+   "date": {
+    "variante": [
+     "Adevărat",
+     "Fals"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Adevărat: relieful oceanic e la fel de variat ca cel de pe continente."
+   }
+  },
+  {
+   "id": "V12-26",
+   "nivel": "V-S12-relieful-continente-bazine-oceanice",
+   "competente": [
+    "V-1.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 1,
+   "enunt": "Adevărat sau fals? Munții sunt cele mai joase forme de relief.",
+   "date": {
+    "variante": [
+     "Fals",
+     "Adevărat"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Fals: munții sunt cele mai înalte forme; câmpiile sunt cele mai joase."
+   }
+  },
+  {
+   "id": "V12-27",
+   "nivel": "V-S12-relieful-continente-bazine-oceanice",
+   "competente": [
+    "V-1.1"
+   ],
+   "tip": "lacunar",
+   "dificultate": 2,
+   "enunt": "Completează.",
+   "date": {
+    "text": "Formele majore de relief de pe continente sunt munții, {0}, {1} și câmpiile.",
+    "raspunsuri": [
+     "dealurile",
+     "podișurile"
+    ],
+    "distractori": [
+     "dorsalele",
+     "gropile"
+    ]
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Dorsalele și gropile sunt forme de relief oceanic."
+   }
+  },
+  {
+   "id": "V12-28",
+   "nivel": "V-S12-relieful-continente-bazine-oceanice",
+   "competente": [
+    "V-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce munți se află în Europa?",
+   "date": {
+    "variante": [
+     "Alpii",
+     "Himalaya",
+     "Anzii",
+     "Munții Stâncoși"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Alpii sunt în Europa; Himalaya în Asia; Anzii și Munții Stâncoși în America."
+   }
+  },
+  {
+   "id": "V12-29",
+   "nivel": "V-S12-relieful-continente-bazine-oceanice",
+   "competente": [
+    "V-2.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 3,
+   "enunt": "Pe harta fizică, o zonă e colorată maro închis. Ce formă de relief e?",
+   "date": {
+    "variante": [
+     "munți înalți",
+     "câmpie joasă",
+     "lac",
+     "deltă"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Maroul închis arată altitudinile cele mai mari."
+   }
+  },
+  {
+   "id": "V12-30",
+   "nivel": "V-S12-relieful-continente-bazine-oceanice",
+   "competente": [
+    "V-2.3"
+   ],
+   "tip": "grafic",
+   "dificultate": 3,
+   "enunt": "Profilul arată fundul unui ocean imaginar (adâncimi în metri). Unde e groapa abisală?",
+   "date": {
+    "grafic": {
+     "tip": "profil",
+     "titlu": "Adâncimea apei de-a lungul unui ocean imaginar (m)",
+     "date": [
+      {
+       "eticheta": "A",
+       "valoare": 100
+      },
+      {
+       "eticheta": "B",
+       "valoare": 3000
+      },
+      {
+       "eticheta": "C",
+       "valoare": 4500
+      },
+      {
+       "eticheta": "D",
+       "valoare": 2500
+      },
+      {
+       "eticheta": "E",
+       "valoare": 9000
+      },
+      {
+       "eticheta": "F",
+       "valoare": 4000
+      }
+     ],
+     "unitate": "m"
+    },
+    "variante": [
+     "în punctul E",
+     "în punctul A",
+     "în punctul D",
+     "în punctul B"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Groapa abisală e locul cel mai adânc: 9 000 m, în E. În A e platforma continentală, în D o dorsală."
+   }
+  },
+  {
+   "id": "V13-01",
+   "nivel": "V-S13-vulcanii-cutremurele",
+   "competente": [
+    "V-1.1",
+    "V-1.2"
+   ],
+   "tip": "etichete",
+   "dificultate": 1,
+   "enunt": "Pune denumirile pe secțiunea prin vulcan.",
+   "date": {
+    "tinte": [
+     {
+      "id": "camera",
+      "eticheta": "camera magmatică"
+     },
+     {
+      "id": "cos",
+      "eticheta": "coșul vulcanic"
+     },
+     {
+      "id": "crater",
+      "eticheta": "craterul"
+     },
+     {
+      "id": "con",
+      "eticheta": "conul vulcanic"
+     },
+     {
+      "id": "nor",
+      "eticheta": "norul de cenușă"
+     }
+    ],
+    "schema": "vulcan"
+   },
+   "feedback": {
+    "corect": "Excelent!",
+    "gresit": "De jos în sus: camera magmatică, coșul, craterul. Conul e muntele format din lavă și cenușă."
+   }
+  },
+  {
+   "id": "V13-02",
+   "nivel": "V-S13-vulcanii-cutremurele",
+   "competente": [
+    "V-1.2",
+    "V-2.3"
+   ],
+   "tip": "ordoneaza",
+   "dificultate": 2,
+   "enunt": "Ordonează etapele unei erupții vulcanice.",
+   "date": {
+    "elemente": [
+     "Magma se adună în camera magmatică",
+     "Presiunea gazelor crește",
+     "Magma urcă prin coșul vulcanic",
+     "Lava, gazele și cenușa ies prin crater",
+     "Lava se răcește și înalță conul"
+    ],
+    "criteriu": "Etapele erupției"
+   },
+   "feedback": {
+    "corect": "Perfect!",
+    "gresit": "Totul pornește din camera magmatică; lava se răcește abia la final."
+   }
+  },
+  {
+   "id": "V13-03",
+   "nivel": "V-S13-vulcanii-cutremurele",
+   "competente": [
+    "V-1.1"
+   ],
+   "tip": "lacunar",
+   "dificultate": 1,
+   "enunt": "Completează.",
+   "date": {
+    "text": "Magma ajunsă la suprafață se numește {0}.",
+    "raspunsuri": [
+     "lavă"
+    ],
+    "distractori": [
+     "cenușă",
+     "rocă"
+    ]
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Magma care iese la suprafață se numește lavă."
+   }
+  },
+  {
+   "id": "V13-04",
+   "nivel": "V-S13-vulcanii-cutremurele",
+   "competente": [
+    "V-2.1"
+   ],
+   "tip": "pin",
+   "dificultate": 2,
+   "enunt": "Atinge pe hartă vulcanul Etna, din insula Sicilia (Italia).",
+   "date": {
+    "harta": "lume",
+    "tinta": {
+     "lat": 37.75,
+     "lon": 14.99,
+     "nume": "Etna"
+    },
+    "toleranta": 500
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Etna e în Sicilia, insula din sudul Italiei."
+   },
+   "indiciu": "Italia seamănă cu o cizmă; Sicilia e mingea din fața ei."
+  },
+  {
+   "id": "V13-05",
+   "nivel": "V-S13-vulcanii-cutremurele",
+   "competente": [
+    "V-2.1"
+   ],
+   "tip": "pin",
+   "dificultate": 3,
+   "enunt": "Atinge pe hartă vulcanul Fuji, din Japonia.",
+   "date": {
+    "harta": "lume",
+    "tinta": {
+     "lat": 35.36,
+     "lon": 138.73,
+     "nume": "Fuji"
+    },
+    "toleranta": 600
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Fuji e în Japonia, în estul Asiei."
+   }
+  },
+  {
+   "id": "V13-06",
+   "nivel": "V-S13-vulcanii-cutremurele",
+   "competente": [
+    "V-1.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 1,
+   "enunt": "Cum se numește locul din adânc unde se produce cutremurul?",
+   "date": {
+    "variante": [
+     "hipocentru (focar)",
+     "epicentru",
+     "crater",
+     "seismograf"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Locul din adânc e hipocentrul; deasupra lui, la suprafață, e epicentrul."
+   }
+  },
+  {
+   "id": "V13-07",
+   "nivel": "V-S13-vulcanii-cutremurele",
+   "competente": [
+    "V-1.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Cum se numește punctul de la suprafață aflat chiar deasupra hipocentrului?",
+   "date": {
+    "variante": [
+     "epicentru",
+     "crater",
+     "camera magmatică",
+     "dorsală"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Epicentrul e la suprafață, deasupra hipocentrului."
+   }
+  },
+  {
+   "id": "V13-08",
+   "nivel": "V-S13-vulcanii-cutremurele",
+   "competente": [
+    "V-3.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 1,
+   "enunt": "Cu ce aparat se înregistrează cutremurele?",
+   "date": {
+    "variante": [
+     "seismograful",
+     "busola",
+     "termometrul",
+     "barometrul"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Seismograful înregistrează vibrațiile scoarței."
+   }
+  },
+  {
+   "id": "V13-09",
+   "nivel": "V-S13-vulcanii-cutremurele",
+   "competente": [
+    "V-4.3"
+   ],
+   "tip": "ordoneaza",
+   "dificultate": 2,
+   "enunt": "Ești în clasă și începe un cutremur. Ordonează ce faci.",
+   "date": {
+    "elemente": [
+     "Te adăpostești sub bancă și te ții de ea",
+     "Stai departe de geamuri și dulapuri",
+     "Aștepți să se oprească mișcarea",
+     "Ieși calm, cu profesorul, pe traseul de evacuare"
+    ],
+    "criteriu": "Ordinea acțiunilor"
+   },
+   "feedback": {
+    "corect": "Corect. Așa te protejezi.",
+    "gresit": "Întâi te protejezi pe loc; ieși abia după ce se oprește mișcarea."
+   }
+  },
+  {
+   "id": "V13-10",
+   "nivel": "V-S13-vulcanii-cutremurele",
+   "competente": [
+    "V-4.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "În timpul cutremurului ești pe hol, lângă lift. Ce faci?",
+   "date": {
+    "variante": [
+     "nu folosești liftul; te adăpostești lângă un perete interior, departe de geamuri",
+     "iei liftul ca să ieși repede",
+     "fugi pe scări în timp ce clădirea se mișcă",
+     "te așezi lângă geam ca să vezi ce se întâmplă"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Liftul se poate bloca. Rămâi pe loc, protejat, departe de geamuri, până se oprește mișcarea."
+   }
+  },
+  {
+   "id": "V13-11",
+   "nivel": "V-S13-vulcanii-cutremurele",
+   "competente": [
+    "V-3.3",
+    "V-4.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "În ce zonă din România se produc cele mai multe cutremure puternice?",
+   "date": {
+    "variante": [
+     "zona Vrancea",
+     "Delta Dunării",
+     "Câmpia de Vest",
+     "Munții Apuseni"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect, zona Vrancea, aproape de orașul nostru.",
+    "gresit": "Cele mai multe cutremure puternice din România se produc în zona Vrancea."
+   }
+  },
+  {
+   "id": "V13-12",
+   "nivel": "V-S13-vulcanii-cutremurele",
+   "competente": [
+    "V-1.1"
+   ],
+   "tip": "asociaza",
+   "dificultate": 3,
+   "enunt": "Asociază termenul cu definiția.",
+   "date": {
+    "perechi": [
+     [
+      "magma",
+      "rocă topită, aflată în adânc"
+     ],
+     [
+      "lava",
+      "magmă ajunsă la suprafață"
+     ],
+     [
+      "craterul",
+      "deschiderea din vârful vulcanului"
+     ],
+     [
+      "coșul vulcanic",
+      "canalul prin care urcă magma"
+     ]
+    ]
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Magma e în adânc, lava la suprafață; coșul e canalul, craterul e deschiderea de sus."
+   }
+  },
+  {
+   "id": "V13-13",
+   "nivel": "V-S13-vulcanii-cutremurele",
+   "competente": [
+    "V-3.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 3,
+   "enunt": "De ce apar vulcanii și cutremurele mai ales la marginile plăcilor tectonice?",
+   "date": {
+    "variante": [
+     "acolo plăcile se ciocnesc, se depărtează sau alunecă una pe lângă alta",
+     "acolo e mai cald la suprafață",
+     "acolo sunt mai multe orașe",
+     "acolo plouă mai mult"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Mișcarea plăcilor la margini produce cutremure și deschide drum magmei."
+   }
+  },
+  {
+   "id": "V13-14",
+   "nivel": "V-S13-vulcanii-cutremurele",
+   "competente": [
+    "V-1.1",
+    "V-3.2"
+   ],
+   "tip": "lacunar",
+   "dificultate": 3,
+   "enunt": "Completează.",
+   "date": {
+    "text": "Valurile uriașe produse de cutremurele de sub ocean se numesc {0}.",
+    "raspunsuri": [
+     "tsunami"
+    ],
+    "distractori": [
+     "uragan",
+     "maree"
+    ]
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Se numesc tsunami."
+   }
+  },
+  {
+   "id": "V13-15",
+   "nivel": "V-S13-vulcanii-cutremurele",
+   "competente": [
+    "V-2.1"
+   ],
+   "tip": "pin",
+   "dificultate": 2,
+   "enunt": "Atinge pe hartă Vezuviul, vulcanul de lângă Napoli (Italia).",
+   "date": {
+    "harta": "lume",
+    "tinta": {
+     "lat": 40.82,
+     "lon": 14.43,
+     "nume": "Vezuviul"
+    },
+    "toleranta": 400
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Vezuviul e în sudul Italiei, lângă Napoli."
+   }
+  },
+  {
+   "id": "V13-16",
+   "nivel": "V-S13-vulcanii-cutremurele",
+   "competente": [
+    "V-2.1"
+   ],
+   "tip": "pin",
+   "dificultate": 3,
+   "enunt": "Atinge pe hartă Islanda, insulă cu mulți vulcani activi.",
+   "date": {
+    "harta": "lume",
+    "tinta": {
+     "lat": 64.9,
+     "lon": -18.6,
+     "nume": "Islanda"
+    },
+    "toleranta": 500
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Islanda e în nordul Atlanticului, pe dorsala medio-atlantică."
+   }
+  },
+  {
+   "id": "V13-17",
+   "nivel": "V-S13-vulcanii-cutremurele",
+   "competente": [
+    "V-1.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce este un vulcan stins?",
+   "date": {
+    "variante": [
+     "un vulcan care nu a mai erupt de foarte mult timp și nu mai are activitate",
+     "un vulcan care erupe acum",
+     "un vulcan acoperit de zăpadă",
+     "un vulcan sub ocean"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Vulcanii stinși nu mai au activitate; cei activi pot erupe oricând."
+   }
+  },
+  {
+   "id": "V13-18",
+   "nivel": "V-S13-vulcanii-cutremurele",
+   "competente": [
+    "V-1.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Cum se numește aparatul care înregistrează undele seismice pe hârtie sau pe ecran?",
+   "date": {
+    "variante": [
+     "seismograf",
+     "barometru",
+     "termometru",
+     "anemometru"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Seismograful înregistrează vibrațiile scoarței."
+   }
+  },
+  {
+   "id": "V13-19",
+   "nivel": "V-S13-vulcanii-cutremurele",
+   "competente": [
+    "V-4.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce NU trebuie să faci în timpul unui cutremur?",
+   "date": {
+    "variante": [
+     "să alergi pe scări sau să iei liftul",
+     "să te adăpostești sub o masă solidă",
+     "să stai departe de geamuri",
+     "să te ții de piciorul mesei"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "În timpul mișcării, rămâi pe loc, adăpostit; ieși abia după."
+   }
+  },
+  {
+   "id": "V13-20",
+   "nivel": "V-S13-vulcanii-cutremurele",
+   "competente": [
+    "V-4.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "După cutremur, ieși din clădire. Unde aștepți?",
+   "date": {
+    "variante": [
+     "într-un loc deschis, departe de clădiri, stâlpi și fire electrice",
+     "lângă zidul clădirii",
+     "sub balcoane",
+     "pe scări"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Pot urma replici; stai departe de ce poate cădea."
+   }
+  },
+  {
+   "id": "V13-21",
+   "nivel": "V-S13-vulcanii-cutremurele",
+   "competente": [
+    "V-1.1"
+   ],
+   "tip": "asociaza",
+   "dificultate": 2,
+   "enunt": "Asociază termenul cu explicația.",
+   "date": {
+    "perechi": [
+     [
+      "hipocentrul",
+      "locul din adânc unde începe cutremurul"
+     ],
+     [
+      "epicentrul",
+      "punctul de la suprafață de deasupra hipocentrului"
+     ],
+     [
+      "seismograful",
+      "aparatul care înregistrează cutremurul"
+     ],
+     [
+      "replica",
+      "cutremur mai slab care urmează celui principal"
+     ]
+    ]
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Hipocentru – în adânc; epicentru – la suprafață."
+   }
+  },
+  {
+   "id": "V13-22",
+   "nivel": "V-S13-vulcanii-cutremurele",
+   "competente": [
+    "V-3.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 3,
+   "enunt": "Ce sunt „vulcanii noroioși” din județul Buzău?",
+   "date": {
+    "variante": [
+     "conuri mici din care ies noroi și gaze din adânc, nu lavă",
+     "vulcani activi cu lavă",
+     "munți vechi stinși",
+     "lacuri cu apă caldă"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "La Berca–Pâclele, gazele din adânc împing la suprafață noroi și apă, formând conuri mici."
+   },
+   "surse": [
+    "Euronews România – Buzău, județul vulcanilor noroioși",
+    "Adevărul (ediția Buzău) – Vulcanii Noroioși"
+   ]
+  },
+  {
+   "id": "V13-23",
+   "nivel": "V-S13-vulcanii-cutremurele",
+   "competente": [
+    "V-3.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Adevărat sau fals? Cutremurele se pot prezice exact, cu ziua și ora.",
+   "date": {
+    "variante": [
+     "Fals",
+     "Adevărat"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Fals: cutremurele nu se pot prezice exact; de aceea e important să știm cum să ne protejăm."
+   }
+  },
+  {
+   "id": "V13-24",
+   "nivel": "V-S13-vulcanii-cutremurele",
+   "competente": [
+    "V-1.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 1,
+   "enunt": "Adevărat sau fals? Lava răcită formează roci noi.",
+   "date": {
+    "variante": [
+     "Adevărat",
+     "Fals"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Adevărat: lava răcită formează roci magmatice, ca bazaltul."
+   }
+  },
+  {
+   "id": "V13-25",
+   "nivel": "V-S13-vulcanii-cutremurele",
+   "competente": [
+    "V-1.2",
+    "V-2.3"
+   ],
+   "tip": "ordoneaza",
+   "dificultate": 3,
+   "enunt": "Ordonează ce se întâmplă la un cutremur.",
+   "date": {
+    "elemente": [
+     "rocile din adânc se rup brusc, în hipocentru",
+     "undele seismice pornesc în toate direcțiile",
+     "undele ajung la suprafață, în epicentru",
+     "pământul se zguduie și seismograful înregistrează"
+    ],
+    "criteriu": "Ordinea evenimentelor"
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Ruptura din adânc trimite unde care ajung la suprafață."
+   }
+  },
+  {
+   "id": "V13-26",
+   "nivel": "V-S13-vulcanii-cutremurele",
+   "competente": [
+    "V-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce zonă din jurul Oceanului Pacific are foarte mulți vulcani și cutremure?",
+   "date": {
+    "variante": [
+     "„Cercul de Foc al Pacificului”",
+     "Cercul Polar",
+     "Tropicul Racului",
+     "Câmpia Europei de Est"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Marginile Pacificului sunt zone de ciocnire a plăcilor."
+   }
+  },
+  {
+   "id": "V13-27",
+   "nivel": "V-S13-vulcanii-cutremurele",
+   "competente": [
+    "V-4.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 3,
+   "enunt": "Ce pui în rucsacul de urgență pentru cutremur?",
+   "date": {
+    "variante": [
+     "apă, lanternă, trusă de prim ajutor, fluier",
+     "jocuri video",
+     "televizor",
+     "covor"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Lucrurile utile în primele ore după un dezastru."
+   }
+  },
+  {
+   "id": "V13-28",
+   "nivel": "V-S13-vulcanii-cutremurele",
+   "competente": [
+    "V-1.1"
+   ],
+   "tip": "lacunar",
+   "dificultate": 2,
+   "enunt": "Completează.",
+   "date": {
+    "text": "Deschiderea din vârful vulcanului se numește {0}, iar canalul prin care urcă magma se numește {1}.",
+    "raspunsuri": [
+     "crater",
+     "coș vulcanic"
+    ],
+    "distractori": [
+     "con",
+     "hipocentru"
+    ]
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Craterul e sus; coșul leagă camera magmatică de crater."
+   }
+  },
+  {
+   "id": "V13-29",
+   "nivel": "V-S13-vulcanii-cutremurele",
+   "competente": [
+    "V-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce folos aduc vulcanii, în timp?",
+   "date": {
+    "variante": [
+     "cenușa vulcanică formează soluri foarte fertile",
+     "opresc ploile",
+     "răcesc oceanele",
+     "împiedică cutremurele"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Pe pantele vulcanilor stinși, solurile vulcanice sunt foarte fertile."
+   }
+  },
+  {
+   "id": "V13-30",
+   "nivel": "V-S13-vulcanii-cutremurele",
+   "competente": [
+    "V-2.1"
+   ],
+   "tip": "denumeste",
+   "dificultate": 2,
+   "enunt": "Ce vulcan e marcat pe hartă?",
+   "date": {
+    "harta": "lume",
+    "punct": {
+     "lat": 37.75,
+     "lon": 14.99
+    },
+    "variante": [
+     "Etna",
+     "Fuji",
+     "Kilimanjaro",
+     "Mauna Loa"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Punctul marcat e în Sicilia: vulcanul Etna."
+   }
+  },
+  {
+   "id": "V16-01",
+   "nivel": "V-S16-aplicatii-practice-relieful-orizontului",
+   "competente": [
+    "V-4.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Care este un semn că un versant ar putea aluneca?",
+   "date": {
+    "variante": [
+     "crăpături noi în pământ și copaci înclinați",
+     "iarba verde",
+     "un drum asfaltat",
+     "păsări pe cer"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Crăpăturile din sol, copacii și gardurile înclinate arată că terenul se mișcă."
+   }
+  },
+  {
+   "id": "V16-02",
+   "nivel": "V-S16-aplicatii-practice-relieful-orizontului",
+   "competente": [
+    "V-4.3"
+   ],
+   "tip": "ordoneaza",
+   "dificultate": 2,
+   "enunt": "Vezi că terenul începe să alunece lângă casă. Ordonează ce faci.",
+   "date": {
+    "elemente": [
+     "Te îndepărtezi de zona care alunecă",
+     "Anunți un adult",
+     "Se sună la 112",
+     "Nu te întorci până nu spun autoritățile că e sigur"
+    ],
+    "criteriu": "Ordinea acțiunilor"
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Întâi te pui în siguranță, apoi anunți; nu te întorci până nu e sigur."
+   }
+  },
+  {
+   "id": "V16-03",
+   "nivel": "V-S16-aplicatii-practice-relieful-orizontului",
+   "competente": [
+    "V-4.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 1,
+   "enunt": "Ce NU pui în rucsacul de urgență?",
+   "date": {
+    "variante": [
+     "jocuri video",
+     "apă de băut",
+     "lanternă",
+     "trusă de prim ajutor"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "În rucsac pui lucruri care te ajută să rămâi în siguranță: apă, lanternă, trusă medicală, fluier, haine."
+   }
+  }
+ ]
+}

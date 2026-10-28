@@ -1,0 +1,862 @@
+{
+ "id": "patrula-verde",
+ "nume": "Patrula Verde",
+ "eveniment": "saptamana-verde",
+ "plan": {
+  "zi": "2027-04-21",
+  "durata": "1,5–2 ore pentru fiecare grup",
+  "grupe": [
+   {
+    "clase": [
+     5,
+     7
+    ],
+    "titlu": "Grupul 1: clasele a V-a și a VII-a"
+   },
+   {
+    "clase": [
+     6,
+     8
+    ],
+    "titlu": "Grupul 2: clasele a VI-a și a VIII-a"
+   }
+  ],
+  "ateliere": [
+   {
+    "titlu": "1. Jocul live „Patrula Verde”",
+    "minute": 20,
+    "tehnologie": [
+     "tabla interactivă",
+     "telefoanele elevilor sau calculatoarele"
+    ],
+    "descriere": "Porniți jocul live cu clasele grupate. La fiecare răspuns corect, în pădurea colectivă de pe tablă mai crește un copac.",
+    "rezultat": "Pădurea colectivă a grupului."
+   },
+   {
+    "titlu": "2. Misiunea dronei: harta verde a școlii",
+    "minute": 30,
+    "tehnologie": [
+     "drona (pilotată doar de profesor)",
+     "calculatoarele"
+    ],
+    "descriere": "Profesorul face fotografii verticale ale curții, de la înălțime mică. Elevii identifică pe fotografii: zone verzi, zone betonate, locuri cu deșeuri, copaci. Pe calculator, desenează pe imagine (sau pe hârtie de calc pe tablă) zonele și estimează, cu un caroiaj, ce parte din curte e verde.",
+    "rezultat": "Harta verde a școlii, cu procentul de spațiu verde.",
+    "siguranta": [
+     "Drona e pilotată doar de un adult instruit, în condițiile AACR pentru categoria deschisă.",
+     "Zborul se face doar deasupra curții școlii, cu elevii în afara zonei de zbor.",
+     "Nu se fotografiază persoane; fotografiile nu se publică fără acordul direcțiunii.",
+     "Nu se zboară pe vânt puternic sau ploaie."
+    ]
+   },
+   {
+    "titlu": "3. Imprimanta 3D: etichete pentru copaci și plante",
+    "minute": 30,
+    "tehnologie": [
+     "imprimanta 3D",
+     "calculatoarele"
+    ],
+    "descriere": "Elevii scriu pe calculator textul etichetelor (numele plantei, rolul ei: umbră, hrană pentru albine, protecția solului). Profesorul tipărește 3D etichete simple, din PLA, pentru copacii și plantele din curte. Cei mari (VII, VIII) pot proiecta forma etichetei într-un program gratuit de modelare 3D.",
+    "rezultat": "Etichete montate pe plantele din curtea școlii."
+   },
+   {
+    "titlu": "4. Patrula în teren",
+    "minute": 25,
+    "tehnologie": [
+     "mănuși",
+     "saci de gunoi pe culori",
+     "telefonul profesorului pentru fotografii"
+    ],
+    "descriere": "Elevii strâng deșeurile din curte (cu mănuși), le sortează pe culori și le cântăresc. Montează etichetele tipărite. Notează în Jurnalul exploratorului ce au găsit.",
+    "rezultat": "Kilograme de deșeuri colectate, pe tipuri."
+   },
+   {
+    "titlu": "5. Concluzii și angajamentul clasei",
+    "minute": 15,
+    "tehnologie": [
+     "tabla interactivă"
+    ],
+    "descriere": "Pe tablă: harta verde, pădurea colectivă și cantitatea de deșeuri. Fiecare grup scrie un angajament pentru restul anului (de exemplu, un colț pentru albine sau o zi fără mașini lângă școală).",
+    "rezultat": "Angajamentul Patrulei Verzi, afișat în clasă."
+   }
+  ],
+  "pentruGrupe": {
+   "5-7": "Cei de-a V-a lucrează pe geosfere (aer, apă, sol, viețuitoare); cei de-a VII-a explică legătura cu problemele globale (defrișări, deșertificare, schimbări climatice). În ateliere, perechile se fac dintr-un elev de-a V-a și unul de-a VII-a.",
+   "6-8": "Cei de-a VI-a lucrează pe resurse și dezvoltare durabilă în Europa; cei de-a VIII-a pe problemele de mediu ale României și ale județului Buzău. Elevii de-a VIII-a conduc echipele mixte la harta dronei."
+  },
+  "surse": [
+   "Autoritatea Aeronautică Civilă Română (AACR) – Drone: categoria deschisă",
+   "Regulamentul de punere în aplicare (UE) 2019/947 – operarea dronelor"
+  ]
+ },
+ "itemi": [
+  {
+   "id": "G01",
+   "nivel": "ev-patrula-verde",
+   "competente": [],
+   "tip": "alegere",
+   "dificultate": 1,
+   "enunt": "Ce zi a Pământului se sărbătorește în fiecare an pe 22 aprilie?",
+   "date": {
+    "variante": [
+     "Ziua Pământului",
+     "Ziua Apei",
+     "Ziua Pădurii",
+     "Ziua Mării Negre"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Ziua Pământului se sărbătorește pe 22 aprilie, din 1970."
+   },
+   "surse": [
+    "ONU – International Mother Earth Day, 22 aprilie",
+    "Earth Day Network – History of Earth Day (1970)"
+   ],
+   "clase": [
+    5,
+    6,
+    7,
+    8
+   ]
+  },
+  {
+   "id": "G02",
+   "nivel": "ev-patrula-verde",
+   "competente": [],
+   "tip": "alegere",
+   "dificultate": 1,
+   "enunt": "În ce container se pune o sticlă de plastic goală?",
+   "date": {
+    "variante": [
+     "galben (plastic și metal)",
+     "verde (sticlă)",
+     "albastru (hârtie)",
+     "maro (biodegradabile)"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Plasticul și metalul merg la galben."
+   },
+   "clase": [
+    5,
+    6,
+    7,
+    8
+   ]
+  },
+  {
+   "id": "G03",
+   "nivel": "ev-patrula-verde",
+   "competente": [],
+   "tip": "alegere",
+   "dificultate": 1,
+   "enunt": "În ce container se pune un borcan de sticlă?",
+   "date": {
+    "variante": [
+     "verde",
+     "galben",
+     "albastru",
+     "maro"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Sticla merge la containerul verde."
+   },
+   "clase": [
+    5,
+    6,
+    7,
+    8
+   ]
+  },
+  {
+   "id": "G04",
+   "nivel": "ev-patrula-verde",
+   "competente": [],
+   "tip": "alegere",
+   "dificultate": 1,
+   "enunt": "Ce deșeu se poate pune la compost?",
+   "date": {
+    "variante": [
+     "cojile de cartofi",
+     "o baterie",
+     "o pungă de plastic",
+     "un bec"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Resturile vegetale se descompun și devin îngrășământ."
+   },
+   "clase": [
+    5,
+    6,
+    7,
+    8
+   ]
+  },
+  {
+   "id": "G05",
+   "nivel": "ev-patrula-verde",
+   "competente": [],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Cât durează formarea unui strat de sol de 1 cm?",
+   "date": {
+    "variante": [
+     "sute de ani, până la o mie de ani",
+     "o zi",
+     "o lună",
+     "un an"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "De aceea solul trebuie protejat."
+   },
+   "surse": [
+    "FAO – International Year of Soils 2015: Soils are a non-renewable resource",
+    "FAO – Healthy soils are the basis for healthy food production"
+   ],
+   "clase": [
+    5,
+    6,
+    7,
+    8
+   ]
+  },
+  {
+   "id": "G06",
+   "nivel": "ev-patrula-verde",
+   "competente": [],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Unde se duc bateriile uzate?",
+   "date": {
+    "variante": [
+     "la punctele speciale de colectare",
+     "la gunoiul menajer",
+     "în compost",
+     "în râu"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Bateriile conțin metale toxice."
+   },
+   "clase": [
+    5,
+    6,
+    7,
+    8
+   ]
+  },
+  {
+   "id": "G07",
+   "nivel": "ev-patrula-verde",
+   "competente": [],
+   "tip": "pin",
+   "dificultate": 2,
+   "enunt": "Atinge pe hartă Râmnicu Sărat, orașul Patrulei Verzi.",
+   "date": {
+    "harta": "romania",
+    "tinta": {
+     "lat": 45.38,
+     "lon": 27.05,
+     "nume": "Râmnicu Sărat"
+    },
+    "toleranta": 35
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Râmnicu Sărat e în nord-estul județului Buzău."
+   },
+   "clase": [
+    5,
+    6,
+    7,
+    8
+   ]
+  },
+  {
+   "id": "G08",
+   "nivel": "ev-patrula-verde",
+   "competente": [],
+   "tip": "pin",
+   "dificultate": 2,
+   "enunt": "Atinge pe hartă Vulcanii Noroioși de la Berca–Pâclele, rezervație naturală din județul Buzău.",
+   "date": {
+    "harta": "romania",
+    "tinta": {
+     "lat": 45.35,
+     "lon": 26.7,
+     "nume": "Vulcanii Noroioși"
+    },
+    "toleranta": 35
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Sunt în Subcarpații Buzăului."
+   },
+   "surse": [
+    "Euronews România – Buzău, județul vulcanilor noroioși",
+    "Adevărul (ediția Buzău) – Vulcanii Noroioși"
+   ],
+   "clase": [
+    5,
+    6,
+    7,
+    8
+   ]
+  },
+  {
+   "id": "G09",
+   "nivel": "ev-patrula-verde",
+   "competente": [],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce geoparc recunoscut de UNESCO se află în județul Buzău?",
+   "date": {
+    "variante": [
+     "Ținutul Buzăului",
+     "Țara Hațegului",
+     "Delta Dunării",
+     "Munții Apuseni"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Geoparcul Ținutul Buzăului e recunoscut de UNESCO din 2022."
+   },
+   "surse": [
+    "UNESCO – Global Geoparks: Buzău Land (2022)",
+    "Asociația Ținutul Buzăului (geoparc)"
+   ],
+   "clase": [
+    5,
+    6,
+    7,
+    8
+   ]
+  },
+  {
+   "id": "G10",
+   "nivel": "ev-patrula-verde",
+   "competente": [],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce faci cu apa când te speli pe dinți?",
+   "date": {
+    "variante": [
+     "închizi robinetul cât timp periezi",
+     "lași robinetul deschis",
+     "folosești apă caldă mereu",
+     "umpli cada"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Economisești mulți litri pe zi."
+   },
+   "clase": [
+    5,
+    6,
+    7,
+    8
+   ]
+  },
+  {
+   "id": "G11",
+   "nivel": "ev-patrula-verde",
+   "competente": [],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce plantă ajută cel mai mult albinele în curtea școlii?",
+   "date": {
+    "variante": [
+     "florile locale, care înfloresc pe rând, din primăvară până toamna",
+     "iarba tunsă foarte scurt",
+     "gazonul artificial",
+     "pietrișul"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Florile locale dau hrană polenizatorilor."
+   },
+   "clase": [
+    5,
+    6,
+    7,
+    8
+   ]
+  },
+  {
+   "id": "G12",
+   "nivel": "ev-patrula-verde",
+   "competente": [],
+   "tip": "alegere",
+   "dificultate": 3,
+   "enunt": "De ce plasticul aruncat în râu e o problemă pentru mare?",
+   "date": {
+    "variante": [
+     "râul îl duce în mare, unde se rupe în microplastice",
+     "plasticul se dizolvă imediat",
+     "plasticul devine nisip curat",
+     "plasticul hrănește peștii"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Microplasticele ajung în hrana animalelor."
+   },
+   "surse": [
+    "UNEP – Our planet is drowning in plastic pollution",
+    "OECD – Global Plastics Outlook (2022)"
+   ],
+   "clase": [
+    5,
+    6,
+    7,
+    8
+   ]
+  },
+  {
+   "id": "G20",
+   "nivel": "ev-patrula-verde",
+   "competente": [
+    "V-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 1,
+   "enunt": "Ce faptă protejează hidrosfera?",
+   "date": {
+    "variante": [
+     "nu arunci gunoaie în râu",
+     "speli mașina în pârâu",
+     "lași robinetul deschis",
+     "arunci uleiul în chiuvetă"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Apele curate depind de noi."
+   },
+   "clase": [
+    5
+   ]
+  },
+  {
+   "id": "G21",
+   "nivel": "ev-patrula-verde",
+   "competente": [
+    "V-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce rol au rădăcinile copacilor pe o pantă?",
+   "date": {
+    "variante": [
+     "țin solul și opresc eroziunea",
+     "fac solul să alunece",
+     "usucă râurile",
+     "nu au rol"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Pădurea apără solul."
+   },
+   "clase": [
+    5
+   ]
+  },
+  {
+   "id": "G22",
+   "nivel": "ev-patrula-verde",
+   "competente": [
+    "V-4.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce poluează aerul din jurul școlii?",
+   "date": {
+    "variante": [
+     "mașinile lăsate cu motorul pornit și arderea frunzelor",
+     "copacii",
+     "florile",
+     "ploaia"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Arderile poluează aerul."
+   },
+   "clase": [
+    5
+   ]
+  },
+  {
+   "id": "G23",
+   "nivel": "ev-patrula-verde",
+   "competente": [
+    "V-1.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Cum se numește îngrășământul natural obținut din resturi de legume și frunze?",
+   "date": {
+    "variante": [
+     "compost",
+     "plastic",
+     "nisip",
+     "cărbune"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Compostul îmbogățește solul."
+   },
+   "clase": [
+    5
+   ]
+  },
+  {
+   "id": "G30",
+   "nivel": "ev-patrula-verde",
+   "competente": [
+    "VI-3.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce țară europeană e cunoscută pentru numărul mare de biciclete în orașe?",
+   "date": {
+    "variante": [
+     "Țările de Jos",
+     "Islanda",
+     "Malta",
+     "Albania"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Amsterdam are mai multe biciclete decât locuitori."
+   },
+   "clase": [
+    6
+   ]
+  },
+  {
+   "id": "G31",
+   "nivel": "ev-patrula-verde",
+   "competente": [
+    "VI-3.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce resursă regenerabilă folosește cel mai mult Norvegia pentru electricitate?",
+   "date": {
+    "variante": [
+     "apa (hidrocentralele)",
+     "cărbunele",
+     "petrolul ars",
+     "lemnul"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Norvegia are munți și multă apă."
+   },
+   "clase": [
+    6
+   ]
+  },
+  {
+   "id": "G32",
+   "nivel": "ev-patrula-verde",
+   "competente": [
+    "VI-4.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce înseamnă „dezvoltare durabilă”?",
+   "date": {
+    "variante": [
+     "să folosim resursele fără să le stricăm pentru generațiile viitoare",
+     "să consumăm cât mai repede",
+     "să nu mai folosim nicio resursă",
+     "să tăiem pădurile pentru case"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Grija pentru viitor."
+   },
+   "clase": [
+    6
+   ]
+  },
+  {
+   "id": "G33",
+   "nivel": "ev-patrula-verde",
+   "competente": [
+    "VI-3.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Care dintre aceste resurse este neregenerabilă?",
+   "date": {
+    "variante": [
+     "petrolul",
+     "vântul",
+     "energia Soarelui",
+     "apa râurilor"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Petrolul s-a format în milioane de ani și se termină."
+   },
+   "clase": [
+    6
+   ]
+  },
+  {
+   "id": "G40",
+   "nivel": "ev-patrula-verde",
+   "competente": [
+    "VII-4.4"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce acord internațional din 2015 urmărește limitarea încălzirii globale?",
+   "date": {
+    "variante": [
+     "Acordul de la Paris",
+     "Tratatul Antarctic",
+     "Protocolul de la Montreal",
+     "Tratatul de la Roma"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Ținta e mult sub 2 °C, încercând 1,5 °C."
+   },
+   "clase": [
+    7
+   ]
+  },
+  {
+   "id": "G41",
+   "nivel": "ev-patrula-verde",
+   "competente": [
+    "VII-4.4"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce pădure tropicală e amenințată cel mai mult de defrișări?",
+   "date": {
+    "variante": [
+     "pădurea amazoniană",
+     "taigaua siberiană",
+     "Pădurea Neagră",
+     "pădurea Letea"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Amazonia pierde suprafețe mari în fiecare an."
+   },
+   "clase": [
+    7
+   ]
+  },
+  {
+   "id": "G42",
+   "nivel": "ev-patrula-verde",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "denumeste",
+   "dificultate": 2,
+   "enunt": "Ce zonă, amenințată de deșertificare, e marcată pe hartă?",
+   "date": {
+    "variante": [
+     "Sahelul",
+     "Siberia",
+     "Amazonia",
+     "Alpii"
+    ],
+    "corect": 0,
+    "harta": "lume",
+    "punct": {
+     "lat": 15,
+     "lon": 5
+    }
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Sahelul e la sudul Saharei."
+   },
+   "clase": [
+    7
+   ]
+  },
+  {
+   "id": "G43",
+   "nivel": "ev-patrula-verde",
+   "competente": [
+    "VII-4.4"
+   ],
+   "tip": "alegere",
+   "dificultate": 3,
+   "enunt": "De ce gheața Antarcticii e importantă pentru tot Pământul?",
+   "date": {
+    "variante": [
+     "topirea ei ar ridica mult nivelul oceanului",
+     "ea încălzește oceanele",
+     "nu are importanță",
+     "produce petrol"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Calota conține aproximativ 90 % din gheața lumii."
+   },
+   "clase": [
+    7
+   ]
+  },
+  {
+   "id": "G50",
+   "nivel": "ev-patrula-verde",
+   "competente": [
+    "VIII-4.4"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce parte din teritoriul României e în rețeaua Natura 2000?",
+   "date": {
+    "variante": [
+     "aproape un sfert",
+     "aproape nimic",
+     "toată țara",
+     "jumătate exact"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Situri pentru specii și habitate protejate."
+   },
+   "surse": [
+    "Agenția Europeană de Mediu (EEA) – Natura 2000 barometer",
+    "Ministerul Mediului – Rețeaua Natura 2000 în România"
+   ],
+   "clase": [
+    8
+   ]
+  },
+  {
+   "id": "G51",
+   "nivel": "ev-patrula-verde",
+   "competente": [
+    "VIII-4.4"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce problemă de mediu e frecventă în Subcarpații Buzăului?",
+   "date": {
+    "variante": [
+     "alunecările de teren, agravate de defrișări",
+     "erupțiile de lavă",
+     "tsunami-urile",
+     "avalanșele de nisip"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Pădurea și drenajul reduc riscul."
+   },
+   "clase": [
+    8
+   ]
+  },
+  {
+   "id": "G52",
+   "nivel": "ev-patrula-verde",
+   "competente": [
+    "VIII-3.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce energie regenerabilă e cea mai potrivită pentru acoperișul școlii?",
+   "date": {
+    "variante": [
+     "panourile solare",
+     "o termocentrală pe cărbune",
+     "o hidrocentrală",
+     "un reactor nuclear"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Panourile fotovoltaice pot reduce factura și emisiile."
+   },
+   "clase": [
+    8
+   ]
+  },
+  {
+   "id": "G53",
+   "nivel": "ev-patrula-verde",
+   "competente": [
+    "VIII-4.4"
+   ],
+   "tip": "alegere",
+   "dificultate": 3,
+   "enunt": "Ce soluție reduce alunecările de teren de pe o pantă de lângă un sat?",
+   "date": {
+    "variante": [
+     "împădurirea și drenarea apei",
+     "tăierea copacilor",
+     "construirea de case pe pantă",
+     "aratul de sus în jos"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Pădurea și drenajul stabilizează versantul."
+   },
+   "clase": [
+    8
+   ]
+  }
+ ]
+}

@@ -1,0 +1,4893 @@
+{
+ "clasa": 7,
+ "unitate": "Africa",
+ "niveluri": [
+  {
+   "id": "VII-S13-caracterizare-geografica-pozitia-geografica",
+   "tip": "nivel",
+   "titlu": "Africa – poziția geografică. Simetria latitudinală",
+   "descopera": {
+    "intrebare": "De ce clima din nordul Africii seamănă cu cea din sudul ei?"
+   },
+   "invata": [
+    {
+     "titlu": "Poziția",
+     "text": "Africa e al doilea continent ca mărime, cu aproximativ 30 de milioane km². E singurul continent străbătut de Ecuator, de ambele tropice și de meridianul de origine (Greenwich).\nE scăldată de Oceanul Atlantic (vest), Oceanul Indian (est), Marea Mediterană (nord) și Marea Roșie (nord-est). Strâmtoarea Gibraltar o desparte de Europa, iar Istmul Suez (cu Canalul Suez) o leagă de Asia."
+    },
+    {
+     "titlu": "Simetria latitudinală",
+     "text": "Ecuatorul trece aproape prin mijlocul Africii. De aceea, la nord și la sud de Ecuator se repetă, ca în oglindă, aceleași zone de climă și vegetație: pădure ecuatorială în centru, apoi savană, apoi deșert (Sahara în nord, Kalahari și Namib în sud), iar la capete climat mediteranean (nordul Africii și extremitatea sudică)."
+    },
+    {
+     "titlu": "Țărmurile",
+     "text": "Țărmurile Africii sunt puțin crestate. Cea mai mare peninsulă e Somalia („Cornul Africii”). Cea mai mare insulă e Madagascar. Golfuri: Golful Guineei, Golful Aden."
+    }
+   ],
+   "stiaiCa": "Africa e singurul continent prin care trec atât Ecuatorul, cât și ambele tropice și meridianul de 0°.",
+   "referintaProfesor": "Manual Art Klett, clasa a VII-a, ediția 2024 (manuale.edu.ro), lecția „Caracterizare geografică – Poziția geografică – simetrie latitudinală”"
+  },
+  {
+   "id": "VII-S13-relieful-africii-caracteristici-generale",
+   "tip": "nivel",
+   "titlu": "Africa – relieful. Riftul african",
+   "descopera": {
+    "intrebare": "Se poate rupe un continent în două?"
+   },
+   "invata": [
+    {
+     "titlu": "Un continent de podișuri",
+     "text": "Relieful Africii e dominat de podișuri vechi și înalte, de aceea Africa e numită „continentul podișurilor”. Altitudinea crește de la nord-vest spre sud-est.\nCâmpiile sunt puține și înguste, de-a lungul țărmurilor. Munți: Atlas (nord-vest, munți tineri), Munții Drakensberg (sud-est), munții vulcanici din est."
+    },
+    {
+     "titlu": "Riftul african",
+     "text": "În estul Africii se află Marele Rift: un șir de fracturi uriașe ale scoarței, lung de mii de kilometri, unde placa africană se rupe încet. Aici sunt văi adânci, lacuri lungi și înguste (Tanganyika, Malawi), vulcani (Kilimanjaro, Kenya) și cutremure.\nÎn milioane de ani, estul Africii s-ar putea desprinde de restul continentului."
+    },
+    {
+     "titlu": "Extreme",
+     "text": "Cel mai înalt vârf: Kilimanjaro (5 895 m), un vulcan, în Tanzania. Cel mai jos punct: Lacul Assal (Djibouti), la aproximativ 155 m sub nivelul mării."
+    }
+   ],
+   "stiaiCa": "Deși e aproape de Ecuator, Kilimanjaro are zăpadă și ghețari pe vârf, care însă se micșorează rapid.",
+   "referintaProfesor": "Manual Art Klett, clasa a VII-a, ediția 2024 (manuale.edu.ro), lecția „Relieful Africii – caracteristici generale. Riftul african”"
+  },
+  {
+   "id": "VII-S16-hidrografia-clima-biogeografia-caracteristici",
+   "tip": "nivel",
+   "titlu": "Africa – ape, climă, vegetație și faună",
+   "descopera": {
+    "intrebare": "Cum poate cel mai lung fluviu al lumii să traverseze cel mai mare deșert fierbinte?"
+   },
+   "invata": [
+    {
+     "titlu": "Apele",
+     "text": "Nilul (aproximativ 6 650 km) e cel mai lung fluviu de pe Pământ, după majoritatea măsurătorilor. Se formează din Nilul Alb (din Lacul Victoria) și Nilul Albastru (din Podișul Etiopiei) și traversează Sahara până în Marea Mediterană.\nCongo e fluviul cu cea mai mare cantitate de apă din Africa. Alte fluvii: Niger, Zambezi (cu Cascada Victoria), Orange.\nLacuri: Victoria (cel mai mare lac din Africa), Tanganyika (foarte adânc, de rift), Malawi, Ciad (care se micșorează)."
+    },
+    {
+     "titlu": "Clima",
+     "text": "Africa e cel mai cald continent. Clima e ecuatorială în centru (cald și ploios tot anul), subecuatorială (savană, cu un anotimp ploios și unul secetos), tropical-deșertică (Sahara, Kalahari, Namib), mediteraneeană la extremități.\nÎn Sahara plouă foarte rar, iar între zi și noapte temperatura poate varia cu zeci de grade."
+    },
+    {
+     "titlu": "Vegetația și fauna",
+     "text": "Pădurea ecuatorială (Bazinul Congo): gorile, cimpanzei, okapi. Savana: lei, elefanți, girafe, zebre, antilope, rinoceri – cea mai bogată faună de mamifere mari. Deșertul: dromaderi, fenecul (vulpea deșertului), scorpioni. Madagascar: lemurieni, care trăiesc doar acolo."
+    }
+   ],
+   "stiaiCa": "Cascada Victoria, de pe Zambezi, e numită de localnici „Mosi-oa-Tunya”, adică „fumul care tună”, după norul de stropi care se vede de la zeci de kilometri.",
+   "referintaProfesor": "Manual Art Klett, clasa a VII-a, ediția 2024 (manuale.edu.ro), lecția „Hidrografia, clima și biogeografia – caracteristici generale”"
+  },
+  {
+   "id": "VII-S17-specificul-demografic",
+   "tip": "nivel",
+   "titlu": "Africa – specificul demografic",
+   "descopera": {
+    "intrebare": "De ce Africa are cea mai tânără populație din lume?"
+   },
+   "invata": [
+    {
+     "titlu": "Numărul și creșterea",
+     "text": "În Africa trăiesc aproximativ 1,5 miliarde de oameni, după ONU. E continentul cu cea mai rapidă creștere a populației: natalitatea e foarte mare, iar mortalitatea a scăzut datorită medicinei.\nNigeria e cea mai populată țară a Africii."
+    },
+    {
+     "titlu": "O populație tânără",
+     "text": "Aproape jumătate dintre africani au sub 20 de ani. Piramida vârstelor are baza foarte largă (mulți copii) și vârful îngust.\nSperanța de viață e mai mică decât în Europa, din cauza bolilor (malarie), a sărăciei și a lipsei serviciilor medicale în unele regiuni, dar crește."
+    },
+    {
+     "titlu": "Răspândire și diversitate",
+     "text": "Populația e densă pe Valea Nilului, în jurul Lacului Victoria, pe țărmul Golfului Guineei și în nordul și sudul continentului. Sahara și deșerturile din sud sunt aproape nelocuite.\nÎn Africa trăiesc mii de popoare și se vorbesc peste 2 000 de limbi: araba (în nord), swahili (în est), hausa, yoruba, zulu și altele; se folosesc și engleza, franceza, portugheza."
+    }
+   ],
+   "stiaiCa": "Swahili e vorbită de zeci de milioane de oameni în estul Africii; cuvântul „safari” vine din swahili și înseamnă „călătorie”.",
+   "referintaProfesor": "Manual Art Klett, clasa a VII-a, ediția 2024 (manuale.edu.ro), lecția „Specificul demografic”"
+  },
+  {
+   "id": "VII-S19-harta-politica-marile-orase",
+   "tip": "nivel",
+   "titlu": "Africa – harta politică și marile orașe",
+   "descopera": {
+    "intrebare": "De ce multe granițe din Africa sunt linii drepte?"
+   },
+   "invata": [
+    {
+     "titlu": "Statele Africii",
+     "text": "Africa are 54 de state independente – cele mai multe dintre continente. Cel mai mare ca suprafață e Algeria; cel mai mic, pe continent, e Gambia; Seychelles e cel mai mic stat insular.\nCele mai multe state au devenit independente în anii 1950–1970, după perioada colonială."
+    },
+    {
+     "titlu": "Granițele",
+     "text": "În secolul XIX, puterile europene (Marea Britanie, Franța, Portugalia, Belgia, Germania, Italia) au împărțit Africa în colonii. Multe granițe au fost trasate pe hartă cu rigla, fără să țină seama de popoare sau de relief. De aceea apar granițe drepte, iar unele popoare au fost despărțite."
+    },
+    {
+     "titlu": "Marile orașe",
+     "text": "Cele mai mari orașe: Lagos (Nigeria), Cairo (Egipt), Kinshasa (R.D. Congo), Johannesburg (Africa de Sud), Luanda, Dar es Salaam, Nairobi, Addis Abeba (sediul Uniunii Africane), Casablanca.\nOrașele cresc foarte repede, iar multe au cartiere sărace la margine."
+    }
+   ],
+   "stiaiCa": "Kinshasa și Brazzaville, capitalele a două state diferite, sunt așezate față în față, pe malurile fluviului Congo – cele mai apropiate capitale din lume după Roma și Vatican.",
+   "referintaProfesor": "Manual Art Klett, clasa a VII-a, ediția 2024 (manuale.edu.ro), lecția „Harta politică și marile orașe”"
+  },
+  {
+   "id": "VII-S20-studii-caz-problemele-africii",
+   "tip": "nivel",
+   "titlu": "Problemele Africii în lumea contemporană. Studiu de caz: Sahara",
+   "descopera": {
+    "intrebare": "Se poate opri înaintarea deșertului?"
+   },
+   "invata": [
+    {
+     "titlu": "Probleme și progrese",
+     "text": "Africa are resurse bogate (petrol, gaze, aur, diamante, cupru, cobalt, cacao, cafea), dar multe țări au încă venituri mici. Probleme: sărăcia, lipsa apei potabile în unele zone, bolile, conflictele, deșertificarea, braconajul.\nÎn același timp, Africa are economii care cresc repede, o populație tânără, telefonie mobilă și plăți digitale foarte răspândite, energie solară în dezvoltare."
+    },
+    {
+     "titlu": "Sahara",
+     "text": "Sahara e cel mai mare deșert fierbinte de pe Pământ, cu aproximativ 9 milioane km² – aproape cât Statele Unite. Doar o mică parte e acoperită de dune (ergurile); cea mai mare parte e deșert de piatră (hamada) și de pietriș (reg).\nViața se concentrează în oaze, unde apa subterană ajunge la suprafață: aici se cultivă curmali. Sub Sahara există mari rezerve de apă subterană fosilă."
+    },
+    {
+     "titlu": "Deșertificarea și Sahelul",
+     "text": "Sahelul e fâșia semiaridă de la sudul Saharei. Aici, secetele, pășunatul excesiv și tăierea arbuștilor duc la deșertificare – transformarea treptată a terenurilor în deșert.\nProiectul „Marele Zid Verde” urmărește plantarea unei fâșii de vegetație de-a lungul Sahelului, de la Senegal la Djibouti."
+    }
+   ],
+   "stiaiCa": "Acum câteva mii de ani, Sahara era mult mai verde: picturile pe stâncă din munții Tassili n'Ajjer arată girafe, elefanți și oameni care păzeau turme.",
+   "referintaProfesor": "Manual Art Klett, clasa a VII-a, ediția 2024 (manuale.edu.ro), lecția „Studii de caz: Problemele Africii în lumea contemporană, Sahara”"
+  },
+  {
+   "id": "VII-S22-aplicatii-practice-studii-caz",
+   "tip": "expeditie",
+   "titlu": "Expediție: safari geografic",
+   "descopera": {
+    "intrebare": "Ce stat african ai vrea să cunoști și ce l-ar face unic?"
+   },
+   "invata": [
+    {
+     "titlu": "Ce faci în expediție",
+     "text": "Urmezi pașii, rezolvi sarcinile și notezi în Jurnalul exploratorului ce ai descoperit."
+    }
+   ],
+   "referintaProfesor": "Manual Art Klett, clasa a VII-a, ediția 2024 (manuale.edu.ro), lecția „Aplicații practice/studii de caz: Caracterizarea geografică a unor state”",
+   "pasi": [
+    {
+     "titlu": "1. Alege statul",
+     "text": "Alege un stat african: Egipt, Kenya, Africa de Sud, Maroc, Nigeria, Madagascar sau altul.",
+     "itemi": [
+      "VII22-01"
+     ]
+    },
+    {
+     "titlu": "2. Natură și oameni",
+     "text": "Caracterizează statul după algoritm, cu atlasul și o sursă sigură. Notează sursa fiecărei cifre.",
+     "itemi": [
+      "VII22-02"
+     ],
+     "jurnal": {
+      "cerinta": "Completează tabelul: capitală, relief, climă, râu, animal tipic, populație, o resursă."
+     }
+    },
+    {
+     "titlu": "3. Problema și soluția",
+     "text": "Alege o problemă de mediu sau socială a statului și propune o soluție.",
+     "itemi": [
+      "VII22-03"
+     ],
+     "jurnal": {
+      "cerinta": "Scrie problema și soluția în 4–5 rânduri."
+     }
+    },
+    {
+     "titlu": "4. Afișul",
+     "text": "Realizează un afiș sau o prezentare cu harta statului și 5 informații cheie.",
+     "jurnal": {
+      "cerinta": "Fotografiază afișul.",
+      "foto": true
+     }
+    }
+   ]
+  }
+ ],
+ "itemi": [
+  {
+   "id": "VII13a-01",
+   "nivel": "VII-S13-caracterizare-geografica-pozitia-geografica",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 1,
+   "enunt": "Ce loc ocupă Africa între continente, ca suprafață?",
+   "date": {
+    "variante": [
+     "al doilea, după Asia",
+     "primul",
+     "ultimul",
+     "al cincilea"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Africa are aproximativ 30 de milioane km²."
+   },
+   "surse": [
+    "Encyclopaedia Britannica – Africa",
+    "Wikipedia – Africa"
+   ]
+  },
+  {
+   "id": "VII13a-02",
+   "nivel": "VII-S13-caracterizare-geografica-pozitia-geografica",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce linii imaginare importante trec prin Africa?",
+   "date": {
+    "variante": [
+     "Ecuatorul, ambele tropice și meridianul de origine",
+     "doar Cercul Polar",
+     "niciuna",
+     "doar meridianul de 180°"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Africa e unică din acest punct de vedere."
+   }
+  },
+  {
+   "id": "VII13a-03",
+   "nivel": "VII-S13-caracterizare-geografica-pozitia-geografica",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "etichete",
+   "dificultate": 2,
+   "enunt": "Pune pe hartă apele care scaldă Africa.",
+   "date": {
+    "tinte": [
+     {
+      "id": "atl",
+      "eticheta": "Oceanul Atlantic",
+      "lat": 0,
+      "lon": -15
+     },
+     {
+      "id": "ind",
+      "eticheta": "Oceanul Indian",
+      "lat": -10,
+      "lon": 60
+     },
+     {
+      "id": "med",
+      "eticheta": "Marea Mediterană",
+      "lat": 35,
+      "lon": 18
+     },
+     {
+      "id": "ros",
+      "eticheta": "Marea Roșie",
+      "lat": 20,
+      "lon": 38.5
+     }
+    ],
+    "harta": "lume"
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Atlantic la vest, Indian la est, Mediterana la nord, Marea Roșie la nord-est."
+   }
+  },
+  {
+   "id": "VII13a-04",
+   "nivel": "VII-S13-caracterizare-geografica-pozitia-geografica",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce strâmtoare desparte Africa de Europa?",
+   "date": {
+    "variante": [
+     "Strâmtoarea Gibraltar",
+     "Bosforul",
+     "Strâmtoarea Bering",
+     "Strâmtoarea Malacca"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Gibraltar e între Maroc și Spania."
+   }
+  },
+  {
+   "id": "VII13a-05",
+   "nivel": "VII-S13-caracterizare-geografica-pozitia-geografica",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce canal leagă Marea Mediterană de Marea Roșie?",
+   "date": {
+    "variante": [
+     "Canalul Suez",
+     "Canalul Panama",
+     "Canalul Mânecii",
+     "Canalul Kiel"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Canalul Suez e în Egipt."
+   }
+  },
+  {
+   "id": "VII13a-06",
+   "nivel": "VII-S13-caracterizare-geografica-pozitia-geografica",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Care e cea mai mare insulă a Africii?",
+   "date": {
+    "variante": [
+     "Madagascar",
+     "Sicilia",
+     "Sri Lanka",
+     "Zanzibar"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Madagascar e în Oceanul Indian."
+   }
+  },
+  {
+   "id": "VII13a-07",
+   "nivel": "VII-S13-caracterizare-geografica-pozitia-geografica",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce peninsulă e numită „Cornul Africii”?",
+   "date": {
+    "variante": [
+     "Peninsula Somalia",
+     "Peninsula Arabia",
+     "Peninsula Sinai",
+     "Capul Bunei Speranțe"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "E în estul Africii."
+   }
+  },
+  {
+   "id": "VII13a-08",
+   "nivel": "VII-S13-caracterizare-geografica-pozitia-geografica",
+   "competente": [
+    "VII-1.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce înseamnă simetria latitudinală a Africii?",
+   "date": {
+    "variante": [
+     "zonele de climă și vegetație se repetă la nord și la sud de Ecuator, ca în oglindă",
+     "Africa are formă de cerc",
+     "toată Africa are aceeași climă",
+     "Africa e la fel ca Europa"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Ecuatorul împarte Africa aproape în două."
+   }
+  },
+  {
+   "id": "VII13a-09",
+   "nivel": "VII-S13-caracterizare-geografica-pozitia-geografica",
+   "competente": [
+    "VII-2.2",
+    "VII-3.1",
+    "VII-4.2"
+   ],
+   "tip": "ordoneaza",
+   "dificultate": 3,
+   "enunt": "Ordonează zonele naturale de la Ecuator spre nordul Africii.",
+   "date": {
+    "elemente": [
+     "pădurea ecuatorială",
+     "savana",
+     "semideșertul (Sahel)",
+     "deșertul Sahara",
+     "zona mediteraneeană"
+    ],
+    "criteriu": "De la Ecuator spre nord"
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Aceeași succesiune apare și spre sud."
+   }
+  },
+  {
+   "id": "VII13a-10",
+   "nivel": "VII-S13-caracterizare-geografica-pozitia-geografica",
+   "competente": [
+    "VII-2.2",
+    "VII-3.1",
+    "VII-4.2"
+   ],
+   "tip": "ordoneaza",
+   "dificultate": 3,
+   "enunt": "Ordonează zonele naturale de la Ecuator spre sudul Africii.",
+   "date": {
+    "elemente": [
+     "pădurea ecuatorială",
+     "savana",
+     "deșertul Kalahari",
+     "zona mediteraneeană (Capul Bunei Speranțe)"
+    ],
+    "criteriu": "De la Ecuator spre sud"
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Simetria latitudinală."
+   }
+  },
+  {
+   "id": "VII13a-11",
+   "nivel": "VII-S13-caracterizare-geografica-pozitia-geografica",
+   "competente": [
+    "VII-2.2"
+   ],
+   "tip": "asociaza",
+   "dificultate": 2,
+   "enunt": "Asociază deșertul cu emisfera.",
+   "date": {
+    "perechi": [
+     [
+      "Sahara",
+      "nordică"
+     ],
+     [
+      "Kalahari",
+      "sudică"
+     ],
+     [
+      "Namib",
+      "sudică, pe țărmul Atlanticului"
+     ],
+     [
+      "Deșertul Libian",
+      "nordică, parte a Saharei"
+     ]
+    ]
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Deșerturi de o parte și de alta a Ecuatorului."
+   }
+  },
+  {
+   "id": "VII13a-12",
+   "nivel": "VII-S13-caracterizare-geografica-pozitia-geografica",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "pin",
+   "dificultate": 2,
+   "enunt": "Atinge pe hartă Madagascar.",
+   "date": {
+    "harta": "lume",
+    "tinta": {
+     "lat": -19,
+     "lon": 46.7,
+     "nume": "Madagascar"
+    },
+    "toleranta": 500
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Madagascar e la est de Africa."
+   }
+  },
+  {
+   "id": "VII13a-13",
+   "nivel": "VII-S13-caracterizare-geografica-pozitia-geografica",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "pin",
+   "dificultate": 2,
+   "enunt": "Atinge pe hartă Peninsula Somalia.",
+   "date": {
+    "harta": "lume",
+    "tinta": {
+     "lat": 8,
+     "lon": 48,
+     "nume": "Somalia"
+    },
+    "toleranta": 500
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "„Cornul Africii” e în est."
+   }
+  },
+  {
+   "id": "VII13a-14",
+   "nivel": "VII-S13-caracterizare-geografica-pozitia-geografica",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "pin",
+   "dificultate": 2,
+   "enunt": "Atinge pe hartă Golful Guineei.",
+   "date": {
+    "harta": "lume",
+    "tinta": {
+     "lat": 2,
+     "lon": 3,
+     "nume": "Golful Guineei"
+    },
+    "toleranta": 700
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Golful Guineei e în vestul Africii."
+   }
+  },
+  {
+   "id": "VII13a-15",
+   "nivel": "VII-S13-caracterizare-geografica-pozitia-geografica",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "pin",
+   "dificultate": 3,
+   "enunt": "Atinge pe hartă Capul Bunei Speranțe.",
+   "date": {
+    "harta": "lume",
+    "tinta": {
+     "lat": -34.36,
+     "lon": 18.47,
+     "nume": "Capul Bunei Speranțe"
+    },
+    "toleranta": 400
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "La sudul Africii."
+   }
+  },
+  {
+   "id": "VII13a-16",
+   "nivel": "VII-S13-caracterizare-geografica-pozitia-geografica",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "pin",
+   "dificultate": 3,
+   "enunt": "Atinge pe hartă Canalul Suez.",
+   "date": {
+    "harta": "lume",
+    "tinta": {
+     "lat": 30.5,
+     "lon": 32.35,
+     "nume": "Canalul Suez"
+    },
+    "toleranta": 300
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Canalul e în nord-estul Egiptului."
+   }
+  },
+  {
+   "id": "VII13a-17",
+   "nivel": "VII-S13-caracterizare-geografica-pozitia-geografica",
+   "competente": [
+    "VII-1.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Adevărat sau fals? Țărmurile Africii sunt foarte crestate, ca ale Europei.",
+   "date": {
+    "variante": [
+     "Fals",
+     "Adevărat"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Fals: țărmurile Africii sunt puțin crestate."
+   }
+  },
+  {
+   "id": "VII13a-18",
+   "nivel": "VII-S13-caracterizare-geografica-pozitia-geografica",
+   "competente": [
+    "VII-2.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Adevărat sau fals? Sahara și Kalahari sunt în emisfere diferite.",
+   "date": {
+    "variante": [
+     "Adevărat",
+     "Fals"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Adevărat: Sahara în nord, Kalahari în sud."
+   }
+  },
+  {
+   "id": "VII13a-19",
+   "nivel": "VII-S13-caracterizare-geografica-pozitia-geografica",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "lacunar",
+   "dificultate": 2,
+   "enunt": "Completează.",
+   "date": {
+    "text": "Cea mai mare insulă a Africii este {0}; Africa e despărțită de Europa prin Strâmtoarea {1}.",
+    "raspunsuri": [
+     "Madagascar",
+     "Gibraltar"
+    ],
+    "distractori": [
+     "Sicilia",
+     "Bering"
+    ]
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Madagascar, Gibraltar."
+   }
+  },
+  {
+   "id": "VII13a-20",
+   "nivel": "VII-S13-caracterizare-geografica-pozitia-geografica",
+   "competente": [
+    "VII-2.2"
+   ],
+   "tip": "lacunar",
+   "dificultate": 2,
+   "enunt": "Completează.",
+   "date": {
+    "text": "La nord de Ecuator e deșertul {0}, iar la sud de Ecuator deșertul {1}.",
+    "raspunsuri": [
+     "Sahara",
+     "Kalahari"
+    ],
+    "distractori": [
+     "Gobi",
+     "Atacama"
+    ]
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Simetrie."
+   }
+  },
+  {
+   "id": "VII13a-21",
+   "nivel": "VII-S13-caracterizare-geografica-pozitia-geografica",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "denumeste",
+   "dificultate": 2,
+   "enunt": "Ce țară, cu Canalul Suez, e marcată pe hartă?",
+   "date": {
+    "harta": "lume",
+    "punct": {
+     "lat": 26.5,
+     "lon": 30
+    },
+    "variante": [
+     "Egipt",
+     "Libia",
+     "Sudan",
+     "Algeria"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Egiptul e în nord-estul Africii."
+   }
+  },
+  {
+   "id": "VII13a-22",
+   "nivel": "VII-S13-caracterizare-geografica-pozitia-geografica",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "denumeste",
+   "dificultate": 3,
+   "enunt": "Ce peninsulă, între Africa și Asia, e marcată pe hartă?",
+   "date": {
+    "harta": "lume",
+    "punct": {
+     "lat": 29.5,
+     "lon": 33.8
+    },
+    "variante": [
+     "Peninsula Sinai",
+     "Peninsula Somalia",
+     "Peninsula Arabia",
+     "Cap Bon"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Sinai aparține Egiptului, dar e în Asia."
+   }
+  },
+  {
+   "id": "VII13a-23",
+   "nivel": "VII-S13-caracterizare-geografica-pozitia-geografica",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "În ce emisfere se află Africa?",
+   "date": {
+    "variante": [
+     "în ambele emisfere: nordică și sudică, estică și vestică",
+     "doar în emisfera sudică",
+     "doar în emisfera vestică",
+     "doar în emisfera nordică"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Ecuatorul și meridianul de 0° trec prin Africa."
+   }
+  },
+  {
+   "id": "VII13a-24",
+   "nivel": "VII-S13-caracterizare-geografica-pozitia-geografica",
+   "competente": [
+    "VII-2.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 3,
+   "enunt": "De ce Africa e numită continentul cel mai cald?",
+   "date": {
+    "variante": [
+     "pentru că aproape toată se află între tropice",
+     "pentru că are vulcani",
+     "pentru că e cea mai mare",
+     "pentru că e lângă pol"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Razele Soarelui cad aproape perpendicular tot anul."
+   }
+  },
+  {
+   "id": "VII13a-25",
+   "nivel": "VII-S13-caracterizare-geografica-pozitia-geografica",
+   "competente": [
+    "VII-2.3",
+    "VII-4.1"
+   ],
+   "tip": "grafic",
+   "dificultate": 3,
+   "enunt": "Graficul arată suprafața a trei continente (milioane km²). Cu cât e mai mare Africa decât Europa?",
+   "date": {
+    "grafic": {
+     "tip": "bare",
+     "titlu": "Suprafața (milioane km², rotunjit)",
+     "date": [
+      {
+       "eticheta": "Asia",
+       "valoare": 44
+      },
+      {
+       "eticheta": "Africa",
+       "valoare": 30
+      },
+      {
+       "eticheta": "Europa",
+       "valoare": 10
+      }
+     ],
+     "unitate": "milioane km²",
+     "sursa": "Encyclopaedia Britannica"
+    },
+    "variante": [
+     "de 3 ori",
+     "de 10 ori",
+     "la fel",
+     "de 2 ori mai mică"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "30 : 10 = 3."
+   },
+   "surse": [
+    "Encyclopaedia Britannica – Africa",
+    "Wikipedia – Africa"
+   ]
+  },
+  {
+   "id": "VII13a-26",
+   "nivel": "VII-S13-caracterizare-geografica-pozitia-geografica",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce golf se află între Peninsula Arabia și Peninsula Somalia?",
+   "date": {
+    "variante": [
+     "Golful Aden",
+     "Golful Guineei",
+     "Golful Persic",
+     "Golful Biscaya"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Golful Aden leagă Marea Roșie de Oceanul Indian."
+   }
+  },
+  {
+   "id": "VII13a-27",
+   "nivel": "VII-S13-caracterizare-geografica-pozitia-geografica",
+   "competente": [
+    "VII-1.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce înseamnă că Africa are „țărmuri puțin crestate”?",
+   "date": {
+    "variante": [
+     "are puține golfuri și peninsule, deci puține porturi naturale adăpostite",
+     "are multe fiorduri",
+     "nu are țărm",
+     "are cele mai multe insule"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Asta a îngreunat accesul în interior."
+   }
+  },
+  {
+   "id": "VII13a-28",
+   "nivel": "VII-S13-caracterizare-geografica-pozitia-geografica",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce ocean scaldă Africa la est?",
+   "date": {
+    "variante": [
+     "Oceanul Indian",
+     "Oceanul Atlantic",
+     "Oceanul Pacific",
+     "Oceanul Arctic"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "La vest e Atlanticul."
+   }
+  },
+  {
+   "id": "VII13a-29",
+   "nivel": "VII-S13-caracterizare-geografica-pozitia-geografica",
+   "competente": [
+    "VII-4.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 3,
+   "enunt": "Compară poziția Africii cu a Europei față de Ecuator.",
+   "date": {
+    "variante": [
+     "Africa e străbătută de Ecuator; Europa e toată în emisfera nordică, departe de el",
+     "ambele sunt pe Ecuator",
+     "Europa e la sud de Africa",
+     "Africa e lângă Polul Nord"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Poziția explică diferențele de climă."
+   }
+  },
+  {
+   "id": "VII13a-30",
+   "nivel": "VII-S13-caracterizare-geografica-pozitia-geografica",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce insule africane se află în Atlantic, aproape de Maroc?",
+   "date": {
+    "variante": [
+     "Insulele Canare",
+     "Madagascar",
+     "Zanzibar",
+     "Seychelles"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Canarele aparțin Spaniei."
+   }
+  },
+  {
+   "id": "VII13a-31",
+   "nivel": "VII-S13-caracterizare-geografica-pozitia-geografica",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce oraș de pe Gibraltar, de partea africană, e aproape de Europa?",
+   "date": {
+    "variante": [
+     "Tanger (Maroc)",
+     "Cairo",
+     "Lagos",
+     "Nairobi"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Tangerul e la ieșirea din Mediterana."
+   }
+  },
+  {
+   "id": "VII13b-01",
+   "nivel": "VII-S13-relieful-africii-caracteristici-generale",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 1,
+   "enunt": "Care e cel mai înalt vârf din Africa?",
+   "date": {
+    "variante": [
+     "Kilimanjaro (5 895 m)",
+     "Everest",
+     "Mont Blanc",
+     "Atlas"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Kilimanjaro e un vulcan, în Tanzania."
+   },
+   "surse": [
+    "Tanzania National Parks – Kilimanjaro National Park",
+    "Encyclopaedia Britannica – Kilimanjaro"
+   ]
+  },
+  {
+   "id": "VII13b-02",
+   "nivel": "VII-S13-relieful-africii-caracteristici-generale",
+   "competente": [
+    "VII-1.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "De ce Africa e numită „continentul podișurilor”?",
+   "date": {
+    "variante": [
+     "pentru că relieful e dominat de podișuri vechi și înalte",
+     "pentru că are cei mai mulți munți",
+     "pentru că e plată ca o câmpie",
+     "pentru că are multe fiorduri"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Câmpiile sunt puține."
+   }
+  },
+  {
+   "id": "VII13b-03",
+   "nivel": "VII-S13-relieful-africii-caracteristici-generale",
+   "competente": [
+    "VII-1.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce este Marele Rift african?",
+   "date": {
+    "variante": [
+     "un șir de fracturi uriașe ale scoarței, în estul Africii, unde continentul se rupe încet",
+     "un râu",
+     "un deșert",
+     "un munte de nisip"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Riftul are văi adânci, lacuri și vulcani."
+   }
+  },
+  {
+   "id": "VII13b-04",
+   "nivel": "VII-S13-relieful-africii-caracteristici-generale",
+   "competente": [
+    "VII-2.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce forme de relief apar de-a lungul riftului?",
+   "date": {
+    "variante": [
+     "văi adânci, lacuri lungi și înguste, vulcani",
+     "dune de nisip",
+     "fiorduri",
+     "delte"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Tanganyika și Malawi sunt lacuri de rift."
+   }
+  },
+  {
+   "id": "VII13b-05",
+   "nivel": "VII-S13-relieful-africii-caracteristici-generale",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Care e cel mai jos punct al Africii?",
+   "date": {
+    "variante": [
+     "Lacul Assal, la aproximativ 155 m sub nivelul mării",
+     "Delta Nilului",
+     "Lacul Victoria",
+     "Sahara"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Lacul Assal e în Djibouti."
+   },
+   "surse": [
+    "Encyclopaedia Britannica – Lake Assal (Djibouti)",
+    "Wikipedia – Lake Assal"
+   ]
+  },
+  {
+   "id": "VII13b-06",
+   "nivel": "VII-S13-relieful-africii-caracteristici-generale",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "asociaza",
+   "dificultate": 2,
+   "enunt": "Asociază forma de relief cu regiunea.",
+   "date": {
+    "perechi": [
+     [
+      "Munții Atlas",
+      "nord-vest (Maroc, Algeria)"
+     ],
+     [
+      "Kilimanjaro",
+      "est (Tanzania)"
+     ],
+     [
+      "Munții Drakensberg",
+      "sud-est (Africa de Sud)"
+     ],
+     [
+      "Riftul",
+      "est"
+     ]
+    ]
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Relieful Africii."
+   }
+  },
+  {
+   "id": "VII13b-07",
+   "nivel": "VII-S13-relieful-africii-caracteristici-generale",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "pin",
+   "dificultate": 2,
+   "enunt": "Atinge pe hartă Kilimanjaro.",
+   "date": {
+    "harta": "lume",
+    "tinta": {
+     "lat": -3.07,
+     "lon": 37.35,
+     "nume": "Kilimanjaro"
+    },
+    "toleranta": 400
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Kilimanjaro e în nord-estul Tanzaniei."
+   },
+   "surse": [
+    "Tanzania National Parks – Kilimanjaro National Park",
+    "Encyclopaedia Britannica – Kilimanjaro"
+   ]
+  },
+  {
+   "id": "VII13b-08",
+   "nivel": "VII-S13-relieful-africii-caracteristici-generale",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "pin",
+   "dificultate": 2,
+   "enunt": "Atinge pe hartă Munții Atlas.",
+   "date": {
+    "harta": "lume",
+    "tinta": {
+     "lat": 31.5,
+     "lon": -6,
+     "nume": "Munții Atlas"
+    },
+    "toleranta": 500
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Atlasul e în Maroc și Algeria."
+   }
+  },
+  {
+   "id": "VII13b-09",
+   "nivel": "VII-S13-relieful-africii-caracteristici-generale",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "pin",
+   "dificultate": 3,
+   "enunt": "Atinge pe hartă Lacul Tanganyika, un lac de rift.",
+   "date": {
+    "harta": "lume",
+    "tinta": {
+     "lat": -6.5,
+     "lon": 29.8,
+     "nume": "Lacul Tanganyika"
+    },
+    "toleranta": 400
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Tanganyika e între Tanzania și R.D. Congo."
+   },
+   "surse": [
+    "Encyclopaedia Britannica – Lake Tanganyika",
+    "Wikipedia – Lake Tanganyika"
+   ]
+  },
+  {
+   "id": "VII13b-10",
+   "nivel": "VII-S13-relieful-africii-caracteristici-generale",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "pin",
+   "dificultate": 3,
+   "enunt": "Atinge pe hartă Munții Drakensberg.",
+   "date": {
+    "harta": "lume",
+    "tinta": {
+     "lat": -29.5,
+     "lon": 29.3,
+     "nume": "Drakensberg"
+    },
+    "toleranta": 500
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Drakensberg e în sud-estul Africii de Sud."
+   }
+  },
+  {
+   "id": "VII13b-11",
+   "nivel": "VII-S13-relieful-africii-caracteristici-generale",
+   "competente": [
+    "VII-2.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce se poate întâmpla, peste milioane de ani, din cauza riftului?",
+   "date": {
+    "variante": [
+     "estul Africii s-ar putea desprinde de restul continentului",
+     "Africa se va uni cu America",
+     "Sahara va deveni ocean imediat",
+     "nimic"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Riftul e o graniță între plăci care se depărtează."
+   }
+  },
+  {
+   "id": "VII13b-12",
+   "nivel": "VII-S13-relieful-africii-caracteristici-generale",
+   "competente": [
+    "VII-2.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce fenomene naturale sunt frecvente în zona riftului?",
+   "date": {
+    "variante": [
+     "cutremure și erupții vulcanice",
+     "avalanșe de zăpadă",
+     "taifunuri",
+     "tsunami-uri în deșert"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Scoarța e activă."
+   }
+  },
+  {
+   "id": "VII13b-13",
+   "nivel": "VII-S13-relieful-africii-caracteristici-generale",
+   "competente": [
+    "VII-2.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "De ce Kilimanjaro are zăpadă, deși e lângă Ecuator?",
+   "date": {
+    "variante": [
+     "pentru că altitudinea foarte mare face temperatura scăzută",
+     "pentru că e la pol",
+     "pentru că ninge în toată Africa",
+     "pentru că zăpada e artificială"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Temperatura scade cu altitudinea."
+   }
+  },
+  {
+   "id": "VII13b-14",
+   "nivel": "VII-S13-relieful-africii-caracteristici-generale",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce munți tineri se află în nord-vestul Africii?",
+   "date": {
+    "variante": [
+     "Munții Atlas",
+     "Munții Drakensberg",
+     "Munții Kenya",
+     "Munții Etiopiei"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Atlasul s-a format odată cu Alpii."
+   }
+  },
+  {
+   "id": "VII13b-15",
+   "nivel": "VII-S13-relieful-africii-caracteristici-generale",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce podiș înalt se află în estul Africii, cu munți vulcanici?",
+   "date": {
+    "variante": [
+     "Podișul Etiopiei",
+     "Podișul Tibet",
+     "Podișul Deccan",
+     "Podișul Mexicului"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Etiopia e numită „acoperișul Africii”."
+   }
+  },
+  {
+   "id": "VII13b-16",
+   "nivel": "VII-S13-relieful-africii-caracteristici-generale",
+   "competente": [
+    "VII-2.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Adevărat sau fals? Africa are câmpii foarte întinse, ca Asia și Europa.",
+   "date": {
+    "variante": [
+     "Fals",
+     "Adevărat"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Fals: câmpiile sunt puține și înguste, pe țărmuri."
+   }
+  },
+  {
+   "id": "VII13b-17",
+   "nivel": "VII-S13-relieful-africii-caracteristici-generale",
+   "competente": [
+    "VII-2.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Adevărat sau fals? Kilimanjaro este un vulcan.",
+   "date": {
+    "variante": [
+     "Adevărat",
+     "Fals"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Adevărat: e un vulcan inactiv."
+   }
+  },
+  {
+   "id": "VII13b-18",
+   "nivel": "VII-S13-relieful-africii-caracteristici-generale",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "lacunar",
+   "dificultate": 2,
+   "enunt": "Completează.",
+   "date": {
+    "text": "Cel mai înalt vârf al Africii este {0}; în estul Africii scoarța se rupe de-a lungul Marelui {1}.",
+    "raspunsuri": [
+     "Kilimanjaro",
+     "Rift"
+    ],
+    "distractori": [
+     "Atlas",
+     "Canion"
+    ]
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Kilimanjaro, Rift."
+   }
+  },
+  {
+   "id": "VII13b-19",
+   "nivel": "VII-S13-relieful-africii-caracteristici-generale",
+   "competente": [
+    "VII-2.2"
+   ],
+   "tip": "lacunar",
+   "dificultate": 2,
+   "enunt": "Completează.",
+   "date": {
+    "text": "Africa e numită continentul {0}; cel mai jos punct e Lacul {1}.",
+    "raspunsuri": [
+     "podișurilor",
+     "Assal"
+    ],
+    "distractori": [
+     "fiordurilor",
+     "Victoria"
+    ]
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Podișuri, Assal."
+   }
+  },
+  {
+   "id": "VII13b-20",
+   "nivel": "VII-S13-relieful-africii-caracteristici-generale",
+   "competente": [
+    "VII-2.3",
+    "VII-4.1"
+   ],
+   "tip": "grafic",
+   "dificultate": 3,
+   "enunt": "Profilul schematic arată altitudinea de la vest la est prin Africa de Est. Unde e altitudinea cea mai mare?",
+   "date": {
+    "grafic": {
+     "tip": "profil",
+     "titlu": "Profil schematic prin Africa de Est (valori aproximative)",
+     "date": [
+      {
+       "eticheta": "Bazinul Congo",
+       "valoare": 400
+      },
+      {
+       "eticheta": "lacul de rift",
+       "valoare": 800
+      },
+      {
+       "eticheta": "podișul înalt",
+       "valoare": 1500
+      },
+      {
+       "eticheta": "Kilimanjaro",
+       "valoare": 5895
+      },
+      {
+       "eticheta": "țărmul Oceanului Indian",
+       "valoare": 0
+      }
+     ],
+     "unitate": "m"
+    },
+    "variante": [
+     "la Kilimanjaro",
+     "în Bazinul Congo",
+     "pe țărm",
+     "la lacul de rift"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Kilimanjaro e cel mai înalt punct."
+   },
+   "surse": [
+    "Tanzania National Parks – Kilimanjaro National Park",
+    "Encyclopaedia Britannica – Kilimanjaro"
+   ]
+  },
+  {
+   "id": "VII13b-21",
+   "nivel": "VII-S13-relieful-africii-caracteristici-generale",
+   "competente": [
+    "VII-4.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 3,
+   "enunt": "Compară Kilimanjaro cu Everest.",
+   "date": {
+    "variante": [
+     "Everest e mai înalt (8 848,86 m) și e în munți de încrețire; Kilimanjaro (5 895 m) e un vulcan izolat",
+     "Kilimanjaro e mai înalt",
+     "sunt identici",
+     "Everest e un vulcan"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Origini diferite."
+   }
+  },
+  {
+   "id": "VII13b-22",
+   "nivel": "VII-S13-relieful-africii-caracteristici-generale",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "denumeste",
+   "dificultate": 2,
+   "enunt": "Ce lac de rift lung și îngust e marcat pe hartă?",
+   "date": {
+    "harta": "lume",
+    "punct": {
+     "lat": -12,
+     "lon": 34.5
+    },
+    "variante": [
+     "Lacul Malawi",
+     "Lacul Victoria",
+     "Lacul Ciad",
+     "Lacul Assal"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Lacul Malawi e în sudul riftului."
+   }
+  },
+  {
+   "id": "VII13b-23",
+   "nivel": "VII-S13-relieful-africii-caracteristici-generale",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce deșert e cel mai mare de pe uscat, fără regiunile polare?",
+   "date": {
+    "variante": [
+     "Sahara",
+     "Kalahari",
+     "Namib",
+     "Gobi"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Sahara are aproximativ 9 milioane km²."
+   },
+   "surse": [
+    "Encyclopaedia Britannica – Sahara",
+    "NASA Earth Observatory – Sahara Desert"
+   ]
+  },
+  {
+   "id": "VII13b-24",
+   "nivel": "VII-S13-relieful-africii-caracteristici-generale",
+   "competente": [
+    "VII-2.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce formă de relief e Bazinul Congo?",
+   "date": {
+    "variante": [
+     "o depresiune largă, înconjurată de podișuri",
+     "un munte vulcanic",
+     "un fiord",
+     "un rift"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Bazinul Congo e străbătut de Ecuator."
+   }
+  },
+  {
+   "id": "VII13b-25",
+   "nivel": "VII-S13-relieful-africii-caracteristici-generale",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce munți vulcanici, al doilea vârf al Africii, se află în Kenya?",
+   "date": {
+    "variante": [
+     "Muntele Kenya",
+     "Atlas",
+     "Drakensberg",
+     "Ruwenzori"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Țara poartă numele muntelui."
+   }
+  },
+  {
+   "id": "VII13b-26",
+   "nivel": "VII-S13-relieful-africii-caracteristici-generale",
+   "competente": [
+    "VII-1.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 3,
+   "enunt": "Cum se explică forma lungă și îngustă a lacurilor Tanganyika și Malawi?",
+   "date": {
+    "variante": [
+     "s-au format în văile riftului, care sunt lungi și înguste",
+     "au fost săpate de oameni",
+     "sunt cratere de vulcan",
+     "sunt lacuri glaciare"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Lacurile de rift sunt tectonice."
+   }
+  },
+  {
+   "id": "VII13b-27",
+   "nivel": "VII-S13-relieful-africii-caracteristici-generale",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce munți, cu ghețari, se află la granița Ugandei cu R.D. Congo?",
+   "date": {
+    "variante": [
+     "Munții Ruwenzori",
+     "Munții Atlas",
+     "Munții Drakensberg",
+     "Munții Kenya"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Sunt numiți și „Munții Lunii”."
+   }
+  },
+  {
+   "id": "VII13b-28",
+   "nivel": "VII-S13-relieful-africii-caracteristici-generale",
+   "competente": [
+    "VII-4.4"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "De ce se micșorează ghețarii de pe Kilimanjaro?",
+   "date": {
+    "variante": [
+     "din cauza încălzirii climei și a aerului mai uscat",
+     "pentru că muntele scade",
+     "pentru că sunt topiți de lavă",
+     "pentru că sunt tăiați de oameni"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Ghețarii tropicali sunt foarte sensibili."
+   }
+  },
+  {
+   "id": "VII13b-29",
+   "nivel": "VII-S13-relieful-africii-caracteristici-generale",
+   "competente": [
+    "VII-2.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce dovezi ale primilor oameni s-au găsit în riftul est-african?",
+   "date": {
+    "variante": [
+     "fosile foarte vechi ale strămoșilor omului",
+     "dinozauri doar",
+     "orașe moderne",
+     "vapoare"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Riftul e numit „leagănul omenirii”."
+   }
+  },
+  {
+   "id": "VII13b-30",
+   "nivel": "VII-S13-relieful-africii-caracteristici-generale",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce munți se află la sudul Africii de Sud, lângă Cape Town?",
+   "date": {
+    "variante": [
+     "Munții Capului (cu Muntele Masei)",
+     "Munții Atlas",
+     "Munții Ural",
+     "Munții Kenya"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Muntele Masei are vârful plat."
+   }
+  },
+  {
+   "id": "VII13b-31",
+   "nivel": "VII-S13-relieful-africii-caracteristici-generale",
+   "competente": [
+    "VII-2.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce înseamnă că altitudinea Africii crește de la nord-vest spre sud-est?",
+   "date": {
+    "variante": [
+     "în nord-vest sunt podișuri mai joase, iar în est și sud podișuri mai înalte",
+     "Africa e plată",
+     "toată Africa e sub nivelul mării",
+     "munții sunt doar în nord"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "De aceea se vorbește de „Africa joasă” și „Africa înaltă”."
+   }
+  },
+  {
+   "id": "VII16-01",
+   "nivel": "VII-S16-hidrografia-clima-biogeografia-caracteristici",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 1,
+   "enunt": "Care e cel mai lung fluviu de pe Pământ, după majoritatea măsurătorilor?",
+   "date": {
+    "variante": [
+     "Nilul",
+     "Congo",
+     "Niger",
+     "Zambezi"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Nilul are aproximativ 6 650 km."
+   },
+   "surse": [
+    "Encyclopaedia Britannica – Nile River",
+    "Wikipedia – Nile"
+   ]
+  },
+  {
+   "id": "VII16-02",
+   "nivel": "VII-S16-hidrografia-clima-biogeografia-caracteristici",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Din ce lac pornește Nilul Alb?",
+   "date": {
+    "variante": [
+     "Lacul Victoria",
+     "Lacul Ciad",
+     "Lacul Tanganyika",
+     "Lacul Assal"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Nilul Albastru vine din Etiopia."
+   },
+   "surse": [
+    "Encyclopaedia Britannica – Nile River",
+    "Wikipedia – Nile"
+   ]
+  },
+  {
+   "id": "VII16-03",
+   "nivel": "VII-S16-hidrografia-clima-biogeografia-caracteristici",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Unde se varsă Nilul?",
+   "date": {
+    "variante": [
+     "în Marea Mediterană",
+     "în Oceanul Atlantic",
+     "în Marea Roșie",
+     "în Lacul Victoria"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Nilul formează o deltă în nordul Egiptului."
+   }
+  },
+  {
+   "id": "VII16-04",
+   "nivel": "VII-S16-hidrografia-clima-biogeografia-caracteristici",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce fluviu african are cea mai mare cantitate de apă?",
+   "date": {
+    "variante": [
+     "Congo",
+     "Nilul",
+     "Orange",
+     "Limpopo"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Bazinul Congo primește ploi tot anul."
+   }
+  },
+  {
+   "id": "VII16-05",
+   "nivel": "VII-S16-hidrografia-clima-biogeografia-caracteristici",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Pe ce fluviu se află Cascada Victoria?",
+   "date": {
+    "variante": [
+     "Zambezi",
+     "Nil",
+     "Congo",
+     "Niger"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Cascada e la granița Zambiei cu Zimbabwe."
+   }
+  },
+  {
+   "id": "VII16-06",
+   "nivel": "VII-S16-hidrografia-clima-biogeografia-caracteristici",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Care e cel mai mare lac din Africa?",
+   "date": {
+    "variante": [
+     "Lacul Victoria",
+     "Lacul Ciad",
+     "Lacul Malawi",
+     "Lacul Assal"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Victoria e între Uganda, Kenya și Tanzania."
+   },
+   "surse": [
+    "Encyclopaedia Britannica – Lake Victoria",
+    "Wikipedia – Lake Victoria"
+   ]
+  },
+  {
+   "id": "VII16-07",
+   "nivel": "VII-S16-hidrografia-clima-biogeografia-caracteristici",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "pin",
+   "dificultate": 2,
+   "enunt": "Atinge pe hartă Lacul Victoria.",
+   "date": {
+    "harta": "lume",
+    "tinta": {
+     "lat": -1,
+     "lon": 33,
+     "nume": "Lacul Victoria"
+    },
+    "toleranta": 400
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Lacul Victoria e în estul Africii, pe Ecuator."
+   },
+   "surse": [
+    "Encyclopaedia Britannica – Lake Victoria",
+    "Wikipedia – Lake Victoria"
+   ]
+  },
+  {
+   "id": "VII16-08",
+   "nivel": "VII-S16-hidrografia-clima-biogeografia-caracteristici",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "pin",
+   "dificultate": 2,
+   "enunt": "Atinge pe hartă Delta Nilului.",
+   "date": {
+    "harta": "lume",
+    "tinta": {
+     "lat": 31,
+     "lon": 31,
+     "nume": "Delta Nilului"
+    },
+    "toleranta": 300
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Delta Nilului e în nordul Egiptului."
+   }
+  },
+  {
+   "id": "VII16-09",
+   "nivel": "VII-S16-hidrografia-clima-biogeografia-caracteristici",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "pin",
+   "dificultate": 3,
+   "enunt": "Atinge pe hartă Lacul Ciad.",
+   "date": {
+    "harta": "lume",
+    "tinta": {
+     "lat": 13,
+     "lon": 14.5,
+     "nume": "Lacul Ciad"
+    },
+    "toleranta": 500
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Lacul Ciad e la marginea sudică a Saharei."
+   }
+  },
+  {
+   "id": "VII16-10",
+   "nivel": "VII-S16-hidrografia-clima-biogeografia-caracteristici",
+   "competente": [
+    "VII-3.3"
+   ],
+   "tip": "asociaza",
+   "dificultate": 2,
+   "enunt": "Asociază zona naturală cu animalul tipic.",
+   "date": {
+    "perechi": [
+     [
+      "pădurea ecuatorială",
+      "gorila"
+     ],
+     [
+      "savana",
+      "girafa"
+     ],
+     [
+      "deșertul",
+      "dromaderul"
+     ],
+     [
+      "Madagascar",
+      "lemurul"
+     ]
+    ]
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Fauna Africii."
+   }
+  },
+  {
+   "id": "VII16-11",
+   "nivel": "VII-S16-hidrografia-clima-biogeografia-caracteristici",
+   "competente": [
+    "VII-3.2"
+   ],
+   "tip": "asociaza",
+   "dificultate": 2,
+   "enunt": "Asociază climatul cu regiunea.",
+   "date": {
+    "perechi": [
+     [
+      "ecuatorial",
+      "Bazinul Congo"
+     ],
+     [
+      "subecuatorial",
+      "savanele din est"
+     ],
+     [
+      "tropical-deșertic",
+      "Sahara"
+     ],
+     [
+      "mediteranean",
+      "nordul Marocului și Algeriei"
+     ]
+    ]
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Climatele Africii."
+   }
+  },
+  {
+   "id": "VII16-12",
+   "nivel": "VII-S16-hidrografia-clima-biogeografia-caracteristici",
+   "competente": [
+    "VII-3.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce caracterizează savana?",
+   "date": {
+    "variante": [
+     "ierburi înalte, copaci rari și un anotimp ploios alternând cu unul secetos",
+     "păduri dese și ploi zilnice",
+     "gheață tot anul",
+     "fără vegetație"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Baobabul și acacia sunt tipice."
+   }
+  },
+  {
+   "id": "VII16-13",
+   "nivel": "VII-S16-hidrografia-clima-biogeografia-caracteristici",
+   "competente": [
+    "VII-3.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "De ce în Sahara nopțile sunt reci?",
+   "date": {
+    "variante": [
+     "aerul uscat și cerul senin lasă căldura să plece repede",
+     "pentru că bate vânt polar",
+     "pentru că ninge",
+     "pentru că e lângă ocean"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Amplitudinea zi–noapte e foarte mare."
+   }
+  },
+  {
+   "id": "VII16-14",
+   "nivel": "VII-S16-hidrografia-clima-biogeografia-caracteristici",
+   "competente": [
+    "VII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce animale trăiesc doar în Madagascar?",
+   "date": {
+    "variante": [
+     "lemurienii",
+     "leii",
+     "girafele",
+     "zebrele"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Izolarea insulei a dus la specii unice."
+   }
+  },
+  {
+   "id": "VII16-15",
+   "nivel": "VII-S16-hidrografia-clima-biogeografia-caracteristici",
+   "competente": [
+    "VII-4.4"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "De ce s-a micșorat Lacul Ciad?",
+   "date": {
+    "variante": [
+     "din cauza secetelor și a folosirii apei pentru irigații",
+     "din cauza unui vulcan",
+     "pentru că s-a umplut cu gheață",
+     "pentru că l-a acoperit nisipul într-o zi"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Milioane de oameni depind de el."
+   }
+  },
+  {
+   "id": "VII16-16",
+   "nivel": "VII-S16-hidrografia-clima-biogeografia-caracteristici",
+   "competente": [
+    "VII-3.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Adevărat sau fals? Africa e cel mai cald continent.",
+   "date": {
+    "variante": [
+     "Adevărat",
+     "Fals"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Adevărat: cea mai mare parte e între tropice."
+   }
+  },
+  {
+   "id": "VII16-17",
+   "nivel": "VII-S16-hidrografia-clima-biogeografia-caracteristici",
+   "competente": [
+    "VII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Adevărat sau fals? Gorilele trăiesc în deșertul Sahara.",
+   "date": {
+    "variante": [
+     "Fals",
+     "Adevărat"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Fals: trăiesc în pădurile ecuatoriale."
+   }
+  },
+  {
+   "id": "VII16-18",
+   "nivel": "VII-S16-hidrografia-clima-biogeografia-caracteristici",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "lacunar",
+   "dificultate": 2,
+   "enunt": "Completează.",
+   "date": {
+    "text": "Nilul se formează din Nilul {0} și Nilul {1}.",
+    "raspunsuri": [
+     "Alb",
+     "Albastru"
+    ],
+    "distractori": [
+     "Roșu",
+     "Verde"
+    ]
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Se unesc la Khartoum, în Sudan."
+   }
+  },
+  {
+   "id": "VII16-19",
+   "nivel": "VII-S16-hidrografia-clima-biogeografia-caracteristici",
+   "competente": [
+    "VII-3.3"
+   ],
+   "tip": "lacunar",
+   "dificultate": 2,
+   "enunt": "Completează.",
+   "date": {
+    "text": "În savană trăiesc {0} și zebre; în pădurea ecuatorială trăiesc {1}.",
+    "raspunsuri": [
+     "girafe",
+     "gorile"
+    ],
+    "distractori": [
+     "pinguini",
+     "reni"
+    ]
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Fauna după zone."
+   }
+  },
+  {
+   "id": "VII16-20",
+   "nivel": "VII-S16-hidrografia-clima-biogeografia-caracteristici",
+   "competente": [
+    "VII-2.3",
+    "VII-4.1"
+   ],
+   "tip": "grafic",
+   "dificultate": 3,
+   "enunt": "Diagrama arată precipitațiile anuale în trei locuri din Africa (valori aproximative). Care e în Sahara?",
+   "date": {
+    "grafic": {
+     "tip": "bare",
+     "titlu": "Precipitații anuale (valori aproximative)",
+     "date": [
+      {
+       "eticheta": "Bazinul Congo",
+       "valoare": 1800
+      },
+      {
+       "eticheta": "savana din Kenya",
+       "valoare": 800
+      },
+      {
+       "eticheta": "Sahara centrală",
+       "valoare": 20
+      }
+     ],
+     "unitate": "l/m²"
+    },
+    "variante": [
+     "Sahara centrală",
+     "Bazinul Congo",
+     "savana din Kenya",
+     "toate"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Sub 20 l/m² pe an."
+   },
+   "surse": [
+    "Encyclopaedia Britannica – Sahara",
+    "NASA Earth Observatory – Sahara Desert"
+   ]
+  },
+  {
+   "id": "VII16-21",
+   "nivel": "VII-S16-hidrografia-clima-biogeografia-caracteristici",
+   "competente": [
+    "VII-4.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 3,
+   "enunt": "De ce Nilul nu seacă traversând Sahara?",
+   "date": {
+    "variante": [
+     "pentru că primește apă din regiunile ploioase (Lacul Victoria, Etiopia), unde izvorăște",
+     "pentru că plouă mult în Sahara",
+     "pentru că are ghețari",
+     "pentru că e alimentat de mare"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "E un fluviu „alohton” în deșert."
+   }
+  },
+  {
+   "id": "VII16-22",
+   "nivel": "VII-S16-hidrografia-clima-biogeografia-caracteristici",
+   "competente": [
+    "VII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce copac uriaș, cu trunchi gros, e simbolul savanei?",
+   "date": {
+    "variante": [
+     "baobabul",
+     "molidul",
+     "palmierul de cocos",
+     "stejarul"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Baobabul stochează apă."
+   }
+  },
+  {
+   "id": "VII16-23",
+   "nivel": "VII-S16-hidrografia-clima-biogeografia-caracteristici",
+   "competente": [
+    "VII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce animal din pădurea ecuatorială seamănă cu o girafă mică, cu dungi pe picioare?",
+   "date": {
+    "variante": [
+     "okapi",
+     "zebra",
+     "lama",
+     "renul"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Okapi trăiește în R.D. Congo."
+   }
+  },
+  {
+   "id": "VII16-24",
+   "nivel": "VII-S16-hidrografia-clima-biogeografia-caracteristici",
+   "competente": [
+    "VII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce animal mic, cu urechi mari, trăiește în Sahara?",
+   "date": {
+    "variante": [
+     "fenecul (vulpea deșertului)",
+     "ursul polar",
+     "lupul",
+     "castorul"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Urechile mari îl ajută să elimine căldura."
+   }
+  },
+  {
+   "id": "VII16-25",
+   "nivel": "VII-S16-hidrografia-clima-biogeografia-caracteristici",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "denumeste",
+   "dificultate": 2,
+   "enunt": "Ce fluviu din vestul Africii are cursul în formă de arc și trece prin Mali și Nigeria?",
+   "date": {
+    "harta": "lume",
+    "punct": {
+     "lat": 13,
+     "lon": -2
+    },
+    "variante": [
+     "Niger",
+     "Nil",
+     "Congo",
+     "Zambezi"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Nigerul se varsă în Golful Guineei."
+   }
+  },
+  {
+   "id": "VII16-26",
+   "nivel": "VII-S16-hidrografia-clima-biogeografia-caracteristici",
+   "competente": [
+    "VII-3.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce vânt fierbinte și uscat bate din Sahara spre Golful Guineei?",
+   "date": {
+    "variante": [
+     "harmattanul",
+     "musonul",
+     "foehnul",
+     "crivățul"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Harmattanul aduce praf din deșert."
+   }
+  },
+  {
+   "id": "VII16-27",
+   "nivel": "VII-S16-hidrografia-clima-biogeografia-caracteristici",
+   "competente": [
+    "VII-4.4"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce amenință elefanții și rinocerii din savană?",
+   "date": {
+    "variante": [
+     "braconajul pentru fildeș și coarne",
+     "frigul",
+     "inundațiile de zăpadă",
+     "vulcanii"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Parcurile naționale îi protejează."
+   }
+  },
+  {
+   "id": "VII16-28",
+   "nivel": "VII-S16-hidrografia-clima-biogeografia-caracteristici",
+   "competente": [
+    "VII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce parc național din Tanzania e celebru pentru migrația antilopelor gnu?",
+   "date": {
+    "variante": [
+     "Serengeti",
+     "Yellowstone",
+     "Retezat",
+     "Kruger"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Milioane de gnu migrează anual între Tanzania și Kenya."
+   }
+  },
+  {
+   "id": "VII16-29",
+   "nivel": "VII-S16-hidrografia-clima-biogeografia-caracteristici",
+   "competente": [
+    "VII-3.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce climat are Bazinul Congo?",
+   "date": {
+    "variante": [
+     "ecuatorial: cald și ploios tot anul",
+     "deșertic",
+     "mediteranean",
+     "polar"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Plouă aproape zilnic."
+   }
+  },
+  {
+   "id": "VII16-30",
+   "nivel": "VII-S16-hidrografia-clima-biogeografia-caracteristici",
+   "competente": [
+    "VII-3.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 3,
+   "enunt": "De ce în savană există un anotimp secetos?",
+   "date": {
+    "variante": [
+     "zona ploilor de la Ecuator se mută spre nord și spre sud odată cu Soarele, așa că ploile vin doar o parte din an",
+     "pentru că bate musonul de iarnă din Siberia",
+     "pentru că e lângă pol",
+     "fără motiv"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Ploile urmează poziția Soarelui."
+   }
+  },
+  {
+   "id": "VII16-31",
+   "nivel": "VII-S16-hidrografia-clima-biogeografia-caracteristici",
+   "competente": [
+    "VII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce baraj mare pe Nil formează Lacul Nasser?",
+   "date": {
+    "variante": [
+     "Barajul de la Assuan",
+     "Trei Defileuri",
+     "Porțile de Fier",
+     "Hoover"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Barajul de la Assuan e în sudul Egiptului."
+   }
+  },
+  {
+   "id": "VII17-01",
+   "nivel": "VII-S17-specificul-demografic",
+   "competente": [
+    "VII-3.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 1,
+   "enunt": "Câți oameni trăiesc în Africa, aproximativ?",
+   "date": {
+    "variante": [
+     "1,5 miliarde",
+     "150 de milioane",
+     "15 miliarde",
+     "15 milioane"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "După estimările ONU."
+   },
+   "surse": [
+    "ONU (UN DESA) – World Population Prospects 2024",
+    "Our World in Data – Population by continent"
+   ]
+  },
+  {
+   "id": "VII17-02",
+   "nivel": "VII-S17-specificul-demografic",
+   "competente": [
+    "VII-3.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce țară africană are cea mai numeroasă populație?",
+   "date": {
+    "variante": [
+     "Nigeria",
+     "Egipt",
+     "Africa de Sud",
+     "Algeria"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Nigeria are peste 200 de milioane de locuitori."
+   },
+   "surse": [
+    "ONU (UN DESA) – World Population Prospects 2024",
+    "Our World in Data – Population by continent"
+   ]
+  },
+  {
+   "id": "VII17-03",
+   "nivel": "VII-S17-specificul-demografic",
+   "competente": [
+    "VII-1.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "De ce populația Africii crește foarte repede?",
+   "date": {
+    "variante": [
+     "natalitatea e mare, iar mortalitatea a scăzut",
+     "natalitatea e foarte mică",
+     "vin mulți imigranți din Europa",
+     "nu mor oameni"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Sporul natural e cel mai mare din lume."
+   }
+  },
+  {
+   "id": "VII17-04",
+   "nivel": "VII-S17-specificul-demografic",
+   "competente": [
+    "VII-1.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce formă are piramida vârstelor în multe țări africane?",
+   "date": {
+    "variante": [
+     "bază foarte largă (mulți copii) și vârf îngust",
+     "vârf larg și bază îngustă",
+     "dreptunghi",
+     "cerc"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Populație tânără."
+   }
+  },
+  {
+   "id": "VII17-05",
+   "nivel": "VII-S17-specificul-demografic",
+   "competente": [
+    "VII-1.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce boală transmisă de țânțari afectează mult Africa?",
+   "date": {
+    "variante": [
+     "malaria",
+     "gripa aviară",
+     "varicela",
+     "răceala"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Plasele de țânțari și medicamentele reduc cazurile."
+   }
+  },
+  {
+   "id": "VII17-06",
+   "nivel": "VII-S17-specificul-demografic",
+   "competente": [
+    "VII-2.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Unde e densă populația în Africa?",
+   "date": {
+    "variante": [
+     "pe Valea Nilului, în jurul Lacului Victoria și pe țărmul Golfului Guineei",
+     "în centrul Saharei",
+     "în deșertul Namib",
+     "pe vârful Kilimanjaro"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Apa și solurile fertile atrag oamenii."
+   }
+  },
+  {
+   "id": "VII17-07",
+   "nivel": "VII-S17-specificul-demografic",
+   "competente": [
+    "VII-2.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "De ce Sahara e aproape nelocuită?",
+   "date": {
+    "variante": [
+     "lipsa apei",
+     "frigul",
+     "munții înalți",
+     "pădurile dese"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Oamenii trăiesc doar în oaze."
+   }
+  },
+  {
+   "id": "VII17-08",
+   "nivel": "VII-S17-specificul-demografic",
+   "competente": [
+    "VII-3.3"
+   ],
+   "tip": "asociaza",
+   "dificultate": 2,
+   "enunt": "Asociază limba cu regiunea Africii.",
+   "date": {
+    "perechi": [
+     [
+      "araba",
+      "nord"
+     ],
+     [
+      "swahili",
+      "est"
+     ],
+     [
+      "zulu",
+      "sud"
+     ],
+     [
+      "yoruba",
+      "vest (Nigeria)"
+     ]
+    ]
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Diversitate lingvistică."
+   }
+  },
+  {
+   "id": "VII17-09",
+   "nivel": "VII-S17-specificul-demografic",
+   "competente": [
+    "VII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Câte limbi se vorbesc în Africa, aproximativ?",
+   "date": {
+    "variante": [
+     "peste 2 000",
+     "10",
+     "100",
+     "50"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Africa are o diversitate lingvistică uriașă."
+   }
+  },
+  {
+   "id": "VII17-10",
+   "nivel": "VII-S17-specificul-demografic",
+   "competente": [
+    "VII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "De ce în multe țări africane limbile oficiale sunt engleza, franceza sau portugheza?",
+   "date": {
+    "variante": [
+     "pentru că au fost colonii ale unor țări europene",
+     "pentru că sunt în Europa",
+     "pentru că toți locuitorii sunt europeni",
+     "fără motiv"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Moștenirea colonială."
+   }
+  },
+  {
+   "id": "VII17-11",
+   "nivel": "VII-S17-specificul-demografic",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "pin",
+   "dificultate": 2,
+   "enunt": "Atinge pe hartă Nigeria.",
+   "date": {
+    "harta": "lume",
+    "tinta": {
+     "lat": 9,
+     "lon": 8,
+     "nume": "Nigeria"
+    },
+    "toleranta": 500
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Nigeria e în vestul Africii, la Golful Guineei."
+   }
+  },
+  {
+   "id": "VII17-12",
+   "nivel": "VII-S17-specificul-demografic",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "pin",
+   "dificultate": 3,
+   "enunt": "Atinge pe hartă Valea Nilului, în Egipt.",
+   "date": {
+    "harta": "lume",
+    "tinta": {
+     "lat": 26,
+     "lon": 32.5,
+     "nume": "Valea Nilului"
+    },
+    "toleranta": 300
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Aproape toți egiptenii trăiesc pe valea și în delta Nilului."
+   }
+  },
+  {
+   "id": "VII17-13",
+   "nivel": "VII-S17-specificul-demografic",
+   "competente": [
+    "VII-1.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Adevărat sau fals? Africa are cea mai îmbătrânită populație din lume.",
+   "date": {
+    "variante": [
+     "Fals",
+     "Adevărat"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Fals: are cea mai tânără populație."
+   }
+  },
+  {
+   "id": "VII17-14",
+   "nivel": "VII-S17-specificul-demografic",
+   "competente": [
+    "VII-1.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Adevărat sau fals? Speranța de viață în Africa crește, dar e încă mai mică decât în Europa.",
+   "date": {
+    "variante": [
+     "Adevărat",
+     "Fals"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Adevărat."
+   }
+  },
+  {
+   "id": "VII17-15",
+   "nivel": "VII-S17-specificul-demografic",
+   "competente": [
+    "VII-3.2"
+   ],
+   "tip": "lacunar",
+   "dificultate": 2,
+   "enunt": "Completează.",
+   "date": {
+    "text": "Cea mai populată țară a Africii este {0}; în estul Africii se vorbește mult limba {1}.",
+    "raspunsuri": [
+     "Nigeria",
+     "swahili"
+    ],
+    "distractori": [
+     "Egipt",
+     "chineza"
+    ]
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Nigeria, swahili."
+   }
+  },
+  {
+   "id": "VII17-16",
+   "nivel": "VII-S17-specificul-demografic",
+   "competente": [
+    "VII-1.2"
+   ],
+   "tip": "lacunar",
+   "dificultate": 2,
+   "enunt": "Completează.",
+   "date": {
+    "text": "În Africa natalitatea e {0}, de aceea populația e foarte {1}.",
+    "raspunsuri": [
+     "mare",
+     "tânără"
+    ],
+    "distractori": [
+     "mică",
+     "îmbătrânită"
+    ]
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Natalitate mare, populație tânără."
+   }
+  },
+  {
+   "id": "VII17-17",
+   "nivel": "VII-S17-specificul-demografic",
+   "competente": [
+    "VII-2.3",
+    "VII-4.1"
+   ],
+   "tip": "grafic",
+   "dificultate": 3,
+   "enunt": "Graficul compară vârsta medie a populației în două regiuni (valori aproximative). Ce observi?",
+   "date": {
+    "grafic": {
+     "tip": "bare",
+     "titlu": "Vârsta medie a populației (aproximativ)",
+     "date": [
+      {
+       "eticheta": "Africa",
+       "valoare": 19
+      },
+      {
+       "eticheta": "Europa",
+       "valoare": 42
+      }
+     ],
+     "unitate": "ani",
+     "sursa": "ONU – World Population Prospects 2024"
+    },
+    "variante": [
+     "populația Africii e mult mai tânără",
+     "Europa are populație mai tânără",
+     "sunt egale",
+     "Africa are populație bătrână"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Jumătate dintre africani au sub aproximativ 19 ani."
+   },
+   "surse": [
+    "ONU (UN DESA) – World Population Prospects 2024",
+    "Our World in Data – Population by continent"
+   ]
+  },
+  {
+   "id": "VII17-18",
+   "nivel": "VII-S17-specificul-demografic",
+   "competente": [
+    "VII-2.3",
+    "VII-4.1"
+   ],
+   "tip": "grafic",
+   "dificultate": 3,
+   "enunt": "Graficul arată evoluția populației Africii (miliarde, aproximativ). Cum a evoluat?",
+   "date": {
+    "grafic": {
+     "tip": "profil",
+     "titlu": "Populația Africii (aproximativ)",
+     "date": [
+      {
+       "eticheta": "1950",
+       "valoare": 0.23
+      },
+      {
+       "eticheta": "1980",
+       "valoare": 0.48
+      },
+      {
+       "eticheta": "2000",
+       "valoare": 0.82
+      },
+      {
+       "eticheta": "2024",
+       "valoare": 1.5
+      }
+     ],
+     "unitate": "miliarde",
+     "sursa": "ONU – World Population Prospects 2024"
+    },
+    "variante": [
+     "a crescut foarte repede",
+     "a scăzut",
+     "a rămas la fel",
+     "a crescut doar până în 1950"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "De peste 6 ori din 1950."
+   },
+   "surse": [
+    "ONU (UN DESA) – World Population Prospects 2024",
+    "Our World in Data – Population by continent"
+   ]
+  },
+  {
+   "id": "VII17-19",
+   "nivel": "VII-S17-specificul-demografic",
+   "competente": [
+    "VII-4.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 3,
+   "enunt": "Compară sporul natural din Niger (țară africană) cu cel din România.",
+   "date": {
+    "variante": [
+     "în Niger e foarte mare și pozitiv; în România e negativ",
+     "în România e mai mare",
+     "sunt egale",
+     "în Niger e negativ"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Africa are natalitatea cea mai mare."
+   }
+  },
+  {
+   "id": "VII17-20",
+   "nivel": "VII-S17-specificul-demografic",
+   "competente": [
+    "VII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce religii sunt majoritare în Africa?",
+   "date": {
+    "variante": [
+     "islamul (mai ales în nord) și creștinismul (mai ales în sud și centru)",
+     "budismul și hinduismul",
+     "șintoismul",
+     "taoismul"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Există și religii tradiționale."
+   }
+  },
+  {
+   "id": "VII17-21",
+   "nivel": "VII-S17-specificul-demografic",
+   "competente": [
+    "VII-1.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "De ce mulți tineri africani se mută la oraș?",
+   "date": {
+    "variante": [
+     "pentru locuri de muncă și școli",
+     "pentru că la sat e prea frig",
+     "pentru că orașele sunt mai mici",
+     "pentru că e obligatoriu"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Urbanizarea Africii e foarte rapidă."
+   }
+  },
+  {
+   "id": "VII17-22",
+   "nivel": "VII-S17-specificul-demografic",
+   "competente": [
+    "VII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce popoare trăiesc în Sahara, cu tradiții nomade?",
+   "date": {
+    "variante": [
+     "tuaregii și berberii",
+     "inuiții",
+     "samii",
+     "maorii"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Tuaregii sunt numiți „oamenii albaștri” după culoarea veșmintelor."
+   }
+  },
+  {
+   "id": "VII17-23",
+   "nivel": "VII-S17-specificul-demografic",
+   "competente": [
+    "VII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce înseamnă „nomad”?",
+   "date": {
+    "variante": [
+     "care se mută des dintr-un loc în altul, cu turmele",
+     "care stă mereu în același loc",
+     "care locuiește la oraș",
+     "care e marinar"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Nomazii caută pășuni și apă."
+   }
+  },
+  {
+   "id": "VII17-24",
+   "nivel": "VII-S17-specificul-demografic",
+   "competente": [
+    "VII-4.4"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce ajută la creșterea speranței de viață în Africa?",
+   "date": {
+    "variante": [
+     "vaccinarea, apa potabilă, spitalele și educația",
+     "mai puține școli",
+     "mai puțină apă",
+     "mai puține medicamente"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Sănătatea publică salvează vieți."
+   }
+  },
+  {
+   "id": "VII17-25",
+   "nivel": "VII-S17-specificul-demografic",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "denumeste",
+   "dificultate": 2,
+   "enunt": "Ce țară africană, cu cea mai mare populație din nordul continentului, e marcată pe hartă?",
+   "date": {
+    "harta": "lume",
+    "punct": {
+     "lat": 26.5,
+     "lon": 30
+    },
+    "variante": [
+     "Egipt",
+     "Libia",
+     "Algeria",
+     "Sudan"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Egiptul are peste 100 de milioane de locuitori."
+   }
+  },
+  {
+   "id": "VII17-26",
+   "nivel": "VII-S17-specificul-demografic",
+   "competente": [
+    "VII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce limbă e oficială în Brazilia și în Angola și Mozambic?",
+   "date": {
+    "variante": [
+     "portugheza",
+     "spaniola",
+     "franceza",
+     "araba"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Toate au fost colonii portugheze."
+   }
+  },
+  {
+   "id": "VII17-27",
+   "nivel": "VII-S17-specificul-demografic",
+   "competente": [
+    "VII-1.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 3,
+   "enunt": "De ce o populație tânără poate fi o șansă pentru Africa?",
+   "date": {
+    "variante": [
+     "mulți tineri pot munci și inova, dacă au educație și locuri de muncă",
+     "nu e nicio șansă",
+     "tinerii nu muncesc",
+     "tinerii pleacă toți"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Se numește „dividend demografic”."
+   }
+  },
+  {
+   "id": "VII17-28",
+   "nivel": "VII-S17-specificul-demografic",
+   "competente": [
+    "VII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce limbă se vorbește în nordul Africii (Egipt, Maroc, Algeria)?",
+   "date": {
+    "variante": [
+     "araba",
+     "swahili",
+     "zulu",
+     "engleza"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Nordul Africii e o regiune arabă."
+   }
+  },
+  {
+   "id": "VII17-29",
+   "nivel": "VII-S17-specificul-demografic",
+   "competente": [
+    "VII-2.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "De ce țărmul Golfului Guineei e dens populat?",
+   "date": {
+    "variante": [
+     "are ploi, soluri bune, porturi și orașe mari",
+     "e deșert",
+     "e acoperit de gheață",
+     "e foarte muntos"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Lagos, Accra, Abidjan sunt pe acest țărm."
+   }
+  },
+  {
+   "id": "VII17-30",
+   "nivel": "VII-S17-specificul-demografic",
+   "competente": [
+    "VII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce înseamnă cuvântul swahili „safari”?",
+   "date": {
+    "variante": [
+     "călătorie",
+     "leu",
+     "deșert",
+     "râu"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Azi înseamnă excursie pentru observarea animalelor."
+   }
+  },
+  {
+   "id": "VII19-01",
+   "nivel": "VII-S19-harta-politica-marile-orase",
+   "competente": [
+    "VII-1.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 1,
+   "enunt": "Câte state independente are Africa?",
+   "date": {
+    "variante": [
+     "54",
+     "7",
+     "27",
+     "100"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Africa are cele mai multe state dintre continente."
+   },
+   "surse": [
+    "Uniunea Africană – Member States (au.int)",
+    "Wikipedia – Member states of the African Union"
+   ]
+  },
+  {
+   "id": "VII19-02",
+   "nivel": "VII-S19-harta-politica-marile-orase",
+   "competente": [
+    "VII-1.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Care e cel mai mare stat al Africii ca suprafață?",
+   "date": {
+    "variante": [
+     "Algeria",
+     "Egipt",
+     "Nigeria",
+     "Kenya"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Algeria are peste 2,3 milioane km², mare parte din Sahara."
+   }
+  },
+  {
+   "id": "VII19-03",
+   "nivel": "VII-S19-harta-politica-marile-orase",
+   "competente": [
+    "VII-1.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "De ce multe granițe din Africa sunt drepte?",
+   "date": {
+    "variante": [
+     "au fost trasate pe hartă de puterile coloniale europene",
+     "urmează râuri drepte",
+     "urmează munți drepți",
+     "au fost alese de animale"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Împărțirea Africii, secolul XIX."
+   }
+  },
+  {
+   "id": "VII19-04",
+   "nivel": "VII-S19-harta-politica-marile-orase",
+   "competente": [
+    "VII-1.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Când au devenit independente cele mai multe state africane?",
+   "date": {
+    "variante": [
+     "în anii 1950–1970",
+     "în anul 1000",
+     "în 1492",
+     "în 2020"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Decolonizarea."
+   }
+  },
+  {
+   "id": "VII19-05",
+   "nivel": "VII-S19-harta-politica-marile-orase",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "asociaza",
+   "dificultate": 2,
+   "enunt": "Asociază statul cu capitala.",
+   "date": {
+    "perechi": [
+     [
+      "Egipt",
+      "Cairo"
+     ],
+     [
+      "Kenya",
+      "Nairobi"
+     ],
+     [
+      "Etiopia",
+      "Addis Abeba"
+     ],
+     [
+      "Maroc",
+      "Rabat"
+     ]
+    ]
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Capitale africane."
+   }
+  },
+  {
+   "id": "VII19-06",
+   "nivel": "VII-S19-harta-politica-marile-orase",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "asociaza",
+   "dificultate": 2,
+   "enunt": "Asociază statul cu capitala.",
+   "date": {
+    "perechi": [
+     [
+      "Nigeria",
+      "Abuja"
+     ],
+     [
+      "R.D. Congo",
+      "Kinshasa"
+     ],
+     [
+      "Senegal",
+      "Dakar"
+     ],
+     [
+      "Algeria",
+      "Alger"
+     ]
+    ]
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Alte capitale africane."
+   }
+  },
+  {
+   "id": "VII19-07",
+   "nivel": "VII-S19-harta-politica-marile-orase",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce oraș e cel mai mare din Nigeria, dar nu e capitala?",
+   "date": {
+    "variante": [
+     "Lagos",
+     "Abuja",
+     "Cairo",
+     "Nairobi"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Capitala Nigeriei e Abuja."
+   }
+  },
+  {
+   "id": "VII19-08",
+   "nivel": "VII-S19-harta-politica-marile-orase",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "În ce oraș are sediul Uniunea Africană?",
+   "date": {
+    "variante": [
+     "Addis Abeba (Etiopia)",
+     "Cairo",
+     "Lagos",
+     "Pretoria"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Uniunea Africană are 55 de state membre."
+   },
+   "surse": [
+    "Uniunea Africană – Member States (au.int)",
+    "Wikipedia – Member states of the African Union"
+   ]
+  },
+  {
+   "id": "VII19-09",
+   "nivel": "VII-S19-harta-politica-marile-orase",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "pin",
+   "dificultate": 2,
+   "enunt": "Atinge pe hartă Cairo.",
+   "date": {
+    "harta": "lume",
+    "tinta": {
+     "lat": 30.04,
+     "lon": 31.24,
+     "nume": "Cairo"
+    },
+    "toleranta": 300
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Cairo e la capătul sudic al Deltei Nilului."
+   }
+  },
+  {
+   "id": "VII19-10",
+   "nivel": "VII-S19-harta-politica-marile-orase",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "pin",
+   "dificultate": 2,
+   "enunt": "Atinge pe hartă Lagos.",
+   "date": {
+    "harta": "lume",
+    "tinta": {
+     "lat": 6.52,
+     "lon": 3.38,
+     "nume": "Lagos"
+    },
+    "toleranta": 300
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Lagos e pe țărmul Golfului Guineei."
+   },
+   "surse": [
+    "ONU (UN DESA) – World Urbanization Prospects 2025",
+    "Encyclopaedia Britannica – Lagos / Cairo / Kinshasa"
+   ]
+  },
+  {
+   "id": "VII19-11",
+   "nivel": "VII-S19-harta-politica-marile-orase",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "pin",
+   "dificultate": 2,
+   "enunt": "Atinge pe hartă Kinshasa.",
+   "date": {
+    "harta": "lume",
+    "tinta": {
+     "lat": -4.32,
+     "lon": 15.31,
+     "nume": "Kinshasa"
+    },
+    "toleranta": 400
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Kinshasa e pe fluviul Congo."
+   }
+  },
+  {
+   "id": "VII19-12",
+   "nivel": "VII-S19-harta-politica-marile-orase",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "pin",
+   "dificultate": 3,
+   "enunt": "Atinge pe hartă Nairobi.",
+   "date": {
+    "harta": "lume",
+    "tinta": {
+     "lat": -1.29,
+     "lon": 36.82,
+     "nume": "Nairobi"
+    },
+    "toleranta": 300
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Nairobi e capitala Kenyei."
+   }
+  },
+  {
+   "id": "VII19-13",
+   "nivel": "VII-S19-harta-politica-marile-orase",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "pin",
+   "dificultate": 3,
+   "enunt": "Atinge pe hartă Johannesburg.",
+   "date": {
+    "harta": "lume",
+    "tinta": {
+     "lat": -26.2,
+     "lon": 28.05,
+     "nume": "Johannesburg"
+    },
+    "toleranta": 400
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Johannesburg e cel mai mare oraș al Africii de Sud."
+   }
+  },
+  {
+   "id": "VII19-14",
+   "nivel": "VII-S19-harta-politica-marile-orase",
+   "competente": [
+    "VII-1.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce țări europene aveau cele mai multe colonii în Africa?",
+   "date": {
+    "variante": [
+     "Marea Britanie și Franța",
+     "Elveția și Austria",
+     "Polonia și Cehia",
+     "România și Bulgaria"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Și Portugalia, Belgia, Germania, Italia."
+   }
+  },
+  {
+   "id": "VII19-15",
+   "nivel": "VII-S19-harta-politica-marile-orase",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce stat african nu a fost niciodată colonizat pe termen lung?",
+   "date": {
+    "variante": [
+     "Etiopia (și Liberia)",
+     "Nigeria",
+     "Kenya",
+     "Senegal"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Etiopia a rezistat colonizării."
+   }
+  },
+  {
+   "id": "VII19-16",
+   "nivel": "VII-S19-harta-politica-marile-orase",
+   "competente": [
+    "VII-1.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Adevărat sau fals? Toate granițele din Africa urmează râuri și munți.",
+   "date": {
+    "variante": [
+     "Fals",
+     "Adevărat"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Fals: multe sunt linii drepte trasate în perioada colonială."
+   }
+  },
+  {
+   "id": "VII19-17",
+   "nivel": "VII-S19-harta-politica-marile-orase",
+   "competente": [
+    "VII-1.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Adevărat sau fals? Africa are mai multe state decât orice alt continent.",
+   "date": {
+    "variante": [
+     "Adevărat",
+     "Fals"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Adevărat: 54 de state."
+   },
+   "surse": [
+    "Uniunea Africană – Member States (au.int)",
+    "Wikipedia – Member states of the African Union"
+   ]
+  },
+  {
+   "id": "VII19-18",
+   "nivel": "VII-S19-harta-politica-marile-orase",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "lacunar",
+   "dificultate": 2,
+   "enunt": "Completează.",
+   "date": {
+    "text": "Capitala Egiptului este {0}, iar capitala Kenyei este {1}.",
+    "raspunsuri": [
+     "Cairo",
+     "Nairobi"
+    ],
+    "distractori": [
+     "Alexandria",
+     "Mombasa"
+    ]
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Cairo, Nairobi."
+   }
+  },
+  {
+   "id": "VII19-19",
+   "nivel": "VII-S19-harta-politica-marile-orase",
+   "competente": [
+    "VII-1.2"
+   ],
+   "tip": "lacunar",
+   "dificultate": 2,
+   "enunt": "Completează.",
+   "date": {
+    "text": "Africa are {0} de state; cel mai mare dintre ele ca suprafață este {1}.",
+    "raspunsuri": [
+     "54",
+     "Algeria"
+    ],
+    "distractori": [
+     "27",
+     "Nigeria"
+    ]
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "54, Algeria."
+   },
+   "surse": [
+    "Uniunea Africană – Member States (au.int)",
+    "Wikipedia – Member states of the African Union"
+   ]
+  },
+  {
+   "id": "VII19-20",
+   "nivel": "VII-S19-harta-politica-marile-orase",
+   "competente": [
+    "VII-2.2",
+    "VII-3.1",
+    "VII-4.2"
+   ],
+   "tip": "ordoneaza",
+   "dificultate": 3,
+   "enunt": "Ordonează orașele de la nord la sud.",
+   "date": {
+    "elemente": [
+     "Cairo",
+     "Addis Abeba",
+     "Nairobi",
+     "Kinshasa",
+     "Johannesburg",
+     "Cape Town"
+    ],
+    "criteriu": "De la nord la sud"
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "De la Mediterana la Capul Bunei Speranțe."
+   }
+  },
+  {
+   "id": "VII19-21",
+   "nivel": "VII-S19-harta-politica-marile-orase",
+   "competente": [
+    "VII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce problemă au multe orașe africane care cresc repede?",
+   "date": {
+    "variante": [
+     "cartiere sărace fără apă curentă și canalizare",
+     "prea puțini locuitori",
+     "prea multe parcuri",
+     "prea mult spațiu"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Infrastructura nu ține pasul."
+   }
+  },
+  {
+   "id": "VII19-22",
+   "nivel": "VII-S19-harta-politica-marile-orase",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "denumeste",
+   "dificultate": 2,
+   "enunt": "Ce stat african, cel mai mare ca suprafață, e marcat pe hartă?",
+   "date": {
+    "harta": "lume",
+    "punct": {
+     "lat": 28,
+     "lon": 2.6
+    },
+    "variante": [
+     "Algeria",
+     "Libia",
+     "Mali",
+     "Niger"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Algeria e în nord-vestul Africii."
+   }
+  },
+  {
+   "id": "VII19-23",
+   "nivel": "VII-S19-harta-politica-marile-orase",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "denumeste",
+   "dificultate": 3,
+   "enunt": "Ce stat insular din Oceanul Indian e marcat pe hartă?",
+   "date": {
+    "harta": "lume",
+    "punct": {
+     "lat": -19,
+     "lon": 46.7
+    },
+    "variante": [
+     "Madagascar",
+     "Mauritius",
+     "Seychelles",
+     "Comore"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Madagascar e a patra insulă ca mărime din lume."
+   }
+  },
+  {
+   "id": "VII19-24",
+   "nivel": "VII-S19-harta-politica-marile-orase",
+   "competente": [
+    "VII-4.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 3,
+   "enunt": "Ce consecințe au avut granițele trasate cu rigla?",
+   "date": {
+    "variante": [
+     "unele popoare au fost despărțite, iar altele, rivale, au fost puse în același stat, ceea ce a produs conflicte",
+     "nicio consecință",
+     "au oprit toate conflictele",
+     "au făcut toate țările bogate"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Moștenirea colonială e încă vizibilă."
+   }
+  },
+  {
+   "id": "VII19-25",
+   "nivel": "VII-S19-harta-politica-marile-orase",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce megaoraș african e pe Nil, la capătul sudic al deltei?",
+   "date": {
+    "variante": [
+     "Cairo",
+     "Lagos",
+     "Kinshasa",
+     "Nairobi"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Cairo e una dintre cele mai mari aglomerări urbane ale lumii."
+   },
+   "surse": [
+    "ONU (UN DESA) – World Urbanization Prospects 2025",
+    "Encyclopaedia Britannica – Lagos / Cairo / Kinshasa"
+   ]
+  },
+  {
+   "id": "VII19-26",
+   "nivel": "VII-S19-harta-politica-marile-orase",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce capitală e față în față cu Kinshasa, peste fluviul Congo?",
+   "date": {
+    "variante": [
+     "Brazzaville (Republica Congo)",
+     "Luanda",
+     "Lagos",
+     "Nairobi"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Două state cu nume asemănătoare."
+   }
+  },
+  {
+   "id": "VII19-27",
+   "nivel": "VII-S19-harta-politica-marile-orase",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce stat are trei capitale: Pretoria, Cape Town și Bloemfontein?",
+   "date": {
+    "variante": [
+     "Africa de Sud",
+     "Egipt",
+     "Kenya",
+     "Maroc"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Fiecare are o funcție diferită."
+   }
+  },
+  {
+   "id": "VII19-28",
+   "nivel": "VII-S19-harta-politica-marile-orase",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce stat african e cel mai nou, independent din 2011?",
+   "date": {
+    "variante": [
+     "Sudanul de Sud",
+     "Egipt",
+     "Etiopia",
+     "Maroc"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "S-a desprins din Sudan."
+   }
+  },
+  {
+   "id": "VII19-29",
+   "nivel": "VII-S19-harta-politica-marile-orase",
+   "competente": [
+    "VII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce înseamnă „decolonizare”?",
+   "date": {
+    "variante": [
+     "obținerea independenței de către fostele colonii",
+     "colonizarea unor noi teritorii",
+     "construirea de orașe",
+     "mutarea capitalei"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Majoritatea statelor africane s-au decolonizat după 1950."
+   }
+  },
+  {
+   "id": "VII19-30",
+   "nivel": "VII-S19-harta-politica-marile-orase",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce oraș-port mare se află în Maroc, pe Atlantic?",
+   "date": {
+    "variante": [
+     "Casablanca",
+     "Cairo",
+     "Nairobi",
+     "Kinshasa"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Casablanca e cel mai mare oraș al Marocului."
+   }
+  },
+  {
+   "id": "VII20-01",
+   "nivel": "VII-S20-studii-caz-problemele-africii",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 1,
+   "enunt": "Ce suprafață are Sahara, aproximativ?",
+   "date": {
+    "variante": [
+     "9 milioane km²",
+     "900 km²",
+     "90 000 km²",
+     "90 de milioane km²"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Aproape cât Statele Unite."
+   },
+   "surse": [
+    "Encyclopaedia Britannica – Sahara",
+    "NASA Earth Observatory – Sahara Desert"
+   ]
+  },
+  {
+   "id": "VII20-02",
+   "nivel": "VII-S20-studii-caz-problemele-africii",
+   "competente": [
+    "VII-1.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce este deșertificarea?",
+   "date": {
+    "variante": [
+     "transformarea treptată a unor terenuri în deșert",
+     "plantarea de păduri",
+     "formarea unui lac",
+     "topirea ghețarilor"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Cauzele sunt seceta și activitățile omului."
+   }
+  },
+  {
+   "id": "VII20-03",
+   "nivel": "VII-S20-studii-caz-problemele-africii",
+   "competente": [
+    "VII-1.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce este Sahelul?",
+   "date": {
+    "variante": [
+     "fâșia semiaridă de la sudul Saharei",
+     "un munte în Maroc",
+     "un fluviu",
+     "o pădure ecuatorială"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Sahel înseamnă „țărm” în arabă: „țărmul” deșertului."
+   }
+  },
+  {
+   "id": "VII20-04",
+   "nivel": "VII-S20-studii-caz-problemele-africii",
+   "competente": [
+    "VII-1.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce cauze are deșertificarea în Sahel?",
+   "date": {
+    "variante": [
+     "secetele, pășunatul excesiv și tăierea arbuștilor",
+     "prea multe ploi",
+     "ninsorile",
+     "vulcanii"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Solul rămas fără vegetație e luat de vânt."
+   }
+  },
+  {
+   "id": "VII20-05",
+   "nivel": "VII-S20-studii-caz-problemele-africii",
+   "competente": [
+    "VII-4.4"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce este „Marele Zid Verde”?",
+   "date": {
+    "variante": [
+     "un proiect de plantare a vegetației de-a lungul Sahelului, contra deșertificării",
+     "un zid de piatră",
+     "un parc de distracții",
+     "o autostradă"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Se întinde de la Senegal la Djibouti."
+   }
+  },
+  {
+   "id": "VII20-06",
+   "nivel": "VII-S20-studii-caz-problemele-africii",
+   "competente": [
+    "VII-1.1"
+   ],
+   "tip": "asociaza",
+   "dificultate": 2,
+   "enunt": "Asociază tipul de deșert cu descrierea.",
+   "date": {
+    "perechi": [
+     [
+      "erg",
+      "deșert de dune de nisip"
+     ],
+     [
+      "hamada",
+      "deșert de piatră"
+     ],
+     [
+      "reg",
+      "deșert de pietriș"
+     ],
+     [
+      "oază",
+      "loc cu apă și vegetație"
+     ]
+    ]
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Peisajele Saharei."
+   }
+  },
+  {
+   "id": "VII20-07",
+   "nivel": "VII-S20-studii-caz-problemele-africii",
+   "competente": [
+    "VII-1.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce parte din Sahara e acoperită de dune de nisip?",
+   "date": {
+    "variante": [
+     "o parte mică; cea mai mare parte e piatră și pietriș",
+     "toată",
+     "jumătate exact",
+     "nimic"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Imaginea „numai nisip” e greșită."
+   }
+  },
+  {
+   "id": "VII20-08",
+   "nivel": "VII-S20-studii-caz-problemele-africii",
+   "competente": [
+    "VII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce plantă se cultivă în oazele Saharei?",
+   "date": {
+    "variante": [
+     "curmalul",
+     "molidul",
+     "orezul",
+     "cartoful"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Curmalele sunt hrană de bază în deșert."
+   }
+  },
+  {
+   "id": "VII20-09",
+   "nivel": "VII-S20-studii-caz-problemele-africii",
+   "competente": [
+    "VII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce resurse are Africa?",
+   "date": {
+    "variante": [
+     "petrol, aur, diamante, cupru, cobalt, cacao, cafea",
+     "doar nisip",
+     "nicio resursă",
+     "doar zăpadă"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Africa e foarte bogată în resurse."
+   }
+  },
+  {
+   "id": "VII20-10",
+   "nivel": "VII-S20-studii-caz-problemele-africii",
+   "competente": [
+    "VII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce țară africană e cel mai mare producător de cacao?",
+   "date": {
+    "variante": [
+     "Coasta de Fildeș",
+     "Egipt",
+     "Algeria",
+     "Libia"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Și Ghana produce mult."
+   }
+  },
+  {
+   "id": "VII20-11",
+   "nivel": "VII-S20-studii-caz-problemele-africii",
+   "competente": [
+    "VII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce metal important pentru bateriile telefoanelor și mașinilor electrice se extrage mult în R.D. Congo?",
+   "date": {
+    "variante": [
+     "cobaltul",
+     "aurul",
+     "fierul",
+     "staniul"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Exploatarea ridică probleme de muncă și mediu."
+   }
+  },
+  {
+   "id": "VII20-12",
+   "nivel": "VII-S20-studii-caz-problemele-africii",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "pin",
+   "dificultate": 2,
+   "enunt": "Atinge pe hartă Sahelul, la marginea sudică a Saharei.",
+   "date": {
+    "harta": "lume",
+    "tinta": {
+     "lat": 15,
+     "lon": 5,
+     "nume": "Sahel"
+    },
+    "toleranta": 800
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Sahelul traversează Africa de la vest la est."
+   }
+  },
+  {
+   "id": "VII20-13",
+   "nivel": "VII-S20-studii-caz-problemele-africii",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "pin",
+   "dificultate": 3,
+   "enunt": "Atinge pe hartă Munții Ahaggar (Hoggar), în centrul Saharei.",
+   "date": {
+    "harta": "lume",
+    "tinta": {
+     "lat": 23.3,
+     "lon": 5.6,
+     "nume": "Ahaggar"
+    },
+    "toleranta": 500
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Ahaggar e în sudul Algeriei."
+   }
+  },
+  {
+   "id": "VII20-14",
+   "nivel": "VII-S20-studii-caz-problemele-africii",
+   "competente": [
+    "VII-1.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Adevărat sau fals? Sahara a fost mereu un deșert, de milioane de ani, fără întrerupere.",
+   "date": {
+    "variante": [
+     "Fals",
+     "Adevărat"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Fals: acum câteva mii de ani era mult mai verde."
+   }
+  },
+  {
+   "id": "VII20-15",
+   "nivel": "VII-S20-studii-caz-problemele-africii",
+   "competente": [
+    "VII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Adevărat sau fals? Telefonia mobilă și plățile prin telefon sunt foarte răspândite în multe țări africane.",
+   "date": {
+    "variante": [
+     "Adevărat",
+     "Fals"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Adevărat: de exemplu, în Kenya."
+   }
+  },
+  {
+   "id": "VII20-16",
+   "nivel": "VII-S20-studii-caz-problemele-africii",
+   "competente": [
+    "VII-1.1"
+   ],
+   "tip": "lacunar",
+   "dificultate": 2,
+   "enunt": "Completează.",
+   "date": {
+    "text": "Deșertul de dune se numește {0}; locul cu apă din deșert se numește {1}.",
+    "raspunsuri": [
+     "erg",
+     "oază"
+    ],
+    "distractori": [
+     "hamada",
+     "deltă"
+    ]
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Erg, oază."
+   }
+  },
+  {
+   "id": "VII20-17",
+   "nivel": "VII-S20-studii-caz-problemele-africii",
+   "competente": [
+    "VII-4.4"
+   ],
+   "tip": "lacunar",
+   "dificultate": 2,
+   "enunt": "Completează.",
+   "date": {
+    "text": "Transformarea terenurilor în deșert se numește {0}; ea e puternică în {1}.",
+    "raspunsuri": [
+     "deșertificare",
+     "Sahel"
+    ],
+    "distractori": [
+     "urbanizare",
+     "Congo"
+    ]
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Deșertificare, Sahel."
+   }
+  },
+  {
+   "id": "VII20-18",
+   "nivel": "VII-S20-studii-caz-problemele-africii",
+   "competente": [
+    "VII-2.3",
+    "VII-4.1"
+   ],
+   "tip": "grafic",
+   "dificultate": 3,
+   "enunt": "Graficul arată suprafața împădurită într-o regiune imaginară din Sahel. Ce s-a întâmplat după începerea plantărilor?",
+   "date": {
+    "grafic": {
+     "tip": "profil",
+     "titlu": "Suprafața cu vegetație (regiune imaginară)",
+     "date": [
+      {
+       "eticheta": "2000",
+       "valoare": 30
+      },
+      {
+       "eticheta": "2008",
+       "valoare": 22
+      },
+      {
+       "eticheta": "2012",
+       "valoare": 20
+      },
+      {
+       "eticheta": "2018",
+       "valoare": 27
+      },
+      {
+       "eticheta": "2024",
+       "valoare": 35
+      }
+     ],
+     "unitate": "mii ha"
+    },
+    "variante": [
+     "vegetația a scăzut, apoi a crescut din nou",
+     "a scăzut mereu",
+     "a crescut mereu",
+     "nu s-a schimbat"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "După 2012, plantările au refăcut vegetația."
+   }
+  },
+  {
+   "id": "VII20-19",
+   "nivel": "VII-S20-studii-caz-problemele-africii",
+   "competente": [
+    "VII-4.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 3,
+   "enunt": "De ce o țară cu multe resurse poate rămâne săracă?",
+   "date": {
+    "variante": [
+     "dacă resursele sunt exportate brute, veniturile nu ajung la populație sau există conflicte",
+     "resursele fac mereu țara bogată",
+     "pentru că nu are resurse",
+     "fără motiv"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Economiștii numesc asta „blestemul resurselor”."
+   }
+  },
+  {
+   "id": "VII20-20",
+   "nivel": "VII-S20-studii-caz-problemele-africii",
+   "competente": [
+    "VII-4.4"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce energie are un mare potențial în Sahara?",
+   "date": {
+    "variante": [
+     "energia solară",
+     "energia geotermală din gheață",
+     "energia mareelor",
+     "cărbunele"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Sahara primește foarte mult soare."
+   }
+  },
+  {
+   "id": "VII20-21",
+   "nivel": "VII-S20-studii-caz-problemele-africii",
+   "competente": [
+    "VII-3.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce apă există sub Sahara?",
+   "date": {
+    "variante": [
+     "mari rezerve de apă subterană fosilă, acumulată demult",
+     "oceane subterane sărate",
+     "ghețari",
+     "nimic"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Libia o aduce prin conducte uriașe."
+   }
+  },
+  {
+   "id": "VII20-22",
+   "nivel": "VII-S20-studii-caz-problemele-africii",
+   "competente": [
+    "VII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce animal e folosit în Sahara pentru transport?",
+   "date": {
+    "variante": [
+     "dromaderul",
+     "elefantul",
+     "calul",
+     "renul"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Dromaderul rezistă mult fără apă."
+   }
+  },
+  {
+   "id": "VII20-23",
+   "nivel": "VII-S20-studii-caz-problemele-africii",
+   "competente": [
+    "VII-3.4"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce desene vechi pe stâncă arată că Sahara a fost verde?",
+   "date": {
+    "variante": [
+     "picturile rupestre din Tassili n'Ajjer",
+     "piramidele",
+     "hieroglifele de la Luxor",
+     "statuile din Insula Paștelui"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Arată girafe și elefanți."
+   }
+  },
+  {
+   "id": "VII20-24",
+   "nivel": "VII-S20-studii-caz-problemele-africii",
+   "competente": [
+    "VII-4.4"
+   ],
+   "tip": "alegere",
+   "dificultate": 3,
+   "enunt": "Ce soluții ajută țările africane cu lipsă de apă?",
+   "date": {
+    "variante": [
+     "fântâni, colectarea apei de ploaie, irigații prin picurare, desalinizare",
+     "tăierea pădurilor",
+     "consumul mai mare",
+     "aruncarea deșeurilor în râuri"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Fiecare picătură contează."
+   }
+  },
+  {
+   "id": "VII20-25",
+   "nivel": "VII-S20-studii-caz-problemele-africii",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "denumeste",
+   "dificultate": 2,
+   "enunt": "Ce țară din Sahel e marcată pe hartă?",
+   "date": {
+    "harta": "lume",
+    "punct": {
+     "lat": 17,
+     "lon": 9
+    },
+    "variante": [
+     "Niger",
+     "Nigeria",
+     "Egipt",
+     "Kenya"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Nigerul e o țară din Sahel, fără ieșire la mare."
+   }
+  },
+  {
+   "id": "VII20-26",
+   "nivel": "VII-S20-studii-caz-problemele-africii",
+   "competente": [
+    "VII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce înseamnă „comerț echitabil” (fair trade) pentru cacao și cafea?",
+   "date": {
+    "variante": [
+     "fermierii primesc un preț corect pentru produsele lor",
+     "produsele sunt gratuite",
+     "fermierii nu primesc nimic",
+     "produsele sunt interzise"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Eticheta „fair trade” arată asta."
+   }
+  },
+  {
+   "id": "VII20-27",
+   "nivel": "VII-S20-studii-caz-problemele-africii",
+   "competente": [
+    "VII-3.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "De ce în Sahara plouă foarte rar?",
+   "date": {
+    "variante": [
+     "este o zonă de presiune ridicată, cu aer care coboară și se încălzește, deci nu se formează nori",
+     "pentru că e prea frig",
+     "pentru că e lângă ocean",
+     "pentru că e muntoasă"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Aerul descendent e uscat."
+   }
+  },
+  {
+   "id": "VII20-28",
+   "nivel": "VII-S20-studii-caz-problemele-africii",
+   "competente": [
+    "VII-4.4"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce poate face lumea pentru a ajuta Africa?",
+   "date": {
+    "variante": [
+     "parteneriate pentru educație, sănătate, energie curată și comerț corect",
+     "să ignore problemele",
+     "să ia resursele fără plată",
+     "să închidă școlile"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Cooperarea aduce progres."
+   }
+  },
+  {
+   "id": "VII20-29",
+   "nivel": "VII-S20-studii-caz-problemele-africii",
+   "competente": [
+    "VII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce organizație reunește statele africane?",
+   "date": {
+    "variante": [
+     "Uniunea Africană",
+     "Uniunea Europeană",
+     "ASEAN",
+     "NATO"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Are sediul la Addis Abeba."
+   },
+   "surse": [
+    "Uniunea Africană – Member States (au.int)",
+    "Wikipedia – Member states of the African Union"
+   ]
+  },
+  {
+   "id": "VII20-30",
+   "nivel": "VII-S20-studii-caz-problemele-africii",
+   "competente": [
+    "VII-4.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 3,
+   "enunt": "Compară Sahara cu Gobi.",
+   "date": {
+    "variante": [
+     "Sahara e un deșert fierbinte, tropical; Gobi e un deșert cu ierni geroase, în zona temperată",
+     "sunt identice",
+     "Gobi e mai cald",
+     "Sahara e în Asia"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Deșerturile pot fi calde sau reci."
+   }
+  },
+  {
+   "id": "VII22-01",
+   "nivel": "VII-S22-aplicatii-practice-studii-caz",
+   "competente": [
+    "VII-4.1",
+    "VII-3.1",
+    "VII-4.2"
+   ],
+   "tip": "ordoneaza",
+   "dificultate": 1,
+   "enunt": "Ordonează pașii caracterizării unui stat.",
+   "date": {
+    "elemente": [
+     "poziția",
+     "relieful",
+     "clima și apele",
+     "vegetația și fauna",
+     "populația și orașele",
+     "economia"
+    ],
+    "criteriu": "Algoritmul"
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "De la natural la uman."
+   }
+  },
+  {
+   "id": "VII22-02",
+   "nivel": "VII-S22-aplicatii-practice-studii-caz",
+   "competente": [
+    "VII-4.4"
+   ],
+   "tip": "asociaza",
+   "dificultate": 2,
+   "enunt": "Asociază statul cu o problemă de mediu și o soluție.",
+   "date": {
+    "perechi": [
+     [
+      "Kenya",
+      "braconaj → parcuri naționale și rangeri"
+     ],
+     [
+      "Niger",
+      "deșertificare → plantări (Marele Zid Verde)"
+     ],
+     [
+      "Madagascar",
+      "defrișări → arii protejate"
+     ],
+     [
+      "Egipt",
+      "lipsa apei → irigații eficiente"
+     ]
+    ]
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Probleme și soluții."
+   }
+  },
+  {
+   "id": "VII22-03",
+   "nivel": "VII-S22-aplicatii-practice-studii-caz",
+   "competente": [
+    "VII-4.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "De unde iei date de încredere despre populația unui stat african?",
+   "date": {
+    "variante": [
+     "ONU, Banca Mondială, institutul de statistică al țării",
+     "din comentarii anonime",
+     "din reclame",
+     "din jocuri"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Datele trebuie să aibă sursă și an."
+   }
+  }
+ ]
+}

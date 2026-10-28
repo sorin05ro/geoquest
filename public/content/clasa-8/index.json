@@ -1,0 +1,103 @@
+{
+ "clasa": 8,
+ "fisiere": [
+  {
+   "fisier": "teste.json",
+   "niveluri": [
+    "VIII-T0"
+   ],
+   "boss": [
+    "VIII-T0",
+    "VIII-T1",
+    "VIII-T2",
+    "VIII-T3",
+    "VIII-T4",
+    "VIII-T5",
+    "VIII-Tf"
+   ]
+  },
+  {
+   "fisier": "u1-pozitie.json",
+   "niveluri": [
+    "VIII-S01-pozitia-geografica-elemente-definitorii",
+    "VIII-S02-romania-tara-carpatica-dunareana"
+   ],
+   "boss": []
+  },
+  {
+   "fisier": "u2-relief.json",
+   "niveluri": [
+    "VIII-S03-relieful-caracteristici-generale",
+    "VIII-S04-unitatile-majore-relief-carpatii",
+    "VIII-S06-subcarpatii-podisul-getic-podisul",
+    "VIII-S08-podisul-moldovei-podisul-dobrogei",
+    "VIII-S09-campia-vest-dealurile-vest",
+    "VIII-S10-campia-romana",
+    "VIII-S11-delta-dunarii-platforma-continentala",
+    "VIII-S12-aplicatii-practice-studii-caz"
+   ],
+   "boss": []
+  },
+  {
+   "fisier": "u3-clima-ape.json",
+   "niveluri": [
+    "VIII-S13-clima-factorii-genetici",
+    "VIII-S13-elementele-climatice",
+    "VIII-S16-particularitatile-climatice-regionale-etaje",
+    "VIII-S16-apele-dunarea",
+    "VIII-S17-raurile-interioare",
+    "VIII-S18-lacurile-apele-subterane",
+    "VIII-S19-marea-neagra",
+    "VIII-S20-vegetatia-fauna-solurile-aplicatii"
+   ],
+   "boss": []
+  },
+  {
+   "fisier": "u4-populatie.json",
+   "niveluri": [
+    "VIII-S21-populatia-elemente-structuri-demografice",
+    "VIII-S22-asezarile-rurale-evolutie-diferentieri",
+    "VIII-S23-asezarile-urbane-evolutie-caracteristici",
+    "VIII-S24-caracterizarea-geografica-orasului-bucuresti",
+    "VIII-S25-organizarea-administrativ-teritoriala",
+    "VIII-S27-aplicatii-practice-studii-caz"
+   ],
+   "boss": []
+  },
+  {
+   "fisier": "u5-economie.json",
+   "niveluri": [
+    "VIII-S28-agricultura-fondul-funciar-agricol",
+    "VIII-S28-regiunile-agricole-elemente-specifice",
+    "VIII-S28-valorificarea-produselor-agricole-traditie",
+    "VIII-S30-resursele-naturale-industria",
+    "VIII-S30-industria-energetica-energiei-electrice",
+    "VIII-S30-industria-constructiilor-masini",
+    "VIII-S31-serviciile-caile-comunicatie-transporturile",
+    "VIII-S31-comertul",
+    "VIII-S32-turismul-potential-valorificare-economica",
+    "VIII-S33-aplicatii-practice-studii-caz"
+   ],
+   "boss": []
+  },
+  {
+   "fisier": "u6-regiuni.json",
+   "niveluri": [
+    "VIII-S34-diferentieri-regionale",
+    "VIII-S34-regiunile-geografice-baze-naturale",
+    "VIII-S34-aplicatii-practice-studii-caz"
+   ],
+   "boss": []
+  },
+  {
+   "fisier": "u7-mediu-europa.json",
+   "niveluri": [
+    "VIII-S35-calitatea-mediului-inconjurator-romania",
+    "VIII-S35-resurse-populatie-elemente-dezvoltarii",
+    "VIII-S35-valorile-naturale-culturale-romaniei",
+    "VIII-S35-romania-ca-membru-onu"
+   ],
+   "boss": []
+  }
+ ]
+}

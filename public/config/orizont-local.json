@@ -1,0 +1,28 @@
+{
+ "localitate": "Râmnicu Sărat",
+ "judet": "Buzău",
+ "coordonate": {
+  "lat": null,
+  "lon": null,
+  "deVerificat": true
+ },
+ "rauri": [
+  {
+   "nume": "Râmnicu Sărat",
+   "deVerificat": true
+  }
+ ],
+ "relief": [
+  "Subcarpații de Curbură",
+  "Câmpia Română"
+ ],
+ "riscuri": [
+  "cutremurele vrâncene",
+  "alunecările de teren",
+  "inundațiile",
+  "seceta"
+ ],
+ "obiectiveTuristice": [],
+ "statistici": [],
+ "_nota": "Doar datele scrise de profesor în meta-prompt. Orice cifră se adaugă cu sursă oficială (INS, ANM, INFP, Primăria, CJ Buzău) și an. Câmpurile cu deVerificat: true nu se afișează elevilor."
+}

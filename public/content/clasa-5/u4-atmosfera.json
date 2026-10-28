@@ -1,0 +1,3669 @@
+{
+ "clasa": 5,
+ "unitate": "Atmosfera – învelișul de aer al Pământului",
+ "niveluri": [
+  {
+   "id": "V-S17-caracteristici-generale-importanta",
+   "tip": "nivel",
+   "titlu": "Atmosfera – caracteristici generale și importanță",
+   "descopera": {
+    "intrebare": "De ce nu poți vedea aerul, dar îl simți când bate vântul?"
+   },
+   "invata": [
+    {
+     "titlu": "Ce este atmosfera",
+     "text": "Atmosfera este învelișul de aer care înconjoară Pământul. Este ținută lângă planetă de atracția gravitațională.\nAerul este un amestec de gaze: în cea mai mare parte azot (aproximativ 78 %) și oxigen (aproximativ 21 %). Restul de 1 % înseamnă argon, dioxid de carbon, vapori de apă și alte gaze."
+    },
+    {
+     "titlu": "Straturile atmosferei",
+     "text": "De jos în sus: troposfera, stratosfera, mezosfera, termosfera și exosfera.\nTroposfera e stratul în care trăim. Are aproximativ 8 km grosime la poli și 16–18 km la Ecuator. Aici se formează norii, ploile și vânturile. Pe măsură ce urci în troposferă, aerul se răcește.\nÎn stratosferă se află stratul de ozon, care oprește o parte din razele ultraviolete ale Soarelui."
+    },
+    {
+     "titlu": "De ce e importantă atmosfera",
+     "text": "Ne dă oxigenul pentru respirație și dioxidul de carbon pentru plante.\nNe apără de razele dăunătoare ale Soarelui și de meteoriții mici, care ard în ea (stelele căzătoare).\nPăstrează căldura: fără atmosferă, nopțile ar fi foarte geroase, iar zilele foarte fierbinți, ca pe Lună."
+    }
+   ],
+   "stiaiCa": "„Stelele căzătoare” nu sunt stele: sunt bucăți mici de rocă din spațiu care ard când intră cu viteză mare în atmosferă.",
+   "referintaProfesor": "Manual Art Klett, clasa a V-a (manuale.edu.ro), lecția „Atmosfera – caracteristici generale și importanță”"
+  },
+  {
+   "id": "V-S18-elemente-fenomene-meteorologice",
+   "tip": "nivel",
+   "titlu": "Elemente și fenomene meteorologice",
+   "descopera": {
+    "intrebare": "Cum știu meteorologii dacă mâine va ploua?"
+   },
+   "invata": [
+    {
+     "titlu": "Elementele meteorologice",
+     "text": "Starea atmosferei se descrie prin elementele meteorologice: temperatura aerului, presiunea atmosferică, umezeala, nebulozitatea (cât e cerul acoperit de nori), vântul și precipitațiile.\nLe măsurăm la stațiile meteorologice, cu instrumente: termometrul (temperatura), barometrul (presiunea), higrometrul (umezeala), anemometrul (viteza vântului), girueta (direcția vântului), pluviometrul (precipitațiile)."
+    },
+    {
+     "titlu": "Temperatura și presiunea",
+     "text": "Aerul e încălzit mai ales de suprafața Pământului, care primește căldura de la Soare. Temperatura se măsoară în grade Celsius (°C), la umbră, la 2 m de sol.\nPresiunea atmosferică este apăsarea aerului pe suprafața Pământului. Ea scade cu altitudinea. Aerul se mișcă de la presiune mare spre presiune mică: așa se formează vântul."
+    },
+    {
+     "titlu": "Nori, precipitații, fenomene",
+     "text": "Când aerul umed se răcește, vaporii de apă se transformă în picături mici: se formează norii și ceața.\nPrecipitațiile sunt apa care cade din nori: ploaie, zăpadă, lapoviță, grindină.\nFenomene meteorologice: ceața, roua, bruma, poleiul, chiciura, oraje (fulgere și tunete), vijelii, viscolul, curcubeul."
+    }
+   ],
+   "stiaiCa": "Pentru că lumina ajunge la noi aproape instantaneu, iar sunetul parcurge aproximativ 1 km în 3 secunde, poți afla cât de departe e o furtună: numără secundele dintre fulger și tunet și împarte la 3.",
+   "referintaProfesor": "Manual Art Klett, clasa a V-a (manuale.edu.ro), lecția „Elemente și fenomene meteorologice”"
+  },
+  {
+   "id": "V-S19-vremea-clima",
+   "tip": "nivel",
+   "titlu": "Vremea și clima",
+   "descopera": {
+    "intrebare": "Dacă azi ninge la Râmnicu Sărat, înseamnă că avem o climă rece?"
+   },
+   "invata": [
+    {
+     "titlu": "Vremea",
+     "text": "Vremea este starea atmosferei într-un loc, la un moment dat sau pe o perioadă scurtă (ore, zile). Se schimbă des: dimineața poate fi senin, iar după-amiaza ploaie.\nPrognoza meteo anunță cum va fi vremea în zilele următoare; în România o face Administrația Națională de Meteorologie (ANM)."
+    },
+    {
+     "titlu": "Clima",
+     "text": "Clima este regimul vremii dintr-un loc, observat pe o perioadă foarte lungă (de obicei cel puțin 30 de ani).\nClima unui loc depinde de: latitudine (cât de aproape e de Ecuator), altitudine, apropierea de mare sau ocean, relief, curenții oceanici și vânturile care bat des."
+    },
+    {
+     "titlu": "Diagrama climatică",
+     "text": "Clima se arată printr-o diagramă climatică: pentru fiecare lună, coloane albastre pentru precipitații și o linie roșie pentru temperatura medie.\nDin ea afli luna cea mai caldă, luna cea mai rece și luna cea mai ploioasă."
+    }
+   ],
+   "stiaiCa": "Cea mai mare temperatură măsurată oficial în România a fost de 44,5 °C, la Ion Sion (județul Brăila), pe 10 august 1951, după datele ANM.",
+   "referintaProfesor": "Manual Art Klett, clasa a V-a (manuale.edu.ro), lecția „Vremea și clima”"
+  },
+  {
+   "id": "V-S20-zonele-climatice-terrei-influenta",
+   "tip": "nivel",
+   "titlu": "Zonele climatice ale Terrei. Influența climei asupra geosferelor",
+   "descopera": {
+    "intrebare": "De ce în Kenya e cald tot anul, iar în Groenlanda e frig?"
+   },
+   "invata": [
+    {
+     "titlu": "Zonele de climă",
+     "text": "Pământul primește căldură inegal de la Soare, după latitudine. Așa se formează zonele de climă.\nZona caldă – între cele două tropice, de o parte și de alta a Ecuatorului.\nZonele temperate – între tropice și cercurile polare, în ambele emisfere. România e în zona temperată nordică.\nZonele reci (polare) – dincolo de cercurile polare."
+    },
+    {
+     "titlu": "Cum e în fiecare zonă",
+     "text": "În zona caldă temperaturile sunt mari tot anul; lângă Ecuator plouă aproape zilnic, în deșerturi aproape deloc.\nÎn zonele temperate există patru anotimpuri.\nÎn zonele polare e frig aproape tot anul, cu zăpadă și gheață. Există zile polare și nopți polare."
+    },
+    {
+     "titlu": "Clima modelează celelalte învelișuri",
+     "text": "Clima influențează: apele (râuri mari unde plouă mult, ghețari unde e frig), relieful (vântul modelează dunele în deșert, gheața sapă văi la munte), solurile, plantele și animalele, și viața oamenilor."
+    }
+   ],
+   "stiaiCa": "La Polul Nord, în timpul verii, Soarele nu apune deloc aproape șase luni: aceasta e ziua polară.",
+   "referintaProfesor": "Manual Art Klett, clasa a V-a (manuale.edu.ro), lecția „Zonele climatice ale Terrei”"
+  },
+  {
+   "id": "V-S22-aplicatii-practice-clima-vremea",
+   "tip": "expeditie",
+   "titlu": "Expediție: vremea din orizontul meu",
+   "descopera": {
+    "intrebare": "Ce fenomene meteorologice periculoase pot apărea la Râmnicu Sărat și cum ne protejăm?"
+   },
+   "invata": [
+    {
+     "titlu": "Ce faci în expediție",
+     "text": "Urmezi pașii, rezolvi sarcinile și notezi în Jurnalul exploratorului ce ai descoperit."
+    }
+   ],
+   "referintaProfesor": "Manual Art Klett, clasa a V-a (manuale.edu.ro), lecția „Aplicații practice: Clima, vremea și activitatea umană în orizontul local”",
+   "pasi": [
+    {
+     "titlu": "1. Mini-stația meteo",
+     "text": "Construiește un pluviometru dintr-o sticlă de plastic tăiată și o riglă lipită pe ea. Așază-l în curte, împreună cu un termometru la umbră.",
+     "itemi": [
+      "V22-01",
+      "V22-02"
+     ]
+    },
+    {
+     "titlu": "2. Jurnalul vremii",
+     "text": "Timp de 5 zile, la aceeași oră, notează temperatura, cerul (senin, noros, acoperit), vântul (calm, slab, puternic) și dacă a plouat.",
+     "itemi": [
+      "V22-03"
+     ],
+     "jurnal": {
+      "cerinta": "Fă un tabel cu cele 5 zile și scrie ce ai observat. Care a fost ziua cea mai caldă?"
+     }
+    },
+    {
+     "titlu": "3. Fenomene extreme",
+     "text": "Discută cu un bunic sau un vecin: își amintește un fenomen meteo puternic din zona noastră (viscol, grindină, secetă, inundație)?",
+     "itemi": [
+      "V22-04",
+      "V22-05",
+      "V22-06"
+     ],
+     "jurnal": {
+      "cerinta": "Scrie ce fenomen a fost, când (aproximativ) și ce s-a întâmplat. Ce măsură de protecție ar fi ajutat?"
+     }
+    },
+    {
+     "titlu": "4. Afișul de siguranță",
+     "text": "Realizează un afiș cu regulile de comportare pentru un fenomen extrem ales de tine. Poate fi desenat sau făcut pe calculator.",
+     "itemi": [
+      "V22-07"
+     ],
+     "jurnal": {
+      "cerinta": "Fotografiază afișul.",
+      "foto": true
+     }
+    }
+   ]
+  }
+ ],
+ "itemi": [
+  {
+   "id": "V17-01",
+   "nivel": "V-S17-caracteristici-generale-importanta",
+   "competente": [
+    "V-1.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 1,
+   "enunt": "Ce este atmosfera?",
+   "date": {
+    "variante": [
+     "învelișul de aer al Pământului",
+     "învelișul de apă al Pământului",
+     "stratul de roci de la suprafață",
+     "totalitatea viețuitoarelor"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Atmosfera = învelișul de aer; hidrosfera = apa; litosfera = rocile; biosfera = viețuitoarele."
+   }
+  },
+  {
+   "id": "V17-02",
+   "nivel": "V-S17-caracteristici-generale-importanta",
+   "competente": [
+    "V-1.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 1,
+   "enunt": "Ce gaz se găsește în cea mai mare cantitate în aer?",
+   "date": {
+    "variante": [
+     "azotul",
+     "oxigenul",
+     "dioxidul de carbon",
+     "hidrogenul"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Aerul conține aproximativ 78 % azot și 21 % oxigen."
+   },
+   "surse": [
+    "NASA Earth Observatory – Earth's Atmosphere",
+    "Wikipedia – Atmosphere of Earth (compoziția aerului uscat)"
+   ]
+  },
+  {
+   "id": "V17-03",
+   "nivel": "V-S17-caracteristici-generale-importanta",
+   "competente": [
+    "V-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 1,
+   "enunt": "Ce gaz din aer respirăm ca să trăim?",
+   "date": {
+    "variante": [
+     "oxigenul",
+     "azotul",
+     "argonul",
+     "heliul"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Oamenii și animalele au nevoie de oxigen."
+   }
+  },
+  {
+   "id": "V17-04",
+   "nivel": "V-S17-caracteristici-generale-importanta",
+   "competente": [
+    "V-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce gaz din aer folosesc plantele ca să-și producă hrana?",
+   "date": {
+    "variante": [
+     "dioxidul de carbon",
+     "azotul",
+     "argonul",
+     "ozonul"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Plantele iau dioxid de carbon și eliberează oxigen."
+   }
+  },
+  {
+   "id": "V17-05",
+   "nivel": "V-S17-caracteristici-generale-importanta",
+   "competente": [
+    "V-2.3",
+    "V-3.1"
+   ],
+   "tip": "grafic",
+   "dificultate": 2,
+   "enunt": "Graficul arată compoziția aerului uscat. Ce procent are oxigenul?",
+   "date": {
+    "grafic": {
+     "tip": "structura",
+     "titlu": "Compoziția aerului uscat",
+     "date": [
+      {
+       "eticheta": "azot",
+       "valoare": 78
+      },
+      {
+       "eticheta": "oxigen",
+       "valoare": 21
+      },
+      {
+       "eticheta": "argon și alte gaze",
+       "valoare": 1
+      }
+     ],
+     "unitate": "%",
+     "sursa": "NASA Earth Observatory"
+    },
+    "variante": [
+     "aproximativ 21 %",
+     "aproximativ 78 %",
+     "aproximativ 1 %",
+     "aproximativ 50 %"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Oxigenul are aproximativ 21 %; azotul aproximativ 78 %."
+   },
+   "surse": [
+    "NASA Earth Observatory – Earth's Atmosphere",
+    "Wikipedia – Atmosphere of Earth (compoziția aerului uscat)"
+   ]
+  },
+  {
+   "id": "V17-06",
+   "nivel": "V-S17-caracteristici-generale-importanta",
+   "competente": [
+    "V-1.1"
+   ],
+   "tip": "ordoneaza",
+   "dificultate": 2,
+   "enunt": "Ordonează straturile atmosferei de jos în sus.",
+   "date": {
+    "elemente": [
+     "troposfera",
+     "stratosfera",
+     "mezosfera",
+     "termosfera",
+     "exosfera"
+    ],
+    "criteriu": "De la sol spre spațiu"
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Tro-, strato-, mezo-, termo-, exosfera."
+   },
+   "surse": [
+    "NOAA / National Weather Service JetStream – Layers of the Atmosphere",
+    "UCAR Center for Science Education – Layers of Earth's Atmosphere"
+   ]
+  },
+  {
+   "id": "V17-07",
+   "nivel": "V-S17-caracteristici-generale-importanta",
+   "competente": [
+    "V-1.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 1,
+   "enunt": "În ce strat al atmosferei trăim?",
+   "date": {
+    "variante": [
+     "troposfera",
+     "stratosfera",
+     "exosfera",
+     "mezosfera"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Troposfera e stratul de lângă sol."
+   }
+  },
+  {
+   "id": "V17-08",
+   "nivel": "V-S17-caracteristici-generale-importanta",
+   "competente": [
+    "V-1.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "În ce strat al atmosferei se formează norii și ploile?",
+   "date": {
+    "variante": [
+     "troposfera",
+     "stratosfera",
+     "termosfera",
+     "exosfera"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Aproape toți vaporii de apă sunt în troposferă, deci și norii."
+   },
+   "surse": [
+    "NOAA / National Weather Service JetStream – Layers of the Atmosphere",
+    "UCAR Center for Science Education – Layers of Earth's Atmosphere"
+   ]
+  },
+  {
+   "id": "V17-09",
+   "nivel": "V-S17-caracteristici-generale-importanta",
+   "competente": [
+    "V-1.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "În ce strat se află stratul de ozon?",
+   "date": {
+    "variante": [
+     "stratosfera",
+     "troposfera",
+     "mezosfera",
+     "exosfera"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Stratul de ozon e în stratosferă."
+   },
+   "surse": [
+    "NOAA / National Weather Service JetStream – Layers of the Atmosphere",
+    "UCAR Center for Science Education – Layers of Earth's Atmosphere"
+   ]
+  },
+  {
+   "id": "V17-10",
+   "nivel": "V-S17-caracteristici-generale-importanta",
+   "competente": [
+    "V-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce face stratul de ozon pentru noi?",
+   "date": {
+    "variante": [
+     "oprește o parte din razele ultraviolete dăunătoare ale Soarelui",
+     "produce ploile",
+     "aduce oxigenul",
+     "încălzește oceanele"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Ozonul ne apără pielea și ochii de razele ultraviolete."
+   }
+  },
+  {
+   "id": "V17-11",
+   "nivel": "V-S17-caracteristici-generale-importanta",
+   "competente": [
+    "V-3.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Cât de groasă este troposfera la Ecuator?",
+   "date": {
+    "variante": [
+     "aproximativ 16–18 km",
+     "aproximativ 1 km",
+     "aproximativ 100 km",
+     "aproximativ 500 km"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Troposfera are aproximativ 8 km la poli și 16–18 km la Ecuator."
+   },
+   "surse": [
+    "NOAA / National Weather Service JetStream – Layers of the Atmosphere",
+    "UCAR Center for Science Education – Layers of Earth's Atmosphere"
+   ]
+  },
+  {
+   "id": "V17-12",
+   "nivel": "V-S17-caracteristici-generale-importanta",
+   "competente": [
+    "V-1.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 3,
+   "enunt": "De ce troposfera e mai groasă la Ecuator decât la poli?",
+   "date": {
+    "variante": [
+     "pentru că aerul cald de la Ecuator se dilată și urcă mai sus",
+     "pentru că la Ecuator sunt mai mulți munți",
+     "pentru că la poli nu există aer",
+     "pentru că Luna trage aerul spre Ecuator"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Aerul încălzit se dilată și urcă: de aceea troposfera e mai înaltă la Ecuator."
+   }
+  },
+  {
+   "id": "V17-13",
+   "nivel": "V-S17-caracteristici-generale-importanta",
+   "competente": [
+    "V-3.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Adevărat sau fals? Cu cât urci mai sus în troposferă, cu atât aerul e mai rece.",
+   "date": {
+    "variante": [
+     "Adevărat",
+     "Fals"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Adevărat: de aceea pe vârfurile munților e mai frig și stă zăpada."
+   }
+  },
+  {
+   "id": "V17-14",
+   "nivel": "V-S17-caracteristici-generale-importanta",
+   "competente": [
+    "V-1.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 1,
+   "enunt": "Adevărat sau fals? Aerul este format dintr-un singur gaz.",
+   "date": {
+    "variante": [
+     "Fals",
+     "Adevărat"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Fals: aerul e un amestec de gaze, mai ales azot și oxigen."
+   }
+  },
+  {
+   "id": "V17-15",
+   "nivel": "V-S17-caracteristici-generale-importanta",
+   "competente": [
+    "V-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Adevărat sau fals? Fără atmosferă, pe Pământ ar fi mult mai mari diferențele de temperatură dintre zi și noapte.",
+   "date": {
+    "variante": [
+     "Adevărat",
+     "Fals"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Adevărat: atmosfera păstrează căldura, ca o pătură."
+   }
+  },
+  {
+   "id": "V17-16",
+   "nivel": "V-S17-caracteristici-generale-importanta",
+   "competente": [
+    "V-1.1"
+   ],
+   "tip": "asociaza",
+   "dificultate": 2,
+   "enunt": "Asociază învelișul Pământului cu ce conține.",
+   "date": {
+    "perechi": [
+     [
+      "atmosfera",
+      "aer"
+     ],
+     [
+      "hidrosfera",
+      "apă"
+     ],
+     [
+      "litosfera",
+      "roci"
+     ],
+     [
+      "biosfera",
+      "viețuitoare"
+     ]
+    ]
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Cele patru învelișuri ale Pământului."
+   }
+  },
+  {
+   "id": "V17-17",
+   "nivel": "V-S17-caracteristici-generale-importanta",
+   "competente": [
+    "V-3.3"
+   ],
+   "tip": "asociaza",
+   "dificultate": 2,
+   "enunt": "Asociază rolul atmosferei cu exemplul.",
+   "date": {
+    "perechi": [
+     [
+      "ne dă aerul de respirat",
+      "oxigenul"
+     ],
+     [
+      "ne apără de razele Soarelui",
+      "stratul de ozon"
+     ],
+     [
+      "ne apără de meteoriți",
+      "stelele căzătoare ard în aer"
+     ],
+     [
+      "păstrează căldura",
+      "nopți mai puțin reci"
+     ]
+    ]
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Atmosfera are mai multe roluri importante."
+   }
+  },
+  {
+   "id": "V17-18",
+   "nivel": "V-S17-caracteristici-generale-importanta",
+   "competente": [
+    "V-1.1"
+   ],
+   "tip": "lacunar",
+   "dificultate": 1,
+   "enunt": "Completează.",
+   "date": {
+    "text": "Aerul conține aproximativ 78 % {0} și 21 % {1}.",
+    "raspunsuri": [
+     "azot",
+     "oxigen"
+    ],
+    "distractori": [
+     "heliu",
+     "hidrogen"
+    ]
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Azotul și oxigenul formează aproape tot aerul."
+   },
+   "surse": [
+    "NASA Earth Observatory – Earth's Atmosphere",
+    "Wikipedia – Atmosphere of Earth (compoziția aerului uscat)"
+   ]
+  },
+  {
+   "id": "V17-19",
+   "nivel": "V-S17-caracteristici-generale-importanta",
+   "competente": [
+    "V-1.1"
+   ],
+   "tip": "lacunar",
+   "dificultate": 2,
+   "enunt": "Completează.",
+   "date": {
+    "text": "Stratul de jos al atmosferei, în care trăim, se numește {0}; deasupra lui se află {1}.",
+    "raspunsuri": [
+     "troposferă",
+     "stratosfera"
+    ],
+    "distractori": [
+     "exosfera",
+     "litosfera"
+    ]
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Troposfera, apoi stratosfera."
+   }
+  },
+  {
+   "id": "V17-20",
+   "nivel": "V-S17-caracteristici-generale-importanta",
+   "competente": [
+    "V-3.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce sunt „stelele căzătoare”?",
+   "date": {
+    "variante": [
+     "meteoriți mici care ard când intră în atmosferă",
+     "stele care cad pe Pământ",
+     "avioane",
+     "fulgere"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Frecarea cu aerul îi încălzește până ard."
+   }
+  },
+  {
+   "id": "V17-21",
+   "nivel": "V-S17-caracteristici-generale-importanta",
+   "competente": [
+    "V-4.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 3,
+   "enunt": "Cum poți arăta că aerul ocupă loc?",
+   "date": {
+    "variante": [
+     "împingi un pahar gol, cu gura în jos, într-un vas cu apă: apa nu intră în pahar",
+     "pui paharul la soare",
+     "scrii pe pahar",
+     "spargi paharul"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Aerul prins în pahar nu lasă apa să intre."
+   }
+  },
+  {
+   "id": "V17-22",
+   "nivel": "V-S17-caracteristici-generale-importanta",
+   "competente": [
+    "V-4.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 3,
+   "enunt": "Un balon umflat pus la frigider se micșorează. Ce arată experimentul?",
+   "date": {
+    "variante": [
+     "aerul rece ocupă mai puțin loc decât aerul cald",
+     "aerul dispare la frig",
+     "balonul se topește",
+     "aerul devine apă"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Aerul se contractă la rece și se dilată la cald."
+   }
+  },
+  {
+   "id": "V17-23",
+   "nivel": "V-S17-caracteristici-generale-importanta",
+   "competente": [
+    "V-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce poluează aerul?",
+   "date": {
+    "variante": [
+     "fumul de la fabrici, mașini și arderea gunoaielor",
+     "plantele verzi",
+     "ploaia",
+     "zăpada"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Gazele și particulele din arderi poluează aerul."
+   }
+  },
+  {
+   "id": "V17-24",
+   "nivel": "V-S17-caracteristici-generale-importanta",
+   "competente": [
+    "V-4.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce poți face tu pentru un aer mai curat?",
+   "date": {
+    "variante": [
+     "mergi pe jos sau cu bicicleta pe distanțe mici și nu arzi frunze sau gunoaie",
+     "lași motorul mașinii pornit",
+     "arzi plasticul în curte",
+     "tai copacii din parc"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Mai puține arderi înseamnă aer mai curat."
+   }
+  },
+  {
+   "id": "V17-25",
+   "nivel": "V-S17-caracteristici-generale-importanta",
+   "competente": [
+    "V-1.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 3,
+   "enunt": "Pe Lună nu există atmosferă. Ce urmare are?",
+   "date": {
+    "variante": [
+     "cerul e negru și ziua, iar temperatura variază enorm între zi și noapte",
+     "cerul e albastru",
+     "plouă des",
+     "bat vânturi puternice"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Fără aer nu există nori, vânt, ploaie, iar căldura nu e păstrată."
+   }
+  },
+  {
+   "id": "V17-26",
+   "nivel": "V-S17-caracteristici-generale-importanta",
+   "competente": [
+    "V-3.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "De ce e mai greu să respiri pe un munte foarte înalt?",
+   "date": {
+    "variante": [
+     "pentru că aerul e mai rarefiat (mai puțin dens), deci primești mai puțin oxigen la fiecare respirație",
+     "pentru că acolo nu există oxigen deloc",
+     "pentru că e prea cald",
+     "pentru că aerul e mai umed"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Sus, aerul e mai rar; alpiniștii de pe Everest folosesc des butelii cu oxigen."
+   }
+  },
+  {
+   "id": "V17-27",
+   "nivel": "V-S17-caracteristici-generale-importanta",
+   "competente": [
+    "V-3.2"
+   ],
+   "tip": "ordoneaza",
+   "dificultate": 3,
+   "enunt": "Ordonează locurile de la cel mai cald la cel mai rece, într-o zi de vară, în aceeași zonă.",
+   "date": {
+    "elemente": [
+     "câmpia de la poalele muntelui",
+     "dealul",
+     "pădurea de pe munte",
+     "vârful muntelui"
+    ],
+    "criteriu": "De la cald la rece"
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Temperatura scade cu altitudinea în troposferă."
+   }
+  },
+  {
+   "id": "V17-28",
+   "nivel": "V-S17-caracteristici-generale-importanta",
+   "competente": [
+    "V-1.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Care strat al atmosferei e cel mai îndepărtat de Pământ?",
+   "date": {
+    "variante": [
+     "exosfera",
+     "troposfera",
+     "stratosfera",
+     "mezosfera"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Exosfera trece treptat în spațiul cosmic."
+   },
+   "surse": [
+    "NOAA / National Weather Service JetStream – Layers of the Atmosphere",
+    "UCAR Center for Science Education – Layers of Earth's Atmosphere"
+   ]
+  },
+  {
+   "id": "V17-29",
+   "nivel": "V-S17-caracteristici-generale-importanta",
+   "competente": [
+    "V-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Cum se numește amestecul de ceață și fum care apare deasupra orașelor foarte poluate?",
+   "date": {
+    "variante": [
+     "smog",
+     "brumă",
+     "polei",
+     "rouă"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Smog vine din englezescul smoke (fum) + fog (ceață)."
+   }
+  },
+  {
+   "id": "V17-30",
+   "nivel": "V-S17-caracteristici-generale-importanta",
+   "competente": [
+    "V-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 3,
+   "enunt": "De ce în orașele mari se pun stații de măsurare a calității aerului?",
+   "date": {
+    "variante": [
+     "ca oamenii să afle când aerul e poluat și să se protejeze",
+     "ca să măsoare înălțimea clădirilor",
+     "ca să facă ploaie",
+     "ca să numere mașinile"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Datele despre aer ajută la protejarea sănătății."
+   }
+  },
+  {
+   "id": "V18-01",
+   "nivel": "V-S18-elemente-fenomene-meteorologice",
+   "competente": [
+    "V-1.1"
+   ],
+   "tip": "asociaza",
+   "dificultate": 1,
+   "enunt": "Asociază instrumentul cu ce măsoară.",
+   "date": {
+    "perechi": [
+     [
+      "termometrul",
+      "temperatura"
+     ],
+     [
+      "barometrul",
+      "presiunea atmosferică"
+     ],
+     [
+      "pluviometrul",
+      "precipitațiile"
+     ],
+     [
+      "anemometrul",
+      "viteza vântului"
+     ]
+    ]
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Fiecare element meteorologic are instrumentul lui."
+   }
+  },
+  {
+   "id": "V18-02",
+   "nivel": "V-S18-elemente-fenomene-meteorologice",
+   "competente": [
+    "V-1.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 1,
+   "enunt": "Cu ce instrument se măsoară temperatura aerului?",
+   "date": {
+    "variante": [
+     "termometrul",
+     "barometrul",
+     "pluviometrul",
+     "busola"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Termometrul măsoară temperatura, în grade Celsius."
+   }
+  },
+  {
+   "id": "V18-03",
+   "nivel": "V-S18-elemente-fenomene-meteorologice",
+   "competente": [
+    "V-1.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce arată girueta?",
+   "date": {
+    "variante": [
+     "direcția din care bate vântul",
+     "cantitatea de ploaie",
+     "temperatura",
+     "presiunea"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Girueta se întoarce cu vârful spre locul de unde vine vântul."
+   }
+  },
+  {
+   "id": "V18-04",
+   "nivel": "V-S18-elemente-fenomene-meteorologice",
+   "competente": [
+    "V-1.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce măsoară higrometrul?",
+   "date": {
+    "variante": [
+     "umezeala aerului",
+     "viteza vântului",
+     "presiunea",
+     "temperatura apei"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Higrometrul arată câți vapori de apă are aerul."
+   }
+  },
+  {
+   "id": "V18-05",
+   "nivel": "V-S18-elemente-fenomene-meteorologice",
+   "competente": [
+    "V-2.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 1,
+   "enunt": "În ce unitate de măsură se exprimă temperatura aerului la noi?",
+   "date": {
+    "variante": [
+     "grade Celsius (°C)",
+     "kilometri",
+     "litri",
+     "kilograme"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Temperatura se exprimă în °C."
+   }
+  },
+  {
+   "id": "V18-06",
+   "nivel": "V-S18-elemente-fenomene-meteorologice",
+   "competente": [
+    "V-2.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "În ce unitate se măsoară cantitatea de precipitații?",
+   "date": {
+    "variante": [
+     "litri pe metru pătrat (l/m²) sau milimetri",
+     "grade Celsius",
+     "kilometri pe oră",
+     "kilograme"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "1 l/m² = un strat de apă de 1 mm."
+   }
+  },
+  {
+   "id": "V18-07",
+   "nivel": "V-S18-elemente-fenomene-meteorologice",
+   "competente": [
+    "V-1.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Unde se măsoară corect temperatura aerului?",
+   "date": {
+    "variante": [
+     "la umbră, la 2 m deasupra solului, într-un adăpost meteorologic",
+     "în plin soare, pe asfalt",
+     "în casă, lângă calorifer",
+     "în apa râului"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Termometrul pus la soare arată mai mult decât temperatura reală a aerului."
+   }
+  },
+  {
+   "id": "V18-08",
+   "nivel": "V-S18-elemente-fenomene-meteorologice",
+   "competente": [
+    "V-1.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce este vântul?",
+   "date": {
+    "variante": [
+     "deplasarea aerului de la o zonă cu presiune mare spre una cu presiune mică",
+     "căderea apei din nori",
+     "apa care se evaporă",
+     "lumina Soarelui"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Diferențele de presiune pun aerul în mișcare."
+   }
+  },
+  {
+   "id": "V18-09",
+   "nivel": "V-S18-elemente-fenomene-meteorologice",
+   "competente": [
+    "V-3.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce se întâmplă cu presiunea atmosferică pe măsură ce urci pe munte?",
+   "date": {
+    "variante": [
+     "scade",
+     "crește",
+     "rămâne la fel",
+     "devine zero la 1 000 m"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Deasupra ta e tot mai puțin aer, deci apasă mai puțin."
+   }
+  },
+  {
+   "id": "V18-10",
+   "nivel": "V-S18-elemente-fenomene-meteorologice",
+   "competente": [
+    "V-1.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Cum se formează norii?",
+   "date": {
+    "variante": [
+     "aerul umed urcă, se răcește, iar vaporii de apă se transformă în picături foarte mici",
+     "din fumul fabricilor",
+     "din praf",
+     "din gheața de la poli"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Răcirea aerului umed produce condensarea vaporilor."
+   }
+  },
+  {
+   "id": "V18-11",
+   "nivel": "V-S18-elemente-fenomene-meteorologice",
+   "competente": [
+    "V-1.1"
+   ],
+   "tip": "asociaza",
+   "dificultate": 2,
+   "enunt": "Asociază tipul de precipitații cu descrierea.",
+   "date": {
+    "perechi": [
+     [
+      "ploaia",
+      "picături de apă"
+     ],
+     [
+      "zăpada",
+      "fulgi de gheață"
+     ],
+     [
+      "grindina",
+      "bucăți rotunde de gheață, vara, la furtuni"
+     ],
+     [
+      "lapovița",
+      "amestec de ploaie și zăpadă"
+     ]
+    ]
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Forma precipitațiilor depinde de temperatura aerului."
+   }
+  },
+  {
+   "id": "V18-12",
+   "nivel": "V-S18-elemente-fenomene-meteorologice",
+   "competente": [
+    "V-1.1"
+   ],
+   "tip": "asociaza",
+   "dificultate": 2,
+   "enunt": "Asociază fenomenul cu descrierea.",
+   "date": {
+    "perechi": [
+     [
+      "roua",
+      "picături de apă pe iarbă, dimineața"
+     ],
+     [
+      "bruma",
+      "cristale fine de gheață pe iarbă, toamna"
+     ],
+     [
+      "poleiul",
+      "strat de gheață pe drum, din ploaie care îngheață"
+     ],
+     [
+      "ceața",
+      "nor la nivelul solului"
+     ]
+    ]
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Toate apar când aerul umed se răcește."
+   }
+  },
+  {
+   "id": "V18-13",
+   "nivel": "V-S18-elemente-fenomene-meteorologice",
+   "competente": [
+    "V-1.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce fenomen apare când ploaia cade pe sol înghețat și formează gheață?",
+   "date": {
+    "variante": [
+     "poleiul",
+     "roua",
+     "curcubeul",
+     "seceta"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Poleiul face drumurile foarte alunecoase."
+   }
+  },
+  {
+   "id": "V18-14",
+   "nivel": "V-S18-elemente-fenomene-meteorologice",
+   "competente": [
+    "V-1.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Când apare curcubeul?",
+   "date": {
+    "variante": [
+     "când Soarele luminează picăturile de ploaie, iar noi stăm cu spatele la Soare",
+     "noaptea, pe cer senin",
+     "doar iarna",
+     "doar la Ecuator"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Picăturile descompun lumina albă în culori."
+   }
+  },
+  {
+   "id": "V18-15",
+   "nivel": "V-S18-elemente-fenomene-meteorologice",
+   "competente": [
+    "V-3.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 3,
+   "enunt": "Vezi fulgerul, iar tunetul se aude după 9 secunde. Cam la ce distanță e furtuna?",
+   "date": {
+    "variante": [
+     "aproximativ 3 km",
+     "aproximativ 9 km",
+     "aproximativ 30 km",
+     "aproximativ 300 m"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Sunetul parcurge aproximativ 1 km în 3 secunde: 9 : 3 = 3 km."
+   }
+  },
+  {
+   "id": "V18-16",
+   "nivel": "V-S18-elemente-fenomene-meteorologice",
+   "competente": [
+    "V-1.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce înseamnă nebulozitate?",
+   "date": {
+    "variante": [
+     "cât din cer e acoperit de nori",
+     "cât de tare bate vântul",
+     "cât de cald e",
+     "câtă apă e în râuri"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Cer senin, noros sau acoperit: așa descriem nebulozitatea."
+   }
+  },
+  {
+   "id": "V18-17",
+   "nivel": "V-S18-elemente-fenomene-meteorologice",
+   "competente": [
+    "V-1.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 1,
+   "enunt": "Adevărat sau fals? Grindina cade mai ales vara, din norii de furtună.",
+   "date": {
+    "variante": [
+     "Adevărat",
+     "Fals"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Adevărat: în norii de furtună picăturile urcă sus, îngheață și cad ca grindină."
+   }
+  },
+  {
+   "id": "V18-18",
+   "nivel": "V-S18-elemente-fenomene-meteorologice",
+   "competente": [
+    "V-1.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Adevărat sau fals? Aerul este încălzit direct și mai ales de razele Soarelui care trec prin el.",
+   "date": {
+    "variante": [
+     "Fals",
+     "Adevărat"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Fals: razele încălzesc mai întâi solul și apa, iar acestea încălzesc aerul de deasupra."
+   }
+  },
+  {
+   "id": "V18-19",
+   "nivel": "V-S18-elemente-fenomene-meteorologice",
+   "competente": [
+    "V-3.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Adevărat sau fals? Aerul cald este mai ușor și urcă.",
+   "date": {
+    "variante": [
+     "Adevărat",
+     "Fals"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Adevărat: de aceea balonul cu aer cald zboară."
+   }
+  },
+  {
+   "id": "V18-20",
+   "nivel": "V-S18-elemente-fenomene-meteorologice",
+   "competente": [
+    "V-1.1"
+   ],
+   "tip": "lacunar",
+   "dificultate": 2,
+   "enunt": "Completează.",
+   "date": {
+    "text": "Presiunea atmosferică se măsoară cu {0}, iar viteza vântului cu {1}.",
+    "raspunsuri": [
+     "barometrul",
+     "anemometrul"
+    ],
+    "distractori": [
+     "pluviometrul",
+     "termometrul"
+    ]
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Barometru – presiune; anemometru – vânt."
+   }
+  },
+  {
+   "id": "V18-21",
+   "nivel": "V-S18-elemente-fenomene-meteorologice",
+   "competente": [
+    "V-1.2"
+   ],
+   "tip": "lacunar",
+   "dificultate": 2,
+   "enunt": "Completează.",
+   "date": {
+    "text": "Apa care cade din nori se numește {0}; norul care stă chiar lângă sol se numește {1}.",
+    "raspunsuri": [
+     "precipitații",
+     "ceață"
+    ],
+    "distractori": [
+     "rouă",
+     "vânt"
+    ]
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Ceața e un nor la nivelul solului."
+   }
+  },
+  {
+   "id": "V18-22",
+   "nivel": "V-S18-elemente-fenomene-meteorologice",
+   "competente": [
+    "V-2.3"
+   ],
+   "tip": "grafic",
+   "dificultate": 2,
+   "enunt": "Graficul arată temperatura aerului într-o zi de vară, la o stație imaginară. La ce oră a fost cel mai cald?",
+   "date": {
+    "grafic": {
+     "tip": "profil",
+     "titlu": "Temperatura aerului într-o zi de vară (date imaginare)",
+     "date": [
+      {
+       "eticheta": "ora 6",
+       "valoare": 16
+      },
+      {
+       "eticheta": "ora 9",
+       "valoare": 21
+      },
+      {
+       "eticheta": "ora 12",
+       "valoare": 27
+      },
+      {
+       "eticheta": "ora 15",
+       "valoare": 30
+      },
+      {
+       "eticheta": "ora 18",
+       "valoare": 26
+      },
+      {
+       "eticheta": "ora 21",
+       "valoare": 20
+      }
+     ],
+     "unitate": "°C"
+    },
+    "variante": [
+     "la ora 15",
+     "la ora 12",
+     "la ora 6",
+     "la ora 21"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Cel mai cald e după-amiaza, după ce solul s-a încălzit toată dimineața."
+   }
+  },
+  {
+   "id": "V18-23",
+   "nivel": "V-S18-elemente-fenomene-meteorologice",
+   "competente": [
+    "V-2.3",
+    "V-3.1"
+   ],
+   "tip": "grafic",
+   "dificultate": 3,
+   "enunt": "În aceeași zi imaginară, cu câte grade a crescut temperatura de la ora 6 la ora 15?",
+   "date": {
+    "grafic": {
+     "tip": "profil",
+     "titlu": "Temperatura aerului într-o zi de vară (date imaginare)",
+     "date": [
+      {
+       "eticheta": "ora 6",
+       "valoare": 16
+      },
+      {
+       "eticheta": "ora 9",
+       "valoare": 21
+      },
+      {
+       "eticheta": "ora 12",
+       "valoare": 27
+      },
+      {
+       "eticheta": "ora 15",
+       "valoare": 30
+      },
+      {
+       "eticheta": "ora 18",
+       "valoare": 26
+      },
+      {
+       "eticheta": "ora 21",
+       "valoare": 20
+      }
+     ],
+     "unitate": "°C"
+    },
+    "variante": [
+     "cu 14 grade",
+     "cu 30 de grade",
+     "cu 16 grade",
+     "cu 10 grade"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "30 − 16 = 14 grade. Diferența dintre maxima și minima unei zile se numește amplitudine diurnă."
+   }
+  },
+  {
+   "id": "V18-24",
+   "nivel": "V-S18-elemente-fenomene-meteorologice",
+   "competente": [
+    "V-2.3"
+   ],
+   "tip": "grafic",
+   "dificultate": 2,
+   "enunt": "Graficul arată precipitațiile dintr-o săptămână, la o stație imaginară. În ce zi a plouat cel mai mult?",
+   "date": {
+    "grafic": {
+     "tip": "bare",
+     "titlu": "Precipitații într-o săptămână (date imaginare)",
+     "date": [
+      {
+       "eticheta": "luni",
+       "valoare": 0
+      },
+      {
+       "eticheta": "marți",
+       "valoare": 12
+      },
+      {
+       "eticheta": "miercuri",
+       "valoare": 3
+      },
+      {
+       "eticheta": "joi",
+       "valoare": 25
+      },
+      {
+       "eticheta": "vineri",
+       "valoare": 0
+      },
+      {
+       "eticheta": "sâmbătă",
+       "valoare": 6
+      },
+      {
+       "eticheta": "duminică",
+       "valoare": 1
+      }
+     ],
+     "unitate": "l/m²"
+    },
+    "variante": [
+     "joi",
+     "marți",
+     "luni",
+     "duminică"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Joi bara e cea mai înaltă: 25 l/m²."
+   }
+  },
+  {
+   "id": "V18-25",
+   "nivel": "V-S18-elemente-fenomene-meteorologice",
+   "competente": [
+    "V-1.2"
+   ],
+   "tip": "ordoneaza",
+   "dificultate": 2,
+   "enunt": "Ordonează pașii prin care se formează ploaia.",
+   "date": {
+    "elemente": [
+     "Soarele încălzește apa",
+     "apa se evaporă",
+     "aerul umed urcă și se răcește",
+     "se formează norii",
+     "picăturile cresc și cad ca ploaie"
+    ],
+    "criteriu": "Ordinea formării ploii"
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Evaporare, urcare, răcire, condensare, precipitații."
+   }
+  },
+  {
+   "id": "V18-26",
+   "nivel": "V-S18-elemente-fenomene-meteorologice",
+   "competente": [
+    "V-4.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce faci dacă te prinde furtuna cu fulgere pe un câmp?",
+   "date": {
+    "variante": [
+     "te depărtezi de copacii singuratici și de stâlpi și te ghemuiești jos, pe vine",
+     "te adăpostești sub cel mai înalt copac",
+     "ridici o umbrelă metalică",
+     "urci pe un deal"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Fulgerul lovește des obiectele înalte, izolate."
+   }
+  },
+  {
+   "id": "V18-27",
+   "nivel": "V-S18-elemente-fenomene-meteorologice",
+   "competente": [
+    "V-1.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 3,
+   "enunt": "Seara e senin și nu bate vântul; dimineață, pe iarbă sunt picături de apă. Ce s-a format?",
+   "date": {
+    "variante": [
+     "rouă",
+     "polei",
+     "grindină",
+     "chiciură"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Noaptea senină răcește solul, iar vaporii se depun ca rouă."
+   }
+  },
+  {
+   "id": "V18-28",
+   "nivel": "V-S18-elemente-fenomene-meteorologice",
+   "competente": [
+    "V-3.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 3,
+   "enunt": "De ce iarna, la ger, se formează chiciură pe crengi?",
+   "date": {
+    "variante": [
+     "pentru că ceața sau vaporii îngheață direct pe ramurile foarte reci",
+     "pentru că plouă cu gheață",
+     "pentru că bate vântul cald",
+     "pentru că se topește zăpada"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Chiciura apare pe vreme geroasă și cu ceață."
+   }
+  },
+  {
+   "id": "V18-29",
+   "nivel": "V-S18-elemente-fenomene-meteorologice",
+   "competente": [
+    "V-1.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Cum se numește clădirea sau terenul unde se măsoară zilnic elementele meteorologice?",
+   "date": {
+    "variante": [
+     "stația meteorologică",
+     "observatorul astronomic",
+     "stația de pompare",
+     "hidrocentrala"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "La stațiile meteorologice se fac măsurători la ore fixe."
+   }
+  },
+  {
+   "id": "V18-30",
+   "nivel": "V-S18-elemente-fenomene-meteorologice",
+   "competente": [
+    "V-1.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce aduce de obicei scăderea bruscă a presiunii atmosferice?",
+   "date": {
+    "variante": [
+     "vreme rea, cu nori și precipitații",
+     "cer senin și ger",
+     "nimic, presiunea nu contează",
+     "secetă"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Presiunea joasă e asociată cu aer care urcă, nori și ploi."
+   }
+  },
+  {
+   "id": "V18-31",
+   "nivel": "V-S18-elemente-fenomene-meteorologice",
+   "competente": [
+    "V-1.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 1,
+   "enunt": "Ce fenomen e format din fulgere și tunete?",
+   "date": {
+    "variante": [
+     "orajul",
+     "poleiul",
+     "bruma",
+     "roua"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Orajele (furtunile cu descărcări electrice) apar mai ales vara."
+   }
+  },
+  {
+   "id": "V19-01",
+   "nivel": "V-S19-vremea-clima",
+   "competente": [
+    "V-1.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 1,
+   "enunt": "Ce este vremea?",
+   "date": {
+    "variante": [
+     "starea atmosferei într-un loc, pe o perioadă scurtă",
+     "regimul vremii pe zeci de ani",
+     "forma de relief",
+     "cantitatea de apă din râu"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Vremea e „acum” sau „zilele acestea”."
+   }
+  },
+  {
+   "id": "V19-02",
+   "nivel": "V-S19-vremea-clima",
+   "competente": [
+    "V-1.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 1,
+   "enunt": "Ce este clima?",
+   "date": {
+    "variante": [
+     "regimul vremii dintr-un loc, observat pe o perioadă foarte lungă",
+     "vremea de azi",
+     "un nor mare",
+     "temperatura de la ora 12"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Clima se stabilește din observații de cel puțin 30 de ani."
+   }
+  },
+  {
+   "id": "V19-03",
+   "nivel": "V-S19-vremea-clima",
+   "competente": [
+    "V-1.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce propoziție vorbește despre climă, nu despre vreme?",
+   "date": {
+    "variante": [
+     "„În Sahara plouă foarte rar.”",
+     "„Azi ninge la Buzău.”",
+     "„Mâine va fi vânt puternic.”",
+     "„Acum e 25 °C.”"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Despre Sahara se spune ce se întâmplă în mod obișnuit, de-a lungul anilor: asta e clima."
+   }
+  },
+  {
+   "id": "V19-04",
+   "nivel": "V-S19-vremea-clima",
+   "competente": [
+    "V-1.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce propoziție vorbește despre vreme?",
+   "date": {
+    "variante": [
+     "„Diseară va ploua cu descărcări electrice.”",
+     "„La Polul Sud e frig tot anul.”",
+     "„La Ecuator e cald și umed tot anul.”",
+     "„Iernile la munte sunt lungi.”"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Ploaia de diseară e un moment scurt: vremea."
+   }
+  },
+  {
+   "id": "V19-05",
+   "nivel": "V-S19-vremea-clima",
+   "competente": [
+    "V-1.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce instituție face prognoza vremii în România?",
+   "date": {
+    "variante": [
+     "Administrația Națională de Meteorologie (ANM)",
+     "Ministerul Sportului",
+     "Primăria",
+     "Agenția Spațială Europeană"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "ANM emite prognoze și avertizări (coduri galben, portocaliu, roșu)."
+   }
+  },
+  {
+   "id": "V19-06",
+   "nivel": "V-S19-vremea-clima",
+   "competente": [
+    "V-3.2"
+   ],
+   "tip": "asociaza",
+   "dificultate": 2,
+   "enunt": "Asociază factorul cu efectul lui asupra climei.",
+   "date": {
+    "perechi": [
+     [
+      "latitudinea",
+      "mai aproape de Ecuator, mai cald"
+     ],
+     [
+      "altitudinea",
+      "mai sus, mai rece"
+     ],
+     [
+      "apropierea de ocean",
+      "veri răcoroase, ierni blânde"
+     ],
+     [
+      "depărtarea de ocean",
+      "veri fierbinți, ierni geroase, puține ploi"
+     ]
+    ]
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Factorii care influențează clima."
+   }
+  },
+  {
+   "id": "V19-07",
+   "nivel": "V-S19-vremea-clima",
+   "competente": [
+    "V-3.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "De ce e mai frig pe vârful Omu decât la Buzău, în aceeași zi?",
+   "date": {
+    "variante": [
+     "pentru că vârful e mult mai sus, iar temperatura scade cu altitudinea",
+     "pentru că e mai aproape de Polul Nord",
+     "pentru că nu bate Soarele acolo",
+     "pentru că e lângă mare"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Altitudinea face diferența."
+   }
+  },
+  {
+   "id": "V19-08",
+   "nivel": "V-S19-vremea-clima",
+   "competente": [
+    "V-3.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "De ce e mai cald la Ecuator decât la poli?",
+   "date": {
+    "variante": [
+     "pentru că la Ecuator razele Soarelui cad aproape perpendicular",
+     "pentru că Ecuatorul e mai aproape de Soare cu mii de kilometri",
+     "pentru că la poli nu există aer",
+     "pentru că la Ecuator sunt vulcani"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Razele perpendiculare încălzesc mai tare o suprafață mai mică."
+   }
+  },
+  {
+   "id": "V19-09",
+   "nivel": "V-S19-vremea-clima",
+   "competente": [
+    "V-3.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 3,
+   "enunt": "Două orașe sunt la aceeași latitudine. Unul e pe țărmul oceanului, celălalt în mijlocul continentului. Care are iernile mai blânde?",
+   "date": {
+    "variante": [
+     "orașul de pe țărm",
+     "orașul din mijlocul continentului",
+     "au ierni identice",
+     "niciunul nu are iarnă"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Oceanul se încălzește și se răcește încet, așa că îndulcește iernile."
+   }
+  },
+  {
+   "id": "V19-10",
+   "nivel": "V-S19-vremea-clima",
+   "competente": [
+    "V-2.3"
+   ],
+   "tip": "grafic",
+   "dificultate": 2,
+   "enunt": "Diagrama arată temperatura medie lunară la o stație imaginară. Care e luna cea mai caldă?",
+   "date": {
+    "grafic": {
+     "tip": "profil",
+     "titlu": "Temperatura medie lunară (date imaginare)",
+     "date": [
+      {
+       "eticheta": "I",
+       "valoare": -3
+      },
+      {
+       "eticheta": "II",
+       "valoare": -1
+      },
+      {
+       "eticheta": "III",
+       "valoare": 5
+      },
+      {
+       "eticheta": "IV",
+       "valoare": 11
+      },
+      {
+       "eticheta": "V",
+       "valoare": 17
+      },
+      {
+       "eticheta": "VI",
+       "valoare": 21
+      },
+      {
+       "eticheta": "VII",
+       "valoare": 23
+      },
+      {
+       "eticheta": "VIII",
+       "valoare": 22
+      },
+      {
+       "eticheta": "IX",
+       "valoare": 17
+      },
+      {
+       "eticheta": "X",
+       "valoare": 11
+      },
+      {
+       "eticheta": "XI",
+       "valoare": 5
+      },
+      {
+       "eticheta": "XII",
+       "valoare": 0
+      }
+     ],
+     "unitate": "°C"
+    },
+    "variante": [
+     "iulie",
+     "ianuarie",
+     "mai",
+     "octombrie"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Linia atinge cel mai sus punct în iulie: 23 °C."
+   }
+  },
+  {
+   "id": "V19-11",
+   "nivel": "V-S19-vremea-clima",
+   "competente": [
+    "V-2.3"
+   ],
+   "tip": "grafic",
+   "dificultate": 2,
+   "enunt": "La aceeași stație imaginară, care e luna cea mai rece?",
+   "date": {
+    "grafic": {
+     "tip": "profil",
+     "titlu": "Temperatura medie lunară (date imaginare)",
+     "date": [
+      {
+       "eticheta": "I",
+       "valoare": -3
+      },
+      {
+       "eticheta": "II",
+       "valoare": -1
+      },
+      {
+       "eticheta": "III",
+       "valoare": 5
+      },
+      {
+       "eticheta": "IV",
+       "valoare": 11
+      },
+      {
+       "eticheta": "V",
+       "valoare": 17
+      },
+      {
+       "eticheta": "VI",
+       "valoare": 21
+      },
+      {
+       "eticheta": "VII",
+       "valoare": 23
+      },
+      {
+       "eticheta": "VIII",
+       "valoare": 22
+      },
+      {
+       "eticheta": "IX",
+       "valoare": 17
+      },
+      {
+       "eticheta": "X",
+       "valoare": 11
+      },
+      {
+       "eticheta": "XI",
+       "valoare": 5
+      },
+      {
+       "eticheta": "XII",
+       "valoare": 0
+      }
+     ],
+     "unitate": "°C"
+    },
+    "variante": [
+     "ianuarie",
+     "iulie",
+     "martie",
+     "decembrie"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Cel mai jos punct e în ianuarie: −3 °C."
+   }
+  },
+  {
+   "id": "V19-12",
+   "nivel": "V-S19-vremea-clima",
+   "competente": [
+    "V-2.3",
+    "V-3.1"
+   ],
+   "tip": "grafic",
+   "dificultate": 3,
+   "enunt": "Care e diferența dintre luna cea mai caldă și luna cea mai rece la stația imaginară (amplitudinea anuală)?",
+   "date": {
+    "grafic": {
+     "tip": "profil",
+     "titlu": "Temperatura medie lunară (date imaginare)",
+     "date": [
+      {
+       "eticheta": "I",
+       "valoare": -3
+      },
+      {
+       "eticheta": "II",
+       "valoare": -1
+      },
+      {
+       "eticheta": "III",
+       "valoare": 5
+      },
+      {
+       "eticheta": "IV",
+       "valoare": 11
+      },
+      {
+       "eticheta": "V",
+       "valoare": 17
+      },
+      {
+       "eticheta": "VI",
+       "valoare": 21
+      },
+      {
+       "eticheta": "VII",
+       "valoare": 23
+      },
+      {
+       "eticheta": "VIII",
+       "valoare": 22
+      },
+      {
+       "eticheta": "IX",
+       "valoare": 17
+      },
+      {
+       "eticheta": "X",
+       "valoare": 11
+      },
+      {
+       "eticheta": "XI",
+       "valoare": 5
+      },
+      {
+       "eticheta": "XII",
+       "valoare": 0
+      }
+     ],
+     "unitate": "°C"
+    },
+    "variante": [
+     "26 °C",
+     "20 °C",
+     "23 °C",
+     "3 °C"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "23 − (−3) = 23 + 3 = 26 °C."
+   },
+   "indiciu": "Scăzând un număr negativ, de fapt aduni."
+  },
+  {
+   "id": "V19-13",
+   "nivel": "V-S19-vremea-clima",
+   "competente": [
+    "V-2.3"
+   ],
+   "tip": "grafic",
+   "dificultate": 2,
+   "enunt": "Diagrama arată precipitațiile lunare la o stație imaginară. Care e luna cea mai ploioasă?",
+   "date": {
+    "grafic": {
+     "tip": "bare",
+     "titlu": "Precipitații medii lunare (date imaginare)",
+     "date": [
+      {
+       "eticheta": "I",
+       "valoare": 30
+      },
+      {
+       "eticheta": "II",
+       "valoare": 28
+      },
+      {
+       "eticheta": "III",
+       "valoare": 32
+      },
+      {
+       "eticheta": "IV",
+       "valoare": 45
+      },
+      {
+       "eticheta": "V",
+       "valoare": 65
+      },
+      {
+       "eticheta": "VI",
+       "valoare": 85
+      },
+      {
+       "eticheta": "VII",
+       "valoare": 70
+      },
+      {
+       "eticheta": "VIII",
+       "valoare": 55
+      },
+      {
+       "eticheta": "IX",
+       "valoare": 40
+      },
+      {
+       "eticheta": "X",
+       "valoare": 35
+      },
+      {
+       "eticheta": "XI",
+       "valoare": 38
+      },
+      {
+       "eticheta": "XII",
+       "valoare": 33
+      }
+     ],
+     "unitate": "l/m²"
+    },
+    "variante": [
+     "iunie",
+     "ianuarie",
+     "august",
+     "decembrie"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Bara cea mai înaltă e la iunie: 85 l/m². La noi, cele mai multe ploi cad la începutul verii."
+   }
+  },
+  {
+   "id": "V19-14",
+   "nivel": "V-S19-vremea-clima",
+   "competente": [
+    "V-1.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Adevărat sau fals? Vremea se schimbă de la o zi la alta, dar clima unui loc rămâne aproape aceeași de la un an la altul.",
+   "date": {
+    "variante": [
+     "Adevărat",
+     "Fals"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Adevărat: vremea e schimbătoare, clima e regimul obișnuit."
+   }
+  },
+  {
+   "id": "V19-15",
+   "nivel": "V-S19-vremea-clima",
+   "competente": [
+    "V-1.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Adevărat sau fals? Dacă într-o zi de iulie e frig la Râmnicu Sărat, înseamnă că avem o climă polară.",
+   "date": {
+    "variante": [
+     "Fals",
+     "Adevărat"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Fals: o zi rece e vremea, nu clima."
+   }
+  },
+  {
+   "id": "V19-16",
+   "nivel": "V-S19-vremea-clima",
+   "competente": [
+    "V-1.1"
+   ],
+   "tip": "lacunar",
+   "dificultate": 2,
+   "enunt": "Completează.",
+   "date": {
+    "text": "Starea atmosferei pe termen scurt se numește {0}; regimul ei pe o perioadă lungă se numește {1}.",
+    "raspunsuri": [
+     "vreme",
+     "climă"
+    ],
+    "distractori": [
+     "prognoză",
+     "presiune"
+    ]
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Vreme – scurt; climă – lung."
+   }
+  },
+  {
+   "id": "V19-17",
+   "nivel": "V-S19-vremea-clima",
+   "competente": [
+    "V-2.3"
+   ],
+   "tip": "lacunar",
+   "dificultate": 2,
+   "enunt": "Completează.",
+   "date": {
+    "text": "Pe diagrama climatică, temperatura se reprezintă cu o {0} roșie, iar precipitațiile cu {1} albastre.",
+    "raspunsuri": [
+     "linie",
+     "coloane"
+    ],
+    "distractori": [
+     "săgeți",
+     "puncte"
+    ]
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Linie pentru temperatură, coloane pentru precipitații."
+   }
+  },
+  {
+   "id": "V19-18",
+   "nivel": "V-S19-vremea-clima",
+   "competente": [
+    "V-4.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce înseamnă o avertizare meteo de cod roșu?",
+   "date": {
+    "variante": [
+     "fenomene meteorologice foarte periculoase; trebuie urmate instrucțiunile autorităților",
+     "vreme frumoasă",
+     "o zi liberă oricum",
+     "doar ploaie slabă"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Codurile, de la galben la roșu, arată pericolul tot mai mare."
+   }
+  },
+  {
+   "id": "V19-19",
+   "nivel": "V-S19-vremea-clima",
+   "competente": [
+    "V-4.3"
+   ],
+   "tip": "ordoneaza",
+   "dificultate": 2,
+   "enunt": "Ordonează codurile de avertizare meteo de la cel mai puțin periculos la cel mai periculos.",
+   "date": {
+    "elemente": [
+     "cod galben",
+     "cod portocaliu",
+     "cod roșu"
+    ],
+    "criteriu": "De la mic la mare pericol"
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Galben, portocaliu, roșu."
+   }
+  },
+  {
+   "id": "V19-20",
+   "nivel": "V-S19-vremea-clima",
+   "competente": [
+    "V-3.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 3,
+   "enunt": "Ce influențează clima orașului Râmnicu Sărat, care e departe de ocean?",
+   "date": {
+    "variante": [
+     "faptul că e departe de ocean: veri calde și ierni reci",
+     "curentul cald al Golfului",
+     "musonul",
+     "vânturile tropicale"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Climatul cu nuanțe continentale: diferențe mari între vară și iarnă."
+   }
+  },
+  {
+   "id": "V19-21",
+   "nivel": "V-S19-vremea-clima",
+   "competente": [
+    "V-4.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce temperatură record maximă s-a înregistrat în România?",
+   "date": {
+    "variante": [
+     "44,5 °C, la Ion Sion, în 1951",
+     "56,7 °C, la Ion Sion",
+     "38 °C, la București",
+     "50 °C, la Constanța"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Recordul național e 44,5 °C (10 august 1951, Ion Sion, județul Brăila)."
+   },
+   "surse": [
+    "Administrația Națională de Meteorologie (ANM) – extreme climatice",
+    "Wikipedia – Climate of Romania"
+   ]
+  },
+  {
+   "id": "V19-22",
+   "nivel": "V-S19-vremea-clima",
+   "competente": [
+    "V-4.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 3,
+   "enunt": "Ce temperatură record minimă s-a înregistrat în România?",
+   "date": {
+    "variante": [
+     "−38,5 °C, la Bod, în 1942",
+     "−89,2 °C, la Bod",
+     "−10 °C, la Brașov",
+     "−60 °C, pe Omu"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Recordul național de frig e −38,5 °C (25 ianuarie 1942, Bod, județul Brașov)."
+   },
+   "surse": [
+    "Administrația Națională de Meteorologie (ANM) – extreme climatice",
+    "Wikipedia – Climate of Romania"
+   ]
+  },
+  {
+   "id": "V19-23",
+   "nivel": "V-S19-vremea-clima",
+   "competente": [
+    "V-4.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Unde s-a înregistrat cea mai scăzută temperatură de pe Pământ?",
+   "date": {
+    "variante": [
+     "la stația Vostok, în Antarctica (−89,2 °C)",
+     "în Siberia (−20 °C)",
+     "la Polul Nord (−200 °C)",
+     "pe Everest (−10 °C)"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "−89,2 °C la Vostok, pe 21 iulie 1983."
+   },
+   "surse": [
+    "WMO – World Weather and Climate Extremes Archive",
+    "NOAA NCEI – Global extremes"
+   ]
+  },
+  {
+   "id": "V19-24",
+   "nivel": "V-S19-vremea-clima",
+   "competente": [
+    "V-4.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Unde s-a înregistrat oficial cea mai ridicată temperatură a aerului de pe Pământ?",
+   "date": {
+    "variante": [
+     "în Valea Morții, SUA (56,7 °C)",
+     "în Sahara (100 °C)",
+     "la București (44,5 °C)",
+     "la Ecuator (35 °C)"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "56,7 °C la Furnace Creek, Valea Morții, pe 10 iulie 1913."
+   },
+   "surse": [
+    "WMO – World Weather and Climate Extremes Archive",
+    "NOAA NCEI – Global extremes"
+   ]
+  },
+  {
+   "id": "V19-25",
+   "nivel": "V-S19-vremea-clima",
+   "competente": [
+    "V-2.1"
+   ],
+   "tip": "pin",
+   "dificultate": 2,
+   "enunt": "Atinge pe harta României orașul Râmnicu Sărat.",
+   "date": {
+    "harta": "romania",
+    "tinta": {
+     "lat": 45.38,
+     "lon": 27.05,
+     "nume": "Râmnicu Sărat"
+    },
+    "toleranta": 40
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Râmnicu Sărat e în nord-estul județului Buzău, la contactul Subcarpaților de Curbură cu Câmpia Română."
+   }
+  },
+  {
+   "id": "V19-26",
+   "nivel": "V-S19-vremea-clima",
+   "competente": [
+    "V-4.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 3,
+   "enunt": "Vrei să știi cum e clima orașului tău. De ce ai nevoie?",
+   "date": {
+    "variante": [
+     "de măsurătorile stației meteo pe cel puțin 30 de ani",
+     "de temperatura de azi",
+     "de o fotografie a cerului",
+     "de prognoza pe mâine"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Clima se calculează din medii pe mulți ani."
+   }
+  },
+  {
+   "id": "V19-27",
+   "nivel": "V-S19-vremea-clima",
+   "competente": [
+    "V-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Cum influențează clima viața oamenilor?",
+   "date": {
+    "variante": [
+     "decide ce plante se cultivă, ce haine purtăm și cum construim casele",
+     "nu are nicio influență",
+     "decide doar culoarea caselor",
+     "influențează doar animalele"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Agricultura, construcțiile, îmbrăcămintea și turismul depind de climă."
+   }
+  },
+  {
+   "id": "V19-28",
+   "nivel": "V-S19-vremea-clima",
+   "competente": [
+    "V-2.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce arată o hartă cu prognoza meteo pentru mâine?",
+   "date": {
+    "variante": [
+     "vremea așteptată: temperaturi, nori, ploi, vânt",
+     "clima pe 30 de ani",
+     "relieful",
+     "granițele județelor"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Prognoza e despre vreme, pe termen scurt."
+   }
+  },
+  {
+   "id": "V19-29",
+   "nivel": "V-S19-vremea-clima",
+   "competente": [
+    "V-1.2"
+   ],
+   "tip": "asociaza",
+   "dificultate": 2,
+   "enunt": "Asociază afirmația cu ce descrie: vremea sau clima.",
+   "date": {
+    "perechi": [
+     [
+      "„Ieri a nins la Buzău.”",
+      "vremea din trecutul apropiat"
+     ],
+     [
+      "„În Sahara plouă foarte rar.”",
+      "clima unui deșert"
+     ],
+     [
+      "„Mâine bate vântul.”",
+      "prognoza vremii"
+     ],
+     [
+      "„La Ecuator e cald tot anul.”",
+      "clima ecuatorială"
+     ]
+    ]
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Pe termen scurt – vremea; obișnuit, pe mulți ani – clima."
+   }
+  },
+  {
+   "id": "V19-30",
+   "nivel": "V-S19-vremea-clima",
+   "competente": [
+    "V-1.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 3,
+   "enunt": "Ce înseamnă „schimbări climatice”?",
+   "date": {
+    "variante": [
+     "modificarea climei pe termen lung, de exemplu încălzirea medie a planetei în ultimele decenii",
+     "o zi mai caldă decât ieri",
+     "schimbarea anotimpurilor",
+     "o furtună puternică"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Se vorbește de schimbări climatice când mediile pe zeci de ani se modifică."
+   }
+  },
+  {
+   "id": "V20-01",
+   "nivel": "V-S20-zonele-climatice-terrei-influenta",
+   "competente": [
+    "V-1.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 1,
+   "enunt": "În ce zonă de climă se află România?",
+   "date": {
+    "variante": [
+     "zona temperată nordică",
+     "zona caldă",
+     "zona rece nordică",
+     "zona temperată sudică"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "România e între Tropicul Racului și Cercul Polar de Nord."
+   }
+  },
+  {
+   "id": "V20-02",
+   "nivel": "V-S20-zonele-climatice-terrei-influenta",
+   "competente": [
+    "V-1.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 1,
+   "enunt": "Între ce linii se află zona caldă?",
+   "date": {
+    "variante": [
+     "între Tropicul Racului și Tropicul Capricornului",
+     "între cele două cercuri polare",
+     "între Polul Nord și Cercul Polar",
+     "între Greenwich și Ecuator"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Zona caldă e de o parte și de alta a Ecuatorului, până la tropice."
+   }
+  },
+  {
+   "id": "V20-03",
+   "nivel": "V-S20-zonele-climatice-terrei-influenta",
+   "competente": [
+    "V-1.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Câte zone temperate există pe Pământ?",
+   "date": {
+    "variante": [
+     "două: una nordică și una sudică",
+     "una singură",
+     "patru",
+     "niciuna"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Câte una în fiecare emisferă."
+   }
+  },
+  {
+   "id": "V20-04",
+   "nivel": "V-S20-zonele-climatice-terrei-influenta",
+   "competente": [
+    "V-1.1"
+   ],
+   "tip": "ordoneaza",
+   "dificultate": 2,
+   "enunt": "Ordonează zonele de climă de la Ecuator spre Polul Nord.",
+   "date": {
+    "elemente": [
+     "zona caldă",
+     "zona temperată nordică",
+     "zona rece nordică"
+    ],
+    "criteriu": "De la Ecuator spre Polul Nord"
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Cald, temperat, rece."
+   }
+  },
+  {
+   "id": "V20-05",
+   "nivel": "V-S20-zonele-climatice-terrei-influenta",
+   "competente": [
+    "V-3.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "De ce e frig în zonele polare?",
+   "date": {
+    "variante": [
+     "pentru că razele Soarelui cad foarte înclinat și încălzesc puțin",
+     "pentru că acolo Soarele e mai mic",
+     "pentru că acolo nu e aer",
+     "pentru că e mai aproape de Lună"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Razele înclinate se împrăștie pe o suprafață mare și încălzesc slab."
+   }
+  },
+  {
+   "id": "V20-06",
+   "nivel": "V-S20-zonele-climatice-terrei-influenta",
+   "competente": [
+    "V-1.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce caracterizează zonele temperate?",
+   "date": {
+    "variante": [
+     "patru anotimpuri distincte",
+     "cald și ploios tot anul",
+     "gheață tot anul",
+     "noapte șase luni"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Primăvara, vara, toamna, iarna."
+   }
+  },
+  {
+   "id": "V20-07",
+   "nivel": "V-S20-zonele-climatice-terrei-influenta",
+   "competente": [
+    "V-1.2"
+   ],
+   "tip": "asociaza",
+   "dificultate": 2,
+   "enunt": "Asociază zona de climă cu un loc din ea.",
+   "date": {
+    "perechi": [
+     [
+      "zona caldă",
+      "Bazinul Amazonului"
+     ],
+     [
+      "zona temperată nordică",
+      "România"
+     ],
+     [
+      "zona rece nordică",
+      "Groenlanda"
+     ],
+     [
+      "zona rece sudică",
+      "Antarctica"
+     ]
+    ]
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Fiecare zonă are locurile ei tipice."
+   }
+  },
+  {
+   "id": "V20-08",
+   "nivel": "V-S20-zonele-climatice-terrei-influenta",
+   "competente": [
+    "V-2.1"
+   ],
+   "tip": "etichete",
+   "dificultate": 2,
+   "enunt": "Pune pe hartă etichetele locurilor, după zona de climă.",
+   "date": {
+    "tinte": [
+     {
+      "id": "ro",
+      "eticheta": "România – zona temperată",
+      "lat": 46,
+      "lon": 25
+     },
+     {
+      "id": "am",
+      "eticheta": "Amazonia – zona caldă",
+      "lat": -4,
+      "lon": -62
+     },
+     {
+      "id": "gr",
+      "eticheta": "Groenlanda – zona rece",
+      "lat": 72,
+      "lon": -40
+     },
+     {
+      "id": "an",
+      "eticheta": "Antarctica – zona rece",
+      "lat": -80,
+      "lon": 30
+     }
+    ],
+    "harta": "lume"
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "România e în zona temperată, Amazonia în zona caldă, Groenlanda și Antarctica în zonele reci."
+   }
+  },
+  {
+   "id": "V20-09",
+   "nivel": "V-S20-zonele-climatice-terrei-influenta",
+   "competente": [
+    "V-2.1"
+   ],
+   "tip": "pin",
+   "dificultate": 2,
+   "enunt": "Atinge pe hartă un loc din zona caldă: Bazinul Congo (Africa).",
+   "date": {
+    "harta": "lume",
+    "tinta": {
+     "lat": -1,
+     "lon": 22,
+     "nume": "Bazinul Congo"
+    },
+    "toleranta": 1200
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Bazinul Congo e pe Ecuator, în zona caldă."
+   }
+  },
+  {
+   "id": "V20-10",
+   "nivel": "V-S20-zonele-climatice-terrei-influenta",
+   "competente": [
+    "V-2.1"
+   ],
+   "tip": "pin",
+   "dificultate": 3,
+   "enunt": "Atinge pe hartă Groenlanda, un loc din zona rece.",
+   "date": {
+    "harta": "lume",
+    "tinta": {
+     "lat": 72,
+     "lon": -40,
+     "nume": "Groenlanda"
+    },
+    "toleranta": 1200
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Groenlanda e o insulă imensă, acoperită de gheață, la nord-est de America de Nord."
+   }
+  },
+  {
+   "id": "V20-11",
+   "nivel": "V-S20-zonele-climatice-terrei-influenta",
+   "competente": [
+    "V-1.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce este noaptea polară?",
+   "date": {
+    "variante": [
+     "perioada în care Soarele nu răsare deloc, timp de zile sau luni, dincolo de cercul polar",
+     "o noapte foarte scurtă",
+     "o noapte fără Lună",
+     "noaptea de la Ecuator"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Iarna, la poli, Soarele nu apare deasupra orizontului."
+   }
+  },
+  {
+   "id": "V20-12",
+   "nivel": "V-S20-zonele-climatice-terrei-influenta",
+   "competente": [
+    "V-1.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Adevărat sau fals? În zona caldă e cald tot anul, dar nu peste tot plouă mult.",
+   "date": {
+    "variante": [
+     "Adevărat",
+     "Fals"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Adevărat: lângă Ecuator plouă mult, dar în deșerturi ca Sahara plouă foarte rar."
+   }
+  },
+  {
+   "id": "V20-13",
+   "nivel": "V-S20-zonele-climatice-terrei-influenta",
+   "competente": [
+    "V-1.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Adevărat sau fals? În zonele polare există patru anotimpuri la fel de lungi ca la noi.",
+   "date": {
+    "variante": [
+     "Fals",
+     "Adevărat"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Fals: acolo iarna e foarte lungă, iar vara scurtă și rece."
+   }
+  },
+  {
+   "id": "V20-14",
+   "nivel": "V-S20-zonele-climatice-terrei-influenta",
+   "competente": [
+    "V-3.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 3,
+   "enunt": "Cum influențează clima râurile?",
+   "date": {
+    "variante": [
+     "unde plouă mult râurile sunt mari și bogate în apă; în deșert sunt rare sau seacă",
+     "nu are nicio influență",
+     "râurile sunt la fel peste tot",
+     "râurile curg doar în zona rece"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Amazonul e uriaș pentru că bazinul lui primește foarte multă ploaie."
+   }
+  },
+  {
+   "id": "V20-15",
+   "nivel": "V-S20-zonele-climatice-terrei-influenta",
+   "competente": [
+    "V-3.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 3,
+   "enunt": "Cum influențează clima relieful, în deșerturi?",
+   "date": {
+    "variante": [
+     "vântul transportă nisipul și formează dune",
+     "ghețarii sapă văi",
+     "valurile formează faleze",
+     "râurile formează delte"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "În deșert, vântul e principalul agent care modelează relieful."
+   }
+  },
+  {
+   "id": "V20-16",
+   "nivel": "V-S20-zonele-climatice-terrei-influenta",
+   "competente": [
+    "V-3.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 3,
+   "enunt": "Cum influențează clima relieful, în munții foarte înalți și reci?",
+   "date": {
+    "variante": [
+     "ghețarii sapă văi și căldări glaciare",
+     "vântul formează dune",
+     "lava acoperă munții",
+     "valurile sapă peșteri"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Gheața în mișcare roade rocile."
+   }
+  },
+  {
+   "id": "V20-17",
+   "nivel": "V-S20-zonele-climatice-terrei-influenta",
+   "competente": [
+    "V-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Cum influențează clima plantele?",
+   "date": {
+    "variante": [
+     "în zona caldă și umedă cresc păduri dese; în zona rece, doar mușchi și licheni",
+     "plantele sunt la fel peste tot",
+     "plantele nu au nevoie de căldură",
+     "doar deșertul are plante"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Căldura și umezeala decid ce plante cresc."
+   }
+  },
+  {
+   "id": "V20-18",
+   "nivel": "V-S20-zonele-climatice-terrei-influenta",
+   "competente": [
+    "V-3.2",
+    "V-3.3"
+   ],
+   "tip": "asociaza",
+   "dificultate": 3,
+   "enunt": "Asociază zona de climă cu ce influențează.",
+   "date": {
+    "perechi": [
+     [
+      "zona caldă și umedă",
+      "păduri ecuatoriale"
+     ],
+     [
+      "zona caldă și uscată",
+      "deșerturi cu dune"
+     ],
+     [
+      "zona temperată",
+      "păduri de foioase și stepe"
+     ],
+     [
+      "zona rece",
+      "gheață și tundră"
+     ]
+    ]
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Clima decide peisajul."
+   }
+  },
+  {
+   "id": "V20-19",
+   "nivel": "V-S20-zonele-climatice-terrei-influenta",
+   "competente": [
+    "V-1.1"
+   ],
+   "tip": "lacunar",
+   "dificultate": 2,
+   "enunt": "Completează.",
+   "date": {
+    "text": "Zona caldă e între {0}; zonele reci sunt dincolo de {1}.",
+    "raspunsuri": [
+     "tropice",
+     "cercurile polare"
+    ],
+    "distractori": [
+     "meridiane",
+     "Greenwich"
+    ]
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Tropicele și cercurile polare sunt limitele zonelor de climă."
+   }
+  },
+  {
+   "id": "V20-20",
+   "nivel": "V-S20-zonele-climatice-terrei-influenta",
+   "competente": [
+    "V-1.1"
+   ],
+   "tip": "lacunar",
+   "dificultate": 2,
+   "enunt": "Completează.",
+   "date": {
+    "text": "România se află în emisfera {0}, în zona {1}.",
+    "raspunsuri": [
+     "nordică",
+     "temperată"
+    ],
+    "distractori": [
+     "sudică",
+     "caldă"
+    ]
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Emisfera nordică, zona temperată."
+   }
+  },
+  {
+   "id": "V20-21",
+   "nivel": "V-S20-zonele-climatice-terrei-influenta",
+   "competente": [
+    "V-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Cum se adaptează casele din zona rece?",
+   "date": {
+    "variante": [
+     "au pereți groși și ferestre mici, ca să păstreze căldura",
+     "sunt făcute din frunze",
+     "nu au acoperiș",
+     "au pereți subțiri și ferestre uriașe"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Construcțiile se adaptează la climă."
+   }
+  },
+  {
+   "id": "V20-22",
+   "nivel": "V-S20-zonele-climatice-terrei-influenta",
+   "competente": [
+    "V-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce animal trăiește în zona rece nordică?",
+   "date": {
+    "variante": [
+     "ursul polar",
+     "girafa",
+     "cămila",
+     "zebra"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Ursul polar are blană deasă și un strat gros de grăsime."
+   }
+  },
+  {
+   "id": "V20-23",
+   "nivel": "V-S20-zonele-climatice-terrei-influenta",
+   "competente": [
+    "V-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce animal e adaptat la deșert?",
+   "date": {
+    "variante": [
+     "cămila",
+     "pinguinul",
+     "ursul polar",
+     "foca"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Cămila rezistă mult fără apă."
+   }
+  },
+  {
+   "id": "V20-24",
+   "nivel": "V-S20-zonele-climatice-terrei-influenta",
+   "competente": [
+    "V-1.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 3,
+   "enunt": "Pe Ecuator, la 5 000 m altitudine, pe muntele Kilimanjaro, e zăpadă. De ce?",
+   "date": {
+    "variante": [
+     "pentru că temperatura scade cu altitudinea, chiar și în zona caldă",
+     "pentru că Kilimanjaro e lângă pol",
+     "pentru că acolo e iarnă tot anul pe tot continentul",
+     "pentru că zăpada e adusă de oameni"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Altitudinea poate crea condiții reci chiar la Ecuator."
+   }
+  },
+  {
+   "id": "V20-25",
+   "nivel": "V-S20-zonele-climatice-terrei-influenta",
+   "competente": [
+    "V-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Pe ce continent se află cea mai mare parte a zonei reci sudice?",
+   "date": {
+    "variante": [
+     "Antarctica",
+     "Africa",
+     "Australia",
+     "America de Sud"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Antarctica e aproape toată dincolo de Cercul Polar de Sud."
+   }
+  },
+  {
+   "id": "V20-26",
+   "nivel": "V-S20-zonele-climatice-terrei-influenta",
+   "competente": [
+    "V-3.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 3,
+   "enunt": "Dacă te deplasezi de la Ecuator spre Polul Sud, prin ce zone treci, în ordine?",
+   "date": {
+    "variante": [
+     "zona caldă, zona temperată sudică, zona rece sudică",
+     "zona rece, zona caldă, zona temperată",
+     "doar zona caldă",
+     "zona temperată nordică, apoi zona rece nordică"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Același tipar, în oglindă, în emisfera sudică."
+   }
+  },
+  {
+   "id": "V20-27",
+   "nivel": "V-S20-zonele-climatice-terrei-influenta",
+   "competente": [
+    "V-2.3"
+   ],
+   "tip": "grafic",
+   "dificultate": 3,
+   "enunt": "Graficul arată temperatura medie anuală în trei locuri imaginare. Care e, probabil, în zona rece?",
+   "date": {
+    "grafic": {
+     "tip": "bare",
+     "titlu": "Temperatura medie anuală (date imaginare)",
+     "date": [
+      {
+       "eticheta": "Locul A",
+       "valoare": 26
+      },
+      {
+       "eticheta": "Locul B",
+       "valoare": 10
+      },
+      {
+       "eticheta": "Locul C",
+       "valoare": -18
+      }
+     ],
+     "unitate": "°C"
+    },
+    "variante": [
+     "Locul C",
+     "Locul A",
+     "Locul B",
+     "toate"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "−18 °C media anuală arată un loc foarte rece; A e cald, B temperat."
+   }
+  },
+  {
+   "id": "V20-28",
+   "nivel": "V-S20-zonele-climatice-terrei-influenta",
+   "competente": [
+    "V-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce înseamnă pentru agricultură zona temperată?",
+   "date": {
+    "variante": [
+     "se pot cultiva grâu, porumb, floarea-soarelui, cu recolte vara și toamna",
+     "se cultivă orice, de patru ori pe an",
+     "nu se poate cultiva nimic",
+     "se cultivă doar banane"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Anotimpurile decid calendarul lucrărilor agricole."
+   }
+  },
+  {
+   "id": "V20-29",
+   "nivel": "V-S20-zonele-climatice-terrei-influenta",
+   "competente": [
+    "V-1.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 1,
+   "enunt": "Ce linie împarte Pământul în emisfera nordică și emisfera sudică?",
+   "date": {
+    "variante": [
+     "Ecuatorul",
+     "meridianul de origine",
+     "Tropicul Racului",
+     "Cercul Polar de Nord"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Ecuatorul are latitudinea 0°."
+   }
+  },
+  {
+   "id": "V20-30",
+   "nivel": "V-S20-zonele-climatice-terrei-influenta",
+   "competente": [
+    "V-3.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 3,
+   "enunt": "De ce în Australia e vară în decembrie?",
+   "date": {
+    "variante": [
+     "pentru că e în emisfera sudică, unde anotimpurile sunt inversate față de noi",
+     "pentru că e mai aproape de Soare",
+     "pentru că e pe Ecuator",
+     "pentru că nu are iarnă niciodată"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Când emisfera nordică e înclinată departe de Soare, cea sudică primește mai multă lumină."
+   }
+  },
+  {
+   "id": "V22-01",
+   "nivel": "V-S22-aplicatii-practice-clima-vremea",
+   "competente": [
+    "V-4.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 1,
+   "enunt": "Ce instrumente îți trebuie pentru o mini-stație meteo la școală?",
+   "date": {
+    "variante": [
+     "termometru, pluviometru (un vas gradat) și o giruetă",
+     "telescop și microscop",
+     "busolă și riglă",
+     "cântar și ceas"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Cu ele măsori temperatura, ploaia și direcția vântului."
+   }
+  },
+  {
+   "id": "V22-02",
+   "nivel": "V-S22-aplicatii-practice-clima-vremea",
+   "competente": [
+    "V-4.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Faci un pluviometru dintr-o sticlă tăiată. Unde îl așezi?",
+   "date": {
+    "variante": [
+     "în loc deschis, departe de copaci și acoperișuri",
+     "sub streașină",
+     "în clasă",
+     "sub un copac"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Ploaia trebuie să cadă liber în vas."
+   }
+  },
+  {
+   "id": "V22-03",
+   "nivel": "V-S22-aplicatii-practice-clima-vremea",
+   "competente": [
+    "V-4.2",
+    "V-2.3"
+   ],
+   "tip": "grafic",
+   "dificultate": 2,
+   "enunt": "Ai notat temperatura de la ora 12, timp de 5 zile (date imaginare). Care zi a fost cea mai rece?",
+   "date": {
+    "grafic": {
+     "tip": "bare",
+     "titlu": "Temperatura la ora 12 (exemplu de jurnal)",
+     "date": [
+      {
+       "eticheta": "luni",
+       "valoare": 8
+      },
+      {
+       "eticheta": "marți",
+       "valoare": 5
+      },
+      {
+       "eticheta": "miercuri",
+       "valoare": 2
+      },
+      {
+       "eticheta": "joi",
+       "valoare": 6
+      },
+      {
+       "eticheta": "vineri",
+       "valoare": 9
+      }
+     ],
+     "unitate": "°C"
+    },
+    "variante": [
+     "miercuri",
+     "luni",
+     "vineri",
+     "joi"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Miercuri: 2 °C."
+   }
+  },
+  {
+   "id": "V22-04",
+   "nivel": "V-S22-aplicatii-practice-clima-vremea",
+   "competente": [
+    "V-4.3"
+   ],
+   "tip": "asociaza",
+   "dificultate": 2,
+   "enunt": "Asociază fenomenul periculos cu măsura de protecție.",
+   "date": {
+    "perechi": [
+     [
+      "canicula",
+      "stai la umbră, bei apă, eviți soarele între 11 și 17"
+     ],
+     [
+      "viscolul",
+      "nu pleci la drum, păstrezi provizii"
+     ],
+     [
+      "poleiul",
+      "mergi încet, cu încălțăminte antiderapantă"
+     ],
+     [
+      "grindina",
+      "te adăpostești într-o clădire și pui mașina la adăpost"
+     ]
+    ]
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Fiecare fenomen are regulile lui."
+   }
+  },
+  {
+   "id": "V22-05",
+   "nivel": "V-S22-aplicatii-practice-clima-vremea",
+   "competente": [
+    "V-4.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Unde afli avertizările meteo oficiale?",
+   "date": {
+    "variante": [
+     "pe site-ul ANM și din mesajele RO-ALERT",
+     "de pe rețele sociale, de la necunoscuți",
+     "din reclame",
+     "nu există avertizări"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "ANM emite avertizări, iar RO-ALERT trimite mesaje pe telefon în situații grave."
+   }
+  },
+  {
+   "id": "V22-06",
+   "nivel": "V-S22-aplicatii-practice-clima-vremea",
+   "competente": [
+    "V-4.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 3,
+   "enunt": "Ce fenomen extrem lovește des agricultura din Câmpia Română, vara?",
+   "date": {
+    "variante": [
+     "seceta",
+     "avalanșa",
+     "tsunami-ul",
+     "erupția vulcanică"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Lipsa ploilor și căldura mare usucă recoltele."
+   }
+  },
+  {
+   "id": "V22-07",
+   "nivel": "V-S22-aplicatii-practice-clima-vremea",
+   "competente": [
+    "V-4.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce activitate din orizontul local depinde cel mai mult de vreme?",
+   "date": {
+    "variante": [
+     "agricultura",
+     "jocurile pe calculator",
+     "cititul",
+     "cumpărăturile online"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Semănatul, irigațiile și recoltatul se fac după vreme."
+   }
+  }
+ ]
+}

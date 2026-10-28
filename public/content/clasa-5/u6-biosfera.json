@@ -1,0 +1,2429 @@
+{
+ "clasa": 5,
+ "unitate": "Biosfera și solurile",
+ "niveluri": [
+  {
+   "id": "V-S28-biosfera-caracteristici-generale-importanta",
+   "tip": "nivel",
+   "titlu": "Biosfera – caracteristici generale și importanță",
+   "descopera": {
+    "intrebare": "Unde pe Pământ găsim viață: doar pe uscat, sau și în aer, apă și sol?"
+   },
+   "invata": [
+    {
+     "titlu": "Ce este biosfera",
+     "text": "Biosfera este învelișul viu al Pământului: toate plantele, animalele, ciupercile și microorganismele, împreună cu locurile în care trăiesc.\nViața există în partea de jos a atmosferei, în toată hidrosfera și în partea de sus a litosferei (în sol). De aceea biosfera se întrepătrunde cu celelalte învelișuri."
+    },
+    {
+     "titlu": "De ce depinde viața",
+     "text": "Viețuitoarele au nevoie de lumină, căldură, apă, aer și hrană. Acolo unde acestea sunt din belșug (de exemplu, în pădurile de lângă Ecuator), viața e foarte bogată. Unde sunt puține (deșerturi, zone polare, vârfuri înalte), viața e săracă.\nVarietatea viețuitoarelor dintr-un loc se numește biodiversitate."
+    },
+    {
+     "titlu": "Legăturile dintre viețuitoare",
+     "text": "Plantele își fac singure hrana, cu ajutorul luminii. Animalele ierbivore mănâncă plante, iar carnivorele mănâncă alte animale. Așa se formează lanțurile trofice (lanțuri de hrană).\nCiupercile și microorganismele descompun resturile moarte și le transformă în substanțe care îmbogățesc solul."
+    }
+   ],
+   "stiaiCa": "Pădurea amazoniană, cea mai mare pădure tropicală de pe Pământ, adăpostește un număr uriaș de specii de plante și animale. Multe nu au fost încă descrise de oamenii de știință.",
+   "referintaProfesor": "Manual Art Klett, clasa a V-a (manuale.edu.ro), lecția „Biosfera – caracteristici generale și importanță”"
+  },
+  {
+   "id": "V-S28-plantele-animalele-repartitia-geografica",
+   "tip": "nivel",
+   "titlu": "Plantele și animalele – repartiția lor geografică",
+   "descopera": {
+    "intrebare": "De ce nu întâlnești urși polari în Africa și girafe în Groenlanda?"
+   },
+   "invata": [
+    {
+     "titlu": "Plantele se schimbă cu clima",
+     "text": "Vegetația unei regiuni depinde mai ales de căldură și de umezeală.\nÎn zona caldă și umedă: pădurea ecuatorială, deasă, cu mai multe etaje. În zona caldă și uscată: savana (ierburi înalte și copaci rari) și deșertul (plante puține, ca cactușii). În zona temperată: pădurile de foioase (stejar, fag), de conifere (molid, brad) și stepa. În zona rece: tundra (mușchi, licheni, arbuști pitici)."
+    },
+    {
+     "titlu": "Animalele urmează plantele",
+     "text": "Fiecare tip de vegetație are animalele lui, adaptate la climă și hrană. În savană: lei, zebre, girafe, elefanți. În deșert: cămile, scorpioni, șopârle. În taiga: urși bruni, lupi, râși. În tundră: reni, vulpi polare. În zonele polare: urși polari, foci, pinguini (doar în emisfera sudică)."
+    },
+    {
+     "titlu": "Etajarea pe munte",
+     "text": "Pe munte, vegetația se schimbă cu altitudinea, ca și cum ai merge spre pol: păduri de foioase jos, apoi conifere, apoi pajiști alpine, iar sus doar stânci, mușchi și licheni.\nÎn Carpați: păduri de fag și stejar, apoi de molid, apoi jneapăn și pajiști alpine."
+    }
+   ],
+   "stiaiCa": "Pinguinii trăiesc aproape toți în emisfera sudică, iar urșii polari doar în nord. Cele două animale nu se întâlnesc în natură.",
+   "referintaProfesor": "Manual Art Klett, clasa a V-a (manuale.edu.ro), lecția „Plantele și animalele – repartiția lor geografică”"
+  },
+  {
+   "id": "V-S28-solul-resursa-vietii",
+   "tip": "nivel",
+   "titlu": "Solul – resursă a vieții",
+   "descopera": {
+    "intrebare": "Câți ani durează să se formeze un strat de sol gros cât degetul tău?"
+   },
+   "invata": [
+    {
+     "titlu": "Ce este solul",
+     "text": "Solul este stratul subțire și afânat de la suprafața uscatului, în care cresc plantele. E format din fragmente de roci, humus (materie organică descompusă), apă și aer.\nHumusul dă culoarea închisă și fertilitatea (capacitatea de a hrăni plantele)."
+    },
+    {
+     "titlu": "Cum se formează",
+     "text": "Solul se formează foarte încet, din roci mărunțite de îngheț, apă și vânt, la care se adaugă resturile de plante și animale descompuse de ciuperci, râme și microorganisme.\nUn strat de 1 cm de sol se poate forma în sute de ani, până la o mie de ani. De aceea solul e o resursă care nu se reface repede."
+    },
+    {
+     "titlu": "Tipuri și protecție",
+     "text": "În locuri cu climă și vegetație diferite se formează soluri diferite. În Câmpia Română, sub vechea stepă, s-a format cernoziomul, foarte fertil, negru. Sub pădurile de foioase se formează soluri brune.\nSolul e amenințat de eroziune (dacă se taie pădurile de pe pante), de poluare și de construcții. Îl protejăm prin perdele de copaci, arătură de-a curmezișul pantei, folosire atentă a îngrășămintelor."
+    }
+   ],
+   "stiaiCa": "Într-o mână de sol fertil trăiesc mai multe microorganisme decât oameni pe Pământ.",
+   "referintaProfesor": "Manual Art Klett, clasa a V-a (manuale.edu.ro), lecția „Solul – resursă a vieții”"
+  },
+  {
+   "id": "V-S30-aplicatie-practica-protectia-plantelor",
+   "tip": "expeditie",
+   "titlu": "Expediție: Patrula naturii",
+   "descopera": {
+    "intrebare": "Ce plante și animale trăiesc lângă școala ta și cum le putem proteja?"
+   },
+   "invata": [
+    {
+     "titlu": "Ce faci în expediție",
+     "text": "Urmezi pașii, rezolvi sarcinile și notezi în Jurnalul exploratorului ce ai descoperit."
+    }
+   ],
+   "referintaProfesor": "Manual Art Klett, clasa a V-a (manuale.edu.ro), lecția „Aplicație practică: Protecția plantelor, a animalelor și conservarea solului”",
+   "pasi": [
+    {
+     "titlu": "1. Echipamentul",
+     "text": "Pregătește-ți Jurnalul exploratorului. În natură privești, fotografiezi și desenezi; nu rupi plante și nu prinzi animale.",
+     "itemi": [
+      "V30-01"
+     ]
+    },
+    {
+     "titlu": "2. Pătratul de observație",
+     "text": "În curtea școlii sau într-un parc, fă un pătrat de 1 m × 1 m. Numără câte plante diferite și câte insecte vezi în el în 10 minute.",
+     "itemi": [
+      "V30-02"
+     ],
+     "jurnal": {
+      "cerinta": "Notează câte plante diferite și câte animale mici ai găsit. Desenează sau fotografiază una.",
+      "foto": true
+     }
+    },
+    {
+     "titlu": "3. Solul de lângă școală",
+     "text": "Ia, cu o lingură, puțin sol din două locuri: din parc și de lângă un drum. Compară culoarea, mirosul și ce viețuitoare mici găsești.",
+     "itemi": [
+      "V30-03",
+      "V30-04"
+     ],
+     "jurnal": {
+      "cerinta": "Scrie diferențele dintre cele două probe de sol."
+     }
+    },
+    {
+     "titlu": "4. Propunerea ta",
+     "text": "Scrie o propunere pentru clasa ta: o faptă concretă pentru protejarea plantelor, animalelor sau solului din jurul școlii (de exemplu, un colț cu plante pentru albine).",
+     "jurnal": {
+      "cerinta": "Scrie propunerea în 3–4 rânduri."
+     }
+    }
+   ]
+  }
+ ],
+ "itemi": [
+  {
+   "id": "V28a-01",
+   "nivel": "V-S28-biosfera-caracteristici-generale-importanta",
+   "competente": [
+    "V-1.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 1,
+   "enunt": "Ce este biosfera?",
+   "date": {
+    "variante": [
+     "învelișul viu al Pământului",
+     "învelișul de apă",
+     "învelișul de aer",
+     "stratul de roci"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Bio- înseamnă viață."
+   }
+  },
+  {
+   "id": "V28a-02",
+   "nivel": "V-S28-biosfera-caracteristici-generale-importanta",
+   "competente": [
+    "V-1.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "În ce învelișuri ale Pământului există viață?",
+   "date": {
+    "variante": [
+     "în partea de jos a atmosferei, în hidrosferă și în partea de sus a litosferei",
+     "doar pe uscat",
+     "doar în ocean",
+     "doar în aer"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Biosfera pătrunde în toate celelalte învelișuri."
+   }
+  },
+  {
+   "id": "V28a-03",
+   "nivel": "V-S28-biosfera-caracteristici-generale-importanta",
+   "competente": [
+    "V-1.1"
+   ],
+   "tip": "asociaza",
+   "dificultate": 1,
+   "enunt": "Asociază viețuitoarea cu grupul ei.",
+   "date": {
+    "perechi": [
+     [
+      "stejarul",
+      "plante"
+     ],
+     [
+      "vulpea",
+      "animale"
+     ],
+     [
+      "hribul",
+      "ciuperci"
+     ],
+     [
+      "bacteriile",
+      "microorganisme"
+     ]
+    ]
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Patru mari grupe de viețuitoare."
+   }
+  },
+  {
+   "id": "V28a-04",
+   "nivel": "V-S28-biosfera-caracteristici-generale-importanta",
+   "competente": [
+    "V-1.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "De ce au nevoie plantele ca să-și facă hrana?",
+   "date": {
+    "variante": [
+     "de lumină, apă și dioxid de carbon",
+     "de întuneric și sare",
+     "doar de sol",
+     "de alte plante"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Plantele folosesc lumina Soarelui ca să-și producă hrana."
+   }
+  },
+  {
+   "id": "V28a-05",
+   "nivel": "V-S28-biosfera-caracteristici-generale-importanta",
+   "competente": [
+    "V-1.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 1,
+   "enunt": "Ce înseamnă biodiversitate?",
+   "date": {
+    "variante": [
+     "varietatea viețuitoarelor dintr-un loc",
+     "numărul de oameni dintr-un oraș",
+     "înălțimea copacilor",
+     "cantitatea de ploaie"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Cu cât sunt mai multe specii, cu atât biodiversitatea e mai mare."
+   }
+  },
+  {
+   "id": "V28a-06",
+   "nivel": "V-S28-biosfera-caracteristici-generale-importanta",
+   "competente": [
+    "V-3.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Unde e cea mai mare biodiversitate de pe uscat?",
+   "date": {
+    "variante": [
+     "în pădurile tropicale umede, lângă Ecuator",
+     "în deșerturi",
+     "în Antarctica",
+     "pe vârfurile munților"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Căldura și ploile din belșug favorizează viața."
+   }
+  },
+  {
+   "id": "V28a-07",
+   "nivel": "V-S28-biosfera-caracteristici-generale-importanta",
+   "competente": [
+    "V-3.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "De ce în deșerturi viața e săracă?",
+   "date": {
+    "variante": [
+     "pentru că plouă foarte puțin",
+     "pentru că e prea întuneric",
+     "pentru că nu există aer",
+     "pentru că e prea frig"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Lipsa apei limitează plantele și animalele."
+   }
+  },
+  {
+   "id": "V28a-08",
+   "nivel": "V-S28-biosfera-caracteristici-generale-importanta",
+   "competente": [
+    "V-1.2"
+   ],
+   "tip": "ordoneaza",
+   "dificultate": 2,
+   "enunt": "Ordonează lanțul trofic.",
+   "date": {
+    "elemente": [
+     "iarba",
+     "iepurele",
+     "vulpea"
+    ],
+    "criteriu": "Cine pe cine mănâncă"
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Planta → ierbivorul → carnivorul."
+   }
+  },
+  {
+   "id": "V28a-09",
+   "nivel": "V-S28-biosfera-caracteristici-generale-importanta",
+   "competente": [
+    "V-1.2"
+   ],
+   "tip": "ordoneaza",
+   "dificultate": 2,
+   "enunt": "Ordonează lanțul trofic din apă.",
+   "date": {
+    "elemente": [
+     "algele",
+     "peștii mici",
+     "știuca",
+     "vulturul pescar"
+    ],
+    "criteriu": "Cine pe cine mănâncă"
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Algele sunt hrana peștilor mici; aceștia sunt mâncați de pești răpitori și de păsări."
+   }
+  },
+  {
+   "id": "V28a-10",
+   "nivel": "V-S28-biosfera-caracteristici-generale-importanta",
+   "competente": [
+    "V-1.1"
+   ],
+   "tip": "asociaza",
+   "dificultate": 2,
+   "enunt": "Asociază animalul cu felul în care se hrănește.",
+   "date": {
+    "perechi": [
+     [
+      "căprioara",
+      "ierbivor"
+     ],
+     [
+      "lupul",
+      "carnivor"
+     ],
+     [
+      "ursul",
+      "omnivor (plante și animale)"
+     ],
+     [
+      "râma",
+      "descompune resturile din sol"
+     ]
+    ]
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Ierbivor, carnivor, omnivor, descompunător."
+   }
+  },
+  {
+   "id": "V28a-11",
+   "nivel": "V-S28-biosfera-caracteristici-generale-importanta",
+   "competente": [
+    "V-1.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce rol au ciupercile și microorganismele din sol?",
+   "date": {
+    "variante": [
+     "descompun resturile de plante și animale și îmbogățesc solul",
+     "produc oxigen în cantitate mare",
+     "fac ploaia",
+     "răcesc aerul"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Descompunătorii „reciclează” materia în natură."
+   }
+  },
+  {
+   "id": "V28a-12",
+   "nivel": "V-S28-biosfera-caracteristici-generale-importanta",
+   "competente": [
+    "V-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Adevărat sau fals? Plantele produc oxigenul pe care îl respirăm.",
+   "date": {
+    "variante": [
+     "Adevărat",
+     "Fals"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Adevărat: plantele eliberează oxigen când își fac hrana."
+   }
+  },
+  {
+   "id": "V28a-13",
+   "nivel": "V-S28-biosfera-caracteristici-generale-importanta",
+   "competente": [
+    "V-1.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 1,
+   "enunt": "Adevărat sau fals? Viața există doar pe uscat.",
+   "date": {
+    "variante": [
+     "Fals",
+     "Adevărat"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Fals: oceanele, râurile, solul și aerul de jos sunt pline de viață."
+   }
+  },
+  {
+   "id": "V28a-14",
+   "nivel": "V-S28-biosfera-caracteristici-generale-importanta",
+   "competente": [
+    "V-3.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Adevărat sau fals? Cu cât urci mai sus pe munte, cu atât plantele sunt mai puține și mai mici.",
+   "date": {
+    "variante": [
+     "Adevărat",
+     "Fals"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Adevărat: sus e frig, vânt și solul e subțire."
+   }
+  },
+  {
+   "id": "V28a-15",
+   "nivel": "V-S28-biosfera-caracteristici-generale-importanta",
+   "competente": [
+    "V-1.1"
+   ],
+   "tip": "lacunar",
+   "dificultate": 2,
+   "enunt": "Completează.",
+   "date": {
+    "text": "Varietatea viețuitoarelor se numește {0}; lanțul de hrană se numește lanț {1}.",
+    "raspunsuri": [
+     "biodiversitate",
+     "trofic"
+    ],
+    "distractori": [
+     "biosferă",
+     "montan"
+    ]
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Biodiversitate, lanț trofic."
+   }
+  },
+  {
+   "id": "V28a-16",
+   "nivel": "V-S28-biosfera-caracteristici-generale-importanta",
+   "competente": [
+    "V-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce le oferă biosfera oamenilor?",
+   "date": {
+    "variante": [
+     "hrană, lemn, medicamente, oxigen, îmbrăcăminte",
+     "doar distracție",
+     "doar petrol",
+     "nimic"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Viața din jurul nostru ne asigură multe resurse."
+   }
+  },
+  {
+   "id": "V28a-17",
+   "nivel": "V-S28-biosfera-caracteristici-generale-importanta",
+   "competente": [
+    "V-3.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 3,
+   "enunt": "Ce se întâmplă dacă dispare un animal dintr-un lanț trofic?",
+   "date": {
+    "variante": [
+     "se strică echilibrul: unele specii se înmulțesc prea mult, altele rămân fără hrană",
+     "nu se întâmplă nimic",
+     "apar automat alte animale identice",
+     "plantele cresc mai încet"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Toate viețuitoarele sunt legate între ele."
+   }
+  },
+  {
+   "id": "V28a-18",
+   "nivel": "V-S28-biosfera-caracteristici-generale-importanta",
+   "competente": [
+    "V-4.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 3,
+   "enunt": "Ce faci ca să observi biodiversitatea din curtea școlii?",
+   "date": {
+    "variante": [
+     "delimitezi un pătrat de 1 m pe 1 m și numeri plantele și insectele diferite din el",
+     "tai toate plantele",
+     "pulverizezi insecticid",
+     "pui ciment"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Observația atentă arată câte specii trăiesc într-un loc mic."
+   }
+  },
+  {
+   "id": "V28a-19",
+   "nivel": "V-S28-biosfera-caracteristici-generale-importanta",
+   "competente": [
+    "V-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce amenință biodiversitatea?",
+   "date": {
+    "variante": [
+     "tăierea pădurilor, poluarea și vânatul fără control",
+     "plantarea copacilor",
+     "ariile protejate",
+     "reciclarea"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Activitățile omului pot duce la dispariția speciilor."
+   }
+  },
+  {
+   "id": "V28a-20",
+   "nivel": "V-S28-biosfera-caracteristici-generale-importanta",
+   "competente": [
+    "V-4.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Cum se numesc zonele unde natura e protejată prin lege?",
+   "date": {
+    "variante": [
+     "arii protejate (parcuri naționale, rezervații)",
+     "zone industriale",
+     "cartiere",
+     "porturi"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Retezat a fost primul parc național al României, în 1935."
+   }
+  },
+  {
+   "id": "V28a-21",
+   "nivel": "V-S28-biosfera-caracteristici-generale-importanta",
+   "competente": [
+    "V-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce rezervație din România e un loc foarte important pentru păsări?",
+   "date": {
+    "variante": [
+     "Delta Dunării",
+     "Bărăganul arat",
+     "Valea Prahovei",
+     "orașul Galați"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Delta e Rezervație a Biosferei, cu sute de specii de păsări."
+   }
+  },
+  {
+   "id": "V28a-22",
+   "nivel": "V-S28-biosfera-caracteristici-generale-importanta",
+   "competente": [
+    "V-1.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 3,
+   "enunt": "Ce înseamnă că o specie e „pe cale de dispariție”?",
+   "date": {
+    "variante": [
+     "mai trăiesc foarte puține exemplare și pot dispărea de tot",
+     "că s-a mutat pe alt continent",
+     "că e foarte numeroasă",
+     "că doarme iarna"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Speciile amenințate sunt ocrotite prin lege."
+   }
+  },
+  {
+   "id": "V28a-23",
+   "nivel": "V-S28-biosfera-caracteristici-generale-importanta",
+   "competente": [
+    "V-1.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Cum se numesc animalele care mănâncă și plante, și animale?",
+   "date": {
+    "variante": [
+     "omnivore",
+     "ierbivore",
+     "carnivore",
+     "descompunători"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Ursul și mistrețul sunt omnivore."
+   }
+  },
+  {
+   "id": "V28a-24",
+   "nivel": "V-S28-biosfera-caracteristici-generale-importanta",
+   "competente": [
+    "V-3.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "De ce plantele de pe fundul oceanului adânc lipsesc?",
+   "date": {
+    "variante": [
+     "pentru că lumina Soarelui nu ajunge acolo",
+     "pentru că apa e dulce",
+     "pentru că e prea cald",
+     "pentru că sunt mâncate toate"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Plantele au nevoie de lumină; ele cresc doar în apa de la suprafață."
+   }
+  },
+  {
+   "id": "V28a-25",
+   "nivel": "V-S28-biosfera-caracteristici-generale-importanta",
+   "competente": [
+    "V-1.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce viețuitoare se află la începutul oricărui lanț trofic de pe uscat?",
+   "date": {
+    "variante": [
+     "o plantă",
+     "un carnivor",
+     "un om",
+     "o ciupercă"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Plantele produc hrana pe care o folosesc apoi animalele."
+   }
+  },
+  {
+   "id": "V28a-26",
+   "nivel": "V-S28-biosfera-caracteristici-generale-importanta",
+   "competente": [
+    "V-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 3,
+   "enunt": "De ce albinele sunt importante pentru oameni?",
+   "date": {
+    "variante": [
+     "polenizează florile, iar fără ele multe fructe și legume nu s-ar forma",
+     "fac doar miere",
+     "mănâncă dăunătorii",
+     "nu sunt importante"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Polenizarea face posibile recoltele de pomi fructiferi și multe culturi."
+   }
+  },
+  {
+   "id": "V28a-27",
+   "nivel": "V-S28-biosfera-caracteristici-generale-importanta",
+   "competente": [
+    "V-2.3"
+   ],
+   "tip": "grafic",
+   "dificultate": 3,
+   "enunt": "Graficul arată numărul de specii de păsări observate în trei locuri imaginare. Unde e biodiversitatea cea mai mare?",
+   "date": {
+    "grafic": {
+     "tip": "bare",
+     "titlu": "Specii de păsări observate (date imaginare)",
+     "date": [
+      {
+       "eticheta": "parcul orașului",
+       "valoare": 18
+      },
+      {
+       "eticheta": "pădurea",
+       "valoare": 45
+      },
+      {
+       "eticheta": "parcarea",
+       "valoare": 3
+      }
+     ],
+     "unitate": "specii"
+    },
+    "variante": [
+     "în pădure",
+     "în parcare",
+     "în parcul orașului",
+     "peste tot la fel"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "În pădure sunt 45 de specii: hrană și adăpost din belșug."
+   }
+  },
+  {
+   "id": "V28a-28",
+   "nivel": "V-S28-biosfera-caracteristici-generale-importanta",
+   "competente": [
+    "V-1.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Cum se numește locul în care trăiește în mod obișnuit o viețuitoare?",
+   "date": {
+    "variante": [
+     "habitat",
+     "anotimp",
+     "deltă",
+     "climă"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Habitatul broaștei e balta; al veveriței, pădurea."
+   }
+  },
+  {
+   "id": "V28a-29",
+   "nivel": "V-S28-biosfera-caracteristici-generale-importanta",
+   "competente": [
+    "V-4.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 3,
+   "enunt": "Ce poți face ca să ajuți păsările iarna?",
+   "date": {
+    "variante": [
+     "pui o căsuță cu semințe, fără sare și fără pâine stricată",
+     "le alungi din curte",
+     "dai cu pietre",
+     "tai copacii bătrâni"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Semințele de floarea-soarelui nesărate sunt potrivite."
+   }
+  },
+  {
+   "id": "V28a-30",
+   "nivel": "V-S28-biosfera-caracteristici-generale-importanta",
+   "competente": [
+    "V-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 1,
+   "enunt": "Ce dau pădurile oamenilor?",
+   "date": {
+    "variante": [
+     "lemn, fructe de pădure, aer curat și adăpost pentru animale",
+     "petrol",
+     "sare",
+     "nisip"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Pădurile au multe roluri."
+   }
+  },
+  {
+   "id": "V28b-01",
+   "nivel": "V-S28-plantele-animalele-repartitia-geografica",
+   "competente": [
+    "V-1.1"
+   ],
+   "tip": "asociaza",
+   "dificultate": 1,
+   "enunt": "Asociază animalul cu locul unde trăiește.",
+   "date": {
+    "perechi": [
+     [
+      "ursul polar",
+      "Arctica"
+     ],
+     [
+      "cămila",
+      "deșertul"
+     ],
+     [
+      "zebra",
+      "savana"
+     ],
+     [
+      "maimuța",
+      "pădurea ecuatorială"
+     ]
+    ]
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Fiecare animal e adaptat la mediul lui."
+   }
+  },
+  {
+   "id": "V28b-02",
+   "nivel": "V-S28-plantele-animalele-repartitia-geografica",
+   "competente": [
+    "V-1.1"
+   ],
+   "tip": "asociaza",
+   "dificultate": 2,
+   "enunt": "Asociază vegetația cu zona.",
+   "date": {
+    "perechi": [
+     [
+      "pădurea ecuatorială",
+      "zona caldă și umedă"
+     ],
+     [
+      "savana",
+      "zona caldă, cu un anotimp ploios și unul secetos"
+     ],
+     [
+      "pădurea de foioase",
+      "zona temperată"
+     ],
+     [
+      "tundra",
+      "zona rece"
+     ]
+    ]
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Vegetația urmează clima."
+   }
+  },
+  {
+   "id": "V28b-03",
+   "nivel": "V-S28-plantele-animalele-repartitia-geografica",
+   "competente": [
+    "V-1.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 1,
+   "enunt": "Ce animal trăiește în Antarctica?",
+   "date": {
+    "variante": [
+     "pinguinul",
+     "ursul polar",
+     "leul",
+     "zebra"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Pinguinii trăiesc în emisfera sudică."
+   }
+  },
+  {
+   "id": "V28b-04",
+   "nivel": "V-S28-plantele-animalele-repartitia-geografica",
+   "competente": [
+    "V-1.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Unde trăiesc urșii polari?",
+   "date": {
+    "variante": [
+     "în Arctica, în jurul Polului Nord",
+     "în Antarctica",
+     "în Sahara",
+     "în Amazonia"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Ursul polar trăiește doar în nord."
+   }
+  },
+  {
+   "id": "V28b-05",
+   "nivel": "V-S28-plantele-animalele-repartitia-geografica",
+   "competente": [
+    "V-1.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce este savana?",
+   "date": {
+    "variante": [
+     "o întindere cu ierburi înalte și copaci rari, în zona caldă",
+     "o pădure deasă de conifere",
+     "un deșert de gheață",
+     "o mlaștină"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Savana are un anotimp ploios și unul secetos."
+   }
+  },
+  {
+   "id": "V28b-06",
+   "nivel": "V-S28-plantele-animalele-repartitia-geografica",
+   "competente": [
+    "V-1.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce este tundra?",
+   "date": {
+    "variante": [
+     "vegetație de mușchi, licheni și arbuști pitici, în zona rece",
+     "pădure deasă de stejari",
+     "ierburi înalte cu lei",
+     "deșert cu cactuși"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Solul din tundră e înghețat în adânc."
+   }
+  },
+  {
+   "id": "V28b-07",
+   "nivel": "V-S28-plantele-animalele-repartitia-geografica",
+   "competente": [
+    "V-1.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce copaci formează mai ales taigaua?",
+   "date": {
+    "variante": [
+     "coniferele (molid, brad, pin)",
+     "palmierii",
+     "baobabii",
+     "cactușii"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Taigaua e pădurea de conifere din nordul Europei, Asiei și Americii de Nord."
+   }
+  },
+  {
+   "id": "V28b-08",
+   "nivel": "V-S28-plantele-animalele-repartitia-geografica",
+   "competente": [
+    "V-3.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "De ce cactușii trăiesc bine în deșert?",
+   "date": {
+    "variante": [
+     "pentru că păstrează apa în tulpinile groase și au țepi în loc de frunze",
+     "pentru că au nevoie de multă ploaie",
+     "pentru că le place frigul",
+     "pentru că cresc în apă"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Cactușii sunt adaptați la secetă."
+   }
+  },
+  {
+   "id": "V28b-09",
+   "nivel": "V-S28-plantele-animalele-repartitia-geografica",
+   "competente": [
+    "V-3.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "De ce mulți copaci din pădurile de foioase își pierd frunzele toamna?",
+   "date": {
+    "variante": [
+     "ca să treacă iarna rece fără să piardă apă și să fie rupți de zăpadă",
+     "pentru că sunt bolnavi",
+     "pentru că îi taie oamenii",
+     "pentru că e prea cald"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Lepădarea frunzelor e o adaptare la iarnă."
+   }
+  },
+  {
+   "id": "V28b-10",
+   "nivel": "V-S28-plantele-animalele-repartitia-geografica",
+   "competente": [
+    "V-3.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Cum e adaptat ursul polar la frig?",
+   "date": {
+    "variante": [
+     "are blană deasă și un strat gros de grăsime",
+     "are piele subțire",
+     "nu are blană",
+     "doarme toată vara"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Blana și grăsimea îl țin cald."
+   }
+  },
+  {
+   "id": "V28b-11",
+   "nivel": "V-S28-plantele-animalele-repartitia-geografica",
+   "competente": [
+    "V-3.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 3,
+   "enunt": "Cum e adaptată cămila la deșert?",
+   "date": {
+    "variante": [
+     "poate rezista mult fără apă și are cocoașe cu grăsime",
+     "are blană foarte groasă",
+     "înoată bine",
+     "trăiește în copaci"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Cămila e numită „corabia deșertului”."
+   }
+  },
+  {
+   "id": "V28b-12",
+   "nivel": "V-S28-plantele-animalele-repartitia-geografica",
+   "competente": [
+    "V-1.2"
+   ],
+   "tip": "ordoneaza",
+   "dificultate": 2,
+   "enunt": "Ordonează vegetația de pe un munte din Carpați, de jos în sus.",
+   "date": {
+    "elemente": [
+     "păduri de stejar",
+     "păduri de fag",
+     "păduri de molid",
+     "jneapăn și pajiști alpine"
+    ],
+    "criteriu": "De la poale spre vârf"
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Pe munte, vegetația se etajează după altitudine."
+   }
+  },
+  {
+   "id": "V28b-13",
+   "nivel": "V-S28-plantele-animalele-repartitia-geografica",
+   "competente": [
+    "V-1.2"
+   ],
+   "tip": "ordoneaza",
+   "dificultate": 3,
+   "enunt": "Ordonează vegetația de la Ecuator spre Polul Nord, prin Africa și Europa.",
+   "date": {
+    "elemente": [
+     "pădurea ecuatorială",
+     "savana",
+     "deșertul",
+     "pădurea de foioase",
+     "taigaua",
+     "tundra"
+    ],
+    "criteriu": "De la Ecuator spre nord"
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Cu cât te depărtezi de Ecuator, vegetația se schimbă după climă."
+   }
+  },
+  {
+   "id": "V28b-14",
+   "nivel": "V-S28-plantele-animalele-repartitia-geografica",
+   "competente": [
+    "V-2.1"
+   ],
+   "tip": "pin",
+   "dificultate": 2,
+   "enunt": "Atinge pe hartă pădurea amazoniană.",
+   "date": {
+    "harta": "lume",
+    "tinta": {
+     "lat": -4,
+     "lon": -62,
+     "nume": "Amazonia"
+    },
+    "toleranta": 1500
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Amazonia e în nordul Americii de Sud, pe Ecuator."
+   }
+  },
+  {
+   "id": "V28b-15",
+   "nivel": "V-S28-plantele-animalele-repartitia-geografica",
+   "competente": [
+    "V-2.1"
+   ],
+   "tip": "pin",
+   "dificultate": 2,
+   "enunt": "Atinge pe hartă deșertul Sahara.",
+   "date": {
+    "harta": "lume",
+    "tinta": {
+     "lat": 23,
+     "lon": 12,
+     "nume": "Sahara"
+    },
+    "toleranta": 1500
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Sahara ocupă nordul Africii."
+   }
+  },
+  {
+   "id": "V28b-16",
+   "nivel": "V-S28-plantele-animalele-repartitia-geografica",
+   "competente": [
+    "V-2.1"
+   ],
+   "tip": "pin",
+   "dificultate": 3,
+   "enunt": "Atinge pe hartă o zonă de savană: Serengeti (Tanzania).",
+   "date": {
+    "harta": "lume",
+    "tinta": {
+     "lat": -2.3,
+     "lon": 34.8,
+     "nume": "Serengeti"
+    },
+    "toleranta": 800
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Serengeti e în estul Africii, la sud de Ecuator."
+   }
+  },
+  {
+   "id": "V28b-17",
+   "nivel": "V-S28-plantele-animalele-repartitia-geografica",
+   "competente": [
+    "V-2.1"
+   ],
+   "tip": "pin",
+   "dificultate": 3,
+   "enunt": "Atinge pe hartă o zonă de taiga: Siberia.",
+   "date": {
+    "harta": "lume",
+    "tinta": {
+     "lat": 60,
+     "lon": 100,
+     "nume": "Siberia"
+    },
+    "toleranta": 1800
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Siberia e în nordul Asiei, în Rusia."
+   }
+  },
+  {
+   "id": "V28b-18",
+   "nivel": "V-S28-plantele-animalele-repartitia-geografica",
+   "competente": [
+    "V-1.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Adevărat sau fals? Pinguinii și urșii polari trăiesc împreună.",
+   "date": {
+    "variante": [
+     "Fals",
+     "Adevărat"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Fals: pinguinii sunt în sud, urșii polari în nord."
+   }
+  },
+  {
+   "id": "V28b-19",
+   "nivel": "V-S28-plantele-animalele-repartitia-geografica",
+   "competente": [
+    "V-3.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Adevărat sau fals? Vegetația de pe munte se schimbă cu altitudinea, asemănător cu schimbarea de la Ecuator spre pol.",
+   "date": {
+    "variante": [
+     "Adevărat",
+     "Fals"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Adevărat: și sus, și spre pol e mai frig."
+   }
+  },
+  {
+   "id": "V28b-20",
+   "nivel": "V-S28-plantele-animalele-repartitia-geografica",
+   "competente": [
+    "V-1.1"
+   ],
+   "tip": "lacunar",
+   "dificultate": 2,
+   "enunt": "Completează.",
+   "date": {
+    "text": "Pădurea de conifere din nordul Europei și al Asiei se numește {0}, iar vegetația măruntă din zona rece se numește {1}.",
+    "raspunsuri": [
+     "taiga",
+     "tundră"
+    ],
+    "distractori": [
+     "savană",
+     "stepă"
+    ]
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Taiga – conifere; tundra – mușchi și licheni."
+   }
+  },
+  {
+   "id": "V28b-21",
+   "nivel": "V-S28-plantele-animalele-repartitia-geografica",
+   "competente": [
+    "V-1.2"
+   ],
+   "tip": "lacunar",
+   "dificultate": 2,
+   "enunt": "Completează.",
+   "date": {
+    "text": "Zebrele și girafele trăiesc în {0}, iar cămilele în {1}.",
+    "raspunsuri": [
+     "savană",
+     "deșert"
+    ],
+    "distractori": [
+     "tundră",
+     "taiga"
+    ]
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Animalele trăiesc unde găsesc hrană și clima potrivită."
+   }
+  },
+  {
+   "id": "V28b-22",
+   "nivel": "V-S28-plantele-animalele-repartitia-geografica",
+   "competente": [
+    "V-1.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce este stepa?",
+   "date": {
+    "variante": [
+     "o întindere cu ierburi scunde, aproape fără copaci, în zona temperată, cu puține ploi",
+     "o pădure ecuatorială",
+     "un ghețar",
+     "un lac sărat"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Bărăganul a fost odinioară o stepă."
+   }
+  },
+  {
+   "id": "V28b-23",
+   "nivel": "V-S28-plantele-animalele-repartitia-geografica",
+   "competente": [
+    "V-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce animal carnivor mare, ocrotit, trăiește în pădurile Carpaților?",
+   "date": {
+    "variante": [
+     "ursul brun",
+     "leul",
+     "ursul polar",
+     "tigrul"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Carpații adăpostesc una dintre cele mai mari populații de urși bruni din Europa."
+   }
+  },
+  {
+   "id": "V28b-24",
+   "nivel": "V-S28-plantele-animalele-repartitia-geografica",
+   "competente": [
+    "V-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce animal din Carpați e un simbol al munților și e ocrotit?",
+   "date": {
+    "variante": [
+     "capra neagră",
+     "cangurul",
+     "zebra",
+     "pinguinul"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Capra neagră trăiește pe stâncăriile înalte."
+   }
+  },
+  {
+   "id": "V28b-25",
+   "nivel": "V-S28-plantele-animalele-repartitia-geografica",
+   "competente": [
+    "V-3.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "De ce pădurea ecuatorială are mai multe etaje de vegetație?",
+   "date": {
+    "variante": [
+     "pentru că plantele concurează pentru lumină; unele cresc foarte înalt, altele sub ele",
+     "pentru că e frig",
+     "pentru că nu plouă",
+     "pentru că animalele construiesc etaje"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Copacii giganți, apoi arbori mai mici, liane, arbuști și ierburi."
+   }
+  },
+  {
+   "id": "V28b-26",
+   "nivel": "V-S28-plantele-animalele-repartitia-geografica",
+   "competente": [
+    "V-2.3"
+   ],
+   "tip": "grafic",
+   "dificultate": 3,
+   "enunt": "Graficul arată temperaturile medii anuale în trei peisaje imaginare. Care e, probabil, tundra?",
+   "date": {
+    "grafic": {
+     "tip": "bare",
+     "titlu": "Temperatura medie anuală (date imaginare)",
+     "date": [
+      {
+       "eticheta": "peisajul A",
+       "valoare": 27
+      },
+      {
+       "eticheta": "peisajul B",
+       "valoare": -10
+      },
+      {
+       "eticheta": "peisajul C",
+       "valoare": 11
+      }
+     ],
+     "unitate": "°C"
+    },
+    "variante": [
+     "peisajul B",
+     "peisajul A",
+     "peisajul C",
+     "niciunul"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Tundra are temperaturi medii negative."
+   }
+  },
+  {
+   "id": "V28b-27",
+   "nivel": "V-S28-plantele-animalele-repartitia-geografica",
+   "competente": [
+    "V-1.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce animal migrează toamna spre țările calde?",
+   "date": {
+    "variante": [
+     "barza",
+     "ursul",
+     "vulpea",
+     "veverița"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Berzele pleacă toamna spre Africa și se întorc primăvara."
+   }
+  },
+  {
+   "id": "V28b-28",
+   "nivel": "V-S28-plantele-animalele-repartitia-geografica",
+   "competente": [
+    "V-3.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 3,
+   "enunt": "De ce ursul hibernează iarna?",
+   "date": {
+    "variante": [
+     "pentru că iarna găsește foarte puțină hrană, iar somnul lung îl ajută să economisească energie",
+     "pentru că e bolnav",
+     "pentru că e prea cald",
+     "pentru că pleacă în Africa"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Hibernarea e o adaptare la iarnă."
+   }
+  },
+  {
+   "id": "V28b-29",
+   "nivel": "V-S28-plantele-animalele-repartitia-geografica",
+   "competente": [
+    "V-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce plante cultivate provin din alte continente și se cultivă acum la noi?",
+   "date": {
+    "variante": [
+     "porumbul și cartoful, aduse din America",
+     "stejarul și fagul",
+     "molidul și bradul",
+     "iarba și trifoiul"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Porumbul și cartoful au fost aduse în Europa după călătoriile spre America."
+   }
+  },
+  {
+   "id": "V28b-30",
+   "nivel": "V-S28-plantele-animalele-repartitia-geografica",
+   "competente": [
+    "V-1.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 3,
+   "enunt": "De ce baobabul, din savană, are un trunchi foarte gros?",
+   "date": {
+    "variante": [
+     "pentru că păstrează în el multă apă pentru perioada secetoasă",
+     "pentru că e foarte bătrân și atât",
+     "pentru că îl udă oamenii",
+     "pentru că acolo e frig"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Trunchiul baobabului e un rezervor de apă."
+   }
+  },
+  {
+   "id": "V28c-01",
+   "nivel": "V-S28-solul-resursa-vietii",
+   "competente": [
+    "V-1.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 1,
+   "enunt": "Ce este solul?",
+   "date": {
+    "variante": [
+     "stratul afânat de la suprafața uscatului, în care cresc plantele",
+     "o rocă dură",
+     "apa din pământ",
+     "stratul de aer de jos"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Solul e stratul fertil."
+   }
+  },
+  {
+   "id": "V28c-02",
+   "nivel": "V-S28-solul-resursa-vietii",
+   "competente": [
+    "V-1.1"
+   ],
+   "tip": "asociaza",
+   "dificultate": 1,
+   "enunt": "Asociază componenta solului cu ce este.",
+   "date": {
+    "perechi": [
+     [
+      "fragmentele de rocă",
+      "partea minerală"
+     ],
+     [
+      "humusul",
+      "resturi de plante și animale descompuse"
+     ],
+     [
+      "apa",
+      "dizolvă hrana pentru rădăcini"
+     ],
+     [
+      "aerul",
+      "umple golurile dintre particule"
+     ]
+    ]
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Solul e un amestec."
+   }
+  },
+  {
+   "id": "V28c-03",
+   "nivel": "V-S28-solul-resursa-vietii",
+   "competente": [
+    "V-1.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce este humusul?",
+   "date": {
+    "variante": [
+     "partea închisă la culoare a solului, din resturi de plante și animale descompuse",
+     "o rocă vulcanică",
+     "nisipul de mare",
+     "gheața din sol"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Humusul face solul fertil."
+   }
+  },
+  {
+   "id": "V28c-04",
+   "nivel": "V-S28-solul-resursa-vietii",
+   "competente": [
+    "V-1.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce înseamnă un sol fertil?",
+   "date": {
+    "variante": [
+     "un sol care hrănește bine plantele",
+     "un sol foarte dur",
+     "un sol fără apă",
+     "un sol plin de pietre"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Fertilitatea depinde mai ales de humus."
+   }
+  },
+  {
+   "id": "V28c-05",
+   "nivel": "V-S28-solul-resursa-vietii",
+   "competente": [
+    "V-3.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Cât durează formarea unui strat de sol de 1 cm?",
+   "date": {
+    "variante": [
+     "sute de ani, până la o mie de ani",
+     "o zi",
+     "o lună",
+     "un an"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "De aceea solul e o resursă care se reface foarte greu."
+   },
+   "surse": [
+    "FAO – International Year of Soils 2015, fișa „Soils are a non-renewable resource”",
+    "FAO – Healthy soils are the basis for healthy food production"
+   ]
+  },
+  {
+   "id": "V28c-06",
+   "nivel": "V-S28-solul-resursa-vietii",
+   "competente": [
+    "V-1.2"
+   ],
+   "tip": "ordoneaza",
+   "dificultate": 2,
+   "enunt": "Ordonează pașii formării solului.",
+   "date": {
+    "elemente": [
+     "roca dură e crăpată de îngheț și dezgheț",
+     "bucățile se mărunțesc de apă și vânt",
+     "cresc primele plante (mușchi, licheni)",
+     "resturile lor se descompun în humus",
+     "se formează un sol tot mai gros"
+    ],
+    "criteriu": "Formarea solului"
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "De la rocă la sol fertil, în sute de ani."
+   }
+  },
+  {
+   "id": "V28c-07",
+   "nivel": "V-S28-solul-resursa-vietii",
+   "competente": [
+    "V-1.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce viețuitoare ajută solul, săpând galerii și amestecând humusul?",
+   "date": {
+    "variante": [
+     "râmele",
+     "vulturii",
+     "peștii",
+     "girafele"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Râmele afânează solul și îl îmbogățesc."
+   }
+  },
+  {
+   "id": "V28c-08",
+   "nivel": "V-S28-solul-resursa-vietii",
+   "competente": [
+    "V-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce sol foarte fertil s-a format în Câmpia Română?",
+   "date": {
+    "variante": [
+     "cernoziomul",
+     "solul de tundră",
+     "solul de deșert",
+     "solul vulcanic"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Cernoziomul e negru și bogat în humus."
+   }
+  },
+  {
+   "id": "V28c-09",
+   "nivel": "V-S28-solul-resursa-vietii",
+   "competente": [
+    "V-3.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce culoare are de obicei un sol bogat în humus?",
+   "date": {
+    "variante": [
+     "închisă, aproape neagră",
+     "albă",
+     "galben-deschisă",
+     "roșie-aprinsă"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Humusul colorează solul în negru."
+   }
+  },
+  {
+   "id": "V28c-10",
+   "nivel": "V-S28-solul-resursa-vietii",
+   "competente": [
+    "V-1.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce este eroziunea solului?",
+   "date": {
+    "variante": [
+     "îndepărtarea solului de apă sau vânt",
+     "formarea solului",
+     "udarea grădinii",
+     "creșterea plantelor"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Eroziunea poate distruge în câțiva ani ce s-a format în sute de ani."
+   }
+  },
+  {
+   "id": "V28c-11",
+   "nivel": "V-S28-solul-resursa-vietii",
+   "competente": [
+    "V-3.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 3,
+   "enunt": "De ce tăierea pădurilor de pe pante duce la pierderea solului?",
+   "date": {
+    "variante": [
+     "pentru că nu mai sunt rădăcini care să țină solul, iar ploile îl spală la vale",
+     "pentru că se răcește aerul",
+     "pentru că vin animalele",
+     "pentru că apare zăpada"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Rădăcinile sunt ca o plasă care fixează solul."
+   }
+  },
+  {
+   "id": "V28c-12",
+   "nivel": "V-S28-solul-resursa-vietii",
+   "competente": [
+    "V-4.3"
+   ],
+   "tip": "asociaza",
+   "dificultate": 2,
+   "enunt": "Asociază problema cu soluția.",
+   "date": {
+    "perechi": [
+     [
+      "eroziunea pe pante",
+      "plantezi copaci și ari de-a curmezișul pantei"
+     ],
+     [
+      "vântul care spulberă solul",
+      "perdele de protecție din copaci"
+     ],
+     [
+      "poluarea cu chimicale",
+      "îngrășăminte folosite cu măsură"
+     ],
+     [
+      "solul sărăcit",
+      "rotația culturilor și îngrășământ natural"
+     ]
+    ]
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Solul se poate proteja."
+   }
+  },
+  {
+   "id": "V28c-13",
+   "nivel": "V-S28-solul-resursa-vietii",
+   "competente": [
+    "V-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Adevărat sau fals? Solul se reface foarte repede, deci nu trebuie protejat.",
+   "date": {
+    "variante": [
+     "Fals",
+     "Adevărat"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Fals: se formează în sute de ani; trebuie protejat."
+   }
+  },
+  {
+   "id": "V28c-14",
+   "nivel": "V-S28-solul-resursa-vietii",
+   "competente": [
+    "V-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 1,
+   "enunt": "Adevărat sau fals? Cea mai mare parte a hranei noastre crește din sol.",
+   "date": {
+    "variante": [
+     "Adevărat",
+     "Fals"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Adevărat: cerealele, legumele, fructele și hrana animalelor depind de sol."
+   }
+  },
+  {
+   "id": "V28c-15",
+   "nivel": "V-S28-solul-resursa-vietii",
+   "competente": [
+    "V-1.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Adevărat sau fals? Solul conține aer și apă.",
+   "date": {
+    "variante": [
+     "Adevărat",
+     "Fals"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Adevărat: golurile dintre particule sunt pline de aer și apă."
+   }
+  },
+  {
+   "id": "V28c-16",
+   "nivel": "V-S28-solul-resursa-vietii",
+   "competente": [
+    "V-1.1"
+   ],
+   "tip": "lacunar",
+   "dificultate": 2,
+   "enunt": "Completează.",
+   "date": {
+    "text": "Partea solului care îl face fertil se numește {0}; solul negru din Câmpia Română se numește {1}.",
+    "raspunsuri": [
+     "humus",
+     "cernoziom"
+    ],
+    "distractori": [
+     "nisip",
+     "granit"
+    ]
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Humus, cernoziom."
+   }
+  },
+  {
+   "id": "V28c-17",
+   "nivel": "V-S28-solul-resursa-vietii",
+   "competente": [
+    "V-1.2"
+   ],
+   "tip": "lacunar",
+   "dificultate": 2,
+   "enunt": "Completează.",
+   "date": {
+    "text": "Îndepărtarea solului de apă sau vânt se numește {0}; ea e mai puternică pe pantele fără {1}.",
+    "raspunsuri": [
+     "eroziune",
+     "păduri"
+    ],
+    "distractori": [
+     "înghețare",
+     "case"
+    ]
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Eroziunea e frânată de păduri."
+   }
+  },
+  {
+   "id": "V28c-18",
+   "nivel": "V-S28-solul-resursa-vietii",
+   "competente": [
+    "V-4.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 3,
+   "enunt": "Cum poți arăta că solul conține aer?",
+   "date": {
+    "variante": [
+     "pui o bucată de sol uscat într-un pahar cu apă și vezi bulele care ies",
+     "pui solul la soare",
+     "cântărești solul",
+     "îl amesteci cu sare"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Apa intră în goluri și scoate aerul afară."
+   }
+  },
+  {
+   "id": "V28c-19",
+   "nivel": "V-S28-solul-resursa-vietii",
+   "competente": [
+    "V-4.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 3,
+   "enunt": "Cum poți arăta că solul conține apă?",
+   "date": {
+    "variante": [
+     "încălzești puțin sol într-un borcan acoperit și vezi picături pe capac",
+     "îl pui în frigider",
+     "îl arunci în aer",
+     "îl cântărești rece"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Apa se evaporă și condensează pe capacul rece."
+   }
+  },
+  {
+   "id": "V28c-20",
+   "nivel": "V-S28-solul-resursa-vietii",
+   "competente": [
+    "V-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce sol e mai fertil pentru agricultură?",
+   "date": {
+    "variante": [
+     "un sol bogat în humus, afânat",
+     "un sol plin de pietre",
+     "nisipul de deșert",
+     "solul înghețat al tundrei"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Humusul și afânarea ajută rădăcinile."
+   }
+  },
+  {
+   "id": "V28c-21",
+   "nivel": "V-S28-solul-resursa-vietii",
+   "competente": [
+    "V-3.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "De ce în tundră solul e sărac?",
+   "date": {
+    "variante": [
+     "pentru că e frig, plantele sunt puține și resturile se descompun greu",
+     "pentru că plouă prea mult",
+     "pentru că e prea cald",
+     "pentru că e plin de nisip"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Frigul încetinește formarea humusului."
+   }
+  },
+  {
+   "id": "V28c-22",
+   "nivel": "V-S28-solul-resursa-vietii",
+   "competente": [
+    "V-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce este compostul?",
+   "date": {
+    "variante": [
+     "îngrășământ natural obținut din resturi vegetale descompuse",
+     "un tip de rocă",
+     "o plantă de deșert",
+     "un sol înghețat"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Compostul redă solului humusul."
+   }
+  },
+  {
+   "id": "V28c-23",
+   "nivel": "V-S28-solul-resursa-vietii",
+   "competente": [
+    "V-4.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce poți composta acasă?",
+   "date": {
+    "variante": [
+     "coji de legume și fructe, frunze uscate, zaț de cafea",
+     "plastic",
+     "baterii",
+     "sticlă"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Doar resturile organice se descompun."
+   }
+  },
+  {
+   "id": "V28c-24",
+   "nivel": "V-S28-solul-resursa-vietii",
+   "competente": [
+    "V-2.3"
+   ],
+   "tip": "grafic",
+   "dificultate": 3,
+   "enunt": "Graficul arată grosimea solului pe trei terenuri imaginare. Pe care, probabil, s-a tăiat pădurea de pe pantă?",
+   "date": {
+    "grafic": {
+     "tip": "bare",
+     "titlu": "Grosimea stratului de sol (date imaginare)",
+     "date": [
+      {
+       "eticheta": "terenul A: pădure",
+       "valoare": 80
+      },
+      {
+       "eticheta": "terenul B: pantă defrișată",
+       "valoare": 15
+      },
+      {
+       "eticheta": "terenul C: pajiște",
+       "valoare": 60
+      }
+     ],
+     "unitate": "cm"
+    },
+    "variante": [
+     "terenul B",
+     "terenul A",
+     "terenul C",
+     "toate"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Pe panta defrișată, ploile au spălat solul."
+   }
+  },
+  {
+   "id": "V28c-25",
+   "nivel": "V-S28-solul-resursa-vietii",
+   "competente": [
+    "V-3.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce fac rădăcinile plantelor pentru sol?",
+   "date": {
+    "variante": [
+     "îl țin pe loc și îl afânează",
+     "îl transformă în rocă",
+     "îl încălzesc",
+     "îl fac sărat"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Rădăcinile protejează solul de eroziune."
+   }
+  },
+  {
+   "id": "V28c-26",
+   "nivel": "V-S28-solul-resursa-vietii",
+   "competente": [
+    "V-1.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 3,
+   "enunt": "De ce sub pădurile de foioase solul e brun, nu negru ca cernoziomul?",
+   "date": {
+    "variante": [
+     "pentru că vegetația și clima sunt diferite, deci humusul se formează altfel",
+     "pentru că e mai vechi",
+     "pentru că e mai nisipos din natură peste tot",
+     "pentru că nu are humus deloc"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Tipul de sol depinde de climă, vegetație și rocă."
+   }
+  },
+  {
+   "id": "V28c-27",
+   "nivel": "V-S28-solul-resursa-vietii",
+   "competente": [
+    "V-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce înseamnă „rotația culturilor”?",
+   "date": {
+    "variante": [
+     "cultivi plante diferite pe același teren, de la un an la altul, ca să nu sărăcești solul",
+     "cultivi aceeași plantă mereu",
+     "muți terenul în alt loc",
+     "întorci planta cu rădăcinile în sus"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Rotația culturilor păstrează fertilitatea."
+   }
+  },
+  {
+   "id": "V28c-28",
+   "nivel": "V-S28-solul-resursa-vietii",
+   "competente": [
+    "V-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce se întâmplă cu solul când pe el se construiesc drumuri și parcări?",
+   "date": {
+    "variante": [
+     "e acoperit și nu mai poate hrăni plante",
+     "devine mai fertil",
+     "se îngroașă",
+     "produce apă"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Betonarea pierde solul pentru agricultură."
+   }
+  },
+  {
+   "id": "V28c-29",
+   "nivel": "V-S28-solul-resursa-vietii",
+   "competente": [
+    "V-2.1"
+   ],
+   "tip": "pin",
+   "dificultate": 2,
+   "enunt": "Atinge pe harta României Câmpia Bărăganului, unde predomină cernoziomurile.",
+   "date": {
+    "harta": "romania",
+    "tinta": {
+     "lat": 44.6,
+     "lon": 27.3,
+     "nume": "Bărăganul"
+    },
+    "toleranta": 70
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Bărăganul e în estul Câmpiei Române, între Ialomița, Dunăre și Buzău."
+   }
+  },
+  {
+   "id": "V28c-30",
+   "nivel": "V-S28-solul-resursa-vietii",
+   "competente": [
+    "V-1.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 1,
+   "enunt": "În ce strat crește rădăcina plantelor?",
+   "date": {
+    "variante": [
+     "în sol",
+     "în atmosferă",
+     "în manta",
+     "în nucleu"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Rădăcinile cresc în sol."
+   }
+  },
+  {
+   "id": "V30-01",
+   "nivel": "V-S30-aplicatie-practica-protectia-plantelor",
+   "competente": [
+    "V-4.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 1,
+   "enunt": "Ce iei cu tine într-o expediție de observare a naturii?",
+   "date": {
+    "variante": [
+     "caiet, creion, lupă, telefon pentru fotografii (cu un adult)",
+     "insecticid",
+     "foarfecă pentru flori",
+     "plasă pentru prins păsări"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Observăm fără să deranjăm viețuitoarele."
+   }
+  },
+  {
+   "id": "V30-02",
+   "nivel": "V-S30-aplicatie-practica-protectia-plantelor",
+   "competente": [
+    "V-4.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Cum numeri plantele dintr-un loc fără să le distrugi?",
+   "date": {
+    "variante": [
+     "faci un pătrat de 1 m × 1 m cu sfoară și numeri ce vezi în el",
+     "smulgi toate plantele",
+     "le tai și le cântărești",
+     "le calci ca să le vezi mai bine"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Metoda pătratului e folosită și de cercetători."
+   }
+  },
+  {
+   "id": "V30-03",
+   "nivel": "V-S30-aplicatie-practica-protectia-plantelor",
+   "competente": [
+    "V-4.3"
+   ],
+   "tip": "asociaza",
+   "dificultate": 2,
+   "enunt": "Asociază fapta cu efectul ei.",
+   "date": {
+    "perechi": [
+     [
+      "plantezi un copac",
+      "ții solul și dai adăpost păsărilor"
+     ],
+     [
+      "pui o căsuță pentru păsări",
+      "păsările au unde să cuibărească"
+     ],
+     [
+      "strângi gunoaiele din parc",
+      "animalele nu se mai rănesc în ele"
+     ],
+     [
+      "nu rupi florile ocrotite",
+      "specia nu dispare"
+     ]
+    ]
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Fapte mici, efecte mari."
+   }
+  },
+  {
+   "id": "V30-04",
+   "nivel": "V-S30-aplicatie-practica-protectia-plantelor",
+   "competente": [
+    "V-4.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 3,
+   "enunt": "Pe o pantă din apropiere, ploaia a spălat solul. Ce propui?",
+   "date": {
+    "variante": [
+     "plantarea de copaci și arbuști pe pantă",
+     "tăierea tufișurilor rămase",
+     "arătura de sus în jos",
+     "nimic"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Vegetația oprește eroziunea."
+   }
+  }
+ ]
+}

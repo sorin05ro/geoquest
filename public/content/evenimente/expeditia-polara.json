@@ -1,0 +1,665 @@
+{
+ "id": "expeditia-polara",
+ "nume": "Expediția Polară",
+ "eveniment": "scoala-altfel",
+ "itemi": [
+  {
+   "id": "P01",
+   "nivel": "ev-expeditia-polara",
+   "competente": [],
+   "tip": "pin",
+   "dificultate": 1,
+   "enunt": "Atinge pe hartă Polul Sud.",
+   "date": {
+    "harta": "lume",
+    "tinta": {
+     "lat": -89.5,
+     "lon": 0,
+     "nume": "Polul Sud"
+    },
+    "toleranta": 1200
+   },
+   "feedback": {
+    "corect": "Corect: e în mijlocul Antarcticii.",
+    "gresit": "Polul Sud e în marginea de jos a hărții, în Antarctica."
+   },
+   "clase": [
+    5,
+    6,
+    7,
+    8
+   ]
+  },
+  {
+   "id": "P02",
+   "nivel": "ev-expeditia-polara",
+   "competente": [],
+   "tip": "alegere",
+   "dificultate": 1,
+   "enunt": "Ce continent este acoperit aproape în întregime de gheață?",
+   "date": {
+    "variante": [
+     "Antarctica",
+     "Europa",
+     "Australia",
+     "Africa"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Antarctica e acoperită aproape în întregime de o calotă de gheață."
+   },
+   "surse": [
+    "ESA – Antarctica (2019): calota conține aproximativ 90 % din gheața lumii",
+    "LEARNZ – Antarctic Ice: peste 90 % din gheața lumii"
+   ],
+   "clase": [
+    5,
+    6,
+    7,
+    8
+   ]
+  },
+  {
+   "id": "P03",
+   "nivel": "ev-expeditia-polara",
+   "competente": [],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce parte din gheața lumii se află în Antarctica?",
+   "date": {
+    "variante": [
+     "aproximativ 90 %",
+     "aproximativ 10 %",
+     "aproximativ jumătate",
+     "aproximativ un sfert"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect: în jur de 90 %.",
+    "gresit": "Calota Antarcticii conține aproximativ 90 % din gheața lumii."
+   },
+   "surse": [
+    "ESA – Antarctica (2019): calota conține aproximativ 90 % din gheața lumii",
+    "LEARNZ – Antarctic Ice: peste 90 % din gheața lumii"
+   ],
+   "clase": [
+    5,
+    6,
+    7,
+    8
+   ]
+  },
+  {
+   "id": "P04",
+   "nivel": "ev-expeditia-polara",
+   "competente": [],
+   "tip": "alegere",
+   "dificultate": 1,
+   "enunt": "Pe ce continent trăiesc pinguinii imperiali?",
+   "date": {
+    "variante": [
+     "Antarctica",
+     "Europa",
+     "America de Nord",
+     "Asia"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Pinguinii imperiali trăiesc doar în Antarctica și în apele din jurul ei."
+   },
+   "clase": [
+    5,
+    6,
+    7,
+    8
+   ]
+  },
+  {
+   "id": "P05",
+   "nivel": "ev-expeditia-polara",
+   "competente": [],
+   "tip": "alegere",
+   "dificultate": 1,
+   "enunt": "Unde trăiesc urșii polari?",
+   "date": {
+    "variante": [
+     "în regiunea arctică, în jurul Polului Nord",
+     "în Antarctica",
+     "în Sahara",
+     "în pădurea amazoniană"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Urșii polari trăiesc în Arctica. În Antarctica nu există urși polari."
+   },
+   "clase": [
+    5,
+    6,
+    7,
+    8
+   ]
+  },
+  {
+   "id": "P06",
+   "nivel": "ev-expeditia-polara",
+   "competente": [],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Prin ce se deosebește Arctica de Antarctica?",
+   "date": {
+    "variante": [
+     "Arctica e un ocean înghețat înconjurat de uscat; Antarctica e un continent acoperit de gheață",
+     "Arctica e un continent; Antarctica e un ocean",
+     "sunt același loc",
+     "Arctica e în emisfera sudică"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "În nord e Oceanul Arctic, înghețat, înconjurat de continente. În sud e un continent: Antarctica."
+   },
+   "clase": [
+    5,
+    6,
+    7,
+    8
+   ]
+  },
+  {
+   "id": "P07",
+   "nivel": "ev-expeditia-polara",
+   "competente": [],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Cine a ajuns primul la Polul Sud, în decembrie 1911?",
+   "date": {
+    "variante": [
+     "Roald Amundsen",
+     "Cristofor Columb",
+     "Emil Racoviță",
+     "Ferdinand Magellan"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect: norvegianul Roald Amundsen, pe 14 decembrie 1911.",
+    "gresit": "Primul om la Polul Sud a fost norvegianul Roald Amundsen, pe 14 decembrie 1911."
+   },
+   "surse": [
+    "Guinness World Records – First person to reach the South Pole",
+    "Scientific American – Amundsen Becomes First to Reach South Pole, December 14, 1911"
+   ],
+   "clase": [
+    5,
+    6,
+    7,
+    8
+   ]
+  },
+  {
+   "id": "P08",
+   "nivel": "ev-expeditia-polara",
+   "competente": [],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce savant român a participat la expediția Belgica (1897–1899), în Antarctica?",
+   "date": {
+    "variante": [
+     "Emil Racoviță",
+     "Grigore Antipa",
+     "Simion Mehedinți",
+     "Nicolae Iorga"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect: biologul Emil Racoviță.",
+    "gresit": "Emil Racoviță a fost biologul expediției Belgica, condusă de belgianul Adrien de Gerlache."
+   },
+   "surse": [
+    "Wikipedia – Emil Racoviță (expediția Belgica, 1897–1899)",
+    "Agerpres, 13.05.2025 – expoziția despre expediția antarctică Belgica 1897–1899"
+   ],
+   "clase": [
+    5,
+    6,
+    7,
+    8
+   ]
+  },
+  {
+   "id": "P09",
+   "nivel": "ev-expeditia-polara",
+   "competente": [],
+   "tip": "pin",
+   "dificultate": 2,
+   "enunt": "Atinge pe hartă Groenlanda, insula acoperită în mare parte de gheață.",
+   "date": {
+    "harta": "lume",
+    "tinta": {
+     "lat": 72,
+     "lon": -40,
+     "nume": "Groenlanda"
+    },
+    "toleranta": 900
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Groenlanda e în nordul Oceanului Atlantic, la nord-est de America de Nord."
+   },
+   "clase": [
+    5,
+    6,
+    7,
+    8
+   ]
+  },
+  {
+   "id": "P10",
+   "nivel": "ev-expeditia-polara",
+   "competente": [
+    "V-1.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 1,
+   "enunt": "Cum se numește un bloc mare de gheață desprins dintr-un ghețar, care plutește pe mare?",
+   "date": {
+    "variante": [
+     "aisberg",
+     "dună",
+     "atol",
+     "fiord"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Blocurile de gheață care plutesc pe mare se numesc aisberguri."
+   },
+   "clase": [
+    5
+   ]
+  },
+  {
+   "id": "P11",
+   "nivel": "ev-expeditia-polara",
+   "competente": [
+    "V-1.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Gheața ghețarilor și a aisbergurilor este formată din apă...",
+   "date": {
+    "variante": [
+     "dulce",
+     "sărată",
+     "de mare",
+     "minerală"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Ghețarii se formează din zăpadă tasată, deci gheața lor e de apă dulce."
+   },
+   "clase": [
+    5
+   ]
+  },
+  {
+   "id": "P12",
+   "nivel": "ev-expeditia-polara",
+   "competente": [
+    "V-3.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce este ziua polară?",
+   "date": {
+    "variante": [
+     "perioada în care Soarele nu apune deloc, zile la rând",
+     "o zi foarte rece de iarnă",
+     "ziua în care se topește gheața",
+     "noaptea cu aurore"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "În regiunile polare, vara, Soarele rămâne deasupra orizontului zile sau luni la rând."
+   },
+   "clase": [
+    5
+   ]
+  },
+  {
+   "id": "P13",
+   "nivel": "ev-expeditia-polara",
+   "competente": [
+    "V-2.1"
+   ],
+   "tip": "denumeste",
+   "dificultate": 1,
+   "enunt": "Cum se numește continentul marcat pe hartă?",
+   "date": {
+    "variante": [
+     "Antarctica",
+     "Australia",
+     "Africa",
+     "America de Sud"
+    ],
+    "corect": 0,
+    "harta": "lume",
+    "punct": {
+     "lat": -80,
+     "lon": 30
+    }
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Continentul de la Polul Sud e Antarctica."
+   },
+   "clase": [
+    5
+   ]
+  },
+  {
+   "id": "P14",
+   "nivel": "ev-expeditia-polara",
+   "competente": [
+    "VI-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Care dintre aceste țări are teritoriu la nord de Cercul Polar de Nord?",
+   "date": {
+    "variante": [
+     "Norvegia",
+     "Italia",
+     "Grecia",
+     "Portugalia"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Nordul Norvegiei (ca și al Suediei și Finlandei) trece de Cercul Polar de Nord."
+   },
+   "clase": [
+    6
+   ]
+  },
+  {
+   "id": "P15",
+   "nivel": "ev-expeditia-polara",
+   "competente": [
+    "VI-2.1"
+   ],
+   "tip": "pin",
+   "dificultate": 2,
+   "enunt": "Atinge pe hartă Islanda, țara insulară cu vulcani și ghețari.",
+   "date": {
+    "harta": "lume",
+    "tinta": {
+     "lat": 64.9,
+     "lon": -18.6,
+     "nume": "Islanda"
+    },
+    "toleranta": 500
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Islanda e în nordul Oceanului Atlantic, între Groenlanda și Norvegia."
+   },
+   "clase": [
+    6
+   ]
+  },
+  {
+   "id": "P16",
+   "nivel": "ev-expeditia-polara",
+   "competente": [
+    "VI-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce popor din nordul Scandinaviei crește în mod tradițional reni?",
+   "date": {
+    "variante": [
+     "samii",
+     "bascii",
+     "bretonii",
+     "tirolezii"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Samii trăiesc în nordul Norvegiei, Suediei, Finlandei și Rusiei; mulți cresc reni."
+   },
+   "clase": [
+    6
+   ]
+  },
+  {
+   "id": "P17",
+   "nivel": "ev-expeditia-polara",
+   "competente": [
+    "VI-1.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Cum se numesc golfurile lungi și înguste, cu maluri abrupte, săpate de ghețari pe țărmul Norvegiei?",
+   "date": {
+    "variante": [
+     "fiorduri",
+     "delte",
+     "lagune",
+     "estuare"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Fiordurile sunt văi glaciare inundate de mare."
+   },
+   "clase": [
+    6
+   ]
+  },
+  {
+   "id": "P18",
+   "nivel": "ev-expeditia-polara",
+   "competente": [
+    "VII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce animale trăiesc pe țărmurile Antarcticii?",
+   "date": {
+    "variante": [
+     "pinguini și foci",
+     "urși polari și reni",
+     "lei și zebre",
+     "cămile și scorpioni"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Pe țărmurile Antarcticii trăiesc pinguini și foci; urșii polari și renii sunt în nord."
+   },
+   "clase": [
+    7
+   ]
+  },
+  {
+   "id": "P19",
+   "nivel": "ev-expeditia-polara",
+   "competente": [
+    "VII-4.4"
+   ],
+   "tip": "alegere",
+   "dificultate": 3,
+   "enunt": "Pentru ce este folosită Antarctica, conform tratatului internațional semnat de mai multe țări?",
+   "date": {
+    "variante": [
+     "pentru cercetare științifică pașnică",
+     "pentru baze militare",
+     "pentru minerit",
+     "pentru orașe noi"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Tratatul asupra Antarcticii o rezervă cercetării științifice și scopurilor pașnice."
+   },
+   "clase": [
+    7
+   ]
+  },
+  {
+   "id": "P20",
+   "nivel": "ev-expeditia-polara",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "În ce emisferă se află Antarctica?",
+   "date": {
+    "variante": [
+     "în emisfera sudică",
+     "în emisfera nordică",
+     "pe Ecuator",
+     "jumătate în nord, jumătate în sud"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Antarctica e în jurul Polului Sud, deci în emisfera sudică."
+   },
+   "clase": [
+    7
+   ]
+  },
+  {
+   "id": "P21",
+   "nivel": "ev-expeditia-polara",
+   "competente": [
+    "VIII-1.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Care este cel mai întins lac glaciar din România?",
+   "date": {
+    "variante": [
+     "Lacul Bucura",
+     "Lacul Sfânta Ana",
+     "Lacul Razim",
+     "Lacul Snagov"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect: Bucura, în Munții Retezat.",
+    "gresit": "Lacul Bucura, din Munții Retezat, e cel mai întins lac glaciar din România."
+   },
+   "surse": [
+    "Wikipedia – Bucura Lake (cel mai mare lac glaciar din România)",
+    "Adevărul – „cel mai întins lac glaciar din România”"
+   ],
+   "clase": [
+    8
+   ]
+  },
+  {
+   "id": "P22",
+   "nivel": "ev-expeditia-polara",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "pin",
+   "dificultate": 2,
+   "enunt": "Atinge pe hartă Munții Retezat, unde se află Lacul Bucura.",
+   "date": {
+    "harta": "romania",
+    "tinta": {
+     "lat": 45.36,
+     "lon": 22.88,
+     "nume": "Munții Retezat"
+    },
+    "toleranta": 50
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Munții Retezat sunt în vestul Carpaților Meridionali."
+   },
+   "clase": [
+    8
+   ]
+  },
+  {
+   "id": "P23",
+   "nivel": "ev-expeditia-polara",
+   "competente": [
+    "VIII-2.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce forme de relief au lăsat ghețarii de altădată în munții înalți ai României?",
+   "date": {
+    "variante": [
+     "circuri (căldări) și văi glaciare",
+     "dune de nisip",
+     "delte",
+     "vulcani noroioși"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Ghețarii au săpat circuri glaciare (căldări), în care s-au format lacuri, și văi glaciare."
+   },
+   "clase": [
+    8
+   ]
+  },
+  {
+   "id": "P24",
+   "nivel": "ev-expeditia-polara",
+   "competente": [
+    "VIII-3.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 3,
+   "enunt": "De ce nu mai există ghețari în Carpați astăzi?",
+   "date": {
+    "variante": [
+     "clima s-a încălzit după ultima glaciațiune",
+     "munții au devenit mai înalți",
+     "a crescut nivelul mării",
+     "ghețarii au fost topiți de oameni"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Ghețarii din Carpați s-au topit când clima s-a încălzit, după ultima glaciațiune."
+   },
+   "clase": [
+    8
+   ]
+  }
+ ]
+}

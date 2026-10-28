@@ -1,0 +1,3338 @@
+{
+ "clasa": 5,
+ "unitate": "Hidrosfera – învelișul de apă al Pământului",
+ "niveluri": [
+  {
+   "id": "V-S23-caracteristici-generale-importanta",
+   "tip": "nivel",
+   "titlu": "Hidrosfera – caracteristici generale și importanță",
+   "descopera": {
+    "intrebare": "Dacă Pământul e acoperit mai ales de apă, de ce spunem că apa potabilă e puțină?"
+   },
+   "invata": [
+    {
+     "titlu": "Ce este hidrosfera",
+     "text": "Hidrosfera este învelișul de apă al Pământului: oceanele și mările, râurile, lacurile, apele subterane, ghețarii și vaporii de apă din atmosferă.\nApa acoperă aproximativ 71 % din suprafața Pământului. De aceea, văzut din spațiu, Pământul e numit „Planeta albastră”."
+    },
+    {
+     "titlu": "Apa sărată și apa dulce",
+     "text": "Aproape toată apa Pământului, aproximativ 96,5 %, e sărată și se află în oceane și mări.\nApa dulce reprezintă doar aproximativ 2,5 % din total, iar cea mai mare parte din ea e înghețată în ghețari sau ascunsă în subteran. Râurile și lacurile conțin o parte foarte mică."
+    },
+    {
+     "titlu": "Circuitul apei în natură",
+     "text": "Apa se mișcă mereu: Soarele o încălzește și ea se evaporă; vaporii urcă, se răcesc și formează nori; din nori cad precipitațiile; apa se scurge prin râuri sau se infiltrează în sol și ajunge înapoi în mări și oceane.\nAșa, aceeași apă circulă de miliarde de ani."
+    }
+   ],
+   "stiaiCa": "Dacă toată apa Pământului ar încăpea într-o sticlă de 1 litru, apa dulce din râuri și lacuri ar fi doar câteva picături.",
+   "referintaProfesor": "Manual Art Klett, clasa a V-a (manuale.edu.ro), lecția „Hidrosfera – caracteristici generale și importanță”"
+  },
+  {
+   "id": "V-S24-oceanul-planetar-componente-localizare",
+   "tip": "nivel",
+   "titlu": "Oceanul Planetar – componente și localizare. Dinamica apelor oceanice",
+   "descopera": {
+    "intrebare": "De ce apa mării se ridică și coboară de două ori pe zi?"
+   },
+   "invata": [
+    {
+     "titlu": "Oceanele și mările",
+     "text": "Oceanul Planetar e apa sărată care înconjoară continentele. E împărțit în oceane: Pacific (cel mai mare și cel mai adânc), Atlantic, Indian, Arctic (cel mai mic) și, după mulți geografi, Oceanul de Sud, în jurul Antarcticii.\nMările sunt părți mai mici ale oceanelor, mai apropiate de uscat. Marea Neagră e o mare aproape închisă, legată de Marea Mediterană prin strâmtori."
+    },
+    {
+     "titlu": "Proprietățile apei oceanice",
+     "text": "Apa oceanului e sărată: în medie, aproximativ 35 g de sare la 1 litru. Temperatura apei scade de la Ecuator spre poli și de la suprafață spre adânc.\nCea mai adâncă groapă e Groapa Marianelor, în Oceanul Pacific: aproape 11 000 m."
+    },
+    {
+     "titlu": "Mișcările apei oceanice",
+     "text": "Valurile sunt produse de vânt.\nMareele sunt urcarea și coborârea apei mării de două ori pe zi, din cauza atracției Lunii (și a Soarelui).\nCurenții oceanici sunt „râuri” uriașe în ocean. Curenții calzi (ca Golfstromul) încălzesc țărmurile pe care ajung; curenții reci le răcesc."
+    }
+   ],
+   "stiaiCa": "Golfstromul aduce apă caldă din Golful Mexic până în Europa de Nord-Vest. Datorită lui, porturile din nordul Norvegiei nu îngheață iarna, deși sunt dincolo de Cercul Polar.",
+   "referintaProfesor": "Manual Art Klett, clasa a V-a (manuale.edu.ro), lecția „Oceanul Planetar – componente și localizare”"
+  },
+  {
+   "id": "V-S25-apele-continentale",
+   "tip": "nivel",
+   "titlu": "Apele continentale",
+   "descopera": {
+    "intrebare": "De unde vine apa râului Râmnicu Sărat și unde se duce?"
+   },
+   "invata": [
+    {
+     "titlu": "Râurile",
+     "text": "Râul este o apă curgătoare permanentă, care curge pe o vale, de la izvor până la vărsare. Râurile se varsă în alte râuri (ca afluenți), în lacuri, mări sau oceane.\nUn râu mare care se varsă în mare sau ocean se numește fluviu (de exemplu, Dunărea).\nLocul unde un râu se varsă poate fi o deltă (râul se ramifică în brațe) sau un estuar (o gură largă, în formă de pâlnie)."
+    },
+    {
+     "titlu": "Bazinul hidrografic",
+     "text": "Râul principal împreună cu toți afluenții lui formează un sistem hidrografic. Suprafața de pe care își adună apele se numește bazin hidrografic.\nRâul Râmnicu Sărat este un afluent al Siretului, iar Siretul se varsă în Dunăre. Așa, apa care curge prin orașul nostru ajunge, în cele din urmă, în Marea Neagră."
+    },
+    {
+     "titlu": "Lacurile și apele subterane",
+     "text": "Lacurile sunt ape stătătoare, adunate într-o depresiune (o adâncitură). După felul în care s-a format depresiunea, lacurile pot fi glaciare, vulcanice, carstice, de baraj natural, lagune sau limane; există și lacuri făcute de om, numite lacuri de acumulare.\nApele subterane se află în porii și crăpăturile rocilor; ies la suprafață prin izvoare."
+    }
+   ],
+   "stiaiCa": "Lacul Baikal, din Siberia, are 1 642 m adâncime și e cel mai adânc lac de pe Pământ. Conține aproape o cincime din apa dulce de la suprafața uscatului.",
+   "referintaProfesor": "Manual Art Klett, clasa a V-a (manuale.edu.ro), lecția „Apele continentale”"
+  },
+  {
+   "id": "V-S26-ghetarii",
+   "tip": "nivel",
+   "titlu": "Ghețarii",
+   "descopera": {
+    "intrebare": "Pot exista „râuri” de gheață care curg?"
+   },
+   "invata": [
+    {
+     "titlu": "Ce sunt ghețarii",
+     "text": "Ghețarii sunt mase mari de gheață formate din zăpadă care s-a adunat și s-a tasat timp de mulți ani. Se formează unde zăpada care cade iarna nu se topește complet vara: în zonele polare și pe munții foarte înalți.\nGheața ghețarilor e apă dulce. Peste două treimi din apa dulce a Pământului e înghețată în ghețari și calote."
+    },
+    {
+     "titlu": "Tipuri de ghețari",
+     "text": "Calotele glaciare (inlandsisurile) acoperă suprafețe uriașe: Antarctica și Groenlanda.\nGhețarii montani ocupă văile munților înalți (Alpi, Himalaya, Anzi). Ei coboară încet, ca un râu foarte lent, de la câțiva centimetri la câțiva metri pe zi.\nCând un ghețar ajunge la mare, din el se rup bucăți uriașe care plutesc: aisbergurile."
+    },
+    {
+     "titlu": "Urmele ghețarilor",
+     "text": "Ghețarii sapă văi în formă de U și căldări (adâncituri) în care, după topire, apar lacuri glaciare.\nÎn România nu mai există ghețari astăzi, dar în trecut au existat în Carpații cei mai înalți. De la ei au rămas lacurile glaciare din Retezat, Făgăraș și Parâng, de exemplu Lacul Bucura, cel mai mare lac glaciar din țară."
+    }
+   ],
+   "stiaiCa": "Dintr-un aisberg se vede deasupra apei doar o parte mică, aproximativ o zecime. Restul e ascuns sub apă: de aici expresia „doar vârful aisbergului”.",
+   "referintaProfesor": "Manual Art Klett, clasa a V-a (manuale.edu.ro), lecția „Ghețarii”"
+  },
+  {
+   "id": "V-S27-aplicatii-practice-apele-din",
+   "tip": "expeditie",
+   "titlu": "Expediție: apele din orizontul meu",
+   "descopera": {
+    "intrebare": "De unde vine apa de la robinet și cum o protejăm?"
+   },
+   "invata": [
+    {
+     "titlu": "Ce faci în expediție",
+     "text": "Urmezi pașii, rezolvi sarcinile și notezi în Jurnalul exploratorului ce ai descoperit."
+    }
+   ],
+   "referintaProfesor": "Manual Art Klett, clasa a V-a (manuale.edu.ro), lecția „Aplicații practice: Apele din orizontul local”",
+   "pasi": [
+    {
+     "titlu": "1. Râul orașului",
+     "text": "Află, cu ajutorul unei hărți sau al profesorului, de unde izvorăște râul Râmnicu Sărat și în ce râu se varsă.",
+     "itemi": [
+      "V27-01",
+      "V27-02"
+     ],
+     "jurnal": {
+      "cerinta": "Desenează schema: izvorul, orașul, râul în care se varsă, apoi drumul până la mare."
+     }
+    },
+    {
+     "titlu": "2. Fenomene periculoase",
+     "text": "Află dacă în zona ta au fost inundații sau poduri de gheață. Discută cu familia ce ați face într-o astfel de situație.",
+     "itemi": [
+      "V27-03",
+      "V27-04",
+      "V27-05"
+     ],
+     "jurnal": {
+      "cerinta": "Scrie trei reguli de siguranță pentru o inundație."
+     }
+    },
+    {
+     "titlu": "3. Detectivul apei",
+     "text": "Pune un pahar sub un robinet care picură (sau imaginează-ți) și măsoară câtă apă se adună într-o oră. Calculează cât ar fi într-o zi.",
+     "itemi": [
+      "V27-06"
+     ],
+     "jurnal": {
+      "cerinta": "Notează câți mililitri s-au adunat într-o oră și înmulțește cu 24. Ce propui ca să economisiți apa acasă?"
+     }
+    },
+    {
+     "titlu": "4. Afișul apei",
+     "text": "Realizează un afiș: „Cum protejăm apele din orizontul local”. Poți folosi desene sau fotografii făcute de tine pe malul râului (doar cu un adult).",
+     "jurnal": {
+      "cerinta": "Fotografiază afișul.",
+      "foto": true
+     }
+    }
+   ]
+  }
+ ],
+ "itemi": [
+  {
+   "id": "V23-01",
+   "nivel": "V-S23-caracteristici-generale-importanta",
+   "competente": [
+    "V-1.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 1,
+   "enunt": "Ce este hidrosfera?",
+   "date": {
+    "variante": [
+     "învelișul de apă al Pământului",
+     "învelișul de aer",
+     "stratul de roci",
+     "lumea plantelor"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Hidro- înseamnă apă."
+   }
+  },
+  {
+   "id": "V23-02",
+   "nivel": "V-S23-caracteristici-generale-importanta",
+   "competente": [
+    "V-1.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 1,
+   "enunt": "Ce parte din suprafața Pământului e acoperită de apă?",
+   "date": {
+    "variante": [
+     "aproximativ 71 %",
+     "aproximativ 10 %",
+     "aproximativ 29 %",
+     "aproximativ 99 %"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Apa acoperă aproximativ 71 %, uscatul aproximativ 29 %."
+   },
+   "surse": [
+    "USGS Water Science School – Where is Earth's Water?",
+    "USGS – How Much Water is There on Earth?"
+   ]
+  },
+  {
+   "id": "V23-03",
+   "nivel": "V-S23-caracteristici-generale-importanta",
+   "competente": [
+    "V-3.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce procent din apa Pământului se află în oceane și mări?",
+   "date": {
+    "variante": [
+     "aproximativ 96,5 %",
+     "aproximativ 50 %",
+     "aproximativ 2,5 %",
+     "aproximativ 71 %"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Oceanele conțin aproximativ 96,5 % din toată apa."
+   },
+   "surse": [
+    "USGS Water Science School – Where is Earth's Water?",
+    "USGS – How Much Water is There on Earth?"
+   ]
+  },
+  {
+   "id": "V23-04",
+   "nivel": "V-S23-caracteristici-generale-importanta",
+   "competente": [
+    "V-3.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce procent din apa Pământului este apă dulce?",
+   "date": {
+    "variante": [
+     "aproximativ 2,5 %",
+     "aproximativ 25 %",
+     "aproximativ 50 %",
+     "aproximativ 96,5 %"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Doar aproximativ 2,5 % din apă e dulce."
+   },
+   "surse": [
+    "USGS Water Science School – Where is Earth's Water?",
+    "USGS – How Much Water is There on Earth?"
+   ]
+  },
+  {
+   "id": "V23-05",
+   "nivel": "V-S23-caracteristici-generale-importanta",
+   "competente": [
+    "V-3.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Unde se află cea mai mare parte a apei dulci?",
+   "date": {
+    "variante": [
+     "înghețată în ghețari și calote",
+     "în râuri",
+     "în lacuri",
+     "în nori"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Peste două treimi din apa dulce e înghețată."
+   },
+   "surse": [
+    "USGS Water Science School – Ice, Snow, and Glaciers and the Water Cycle",
+    "Water Education Foundation – The Earth's Water Supply"
+   ]
+  },
+  {
+   "id": "V23-06",
+   "nivel": "V-S23-caracteristici-generale-importanta",
+   "competente": [
+    "V-2.3"
+   ],
+   "tip": "grafic",
+   "dificultate": 2,
+   "enunt": "Graficul arată împărțirea apei de pe Pământ. Ce fel de apă e cea mai multă?",
+   "date": {
+    "grafic": {
+     "tip": "structura",
+     "titlu": "Apa de pe Pământ",
+     "date": [
+      {
+       "eticheta": "apă sărată (oceane, mări)",
+       "valoare": 97.5
+      },
+      {
+       "eticheta": "apă dulce",
+       "valoare": 2.5
+      }
+     ],
+     "unitate": "%",
+     "sursa": "USGS Water Science School"
+    },
+    "variante": [
+     "apa sărată",
+     "apa dulce",
+     "sunt egale",
+     "apa din râuri"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Apa sărată e aproximativ 97,5 % (oceane, mări și puțină apă sărată subterană)."
+   },
+   "surse": [
+    "USGS Water Science School – Where is Earth's Water?",
+    "USGS – How Much Water is There on Earth?"
+   ]
+  },
+  {
+   "id": "V23-07",
+   "nivel": "V-S23-caracteristici-generale-importanta",
+   "competente": [
+    "V-1.1"
+   ],
+   "tip": "asociaza",
+   "dificultate": 1,
+   "enunt": "Asociază componenta hidrosferei cu exemplul.",
+   "date": {
+    "perechi": [
+     [
+      "ocean",
+      "Oceanul Pacific"
+     ],
+     [
+      "mare",
+      "Marea Neagră"
+     ],
+     [
+      "râu",
+      "Dunărea"
+     ],
+     [
+      "lac",
+      "Lacul Bâlea"
+     ]
+    ]
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Toate fac parte din hidrosferă."
+   }
+  },
+  {
+   "id": "V23-08",
+   "nivel": "V-S23-caracteristici-generale-importanta",
+   "competente": [
+    "V-1.2"
+   ],
+   "tip": "ordoneaza",
+   "dificultate": 2,
+   "enunt": "Ordonează etapele circuitului apei în natură.",
+   "date": {
+    "elemente": [
+     "evaporarea apei din mări",
+     "formarea norilor",
+     "căderea precipitațiilor",
+     "scurgerea apei prin râuri înapoi în mare"
+    ],
+    "criteriu": "Ordinea circuitului"
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Evaporare, condensare, precipitații, scurgere."
+   }
+  },
+  {
+   "id": "V23-09",
+   "nivel": "V-S23-caracteristici-generale-importanta",
+   "competente": [
+    "V-1.1"
+   ],
+   "tip": "asociaza",
+   "dificultate": 2,
+   "enunt": "Asociază etapa circuitului apei cu explicația.",
+   "date": {
+    "perechi": [
+     [
+      "evaporarea",
+      "apa devine vapori"
+     ],
+     [
+      "condensarea",
+      "vaporii devin picături, nori"
+     ],
+     [
+      "precipitațiile",
+      "apa cade din nori"
+     ],
+     [
+      "infiltrarea",
+      "apa pătrunde în sol"
+     ]
+    ]
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Fiecare etapă are numele ei."
+   }
+  },
+  {
+   "id": "V23-10",
+   "nivel": "V-S23-caracteristici-generale-importanta",
+   "competente": [
+    "V-1.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce pune în mișcare circuitul apei?",
+   "date": {
+    "variante": [
+     "căldura Soarelui și atracția gravitațională",
+     "vântul de la poli",
+     "Luna",
+     "vulcanii"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Soarele evaporă apa; gravitația o aduce înapoi jos."
+   }
+  },
+  {
+   "id": "V23-11",
+   "nivel": "V-S23-caracteristici-generale-importanta",
+   "competente": [
+    "V-1.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 1,
+   "enunt": "Adevărat sau fals? Apa din oceane e bună de băut.",
+   "date": {
+    "variante": [
+     "Fals",
+     "Adevărat"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Fals: e sărată; trebuie desalinizată ca să poată fi băută."
+   }
+  },
+  {
+   "id": "V23-12",
+   "nivel": "V-S23-caracteristici-generale-importanta",
+   "competente": [
+    "V-1.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Adevărat sau fals? Apa de pe Pământ se mișcă mereu, prin circuitul apei.",
+   "date": {
+    "variante": [
+     "Adevărat",
+     "Fals"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Adevărat: evaporare, nori, precipitații, scurgere."
+   }
+  },
+  {
+   "id": "V23-13",
+   "nivel": "V-S23-caracteristici-generale-importanta",
+   "competente": [
+    "V-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Adevărat sau fals? Apa dulce e o resursă care trebuie protejată, pentru că e puțină.",
+   "date": {
+    "variante": [
+     "Adevărat",
+     "Fals"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Adevărat: doar o mică parte din apa Pământului e dulce și accesibilă."
+   }
+  },
+  {
+   "id": "V23-14",
+   "nivel": "V-S23-caracteristici-generale-importanta",
+   "competente": [
+    "V-1.1"
+   ],
+   "tip": "lacunar",
+   "dificultate": 1,
+   "enunt": "Completează.",
+   "date": {
+    "text": "Pământul e numit „Planeta {0}”, pentru că e acoperit mai ales de {1}.",
+    "raspunsuri": [
+     "albastră",
+     "apă"
+    ],
+    "distractori": [
+     "roșie",
+     "nisip"
+    ]
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Din spațiu, oceanele fac Pământul să pară albastru."
+   }
+  },
+  {
+   "id": "V23-15",
+   "nivel": "V-S23-caracteristici-generale-importanta",
+   "competente": [
+    "V-1.2"
+   ],
+   "tip": "lacunar",
+   "dificultate": 2,
+   "enunt": "Completează.",
+   "date": {
+    "text": "Apa se transformă în vapori prin {0}, iar vaporii devin picături în nori prin {1}.",
+    "raspunsuri": [
+     "evaporare",
+     "condensare"
+    ],
+    "distractori": [
+     "topire",
+     "înghețare"
+    ]
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Evaporare și condensare sunt două etape ale circuitului."
+   }
+  },
+  {
+   "id": "V23-16",
+   "nivel": "V-S23-caracteristici-generale-importanta",
+   "competente": [
+    "V-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "La ce folosesc oamenii apa?",
+   "date": {
+    "variante": [
+     "la băut, agricultură (irigații), industrie, energie și transport",
+     "doar la spălat",
+     "doar la înot",
+     "nu o folosesc"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Apa e esențială pentru viață și economie."
+   }
+  },
+  {
+   "id": "V23-17",
+   "nivel": "V-S23-caracteristici-generale-importanta",
+   "competente": [
+    "V-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce activitate consumă cea mai mare parte din apa dulce folosită de oameni?",
+   "date": {
+    "variante": [
+     "agricultura (irigațiile)",
+     "spălatul pe dinți",
+     "băutul",
+     "piscinele"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Irigațiile folosesc cea mai multă apă."
+   }
+  },
+  {
+   "id": "V23-18",
+   "nivel": "V-S23-caracteristici-generale-importanta",
+   "competente": [
+    "V-1.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Cum se numește apa care se află în sol și în roci, sub suprafața pământului?",
+   "date": {
+    "variante": [
+     "apă subterană (freatică)",
+     "apă de mare",
+     "apă de ploaie",
+     "vapori"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Fântânile scot apa subterană."
+   }
+  },
+  {
+   "id": "V23-19",
+   "nivel": "V-S23-caracteristici-generale-importanta",
+   "competente": [
+    "V-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "De unde vine apa din fântânile de la sat?",
+   "date": {
+    "variante": [
+     "din apa subterană",
+     "din ocean",
+     "din nori, direct",
+     "din ghețari"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Fântâna e săpată până la stratul de apă subterană."
+   }
+  },
+  {
+   "id": "V23-20",
+   "nivel": "V-S23-caracteristici-generale-importanta",
+   "competente": [
+    "V-4.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Cum poți economisi apa acasă?",
+   "date": {
+    "variante": [
+     "închizi robinetul când te speli pe dinți și faci duș scurt",
+     "lași robinetul deschis",
+     "speli mașina zilnic cu furtunul",
+     "umpli cada de mai multe ori"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Fiecare litru economisit contează."
+   }
+  },
+  {
+   "id": "V23-21",
+   "nivel": "V-S23-caracteristici-generale-importanta",
+   "competente": [
+    "V-1.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 3,
+   "enunt": "De ce ploaia e apă dulce, deși vine din apa sărată a oceanului?",
+   "date": {
+    "variante": [
+     "pentru că sarea nu se evaporă; doar apa se transformă în vapori",
+     "pentru că ploaia vine de pe Lună",
+     "pentru că norii filtrează sarea",
+     "pentru că ploaia vine doar din râuri"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "La evaporare, sarea rămâne în ocean."
+   }
+  },
+  {
+   "id": "V23-22",
+   "nivel": "V-S23-caracteristici-generale-importanta",
+   "competente": [
+    "V-4.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 3,
+   "enunt": "Cum arăți acasă că sarea nu se evaporă?",
+   "date": {
+    "variante": [
+     "lași o farfurie cu apă sărată la soare; după ce apa dispare, rămâne sarea",
+     "fierbi apa dulce",
+     "pui apa la congelator",
+     "amesteci apa cu nisip"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Așa se obține și sarea din saline, la mare."
+   }
+  },
+  {
+   "id": "V23-23",
+   "nivel": "V-S23-caracteristici-generale-importanta",
+   "competente": [
+    "V-3.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce se întâmplă cu apa unei bălți într-o zi foarte caldă?",
+   "date": {
+    "variante": [
+     "se evaporă",
+     "îngheață",
+     "se transformă în sare",
+     "rămâne neschimbată"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Căldura grăbește evaporarea."
+   }
+  },
+  {
+   "id": "V23-24",
+   "nivel": "V-S23-caracteristici-generale-importanta",
+   "competente": [
+    "V-1.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce sunt izvoarele?",
+   "date": {
+    "variante": [
+     "locurile unde apa subterană iese la suprafață",
+     "gurile de vărsare ale râurilor",
+     "valurile mării",
+     "ghețarii"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Din izvoare se nasc multe râuri."
+   }
+  },
+  {
+   "id": "V23-25",
+   "nivel": "V-S23-caracteristici-generale-importanta",
+   "competente": [
+    "V-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 3,
+   "enunt": "Ce poluează apele?",
+   "date": {
+    "variante": [
+     "deșeurile aruncate, apele uzate netratate și îngrășămintele spălate de pe câmpuri",
+     "peștii",
+     "plantele de pe mal",
+     "ploaia curată"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Poluarea apei afectează oamenii și viețuitoarele."
+   }
+  },
+  {
+   "id": "V23-26",
+   "nivel": "V-S23-caracteristici-generale-importanta",
+   "competente": [
+    "V-1.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce stare are apa în ghețari?",
+   "date": {
+    "variante": [
+     "solidă (gheață)",
+     "lichidă",
+     "gazoasă",
+     "nu are stare"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Apa există în trei stări: solidă, lichidă, gazoasă."
+   }
+  },
+  {
+   "id": "V23-27",
+   "nivel": "V-S23-caracteristici-generale-importanta",
+   "competente": [
+    "V-1.1"
+   ],
+   "tip": "asociaza",
+   "dificultate": 2,
+   "enunt": "Asociază starea apei cu exemplul.",
+   "date": {
+    "perechi": [
+     [
+      "solidă",
+      "gheața de pe lac"
+     ],
+     [
+      "lichidă",
+      "apa din râu"
+     ],
+     [
+      "gazoasă",
+      "vaporii din aer"
+     ],
+     [
+      "solidă, căzută din nori",
+      "zăpada"
+     ]
+    ]
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Apa trece mereu dintr-o stare în alta."
+   }
+  },
+  {
+   "id": "V23-28",
+   "nivel": "V-S23-caracteristici-generale-importanta",
+   "competente": [
+    "V-3.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 3,
+   "enunt": "De ce e important ca pădurile să nu fie tăiate pe versanți?",
+   "date": {
+    "variante": [
+     "rădăcinile țin solul și ajută apa să se infiltreze, reducând inundațiile",
+     "pădurile cresc nivelul oceanului",
+     "copacii produc ploaie sărată",
+     "nu are legătură cu apa"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Pădurea reține apa ca un burete."
+   }
+  },
+  {
+   "id": "V23-29",
+   "nivel": "V-S23-caracteristici-generale-importanta",
+   "competente": [
+    "V-4.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce înseamnă „apă potabilă”?",
+   "date": {
+    "variante": [
+     "apă bună de băut, curată, fără microbi și substanțe dăunătoare",
+     "orice apă din natură",
+     "apă de mare",
+     "apă din bălți"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Apa potabilă e verificată înainte de a ajunge la robinet."
+   }
+  },
+  {
+   "id": "V23-30",
+   "nivel": "V-S23-caracteristici-generale-importanta",
+   "competente": [
+    "V-1.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 3,
+   "enunt": "De ce se spune că apa e „aceeași de milioane de ani”?",
+   "date": {
+    "variante": [
+     "pentru că circulă mereu prin circuitul apei, fără să dispară",
+     "pentru că nu se mișcă niciodată",
+     "pentru că e adusă de comete în fiecare an",
+     "pentru că oamenii o fabrică"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Cantitatea totală de apă de pe Pământ rămâne aproape aceeași."
+   }
+  },
+  {
+   "id": "V24-01",
+   "nivel": "V-S24-oceanul-planetar-componente-localizare",
+   "competente": [
+    "V-2.1"
+   ],
+   "tip": "etichete",
+   "dificultate": 2,
+   "enunt": "Pune pe hartă numele oceanelor.",
+   "date": {
+    "tinte": [
+     {
+      "id": "pac",
+      "eticheta": "Oceanul Pacific",
+      "lat": 0,
+      "lon": -150
+     },
+     {
+      "id": "atl",
+      "eticheta": "Oceanul Atlantic",
+      "lat": 10,
+      "lon": -30
+     },
+     {
+      "id": "ind",
+      "eticheta": "Oceanul Indian",
+      "lat": -20,
+      "lon": 75
+     },
+     {
+      "id": "arc",
+      "eticheta": "Oceanul Arctic",
+      "lat": 85,
+      "lon": 0
+     }
+    ],
+    "harta": "lume"
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Pacificul e între Asia, Australia și cele două Americi; Atlanticul între Europa–Africa și Americi; Indianul la sud de Asia; Arcticul în jurul Polului Nord."
+   }
+  },
+  {
+   "id": "V24-02",
+   "nivel": "V-S24-oceanul-planetar-componente-localizare",
+   "competente": [
+    "V-2.1"
+   ],
+   "tip": "pin",
+   "dificultate": 1,
+   "enunt": "Atinge pe hartă Oceanul Pacific.",
+   "date": {
+    "harta": "lume",
+    "tinta": {
+     "lat": 0,
+     "lon": -150,
+     "nume": "Oceanul Pacific"
+    },
+    "toleranta": 3500
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Pacificul ocupă aproape o treime din suprafața Pământului."
+   }
+  },
+  {
+   "id": "V24-03",
+   "nivel": "V-S24-oceanul-planetar-componente-localizare",
+   "competente": [
+    "V-2.1"
+   ],
+   "tip": "pin",
+   "dificultate": 2,
+   "enunt": "Atinge pe hartă Oceanul Atlantic.",
+   "date": {
+    "harta": "lume",
+    "tinta": {
+     "lat": 15,
+     "lon": -40,
+     "nume": "Oceanul Atlantic"
+    },
+    "toleranta": 2500
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Atlanticul e între Europa și Africa, la est, și cele două Americi, la vest."
+   }
+  },
+  {
+   "id": "V24-04",
+   "nivel": "V-S24-oceanul-planetar-componente-localizare",
+   "competente": [
+    "V-2.1"
+   ],
+   "tip": "pin",
+   "dificultate": 2,
+   "enunt": "Atinge pe hartă Oceanul Arctic.",
+   "date": {
+    "harta": "lume",
+    "tinta": {
+     "lat": 85,
+     "lon": 0,
+     "nume": "Oceanul Arctic"
+    },
+    "toleranta": 1500
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Arcticul e în jurul Polului Nord."
+   }
+  },
+  {
+   "id": "V24-05",
+   "nivel": "V-S24-oceanul-planetar-componente-localizare",
+   "competente": [
+    "V-2.1"
+   ],
+   "tip": "pin",
+   "dificultate": 2,
+   "enunt": "Atinge pe hartă Marea Neagră.",
+   "date": {
+    "harta": "lume",
+    "tinta": {
+     "lat": 43.2,
+     "lon": 34.5,
+     "nume": "Marea Neagră"
+    },
+    "toleranta": 450
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Marea Neagră e la est de România."
+   }
+  },
+  {
+   "id": "V24-06",
+   "nivel": "V-S24-oceanul-planetar-componente-localizare",
+   "competente": [
+    "V-2.1"
+   ],
+   "tip": "pin",
+   "dificultate": 3,
+   "enunt": "Atinge pe hartă Marea Mediterană.",
+   "date": {
+    "harta": "lume",
+    "tinta": {
+     "lat": 35,
+     "lon": 18,
+     "nume": "Marea Mediterană"
+    },
+    "toleranta": 800
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Mediterana e între Europa, Africa și Asia."
+   }
+  },
+  {
+   "id": "V24-07",
+   "nivel": "V-S24-oceanul-planetar-componente-localizare",
+   "competente": [
+    "V-1.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 1,
+   "enunt": "Care e cel mai mare ocean?",
+   "date": {
+    "variante": [
+     "Oceanul Pacific",
+     "Oceanul Atlantic",
+     "Oceanul Indian",
+     "Oceanul Arctic"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Pacificul e cel mai mare și cel mai adânc."
+   }
+  },
+  {
+   "id": "V24-08",
+   "nivel": "V-S24-oceanul-planetar-componente-localizare",
+   "competente": [
+    "V-1.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Care e cel mai mic ocean?",
+   "date": {
+    "variante": [
+     "Oceanul Arctic",
+     "Oceanul Indian",
+     "Oceanul Atlantic",
+     "Oceanul Pacific"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Arcticul e cel mai mic și e acoperit în mare parte de gheață."
+   }
+  },
+  {
+   "id": "V24-09",
+   "nivel": "V-S24-oceanul-planetar-componente-localizare",
+   "competente": [
+    "V-4.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Unde se află cea mai adâncă groapă oceanică?",
+   "date": {
+    "variante": [
+     "în Oceanul Pacific: Groapa Marianelor, aproape 11 000 m",
+     "în Marea Neagră: 2 000 m",
+     "în Oceanul Arctic: 500 m",
+     "în Oceanul Atlantic: 30 000 m"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Groapa Marianelor e aproape de 11 000 m adâncime."
+   },
+   "surse": [
+    "NOAA Ocean Exploration – How deep is the Mariana Trench?",
+    "Wikipedia – Challenger Deep"
+   ]
+  },
+  {
+   "id": "V24-10",
+   "nivel": "V-S24-oceanul-planetar-componente-localizare",
+   "competente": [
+    "V-1.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce sunt mările?",
+   "date": {
+    "variante": [
+     "părți mai mici ale oceanelor, apropiate de uscat",
+     "lacuri mari cu apă dulce",
+     "râuri foarte late",
+     "ghețari topiți"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Mările țin de oceane."
+   }
+  },
+  {
+   "id": "V24-11",
+   "nivel": "V-S24-oceanul-planetar-componente-localizare",
+   "competente": [
+    "V-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Cu ce mare e legată Marea Neagră prin strâmtorile Bosfor și Dardanele?",
+   "date": {
+    "variante": [
+     "Marea Mediterană",
+     "Marea Baltică",
+     "Marea Nordului",
+     "Marea Caspică"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Prin Bosfor, Marea Marmara și Dardanele, Marea Neagră comunică cu Mediterana."
+   }
+  },
+  {
+   "id": "V24-12",
+   "nivel": "V-S24-oceanul-planetar-componente-localizare",
+   "competente": [
+    "V-1.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce produce valurile?",
+   "date": {
+    "variante": [
+     "vântul",
+     "Luna",
+     "cutremurele mici",
+     "peștii"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Vântul împinge suprafața apei."
+   }
+  },
+  {
+   "id": "V24-13",
+   "nivel": "V-S24-oceanul-planetar-componente-localizare",
+   "competente": [
+    "V-1.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce produce mareele?",
+   "date": {
+    "variante": [
+     "atracția Lunii și a Soarelui",
+     "vântul",
+     "râurile",
+     "ploaia"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Luna atrage apa oceanului; de aceea nivelul urcă și coboară de două ori pe zi."
+   }
+  },
+  {
+   "id": "V24-14",
+   "nivel": "V-S24-oceanul-planetar-componente-localizare",
+   "competente": [
+    "V-1.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce sunt curenții oceanici?",
+   "date": {
+    "variante": [
+     "deplasări mari de apă în ocean, ca niște „râuri” în mare",
+     "valurile de la țărm",
+     "gheața plutitoare",
+     "furtunile"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Curenții transportă apă caldă sau rece pe distanțe mari."
+   }
+  },
+  {
+   "id": "V24-15",
+   "nivel": "V-S24-oceanul-planetar-componente-localizare",
+   "competente": [
+    "V-3.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 3,
+   "enunt": "Ce efect are Golfstromul asupra Europei de Nord-Vest?",
+   "date": {
+    "variante": [
+     "iernile sunt mai blânde decât ar fi normal la acea latitudine",
+     "iernile sunt mai geroase",
+     "nu are niciun efect",
+     "aduce deșertul"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Curentul cald încălzește aerul de deasupra."
+   }
+  },
+  {
+   "id": "V24-16",
+   "nivel": "V-S24-oceanul-planetar-componente-localizare",
+   "competente": [
+    "V-1.2"
+   ],
+   "tip": "asociaza",
+   "dificultate": 2,
+   "enunt": "Asociază mișcarea apei cu cauza ei.",
+   "date": {
+    "perechi": [
+     [
+      "valurile",
+      "vântul"
+     ],
+     [
+      "mareele",
+      "atracția Lunii"
+     ],
+     [
+      "curenții oceanici",
+      "vânturile permanente și diferențele de temperatură"
+     ],
+     [
+      "tsunami",
+      "un cutremur sub ocean"
+     ]
+    ]
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Fiecare mișcare are cauza ei."
+   }
+  },
+  {
+   "id": "V24-17",
+   "nivel": "V-S24-oceanul-planetar-componente-localizare",
+   "competente": [
+    "V-4.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 3,
+   "enunt": "Ce trebuie să faci dacă, pe o plajă, marea se retrage brusc mult după un cutremur?",
+   "date": {
+    "variante": [
+     "pleci imediat spre un loc înalt, departe de țărm",
+     "mergi să culegi scoici",
+     "faci fotografii",
+     "intri în apă"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Retragerea bruscă a mării poate anunța un tsunami."
+   }
+  },
+  {
+   "id": "V24-18",
+   "nivel": "V-S24-oceanul-planetar-componente-localizare",
+   "competente": [
+    "V-1.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Adevărat sau fals? Temperatura apei oceanice scade de la Ecuator spre poli.",
+   "date": {
+    "variante": [
+     "Adevărat",
+     "Fals"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Adevărat: la Ecuator apa e caldă; la poli, aproape înghețată."
+   }
+  },
+  {
+   "id": "V24-19",
+   "nivel": "V-S24-oceanul-planetar-componente-localizare",
+   "competente": [
+    "V-1.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Adevărat sau fals? Apa e mai caldă în adâncul oceanului decât la suprafață.",
+   "date": {
+    "variante": [
+     "Fals",
+     "Adevărat"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Fals: în adânc apa e rece, pentru că lumina și căldura Soarelui nu ajung acolo."
+   }
+  },
+  {
+   "id": "V24-20",
+   "nivel": "V-S24-oceanul-planetar-componente-localizare",
+   "competente": [
+    "V-1.1"
+   ],
+   "tip": "lacunar",
+   "dificultate": 2,
+   "enunt": "Completează.",
+   "date": {
+    "text": "Cel mai mare ocean este Oceanul {0}, iar cel mai mic este Oceanul {1}.",
+    "raspunsuri": [
+     "Pacific",
+     "Arctic"
+    ],
+    "distractori": [
+     "Indian",
+     "Atlantic"
+    ]
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Pacific – cel mai mare; Arctic – cel mai mic."
+   }
+  },
+  {
+   "id": "V24-21",
+   "nivel": "V-S24-oceanul-planetar-componente-localizare",
+   "competente": [
+    "V-3.1"
+   ],
+   "tip": "lacunar",
+   "dificultate": 2,
+   "enunt": "Completează.",
+   "date": {
+    "text": "În medie, un litru de apă oceanică conține aproximativ {0} g de sare.",
+    "raspunsuri": [
+     "35"
+    ],
+    "distractori": [
+     "3",
+     "350"
+    ]
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Salinitatea medie e aproximativ 35 la mie."
+   }
+  },
+  {
+   "id": "V24-22",
+   "nivel": "V-S24-oceanul-planetar-componente-localizare",
+   "competente": [
+    "V-1.1"
+   ],
+   "tip": "ordoneaza",
+   "dificultate": 2,
+   "enunt": "Ordonează oceanele de la cel mai mare la cel mai mic.",
+   "date": {
+    "elemente": [
+     "Pacific",
+     "Atlantic",
+     "Indian",
+     "Arctic"
+    ],
+    "criteriu": "Mărime, descrescător"
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Pacific, Atlantic, Indian, Arctic (fără Oceanul de Sud)."
+   }
+  },
+  {
+   "id": "V24-23",
+   "nivel": "V-S24-oceanul-planetar-componente-localizare",
+   "competente": [
+    "V-2.3"
+   ],
+   "tip": "grafic",
+   "dificultate": 3,
+   "enunt": "Graficul arată temperatura apei la suprafața oceanului în trei locuri imaginare. Care e, probabil, cel mai aproape de Ecuator?",
+   "date": {
+    "grafic": {
+     "tip": "bare",
+     "titlu": "Temperatura apei la suprafață (date imaginare)",
+     "date": [
+      {
+       "eticheta": "Punctul A",
+       "valoare": 4
+      },
+      {
+       "eticheta": "Punctul B",
+       "valoare": 28
+      },
+      {
+       "eticheta": "Punctul C",
+       "valoare": 15
+      }
+     ],
+     "unitate": "°C"
+    },
+    "variante": [
+     "Punctul B",
+     "Punctul A",
+     "Punctul C",
+     "toate sunt la Ecuator"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Apa cea mai caldă, 28 °C, e cea mai apropiată de Ecuator."
+   }
+  },
+  {
+   "id": "V24-24",
+   "nivel": "V-S24-oceanul-planetar-componente-localizare",
+   "competente": [
+    "V-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "La ce folosesc oamenii oceanele?",
+   "date": {
+    "variante": [
+     "pescuit, transport de mărfuri, sare, turism, petrol",
+     "la irigat câmpurile direct",
+     "la băut fără tratare",
+     "la nimic"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Oceanele au resurse și sunt „drumuri” pentru vapoare."
+   }
+  },
+  {
+   "id": "V24-25",
+   "nivel": "V-S24-oceanul-planetar-componente-localizare",
+   "competente": [
+    "V-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 3,
+   "enunt": "Ce problemă mare amenință oceanele astăzi?",
+   "date": {
+    "variante": [
+     "poluarea cu plastic",
+     "prea mulți pești",
+     "prea multă sare",
+     "lipsa valurilor"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Plasticul ajunge în ocean și e înghițit de animale."
+   }
+  },
+  {
+   "id": "V24-26",
+   "nivel": "V-S24-oceanul-planetar-componente-localizare",
+   "competente": [
+    "V-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce ocean scaldă țărmurile Africii la vest?",
+   "date": {
+    "variante": [
+     "Oceanul Atlantic",
+     "Oceanul Indian",
+     "Oceanul Pacific",
+     "Oceanul Arctic"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "La est, Africa e scăldată de Oceanul Indian."
+   }
+  },
+  {
+   "id": "V24-27",
+   "nivel": "V-S24-oceanul-planetar-componente-localizare",
+   "competente": [
+    "V-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce ocean scaldă țărmurile Africii la est?",
+   "date": {
+    "variante": [
+     "Oceanul Indian",
+     "Oceanul Atlantic",
+     "Oceanul Pacific",
+     "Oceanul Arctic"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "La vest, Africa e scăldată de Atlantic."
+   }
+  },
+  {
+   "id": "V24-28",
+   "nivel": "V-S24-oceanul-planetar-componente-localizare",
+   "competente": [
+    "V-2.1"
+   ],
+   "tip": "denumeste",
+   "dificultate": 2,
+   "enunt": "Ce mare e marcată pe hartă?",
+   "date": {
+    "harta": "lume",
+    "punct": {
+     "lat": 43.2,
+     "lon": 34.5
+    },
+    "variante": [
+     "Marea Neagră",
+     "Marea Mediterană",
+     "Marea Caspică",
+     "Marea Roșie"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Marea dintre România, Ucraina, Rusia, Georgia, Turcia și Bulgaria e Marea Neagră."
+   }
+  },
+  {
+   "id": "V24-29",
+   "nivel": "V-S24-oceanul-planetar-componente-localizare",
+   "competente": [
+    "V-1.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 3,
+   "enunt": "De ce se spune că Marea Neagră e o „mare aproape închisă”?",
+   "date": {
+    "variante": [
+     "pentru că e înconjurată de uscat și comunică cu oceanul doar prin strâmtori înguste",
+     "pentru că e acoperită de gheață",
+     "pentru că nu are pești",
+     "pentru că e lac"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Strâmtorile Bosfor și Dardanele o leagă de Mediterana."
+   }
+  },
+  {
+   "id": "V24-30",
+   "nivel": "V-S24-oceanul-planetar-componente-localizare",
+   "competente": [
+    "V-1.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce se întâmplă la reflux?",
+   "date": {
+    "variante": [
+     "apa se retrage de la țărm",
+     "vin valuri mari",
+     "marea îngheață",
+     "apa devine dulce"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Fluxul – apa urcă; refluxul – apa coboară."
+   }
+  },
+  {
+   "id": "V25-01",
+   "nivel": "V-S25-apele-continentale",
+   "competente": [
+    "V-1.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 1,
+   "enunt": "Ce este un râu?",
+   "date": {
+    "variante": [
+     "o apă curgătoare permanentă, care curge pe o vale",
+     "o apă stătătoare",
+     "o parte a oceanului",
+     "un ghețar"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Râul curge mereu, de la izvor la vărsare."
+   }
+  },
+  {
+   "id": "V25-02",
+   "nivel": "V-S25-apele-continentale",
+   "competente": [
+    "V-1.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 1,
+   "enunt": "Cum se numește locul de unde pornește un râu?",
+   "date": {
+    "variante": [
+     "izvor",
+     "vărsare",
+     "deltă",
+     "afluent"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Izvorul e începutul râului."
+   }
+  },
+  {
+   "id": "V25-03",
+   "nivel": "V-S25-apele-continentale",
+   "competente": [
+    "V-1.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce este un afluent?",
+   "date": {
+    "variante": [
+     "un râu care se varsă în alt râu",
+     "un râu care se varsă direct în ocean",
+     "un lac mic",
+     "locul unde râul se termină"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Râmnicu Sărat e afluent al Siretului."
+   }
+  },
+  {
+   "id": "V25-04",
+   "nivel": "V-S25-apele-continentale",
+   "competente": [
+    "V-1.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce este un fluviu?",
+   "date": {
+    "variante": [
+     "un râu mare care se varsă într-o mare sau într-un ocean",
+     "un pârâu de munte",
+     "un lac sărat",
+     "un canal"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Dunărea e un fluviu."
+   }
+  },
+  {
+   "id": "V25-05",
+   "nivel": "V-S25-apele-continentale",
+   "competente": [
+    "V-1.1"
+   ],
+   "tip": "asociaza",
+   "dificultate": 2,
+   "enunt": "Asociază termenul cu explicația.",
+   "date": {
+    "perechi": [
+     [
+      "izvorul",
+      "locul unde începe râul"
+     ],
+     [
+      "vărsarea",
+      "locul unde se termină râul"
+     ],
+     [
+      "albia",
+      "locul pe unde curge apa"
+     ],
+     [
+      "bazinul hidrografic",
+      "suprafața de pe care râul își adună apa"
+     ]
+    ]
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Părțile unui râu."
+   }
+  },
+  {
+   "id": "V25-06",
+   "nivel": "V-S25-apele-continentale",
+   "competente": [
+    "V-1.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce este o deltă?",
+   "date": {
+    "variante": [
+     "locul unde un fluviu se ramifică în mai multe brațe înainte de vărsare",
+     "un lac de munte",
+     "o groapă oceanică",
+     "un vârf de munte"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Delta Dunării are trei brațe: Chilia, Sulina, Sfântu Gheorghe."
+   }
+  },
+  {
+   "id": "V25-07",
+   "nivel": "V-S25-apele-continentale",
+   "competente": [
+    "V-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "În ce râu se varsă râul Râmnicu Sărat?",
+   "date": {
+    "variante": [
+     "în Siret",
+     "direct în Marea Neagră",
+     "în Olt",
+     "în Mureș"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Râmnicu Sărat e afluent al Siretului, care se varsă în Dunăre."
+   }
+  },
+  {
+   "id": "V25-08",
+   "nivel": "V-S25-apele-continentale",
+   "competente": [
+    "V-2.1"
+   ],
+   "tip": "ordoneaza",
+   "dificultate": 3,
+   "enunt": "Ordonează drumul unei picături de apă din orașul nostru până la mare.",
+   "date": {
+    "elemente": [
+     "râul Râmnicu Sărat",
+     "Siretul",
+     "Dunărea",
+     "Marea Neagră"
+    ],
+    "criteriu": "De la oraș la mare"
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Râmnicu Sărat → Siret → Dunăre → Marea Neagră."
+   }
+  },
+  {
+   "id": "V25-09",
+   "nivel": "V-S25-apele-continentale",
+   "competente": [
+    "V-4.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Care e cel mai lung fluviu de pe Pământ, după majoritatea măsurătorilor?",
+   "date": {
+    "variante": [
+     "Nilul",
+     "Dunărea",
+     "Volga",
+     "Rinul"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Nilul are aproximativ 6 650 km; unii cercetători consideră Amazonul ceva mai lung."
+   },
+   "surse": [
+    "Encyclopaedia Britannica – Nile River",
+    "Wikipedia – Nile"
+   ]
+  },
+  {
+   "id": "V25-10",
+   "nivel": "V-S25-apele-continentale",
+   "competente": [
+    "V-4.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce fluviu are cea mai mare cantitate de apă de pe Pământ?",
+   "date": {
+    "variante": [
+     "Amazonul",
+     "Nilul",
+     "Dunărea",
+     "Mississippi"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Amazonul duce mai multă apă decât oricare alt fluviu."
+   }
+  },
+  {
+   "id": "V25-11",
+   "nivel": "V-S25-apele-continentale",
+   "competente": [
+    "V-4.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce lungime are Dunărea?",
+   "date": {
+    "variante": [
+     "aproximativ 2 860 km",
+     "aproximativ 286 km",
+     "aproximativ 6 650 km",
+     "aproximativ 28 600 km"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Dunărea are 2 857 km, după ICPDR; e al doilea fluviu ca lungime din Europa, după Volga."
+   },
+   "surse": [
+    "ICPDR (Comisia Internațională pentru Protecția Dunării) – Danube Basin facts",
+    "Wikipedia – Danube"
+   ]
+  },
+  {
+   "id": "V25-12",
+   "nivel": "V-S25-apele-continentale",
+   "competente": [
+    "V-2.1"
+   ],
+   "tip": "pin",
+   "dificultate": 2,
+   "enunt": "Atinge pe hartă Delta Dunării.",
+   "date": {
+    "harta": "romania",
+    "tinta": {
+     "lat": 45.1,
+     "lon": 29.3,
+     "nume": "Delta Dunării"
+    },
+    "toleranta": 50
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Delta Dunării e în estul României, la vărsarea Dunării în Marea Neagră."
+   }
+  },
+  {
+   "id": "V25-13",
+   "nivel": "V-S25-apele-continentale",
+   "competente": [
+    "V-2.1"
+   ],
+   "tip": "pin",
+   "dificultate": 3,
+   "enunt": "Atinge pe hartă fluviul Nil, în Egipt.",
+   "date": {
+    "harta": "lume",
+    "tinta": {
+     "lat": 26,
+     "lon": 32.5,
+     "nume": "Nilul"
+    },
+    "toleranta": 600
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Nilul curge prin estul Africii și se varsă în Marea Mediterană."
+   }
+  },
+  {
+   "id": "V25-14",
+   "nivel": "V-S25-apele-continentale",
+   "competente": [
+    "V-2.1"
+   ],
+   "tip": "pin",
+   "dificultate": 3,
+   "enunt": "Atinge pe hartă Lacul Baikal.",
+   "date": {
+    "harta": "lume",
+    "tinta": {
+     "lat": 53.5,
+     "lon": 108,
+     "nume": "Lacul Baikal"
+    },
+    "toleranta": 500
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Baikal e în sudul Siberiei, în Rusia."
+   }
+  },
+  {
+   "id": "V25-15",
+   "nivel": "V-S25-apele-continentale",
+   "competente": [
+    "V-4.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Care e cel mai adânc lac de pe Pământ?",
+   "date": {
+    "variante": [
+     "Lacul Baikal (1 642 m)",
+     "Marea Caspică",
+     "Lacul Bâlea",
+     "Lacul Victoria"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Baikal are 1 642 m adâncime."
+   },
+   "surse": [
+    "UNESCO World Heritage Centre – Lake Baikal",
+    "Encyclopaedia Britannica – Lake Baikal"
+   ]
+  },
+  {
+   "id": "V25-16",
+   "nivel": "V-S25-apele-continentale",
+   "competente": [
+    "V-4.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Care e cel mai mare lac de pe Pământ, ca suprafață?",
+   "date": {
+    "variante": [
+     "Marea Caspică",
+     "Lacul Baikal",
+     "Lacul Snagov",
+     "Lacul Superior"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Deși se numește „mare”, Caspica e un lac, cu apă ușor sărată."
+   },
+   "surse": [
+    "Encyclopaedia Britannica – Caspian Sea",
+    "Wikipedia – Caspian Sea"
+   ]
+  },
+  {
+   "id": "V25-17",
+   "nivel": "V-S25-apele-continentale",
+   "competente": [
+    "V-1.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 1,
+   "enunt": "Ce este un lac?",
+   "date": {
+    "variante": [
+     "o apă stătătoare, adunată într-o adâncitură a terenului",
+     "o apă curgătoare",
+     "o parte a oceanului",
+     "un izvor"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Lacurile nu curg, ca râurile."
+   }
+  },
+  {
+   "id": "V25-18",
+   "nivel": "V-S25-apele-continentale",
+   "competente": [
+    "V-1.2"
+   ],
+   "tip": "asociaza",
+   "dificultate": 3,
+   "enunt": "Asociază tipul de lac cu felul în care s-a format.",
+   "date": {
+    "perechi": [
+     [
+      "lac glaciar",
+      "într-o căldare săpată de un ghețar"
+     ],
+     [
+      "lac vulcanic",
+      "în craterul unui vulcan stins"
+     ],
+     [
+      "lac de acumulare",
+      "în spatele unui baraj construit de om"
+     ],
+     [
+      "liman",
+      "la gura unui râu blocată de nisip"
+     ]
+    ]
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Lacurile se numesc după originea depresiunii."
+   }
+  },
+  {
+   "id": "V25-19",
+   "nivel": "V-S25-apele-continentale",
+   "competente": [
+    "V-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce lac vulcanic din România se află în craterul unui vulcan stins?",
+   "date": {
+    "variante": [
+     "Lacul Sfânta Ana",
+     "Lacul Bucura",
+     "Lacul Vidraru",
+     "Lacul Razim"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Sfânta Ana e singurul lac vulcanic din România, în Munții Ciomatu."
+   }
+  },
+  {
+   "id": "V25-20",
+   "nivel": "V-S25-apele-continentale",
+   "competente": [
+    "V-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce fel de lac este Vidraru, de pe Argeș?",
+   "date": {
+    "variante": [
+     "lac de acumulare, făcut de om",
+     "lac glaciar",
+     "lac vulcanic",
+     "lagună"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Barajul Vidraru reține apa pentru hidrocentrală."
+   }
+  },
+  {
+   "id": "V25-21",
+   "nivel": "V-S25-apele-continentale",
+   "competente": [
+    "V-1.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Adevărat sau fals? Toate râurile se varsă direct în mare.",
+   "date": {
+    "variante": [
+     "Fals",
+     "Adevărat"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Fals: multe se varsă în alte râuri (afluenți) sau în lacuri."
+   }
+  },
+  {
+   "id": "V25-22",
+   "nivel": "V-S25-apele-continentale",
+   "competente": [
+    "V-1.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 1,
+   "enunt": "Adevărat sau fals? Râurile curg de la locuri înalte spre locuri joase.",
+   "date": {
+    "variante": [
+     "Adevărat",
+     "Fals"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Adevărat: apa curge la vale."
+   }
+  },
+  {
+   "id": "V25-23",
+   "nivel": "V-S25-apele-continentale",
+   "competente": [
+    "V-1.1"
+   ],
+   "tip": "lacunar",
+   "dificultate": 2,
+   "enunt": "Completează.",
+   "date": {
+    "text": "Locul unde se termină un râu se numește {0}; un râu care se varsă în alt râu se numește {1}.",
+    "raspunsuri": [
+     "vărsare",
+     "afluent"
+    ],
+    "distractori": [
+     "izvor",
+     "fluviu"
+    ]
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Vărsare – capătul; afluent – râu care intră în altul."
+   }
+  },
+  {
+   "id": "V25-24",
+   "nivel": "V-S25-apele-continentale",
+   "competente": [
+    "V-2.1"
+   ],
+   "tip": "lacunar",
+   "dificultate": 2,
+   "enunt": "Completează.",
+   "date": {
+    "text": "Dunărea se varsă în Marea {0}, formând {1} Dunării.",
+    "raspunsuri": [
+     "Neagră",
+     "Delta"
+    ],
+    "distractori": [
+     "Roșie",
+     "Lacul"
+    ]
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Delta Dunării e la vărsarea în Marea Neagră."
+   }
+  },
+  {
+   "id": "V25-25",
+   "nivel": "V-S25-apele-continentale",
+   "competente": [
+    "V-2.3"
+   ],
+   "tip": "grafic",
+   "dificultate": 3,
+   "enunt": "Graficul arată debitul (cantitatea de apă) unui râu imaginar pe parcursul anului. În ce lună râul are cea mai multă apă?",
+   "date": {
+    "grafic": {
+     "tip": "profil",
+     "titlu": "Debitul unui râu imaginar",
+     "date": [
+      {
+       "eticheta": "I",
+       "valoare": 8
+      },
+      {
+       "eticheta": "II",
+       "valoare": 10
+      },
+      {
+       "eticheta": "III",
+       "valoare": 22
+      },
+      {
+       "eticheta": "IV",
+       "valoare": 35
+      },
+      {
+       "eticheta": "V",
+       "valoare": 30
+      },
+      {
+       "eticheta": "VI",
+       "valoare": 24
+      },
+      {
+       "eticheta": "VII",
+       "valoare": 15
+      },
+      {
+       "eticheta": "VIII",
+       "valoare": 9
+      },
+      {
+       "eticheta": "IX",
+       "valoare": 7
+      },
+      {
+       "eticheta": "X",
+       "valoare": 8
+      },
+      {
+       "eticheta": "XI",
+       "valoare": 10
+      },
+      {
+       "eticheta": "XII",
+       "valoare": 9
+      }
+     ],
+     "unitate": "m³/s"
+    },
+    "variante": [
+     "aprilie",
+     "ianuarie",
+     "septembrie",
+     "decembrie"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Primăvara se topesc zăpezile și plouă mult: râul crește (viituri de primăvară)."
+   }
+  },
+  {
+   "id": "V25-26",
+   "nivel": "V-S25-apele-continentale",
+   "competente": [
+    "V-3.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 3,
+   "enunt": "De ce râurile din România au cea mai multă apă primăvara?",
+   "date": {
+    "variante": [
+     "pentru că se topește zăpada și plouă mult",
+     "pentru că e cel mai frig",
+     "pentru că oamenii nu folosesc apa",
+     "pentru că vin mareele"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Topirea zăpezilor + ploile de primăvară = ape mari."
+   }
+  },
+  {
+   "id": "V25-27",
+   "nivel": "V-S25-apele-continentale",
+   "competente": [
+    "V-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "La ce folosesc lacurile de acumulare?",
+   "date": {
+    "variante": [
+     "la producerea energiei electrice, alimentarea cu apă și irigații",
+     "la extragerea sării",
+     "la oprirea vântului",
+     "la formarea vulcanilor"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Barajele au mai multe folosințe."
+   }
+  },
+  {
+   "id": "V25-28",
+   "nivel": "V-S25-apele-continentale",
+   "competente": [
+    "V-1.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 3,
+   "enunt": "Care e diferența dintre o deltă și un estuar?",
+   "date": {
+    "variante": [
+     "în deltă râul se ramifică în brațe; estuarul e o gură largă, ca o pâlnie, spălată de maree",
+     "nu e nicio diferență",
+     "delta e un lac, estuarul un munte",
+     "estuarul are trei brațe"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Dunărea are deltă; Tamisa are estuar."
+   }
+  },
+  {
+   "id": "V25-29",
+   "nivel": "V-S25-apele-continentale",
+   "competente": [
+    "V-2.1"
+   ],
+   "tip": "denumeste",
+   "dificultate": 2,
+   "enunt": "Ce lac e marcat pe hartă?",
+   "date": {
+    "harta": "lume",
+    "punct": {
+     "lat": 53.5,
+     "lon": 108
+    },
+    "variante": [
+     "Lacul Baikal",
+     "Marea Caspică",
+     "Lacul Victoria",
+     "Lacul Ladoga"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Lacul alungit din sudul Siberiei e Baikal."
+   }
+  },
+  {
+   "id": "V25-30",
+   "nivel": "V-S25-apele-continentale",
+   "competente": [
+    "V-4.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce poți face ca să protejezi râul din orașul tău?",
+   "date": {
+    "variante": [
+     "nu arunci gunoaie pe mal și participi la acțiuni de ecologizare",
+     "arunci deșeurile în apă",
+     "speli mașina în râu",
+     "tai sălciile de pe mal"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Malurile curate înseamnă apă mai curată."
+   }
+  },
+  {
+   "id": "V26-01",
+   "nivel": "V-S26-ghetarii",
+   "competente": [
+    "V-1.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 1,
+   "enunt": "Din ce se formează ghețarii?",
+   "date": {
+    "variante": [
+     "din zăpadă adunată și tasată mulți ani",
+     "din apă de mare înghețată într-o noapte",
+     "din grindină",
+     "din nori"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Zăpada se transformă încet în gheață sub propria greutate."
+   }
+  },
+  {
+   "id": "V26-02",
+   "nivel": "V-S26-ghetarii",
+   "competente": [
+    "V-1.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Unde se formează ghețarii?",
+   "date": {
+    "variante": [
+     "unde zăpada nu se topește complet vara: la poli și pe munții foarte înalți",
+     "în deșerturi",
+     "în câmpii",
+     "la Ecuator, la nivelul mării"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Frigul durabil permite adunarea zăpezii de la an la an."
+   }
+  },
+  {
+   "id": "V26-03",
+   "nivel": "V-S26-ghetarii",
+   "competente": [
+    "V-1.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce fel de apă e în ghețari?",
+   "date": {
+    "variante": [
+     "apă dulce",
+     "apă sărată",
+     "apă minerală",
+     "apă cu nisip"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Gheața ghețarilor provine din zăpadă, deci e apă dulce."
+   }
+  },
+  {
+   "id": "V26-04",
+   "nivel": "V-S26-ghetarii",
+   "competente": [
+    "V-3.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce parte din apa dulce a Pământului e înghețată?",
+   "date": {
+    "variante": [
+     "peste două treimi",
+     "o sutime",
+     "o zecime",
+     "nimic"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Ghețarii și calotele sunt cea mai mare rezervă de apă dulce."
+   },
+   "surse": [
+    "USGS Water Science School – Ice, Snow, and Glaciers and the Water Cycle",
+    "Water Education Foundation – The Earth's Water Supply"
+   ]
+  },
+  {
+   "id": "V26-05",
+   "nivel": "V-S26-ghetarii",
+   "competente": [
+    "V-1.1"
+   ],
+   "tip": "asociaza",
+   "dificultate": 2,
+   "enunt": "Asociază termenul cu explicația.",
+   "date": {
+    "perechi": [
+     [
+      "calotă glaciară",
+      "gheață care acoperă un continent sau o insulă uriașă"
+     ],
+     [
+      "ghețar montan",
+      "gheață care coboară pe o vale de munte"
+     ],
+     [
+      "aisberg",
+      "bloc de gheață care plutește pe mare"
+     ],
+     [
+      "lac glaciar",
+      "lac într-o căldare săpată de ghețar"
+     ]
+    ]
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Formele gheții și urmele ei."
+   }
+  },
+  {
+   "id": "V26-06",
+   "nivel": "V-S26-ghetarii",
+   "competente": [
+    "V-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce continent e acoperit de cea mai mare calotă glaciară?",
+   "date": {
+    "variante": [
+     "Antarctica",
+     "Europa",
+     "Africa",
+     "America de Sud"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Calota Antarcticii e cea mai mare masă de gheață de pe Pământ."
+   }
+  },
+  {
+   "id": "V26-07",
+   "nivel": "V-S26-ghetarii",
+   "competente": [
+    "V-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce insulă e acoperită în cea mai mare parte de gheață?",
+   "date": {
+    "variante": [
+     "Groenlanda",
+     "Madagascar",
+     "Marea Britanie",
+     "Sicilia"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Groenlanda are a doua mare calotă glaciară."
+   }
+  },
+  {
+   "id": "V26-08",
+   "nivel": "V-S26-ghetarii",
+   "competente": [
+    "V-2.1"
+   ],
+   "tip": "pin",
+   "dificultate": 2,
+   "enunt": "Atinge pe hartă Antarctica.",
+   "date": {
+    "harta": "lume",
+    "tinta": {
+     "lat": -80,
+     "lon": 30,
+     "nume": "Antarctica"
+    },
+    "toleranta": 2000
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Antarctica e în jurul Polului Sud."
+   }
+  },
+  {
+   "id": "V26-09",
+   "nivel": "V-S26-ghetarii",
+   "competente": [
+    "V-2.1"
+   ],
+   "tip": "pin",
+   "dificultate": 3,
+   "enunt": "Atinge pe hartă Munții Alpi, unde există ghețari montani.",
+   "date": {
+    "harta": "lume",
+    "tinta": {
+     "lat": 46.5,
+     "lon": 9.5,
+     "nume": "Alpii"
+    },
+    "toleranta": 450
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Alpii sunt în centrul Europei."
+   }
+  },
+  {
+   "id": "V26-10",
+   "nivel": "V-S26-ghetarii",
+   "competente": [
+    "V-1.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce sunt aisbergurile?",
+   "date": {
+    "variante": [
+     "blocuri mari de gheață rupte din ghețari, care plutesc pe mare",
+     "insule de nisip",
+     "nori de gheață",
+     "vulcani sub apă"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Aisbergurile se rup unde ghețarii ajung la mare."
+   }
+  },
+  {
+   "id": "V26-11",
+   "nivel": "V-S26-ghetarii",
+   "competente": [
+    "V-3.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 3,
+   "enunt": "Ce parte dintr-un aisberg se vede deasupra apei?",
+   "date": {
+    "variante": [
+     "aproximativ o zecime",
+     "jumătate",
+     "tot aisbergul",
+     "trei sferturi"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Gheața e puțin mai ușoară decât apa, așa că doar o mică parte iese afară."
+   }
+  },
+  {
+   "id": "V26-12",
+   "nivel": "V-S26-ghetarii",
+   "competente": [
+    "V-1.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce formă are o vale săpată de ghețar?",
+   "date": {
+    "variante": [
+     "formă de U",
+     "formă de V",
+     "formă de stea",
+     "formă de cerc"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Râurile sapă văi în formă de V; ghețarii, în formă de U."
+   }
+  },
+  {
+   "id": "V26-13",
+   "nivel": "V-S26-ghetarii",
+   "competente": [
+    "V-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce lac glaciar din Munții Retezat e cel mai mare lac glaciar din România?",
+   "date": {
+    "variante": [
+     "Lacul Bucura",
+     "Lacul Sfânta Ana",
+     "Lacul Vidraru",
+     "Lacul Snagov"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Bucura, în Retezat, e cel mai întins lac glaciar al țării."
+   }
+  },
+  {
+   "id": "V26-14",
+   "nivel": "V-S26-ghetarii",
+   "competente": [
+    "V-1.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Există astăzi ghețari în Carpații României?",
+   "date": {
+    "variante": [
+     "nu, dar au existat în trecut, iar urmele lor sunt căldările și lacurile glaciare",
+     "da, mulți",
+     "da, pe toți munții",
+     "nu au existat niciodată"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Clima de azi e prea caldă pentru ghețari în Carpați."
+   }
+  },
+  {
+   "id": "V26-15",
+   "nivel": "V-S26-ghetarii",
+   "competente": [
+    "V-2.1"
+   ],
+   "tip": "pin",
+   "dificultate": 3,
+   "enunt": "Atinge pe harta României Munții Retezat, unde sunt multe lacuri glaciare.",
+   "date": {
+    "harta": "romania",
+    "tinta": {
+     "lat": 45.37,
+     "lon": 22.85,
+     "nume": "Munții Retezat"
+    },
+    "toleranta": 45
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Retezatul e în vestul Carpaților Meridionali, în județul Hunedoara."
+   }
+  },
+  {
+   "id": "V26-16",
+   "nivel": "V-S26-ghetarii",
+   "competente": [
+    "V-1.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Adevărat sau fals? Ghețarii stau pe loc și nu se mișcă.",
+   "date": {
+    "variante": [
+     "Fals",
+     "Adevărat"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Fals: ghețarii coboară încet, sub propria greutate."
+   }
+  },
+  {
+   "id": "V26-17",
+   "nivel": "V-S26-ghetarii",
+   "competente": [
+    "V-3.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Adevărat sau fals? Dacă ghețarii s-ar topi masiv, nivelul oceanului ar crește.",
+   "date": {
+    "variante": [
+     "Adevărat",
+     "Fals"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Adevărat: apa din ghețarii de pe uscat ar ajunge în oceane."
+   }
+  },
+  {
+   "id": "V26-18",
+   "nivel": "V-S26-ghetarii",
+   "competente": [
+    "V-1.1"
+   ],
+   "tip": "lacunar",
+   "dificultate": 2,
+   "enunt": "Completează.",
+   "date": {
+    "text": "Masa de gheață care acoperă Antarctica se numește {0} glaciară; blocurile de gheață care plutesc pe mare se numesc {1}.",
+    "raspunsuri": [
+     "calotă",
+     "aisberguri"
+    ],
+    "distractori": [
+     "ghețar montan",
+     "dune"
+    ]
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Calotă și aisberg."
+   }
+  },
+  {
+   "id": "V26-19",
+   "nivel": "V-S26-ghetarii",
+   "competente": [
+    "V-1.2"
+   ],
+   "tip": "lacunar",
+   "dificultate": 2,
+   "enunt": "Completează.",
+   "date": {
+    "text": "Văile săpate de râuri au formă de {0}, iar cele săpate de ghețari au formă de {1}.",
+    "raspunsuri": [
+     "V",
+     "U"
+    ],
+    "distractori": [
+     "O",
+     "X"
+    ]
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "V pentru râu, U pentru ghețar."
+   }
+  },
+  {
+   "id": "V26-20",
+   "nivel": "V-S26-ghetarii",
+   "competente": [
+    "V-1.2"
+   ],
+   "tip": "ordoneaza",
+   "dificultate": 2,
+   "enunt": "Ordonează cum se formează un ghețar.",
+   "date": {
+    "elemente": [
+     "cade zăpadă multă iarna",
+     "vara nu se topește toată",
+     "straturile de zăpadă se adună an de an",
+     "zăpada se tasează și devine gheață",
+     "gheața începe să curgă încet la vale"
+    ],
+    "criteriu": "Formarea ghețarului"
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Zăpadă care nu se topește → tasare → gheață → mișcare."
+   }
+  },
+  {
+   "id": "V26-21",
+   "nivel": "V-S26-ghetarii",
+   "competente": [
+    "V-3.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 3,
+   "enunt": "De ce se micșorează astăzi mulți ghețari montani?",
+   "date": {
+    "variante": [
+     "pentru că temperaturile medii au crescut",
+     "pentru că ninge mai mult",
+     "pentru că munții cresc",
+     "pentru că oamenii îi sapă"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Încălzirea climei topește ghețarii mai repede decât se refac."
+   }
+  },
+  {
+   "id": "V26-22",
+   "nivel": "V-S26-ghetarii",
+   "competente": [
+    "V-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 3,
+   "enunt": "De ce sunt importanți ghețarii montani pentru oameni?",
+   "date": {
+    "variante": [
+     "alimentează râurile cu apă vara, când se topesc parțial",
+     "produc petrol",
+     "opresc cutremurele",
+     "încălzesc aerul"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Multe râuri mari din Asia pornesc din ghețarii Himalayei."
+   }
+  },
+  {
+   "id": "V26-23",
+   "nivel": "V-S26-ghetarii",
+   "competente": [
+    "V-3.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce se formează într-o căldare glaciară după ce gheața se topește?",
+   "date": {
+    "variante": [
+     "un lac glaciar",
+     "un vulcan",
+     "o deltă",
+     "o dună"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Apa se adună în adâncitura săpată de gheață."
+   }
+  },
+  {
+   "id": "V26-24",
+   "nivel": "V-S26-ghetarii",
+   "competente": [
+    "V-1.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce sunt morenele?",
+   "date": {
+    "variante": [
+     "grămezi de pietre și nisip împinse și lăsate de ghețari",
+     "valuri de gheață",
+     "lacuri vulcanice",
+     "peșteri"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Ghețarii cară roci și le depun la margini și la capăt."
+   }
+  },
+  {
+   "id": "V26-25",
+   "nivel": "V-S26-ghetarii",
+   "competente": [
+    "V-4.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 3,
+   "enunt": "Ce poate face o familie pentru a încetini topirea ghețarilor?",
+   "date": {
+    "variante": [
+     "economisește energia și folosește mai rar mașina",
+     "folosește mai multă energie",
+     "taie copaci",
+     "arde frunze"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Mai puține emisii încetinesc încălzirea climei."
+   }
+  },
+  {
+   "id": "V26-26",
+   "nivel": "V-S26-ghetarii",
+   "competente": [
+    "V-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "În ce munți se află Lacul Bâlea, un lac glaciar?",
+   "date": {
+    "variante": [
+     "Munții Făgăraș",
+     "Munții Retezat",
+     "Munții Apuseni",
+     "Munții Măcin"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Bâlea e în Făgăraș, lângă Transfăgărășan."
+   }
+  },
+  {
+   "id": "V26-27",
+   "nivel": "V-S26-ghetarii",
+   "competente": [
+    "V-2.3"
+   ],
+   "tip": "grafic",
+   "dificultate": 3,
+   "enunt": "Graficul arată lungimea unui ghețar imaginar măsurată la fiecare 20 de ani. Ce s-a întâmplat cu ghețarul?",
+   "date": {
+    "grafic": {
+     "tip": "profil",
+     "titlu": "Lungimea unui ghețar imaginar",
+     "date": [
+      {
+       "eticheta": "1960",
+       "valoare": 12
+      },
+      {
+       "eticheta": "1980",
+       "valoare": 11.5
+      },
+      {
+       "eticheta": "2000",
+       "valoare": 10.4
+      },
+      {
+       "eticheta": "2020",
+       "valoare": 8.9
+      }
+     ],
+     "unitate": "km"
+    },
+    "variante": [
+     "s-a micșorat tot mai repede",
+     "a crescut",
+     "a rămas la fel",
+     "a dispărut complet"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Linia coboară, iar pantele sunt tot mai mari: retragerea se accelerează."
+   }
+  },
+  {
+   "id": "V26-28",
+   "nivel": "V-S26-ghetarii",
+   "competente": [
+    "V-1.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce viteză are, de obicei, un ghețar montan?",
+   "date": {
+    "variante": [
+     "de la câțiva centimetri la câțiva metri pe zi",
+     "câțiva kilometri pe oră",
+     "100 km pe zi",
+     "nu se mișcă deloc"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Ghețarii curg foarte încet."
+   }
+  },
+  {
+   "id": "V26-29",
+   "nivel": "V-S26-ghetarii",
+   "competente": [
+    "V-2.1"
+   ],
+   "tip": "denumeste",
+   "dificultate": 2,
+   "enunt": "Ce insulă acoperită de gheață e marcată pe hartă?",
+   "date": {
+    "harta": "lume",
+    "punct": {
+     "lat": 72,
+     "lon": -40
+    },
+    "variante": [
+     "Groenlanda",
+     "Islanda",
+     "Marea Britanie",
+     "Madagascar"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Insula uriașă de la nord-est de America de Nord e Groenlanda."
+   }
+  },
+  {
+   "id": "V26-30",
+   "nivel": "V-S26-ghetarii",
+   "competente": [
+    "V-1.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 3,
+   "enunt": "Ce pericol reprezentau aisbergurile pentru vapoare?",
+   "date": {
+    "variante": [
+     "vapoarele se puteau lovi de partea ascunsă sub apă",
+     "aisbergurile atrăgeau fulgere",
+     "făceau apa dulce",
+     "opreau vântul"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Ca Titanicul, în 1912."
+   }
+  },
+  {
+   "id": "V27-01",
+   "nivel": "V-S27-aplicatii-practice-apele-din",
+   "competente": [
+    "V-4.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 1,
+   "enunt": "Ce râu traversează orașul Râmnicu Sărat?",
+   "date": {
+    "variante": [
+     "râul Râmnicu Sărat",
+     "Dunărea",
+     "Oltul",
+     "Mureșul"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Orașul poartă numele râului."
+   }
+  },
+  {
+   "id": "V27-02",
+   "nivel": "V-S27-aplicatii-practice-apele-din",
+   "competente": [
+    "V-4.1"
+   ],
+   "tip": "pin",
+   "dificultate": 2,
+   "enunt": "Atinge pe harta României orașul Râmnicu Sărat, așezat pe râul cu același nume.",
+   "date": {
+    "harta": "romania",
+    "tinta": {
+     "lat": 45.38,
+     "lon": 27.05,
+     "nume": "Râmnicu Sărat"
+    },
+    "toleranta": 40
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Râmnicu Sărat e în nord-estul județului Buzău."
+   }
+  },
+  {
+   "id": "V27-03",
+   "nivel": "V-S27-aplicatii-practice-apele-din",
+   "competente": [
+    "V-4.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce înseamnă o avertizare hidrologică de cod roșu pentru un râu?",
+   "date": {
+    "variante": [
+     "risc mare de inundații; trebuie urmate indicațiile autorităților",
+     "apa e foarte curată",
+     "râul a secat",
+     "e voie la scăldat"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Avertizările hidrologice sunt emise de Institutul Național de Hidrologie și Gospodărire a Apelor."
+   }
+  },
+  {
+   "id": "V27-04",
+   "nivel": "V-S27-aplicatii-practice-apele-din",
+   "competente": [
+    "V-4.3"
+   ],
+   "tip": "asociaza",
+   "dificultate": 2,
+   "enunt": "Asociază situația cu ce faci.",
+   "date": {
+    "perechi": [
+     [
+      "inundație",
+      "urci la etaj sau pe un loc înalt, departe de apă"
+     ],
+     [
+      "viitură",
+      "nu traversezi râul și nu stai pe mal"
+     ],
+     [
+      "pod de gheață",
+      "nu mergi pe gheața râului"
+     ],
+     [
+      "apă tulbure la robinet",
+      "anunți furnizorul și nu bei din ea"
+     ]
+    ]
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Comportamentul corect te ține în siguranță."
+   }
+  },
+  {
+   "id": "V27-05",
+   "nivel": "V-S27-aplicatii-practice-apele-din",
+   "competente": [
+    "V-4.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 3,
+   "enunt": "Ce NU faci în timpul unei inundații?",
+   "date": {
+    "variante": [
+     "nu traversezi cu mașina sau pe jos un drum acoperit de apă",
+     "urci pe un loc înalt",
+     "urmărești mesajele RO-ALERT",
+     "oprești curentul electric dacă poți"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Apa care curge poate lua pe sus o mașină, chiar dacă pare mică."
+   }
+  },
+  {
+   "id": "V27-06",
+   "nivel": "V-S27-aplicatii-practice-apele-din",
+   "competente": [
+    "V-4.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Câtă apă pierzi într-o zi dacă un robinet picură?",
+   "date": {
+    "variante": [
+     "câțiva litri sau chiar zeci de litri",
+     "deloc",
+     "o picătură",
+     "o mie de litri pe minut"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Picăturile adunate devin mulți litri."
+   }
+  }
+ ]
+}

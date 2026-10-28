@@ -1,0 +1,86 @@
+from autor import Unitate, existent, grafic
+
+F = "u3-litosfera.json"
+S_INT = ["University of Alaska Fairbanks, Geophysical Institute – Earth's Layers (ATEP 58)", "ZME Science – Layers of the Earth"]
+S_EV = ["Al Jazeera, 8.12.2020 – anunțul Nepal–China: 8 848,86 m", "The Himalayan Times, 8.12.2020"]
+
+
+def unitate():
+    # ---------------------------------------------------------------- S10 Litosfera: caracteristici și importanță
+    A = existent(5, F, "V-S10-caracteristici-generale-importanta", "V10")
+    A.a(1, "1.1", "Care dintre acestea este o rocă?", "granitul", ["apa de ploaie", "aerul", "frunza"], "Granitul e o rocă din litosferă.")
+    A.a(2, "1.1", "Cum se numește roca magmatică formată din magmă răcită încet, în adânc, cu cristale mari?", "granitul", ["bazaltul", "calcarul", "nisipul"], "Granitul se răcește încet, în adânc; bazaltul se răcește repede, la suprafață.")
+    A.a(2, "1.2", "Din ce se formează rocile sedimentare?", "din materiale depuse în straturi (nisip, mâl, scoici)", ["din lava răcită", "din roci topite", "din gheață"], "Sedimentele depuse în straturi se tasează și formează roci sedimentare.")
+    A.a(2, "1.2", "Cum se formează rocile metamorfice?", "din alte roci, transformate de temperatură și presiune mare", ["din lava răcită la suprafață", "din nisip adus de vânt", "din ploaie"], "Metamorfic înseamnă „transformat”: calcarul devine marmură, argila devine ardezie.")
+    A.s(2, "1.1 3.1", "Asociază roca cu folosirea ei.", [("marmura", "statui și placări"), ("calcarul", "fabricarea varului și a cimentului"), ("argila", "cărămizi și ceramică"), ("cărbunele", "combustibil")], "Rocile sunt resurse folosite în construcții, industrie și energie.")
+    A.a(2, "3.3", "Ce se formează din roci, sub acțiunea apei, aerului și a viețuitoarelor, și hrănește plantele?", "solul", ["magma", "lava", "ghețarul"], "Solul e stratul afânat de la suprafață, format din roci mărunțite și humus.")
+    A.a(3, "3.2", "Ce înseamnă eroziune?", "roaderea și îndepărtarea rocilor de către apă, vânt sau gheață", ["formarea vulcanilor", "răcirea lavei", "creșterea plantelor"], "Eroziunea modelează relieful: râurile sapă văi, vântul șlefuiește rocile.")
+    A.a(3, "3.2", "Ce înseamnă dezagregare?", "sfărâmarea rocilor în bucăți mai mici, mai ales din cauza variațiilor de temperatură", ["topirea rocilor", "transformarea rocilor în aur", "formarea solului fertil într-o zi"], "Încălzirea ziua și răcirea noaptea crapă rocile.")
+    A.o(2, "1.2", "Ordonează pașii prin care o rocă devine sol.", ["roca e sfărâmată de îngheț și dezgheț", "fragmentele se mărunțesc tot mai mult", "plantele și animalele adaugă materie organică (humus)", "se formează solul"], "Ordinea formării solului", "Sfărâmare, mărunțire, humus, sol.")
+    A.adev(2, "1.2", "Litosfera este fixă și nu se schimbă niciodată.", False, "Fals: plăcile tectonice se mișcă, iar relieful e modelat continuu de apă, vânt și gheață.")
+    A.adev(1, "3.3", "Oamenii scot din litosferă metale, sare și combustibili.", True, "Adevărat: litosfera e o sursă importantă de resurse.")
+    A.a(2, "1.1", "Ce înseamnă „plăci tectonice”?", "bucățile mari în care e împărțită litosfera, care se mișcă foarte încet", ["straturile nucleului", "continentele desenate pe hartă", "platformele de foraj"], "Litosfera e fragmentată în plăci care plutesc pe partea topită a mantalei.")
+    A.a(3, "3.2", "Ce se poate întâmpla la marginea a două plăci tectonice care se ciocnesc?", "se înalță munți și se produc cutremure", ["se formează deșerturi", "se topește gheața", "apar oaze"], "Ciocnirea plăcilor înalță lanțuri de munți (ex. Himalaya) și produce cutremure.")
+    A.s(3, "1.2", "Asociază tipul de rocă cu exemplul.", [("magmatică", "bazaltul"), ("sedimentară", "gresia"), ("metamorfică", "ardezia"), ("organică", "cărbunele")], "Bazalt – magmatic; gresie – sedimentar; ardezie – metamorfic; cărbune – din resturi de plante.")
+    A.l(2, "1.1", "Completează.", "Stratul afânat de la suprafața litosferei, în care cresc plantele, se numește [sol]; partea lui închisă la culoare, bogată în resturi de plante, se numește [humus].", ["lavă", "granit"], "Humusul face solul fertil.")
+    A.a(2, "4.1", "Cum poți arăta, acasă, cum se depun sedimentele în straturi?", "agiți într-un borcan apă cu pământ și nisip, apoi lași să se așeze", ["încălzești o piatră", "pui o piatră la congelator o oră", "speli o piatră cu săpun"], "Bucățile grele se depun primele, cele fine deasupra: se formează straturi.")
+
+    # ---------------------------------------------------------------- S11 Structura internă
+    B = existent(5, F, "V-S11-structura-interna-terrei", "V11")
+    B.a(1, "1.1", "Care strat al Pământului e cel mai subțire?", "scoarța terestră", ["mantaua", "nucleul extern", "nucleul intern"], "Scoarța e foarte subțire față de celelalte straturi.", surse=S_INT)
+    B.a(2, "3.1", "Ce grosime are scoarța terestră?", "de la câțiva kilometri sub oceane până la peste 60 km sub munți", ["exact 1 000 km", "aproximativ 2 900 km", "câțiva metri"], "Scoarța are aproximativ 5–70 km: mai subțire sub oceane, mai groasă sub munți.", surse=S_INT)
+    B.a(2, "3.2", "Ce se întâmplă cu temperatura cu cât cobori mai adânc în Pământ?", "crește", ["scade", "rămâne aceeași", "devine sub 0 °C"], "În adânc temperatura crește: de aceea mantaua și nucleul sunt foarte fierbinți.")
+    B.ds(2, "1.2", "Ce strat e evidențiat cu roșu?", "structura-interna", "scoarta", "scoarța", ["mantaua", "nucleul extern", "nucleul intern"], "Stratul subțire de la suprafață e scoarța.")
+    B.ds(2, "1.2", "Ce strat e evidențiat cu roșu?", "structura-interna", "nucleu-extern", "nucleul extern", ["nucleul intern", "mantaua", "scoarța"], "Stratul dintre manta și nucleul intern e nucleul extern, din metale topite.")
+    B.adev(2, "1.2", "Nucleul intern al Pământului este lichid.", False, "Fals: nucleul intern e solid; nucleul extern e lichid.")
+    B.adev(2, "3.2", "Magma care iese din vulcani provine din adâncul Pământului.", True, "Adevărat: magma se formează în adânc, unde rocile se topesc.")
+    B.a(3, "3.2", "Ce face nucleul extern, lichid și în mișcare, pentru Pământ?", "produce câmpul magnetic, care orientează acul busolei", ["produce ploile", "încălzește oceanele", "creează Luna"], "Mișcarea metalelor topite din nucleul extern generează câmpul magnetic al Pământului.")
+    B.o(3, "3.1", "Ordonează straturile după grosime, de la cel mai subțire la cel mai gros.", ["scoarța", "nucleul intern", "nucleul extern", "mantaua"], "De la subțire la gros", "Scoarța (zeci de km), nucleul intern (raza ~1 220 km), nucleul extern (~2 250 km), mantaua (~2 900 km).", surse=S_INT)
+    B.s(2, "1.2", "Asociază stratul cu starea lui.", [("scoarța", "rocă solidă, rece la suprafață"), ("mantaua", "rocă fierbinte, care curge foarte încet"), ("nucleul extern", "metale lichide"), ("nucleul intern", "metale solide")], "Doar nucleul extern e complet lichid.")
+    B.l(2, "1.1", "Completează.", "Între scoarță și nucleu se află [mantaua], iar în centrul Pământului se află [nucleul intern].", ["litosfera", "atmosfera"], "Ordinea: scoarță, manta, nucleu extern, nucleu intern.")
+    B.a(2, "1.1", "Ce cuprinde litosfera, în legătură cu straturile Pământului?", "scoarța și partea de sus a mantalei", ["doar nucleul", "mantaua și nucleul", "atmosfera și scoarța"], "Litosfera = scoarța + partea superioară, solidă, a mantalei.")
+    B.a(3, "4.1", "Cel mai adânc foraj făcut de oameni are puțin peste 12 km. Ce strat a atins?", "doar scoarța", ["mantaua", "nucleul extern", "nucleul intern"], "12 km e mult mai puțin decât grosimea scoarței continentale; nimeni n-a ajuns în manta.")
+    B.a(2, "1.2", "Cu ce seamănă structura Pământului?", "cu un ou: coaja (scoarța), albușul (mantaua), gălbenușul (nucleul)", ["cu un cub de gheață", "cu o portocală goală pe dinăuntru", "cu o minge plină cu aer"], "Comparația cu oul ajută: coaja subțire, apoi straturi tot mai dense spre centru.")
+    B.a(2, "3.1", "Care strat ocupă cea mai mare parte din volumul Pământului?", "mantaua", ["scoarța", "nucleul intern", "nucleul extern"], "Mantaua reprezintă cea mai mare parte din volumul Pământului.", surse=S_INT)
+    B.g(3, "2.3 3.1", "Graficul arată adâncimea la care începe fiecare strat. La ce adâncime începe nucleul intern?", grafic("bare", "Adâncimea la care începe stratul (aproximativ)", [("Mantaua", 35), ("Nucleul extern", 2900), ("Nucleul intern", 5150)], "km", "University of Alaska Fairbanks, Geophysical Institute"), "aproximativ 5 150 km", ["aproximativ 2 900 km", "aproximativ 35 km", "aproximativ 6 370 km"], "Nucleul intern începe la aproximativ 5 150 km adâncime.", surse=S_INT)
+
+    # ---------------------------------------------------------------- S12 Relieful
+    C = existent(5, F, "V-S12-relieful-continente-bazine-oceanice", "V12")
+    C.p(2, "2.1", "Atinge pe hartă continentul Asia.", "lume", 45, 90, "Asia", 2000, "Asia e cel mai mare continent, la est de Europa.")
+    C.p(2, "2.1", "Atinge pe hartă America de Sud.", "lume", -15, -60, "America de Sud", 1800, "America de Sud e în emisfera vestică, la sud de America de Nord.")
+    C.p(3, "2.1", "Atinge pe hartă Oceanul Indian.", "lume", -20, 75, "Oceanul Indian", 2500, "Oceanul Indian e între Africa, Asia și Australia.")
+    C.a(1, "4.2", "Care este cel mai mare continent?", "Asia", ["Africa", "Europa", "Australia"], "Asia e cel mai mare continent, ca suprafață și populație.")
+    C.a(2, "4.2", "Care este cel mai mic continent?", "Australia", ["Europa", "Antarctica", "America de Sud"], "Australia e cel mai mic continent.")
+    C.a(2, "2.1", "Ce continent e acoperit aproape în întregime de gheață?", "Antarctica", ["Europa", "Asia", "Africa"], "Antarctica e acoperită de o calotă de gheață.")
+    C.a(2, "2.1", "Ce ocean se află între Europa și America de Nord?", "Oceanul Atlantic", ["Oceanul Pacific", "Oceanul Indian", "Oceanul Arctic"], "Atlanticul desparte Europa și Africa de cele două Americi.")
+    C.s(2, "1.1", "Asociază forma de relief oceanic cu descrierea.", [("platforma continentală", "uscatul care continuă sub apă, la adâncimi mici"), ("abruptul continental", "panta repede spre adânc"), ("câmpia abisală", "fundul aproape plan al oceanului"), ("groapa abisală", "cea mai adâncă parte, îngustă și lungă")], "De la țărm spre larg: platformă, abrupt, câmpie abisală; gropile sunt cele mai adânci.")
+    C.a(2, "1.1", "Ce sunt dorsalele oceanice?", "lanțuri de munți de pe fundul oceanelor", ["insule vulcanice izolate", "curenți de apă", "gropi foarte adânci"], "Dorsalele sunt munți submarini, unde plăcile se depărtează.")
+    C.a(2, "4.2", "Cât are vârful Everest?", "8 848,86 m", ["4 810 m", "2 544 m", "11 000 m"], "Everest are 8 848,86 m, după măsurătoarea comună Nepal–China din 2020.", surse=S_EV)
+    C.adev(2, "1.2", "Pe fundul oceanelor există munți, câmpii și gropi, ca pe uscat.", True, "Adevărat: relieful oceanic e la fel de variat ca cel de pe continente.")
+    C.adev(1, "1.2", "Munții sunt cele mai joase forme de relief.", False, "Fals: munții sunt cele mai înalte forme; câmpiile sunt cele mai joase.")
+    C.l(2, "1.1", "Completează.", "Formele majore de relief de pe continente sunt munții, [dealurile], [podișurile] și câmpiile.", ["dorsalele", "gropile"], "Dorsalele și gropile sunt forme de relief oceanic.")
+    C.a(2, "2.1", "Ce munți se află în Europa?", "Alpii", ["Himalaya", "Anzii", "Munții Stâncoși"], "Alpii sunt în Europa; Himalaya în Asia; Anzii și Munții Stâncoși în America.")
+    C.a(3, "2.3", "Pe harta fizică, o zonă e colorată maro închis. Ce formă de relief e?", "munți înalți", ["câmpie joasă", "lac", "deltă"], "Maroul închis arată altitudinile cele mai mari.")
+    C.g(3, "2.3", "Profilul arată fundul unui ocean imaginar (adâncimi în metri). Unde e groapa abisală?", grafic("profil", "Adâncimea apei de-a lungul unui ocean imaginar (m)", [("A", 100), ("B", 3000), ("C", 4500), ("D", 2500), ("E", 9000), ("F", 4000)], "m"), "în punctul E", ["în punctul A", "în punctul D", "în punctul B"], "Groapa abisală e locul cel mai adânc: 9 000 m, în E. În A e platforma continentală, în D o dorsală.")
+
+    # ---------------------------------------------------------------- S13 Vulcanii și cutremurele
+    D = existent(5, F, "V-S13-vulcanii-cutremurele", "V13")
+    D.p(2, "2.1", "Atinge pe hartă Vezuviul, vulcanul de lângă Napoli (Italia).", "lume", 40.82, 14.43, "Vezuviul", 400, "Vezuviul e în sudul Italiei, lângă Napoli.")
+    D.p(3, "2.1", "Atinge pe hartă Islanda, insulă cu mulți vulcani activi.", "lume", 64.9, -18.6, "Islanda", 500, "Islanda e în nordul Atlanticului, pe dorsala medio-atlantică.")
+    D.a(2, "1.1", "Ce este un vulcan stins?", "un vulcan care nu a mai erupt de foarte mult timp și nu mai are activitate", ["un vulcan care erupe acum", "un vulcan acoperit de zăpadă", "un vulcan sub ocean"], "Vulcanii stinși nu mai au activitate; cei activi pot erupe oricând.")
+    D.a(2, "1.1", "Cum se numește aparatul care înregistrează undele seismice pe hârtie sau pe ecran?", "seismograf", ["barometru", "termometru", "anemometru"], "Seismograful înregistrează vibrațiile scoarței.")
+    D.a(2, "4.3", "Ce NU trebuie să faci în timpul unui cutremur?", "să alergi pe scări sau să iei liftul", ["să te adăpostești sub o masă solidă", "să stai departe de geamuri", "să te ții de piciorul mesei"], "În timpul mișcării, rămâi pe loc, adăpostit; ieși abia după.")
+    D.a(2, "4.3", "După cutremur, ieși din clădire. Unde aștepți?", "într-un loc deschis, departe de clădiri, stâlpi și fire electrice", ["lângă zidul clădirii", "sub balcoane", "pe scări"], "Pot urma replici; stai departe de ce poate cădea.")
+    D.s(2, "1.1", "Asociază termenul cu explicația.", [("hipocentrul", "locul din adânc unde începe cutremurul"), ("epicentrul", "punctul de la suprafață de deasupra hipocentrului"), ("seismograful", "aparatul care înregistrează cutremurul"), ("replica", "cutremur mai slab care urmează celui principal")], "Hipocentru – în adânc; epicentru – la suprafață.")
+    D.a(3, "3.2", "Ce sunt „vulcanii noroioși” din județul Buzău?", "conuri mici din care ies noroi și gaze din adânc, nu lavă", ["vulcani activi cu lavă", "munți vechi stinși", "lacuri cu apă caldă"], "La Berca–Pâclele, gazele din adânc împing la suprafață noroi și apă, formând conuri mici.", surse=["Euronews România – Buzău, județul vulcanilor noroioși", "Adevărul (ediția Buzău) – Vulcanii Noroioși"])
+    D.adev(2, "3.2", "Cutremurele se pot prezice exact, cu ziua și ora.", False, "Fals: cutremurele nu se pot prezice exact; de aceea e important să știm cum să ne protejăm.")
+    D.adev(1, "1.2", "Lava răcită formează roci noi.", True, "Adevărat: lava răcită formează roci magmatice, ca bazaltul.")
+    D.o(3, "1.2 2.3", "Ordonează ce se întâmplă la un cutremur.", ["rocile din adânc se rup brusc, în hipocentru", "undele seismice pornesc în toate direcțiile", "undele ajung la suprafață, în epicentru", "pământul se zguduie și seismograful înregistrează"], "Ordinea evenimentelor", "Ruptura din adânc trimite unde care ajung la suprafață.")
+    D.a(2, "2.1", "Ce zonă din jurul Oceanului Pacific are foarte mulți vulcani și cutremure?", "„Cercul de Foc al Pacificului”", ["Cercul Polar", "Tropicul Racului", "Câmpia Europei de Est"], "Marginile Pacificului sunt zone de ciocnire a plăcilor.")
+    D.a(3, "4.3", "Ce pui în rucsacul de urgență pentru cutremur?", "apă, lanternă, trusă de prim ajutor, fluier", ["jocuri video", "televizor", "covor"], "Lucrurile utile în primele ore după un dezastru.")
+    D.l(2, "1.1", "Completează.", "Deschiderea din vârful vulcanului se numește [crater], iar canalul prin care urcă magma se numește [coș vulcanic].", ["con", "hipocentru"], "Craterul e sus; coșul leagă camera magmatică de crater.")
+    D.a(2, "3.3", "Ce folos aduc vulcanii, în timp?", "cenușa vulcanică formează soluri foarte fertile", ["opresc ploile", "răcesc oceanele", "împiedică cutremurele"], "Pe pantele vulcanilor stinși, solurile vulcanice sunt foarte fertile.")
+    D.d(2, "2.1", "Ce vulcan e marcat pe hartă?", "lume", 37.75, 14.99, "Etna", ["Fuji", "Kilimanjaro", "Mauna Loa"], "Punctul marcat e în Sicilia: vulcanul Etna.")
+
+    S16 = existent(5, F, "V-S16-aplicatii-practice-relieful-orizontului", "V16")
+    return Unitate(5, F, "Terra – o planetă în transformare. Litosfera").add(A, B, C, D, S16)

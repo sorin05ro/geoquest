@@ -1,0 +1,83 @@
+{
+ "clasa": 7,
+ "fisiere": [
+  {
+   "fisier": "teste.json",
+   "niveluri": [
+    "VII-T0"
+   ],
+   "boss": [
+    "VII-T0",
+    "VII-T1",
+    "VII-T2",
+    "VII-T3",
+    "VII-T4",
+    "VII-Tf"
+   ]
+  },
+  {
+   "fisier": "u1-asia.json",
+   "niveluri": [
+    "VII-S02-caracterizare-geografica-pozitia-geografica",
+    "VII-S03-relieful-caracteristici-generale-unitati",
+    "VII-S04-hidrografia-caracteristici-generale-fluvii",
+    "VII-S05-diferentieri-climatice-musonii",
+    "VII-S06-contraste-biogeografice",
+    "VII-S07-aplicatii-practice-studii-caz",
+    "VII-S08-elemente-diversitate-umana-diversitate",
+    "VII-S09-harta-politica-marile-aglomerari",
+    "VII-S10-resursele-naturale",
+    "VII-S11-activitatile-economice-contraste-economice",
+    "VII-S12-asia-lumea-contemporana"
+   ],
+   "boss": []
+  },
+  {
+   "fisier": "u2-africa.json",
+   "niveluri": [
+    "VII-S13-caracterizare-geografica-pozitia-geografica",
+    "VII-S13-relieful-africii-caracteristici-generale",
+    "VII-S16-hidrografia-clima-biogeografia-caracteristici",
+    "VII-S17-specificul-demografic",
+    "VII-S19-harta-politica-marile-orase",
+    "VII-S20-studii-caz-problemele-africii",
+    "VII-S22-aplicatii-practice-studii-caz"
+   ],
+   "boss": []
+  },
+  {
+   "fisier": "u3-america.json",
+   "niveluri": [
+    "VII-S23-caracterizare-geografica-pozitia-geografica",
+    "VII-S23-relieful-caracteristici-generale-sistemul",
+    "VII-S24-hidrografia-caracteristici-generale-fluvii",
+    "VII-S24-diferentieri-climatice-biogeografice",
+    "VII-S25-elemente-diversitate-umana-etnica",
+    "VII-S26-harta-politica-contraste-teritoriale",
+    "VII-S26-forme-aglomerare-urbana",
+    "VII-S27-diferentieri-economice-regionale",
+    "VII-S28-aplicatii-practice-studii-caz"
+   ],
+   "boss": []
+  },
+  {
+   "fisier": "u4-australia-antarctica.json",
+   "niveluri": [
+    "VII-S30-australia-oceania-caracterizare-geografica",
+    "VII-S30-australia-caracterizare-geografica-generala",
+    "VII-S31-oceania-particularitati-geografice",
+    "VII-S31-antarctica-elemente-identitate-geografica",
+    "VII-S32-studiu-caz-unicitatea-biogeografica"
+   ],
+   "boss": []
+  },
+  {
+   "fisier": "u5-mediu.json",
+   "niveluri": [
+    "VII-S33-componentele-mediului-inconjurator-relatiile",
+    "VII-S34-degradarea-mediului-inconjurator-problema"
+   ],
+   "boss": []
+  }
+ ]
+}

@@ -1,0 +1,1725 @@
+{
+ "clasa": 6,
+ "unitate": "Cunoașterea lumii în care trăim",
+ "niveluri": [
+  {
+   "id": "VI-S02-repere-cunoasterii-terrei-marile",
+   "tip": "nivel",
+   "titlu": "Repere ale cunoașterii Terrei",
+   "descopera": {
+    "intrebare": "Cum au aflat oamenii cum arată lumea, înainte de sateliți și GPS?"
+   },
+   "invata": [
+    {
+     "titlu": "Marile descoperiri geografice",
+     "text": "În secolele XV–XVI, navigatorii europeni au pornit pe oceane, în căutarea unor drumuri noi spre India și China.\nCristofor Columb a ajuns în America în 1492. Vasco da Gama a ocolit Africa și a ajuns în India pe mare, în 1498. Expediția lui Fernando Magellan (1519–1522) a făcut prima călătorie în jurul lumii, dovedind că Pământul e rotund și că oceanele comunică între ele."
+    },
+    {
+     "titlu": "Explorarea regiunilor polare și a înălțimilor",
+     "text": "Roald Amundsen a ajuns primul la Polul Sud, pe 14 decembrie 1911. Edmund Hillary și Tenzing Norgay au urcat primii pe Everest, pe 29 mai 1953.\nRomânul Emil Racoviță a participat la expediția belgiană „Belgica” (1897–1899), prima care a iernat în Antarctica. El a fondat apoi biospeologia, știința vieții din peșteri."
+    },
+    {
+     "titlu": "Explorarea modernă",
+     "text": "Iuri Gagarin a fost primul om în spațiu, pe 12 aprilie 1961. Pe 20 iulie 1969, astronauții misiunii Apollo 11 au pus piciorul pe Lună.\nAstăzi, sateliții fotografiază Pământul zilnic, iar GPS-ul ne arată poziția oriunde ne-am afla. Rămân încă locuri puțin explorate: adâncurile oceanelor și unele peșteri."
+    }
+   ],
+   "stiaiCa": "Dintre cele cinci corăbii ale lui Magellan, doar una, „Victoria”, s-a întors în Spania, cu 18 oameni. Magellan însuși a murit pe drum, în Filipine.",
+   "referintaProfesor": "Manual Art Klett, clasa a VI-a (manuale.edu.ro), lecția „Repere ale cunoașterii Terrei”"
+  },
+  {
+   "id": "VI-S03-continente-tari-reprezentari-cartografice",
+   "tip": "nivel",
+   "titlu": "Continente și țări. Harta politică a lumii",
+   "descopera": {
+    "intrebare": "Câte țări sunt pe lume și cum le deosebești pe hartă?"
+   },
+   "invata": [
+    {
+     "titlu": "Continentele și oceanele",
+     "text": "Pe Pământ sunt șapte continente: Asia, Africa, America de Nord, America de Sud, Antarctica, Europa și Australia (în unele țări, cele două Americi sunt socotite un singur continent). Oceanele le despart: Pacific, Atlantic, Indian, Arctic și Oceanul de Sud.\nEuropa și Asia formează împreună Eurasia; granița lor convențională trece pe Munții Ural, râul Ural, Marea Caspică, Munții Caucaz."
+    },
+    {
+     "titlu": "Statele lumii",
+     "text": "Un stat (o țară) are un teritoriu cu granițe, o populație și o conducere proprie. Capitala e orașul unde se află conducerea.\nOrganizația Națiunilor Unite (ONU) are 193 de state membre. Cea mai mare țară ca suprafață e Rusia; cel mai mic stat e Vaticanul."
+    },
+    {
+     "titlu": "Harta politică",
+     "text": "Harta politică arată statele cu culori diferite, granițele, capitalele și orașele mari. Țările vecine au culori diferite, ca să poată fi deosebite.\nHarta fizică arată relieful și apele; harta politică arată statele. Le folosim împreună."
+    }
+   ],
+   "stiaiCa": "Vaticanul, cel mai mic stat din lume, are o suprafață de mai puțin de jumătate de kilometru pătrat și se află în interiorul orașului Roma.",
+   "referintaProfesor": "Manual Art Klett, clasa a VI-a (manuale.edu.ro), lecția „Continente și țări – reprezentări cartografice”"
+  },
+  {
+   "id": "VI-S05-aplicatii-practice-exercitii-apreciere",
+   "tip": "expeditie",
+   "titlu": "Expediție: măsor lumea pe hartă",
+   "descopera": {
+    "intrebare": "Cât de departe e Râmnicu Sărat de București, în linie dreaptă și pe drum?"
+   },
+   "invata": [
+    {
+     "titlu": "Ce faci în expediție",
+     "text": "Urmezi pașii, rezolvi sarcinile și notezi în Jurnalul exploratorului ce ai descoperit."
+    }
+   ],
+   "referintaProfesor": "Manual Art Klett, clasa a VI-a (manuale.edu.ro), lecția „Aplicații practice: Exerciții de apreciere a distanțelor și suprafețelor”",
+   "pasi": [
+    {
+     "titlu": "1. Scara hărții",
+     "text": "Folosește harta României din atlas. Citește scara și calculează cât înseamnă 1 cm în realitate.",
+     "itemi": [
+      "VI5-01",
+      "VI5-02"
+     ]
+    },
+    {
+     "titlu": "2. Linie dreaptă și drum",
+     "text": "Măsoară cu rigla distanța Râmnicu Sărat – București pe hartă și transform-o cu scara. Apoi caută distanța pe drum într-o aplicație de hărți (cu un adult).",
+     "itemi": [
+      "VI5-03"
+     ],
+     "jurnal": {
+      "cerinta": "Scrie distanța în linie dreaptă, distanța pe drum și diferența dintre ele."
+     }
+    },
+    {
+     "titlu": "3. Suprafețe cu pătrățele",
+     "text": "Pune o folie cu pătrățele de 1 cm peste harta județului Buzău și numără pătrățelele acoperite (jumătățile se numără împreună). Transformă în km² cu ajutorul scării.",
+     "itemi": [
+      "VI5-04"
+     ],
+     "jurnal": {
+      "cerinta": "Notează câte pătrățele ai numărat și cât ai obținut. Compară cu valoarea oficială găsită de profesor."
+     }
+    },
+    {
+     "titlu": "4. Harta digitală",
+     "text": "Într-o aplicație de hărți, folosește funcția „Măsoară distanța”. Măsoară drumul de acasă la școală.",
+     "jurnal": {
+      "cerinta": "Notează distanța și cât timp îți ia pe jos."
+     }
+    }
+   ]
+  }
+ ],
+ "itemi": [
+  {
+   "id": "VI2-01",
+   "nivel": "VI-S02-repere-cunoasterii-terrei-marile",
+   "competente": [
+    "VI-1.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 1,
+   "enunt": "Ce înseamnă „mari descoperiri geografice”?",
+   "date": {
+    "variante": [
+     "călătoriile europenilor din secolele XV–XVI, în care au ajuns pe continente și oceane necunoscute lor",
+     "inventarea hărții",
+     "zborurile în spațiu",
+     "construirea primelor orașe"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Atunci europenii au cunoscut America și drumul pe mare spre India."
+   }
+  },
+  {
+   "id": "VI2-02",
+   "nivel": "VI-S02-repere-cunoasterii-terrei-marile",
+   "competente": [
+    "VI-2.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 1,
+   "enunt": "În ce an a ajuns Cristofor Columb în America?",
+   "date": {
+    "variante": [
+     "1492",
+     "1918",
+     "1969",
+     "1066"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Columb a ajuns în insulele Caraibe în 1492."
+   },
+   "surse": [
+    "Encyclopaedia Britannica – European exploration: The Age of Discovery",
+    "Wikipedia – Age of Discovery"
+   ]
+  },
+  {
+   "id": "VI2-03",
+   "nivel": "VI-S02-repere-cunoasterii-terrei-marile",
+   "competente": [
+    "VI-2.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce a reușit Vasco da Gama în 1498?",
+   "date": {
+    "variante": [
+     "a ajuns în India pe mare, ocolind Africa",
+     "a descoperit America",
+     "a ajuns la Polul Sud",
+     "a urcat pe Everest"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Drumul pe mare spre India trecea pe la Capul Bunei Speranțe."
+   },
+   "surse": [
+    "Encyclopaedia Britannica – European exploration: The Age of Discovery",
+    "Wikipedia – Age of Discovery"
+   ]
+  },
+  {
+   "id": "VI2-04",
+   "nivel": "VI-S02-repere-cunoasterii-terrei-marile",
+   "competente": [
+    "VI-1.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce a dovedit expediția lui Magellan (1519–1522)?",
+   "date": {
+    "variante": [
+     "că Pământul e rotund și că poți face înconjurul lumii pe mare",
+     "că Pământul e plat",
+     "că nu există Oceanul Pacific",
+     "că Africa e o insulă"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Corabia „Victoria” s-a întors de unde a plecat, navigând mereu spre vest."
+   },
+   "surse": [
+    "Encyclopaedia Britannica – European exploration: The Age of Discovery",
+    "Wikipedia – Age of Discovery"
+   ]
+  },
+  {
+   "id": "VI2-05",
+   "nivel": "VI-S02-repere-cunoasterii-terrei-marile",
+   "competente": [
+    "VI-2.2"
+   ],
+   "tip": "ordoneaza",
+   "dificultate": 2,
+   "enunt": "Ordonează evenimentele în timp.",
+   "date": {
+    "elemente": [
+     "Columb ajunge în America",
+     "Vasco da Gama ajunge în India",
+     "expediția lui Magellan în jurul lumii",
+     "Amundsen la Polul Sud",
+     "primul om pe Lună"
+    ],
+    "criteriu": "Cronologic"
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "1492, 1498, 1519–1522, 1911, 1969."
+   },
+   "surse": [
+    "Encyclopaedia Britannica – European exploration: The Age of Discovery",
+    "Wikipedia – Age of Discovery"
+   ]
+  },
+  {
+   "id": "VI2-06",
+   "nivel": "VI-S02-repere-cunoasterii-terrei-marile",
+   "competente": [
+    "VI-1.1"
+   ],
+   "tip": "asociaza",
+   "dificultate": 2,
+   "enunt": "Asociază exploratorul cu realizarea.",
+   "date": {
+    "perechi": [
+     [
+      "Cristofor Columb",
+      "ajunge în America (1492)"
+     ],
+     [
+      "Roald Amundsen",
+      "primul la Polul Sud (1911)"
+     ],
+     [
+      "Hillary și Tenzing",
+      "primii pe Everest (1953)"
+     ],
+     [
+      "Iuri Gagarin",
+      "primul om în spațiu (1961)"
+     ]
+    ]
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Repere ale explorării."
+   }
+  },
+  {
+   "id": "VI2-07",
+   "nivel": "VI-S02-repere-cunoasterii-terrei-marile",
+   "competente": [
+    "VI-2.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Cine a ajuns primul la Polul Sud?",
+   "date": {
+    "variante": [
+     "Roald Amundsen, în 1911",
+     "Cristofor Columb, în 1492",
+     "Neil Armstrong, în 1969",
+     "Emil Racoviță, în 1897"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Expediția norvegiană a lui Amundsen a ajuns pe 14 decembrie 1911."
+   }
+  },
+  {
+   "id": "VI2-08",
+   "nivel": "VI-S02-repere-cunoasterii-terrei-marile",
+   "competente": [
+    "VI-3.4"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "În ce expediție a participat românul Emil Racoviță?",
+   "date": {
+    "variante": [
+     "expediția belgiană „Belgica”, în Antarctica (1897–1899)",
+     "expediția lui Columb",
+     "misiunea Apollo 11",
+     "prima urcare pe Everest"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "„Belgica” a fost prima expediție care a iernat în Antarctica."
+   },
+   "surse": [
+    "Institutul de Speologie „Emil Racoviță” – biografie",
+    "Wikipedia – Belgian Antarctic Expedition"
+   ]
+  },
+  {
+   "id": "VI2-09",
+   "nivel": "VI-S02-repere-cunoasterii-terrei-marile",
+   "competente": [
+    "VI-1.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce știință a fondat Emil Racoviță?",
+   "date": {
+    "variante": [
+     "biospeologia – studiul vieții din peșteri",
+     "astronomia",
+     "vulcanologia",
+     "meteorologia"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "La Cluj a înființat primul institut de speologie din lume."
+   },
+   "surse": [
+    "Institutul de Speologie „Emil Racoviță” – biografie",
+    "Wikipedia – Belgian Antarctic Expedition"
+   ]
+  },
+  {
+   "id": "VI2-10",
+   "nivel": "VI-S02-repere-cunoasterii-terrei-marile",
+   "competente": [
+    "VI-2.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Când au pus oamenii pentru prima dată piciorul pe Lună?",
+   "date": {
+    "variante": [
+     "pe 20 iulie 1969, în misiunea Apollo 11",
+     "în 1492",
+     "în 1911",
+     "în 2001"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Neil Armstrong și Buzz Aldrin au coborât pe Lună."
+   },
+   "surse": [
+    "NASA History Office – Apollo 11 Mission Overview",
+    "ESA – Yuri Gagarin, first human in space"
+   ]
+  },
+  {
+   "id": "VI2-11",
+   "nivel": "VI-S02-repere-cunoasterii-terrei-marile",
+   "competente": [
+    "VI-2.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Cine a fost primul om în spațiu?",
+   "date": {
+    "variante": [
+     "Iuri Gagarin, în 1961",
+     "Neil Armstrong, în 1969",
+     "Magellan, în 1519",
+     "Amundsen, în 1911"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Gagarin a făcut o orbită în jurul Pământului pe 12 aprilie 1961."
+   },
+   "surse": [
+    "NASA History Office – Apollo 11 Mission Overview",
+    "ESA – Yuri Gagarin, first human in space"
+   ]
+  },
+  {
+   "id": "VI2-12",
+   "nivel": "VI-S02-repere-cunoasterii-terrei-marile",
+   "competente": [
+    "VI-2.1"
+   ],
+   "tip": "pin",
+   "dificultate": 2,
+   "enunt": "Atinge pe hartă Capul Bunei Speranțe, ocolit de Vasco da Gama.",
+   "date": {
+    "harta": "lume",
+    "tinta": {
+     "lat": -34.36,
+     "lon": 18.47,
+     "nume": "Capul Bunei Speranțe"
+    },
+    "toleranta": 600
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Capul e la capătul sudic al Africii."
+   }
+  },
+  {
+   "id": "VI2-13",
+   "nivel": "VI-S02-repere-cunoasterii-terrei-marile",
+   "competente": [
+    "VI-2.1"
+   ],
+   "tip": "pin",
+   "dificultate": 2,
+   "enunt": "Atinge pe hartă insulele Caraibe, unde a ajuns Columb în 1492.",
+   "date": {
+    "harta": "lume",
+    "tinta": {
+     "lat": 21,
+     "lon": -75,
+     "nume": "Caraibe"
+    },
+    "toleranta": 900
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Columb a ajuns în Bahamas și Cuba, între America de Nord și America de Sud."
+   }
+  },
+  {
+   "id": "VI2-14",
+   "nivel": "VI-S02-repere-cunoasterii-terrei-marile",
+   "competente": [
+    "VI-2.1"
+   ],
+   "tip": "pin",
+   "dificultate": 3,
+   "enunt": "Atinge pe hartă India, ținta lui Vasco da Gama.",
+   "date": {
+    "harta": "lume",
+    "tinta": {
+     "lat": 20,
+     "lon": 78,
+     "nume": "India"
+    },
+    "toleranta": 900
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "India e în sudul Asiei."
+   }
+  },
+  {
+   "id": "VI2-15",
+   "nivel": "VI-S02-repere-cunoasterii-terrei-marile",
+   "competente": [
+    "VI-2.1"
+   ],
+   "tip": "pin",
+   "dificultate": 3,
+   "enunt": "Atinge pe hartă Strâmtoarea Magellan, din sudul Americii de Sud.",
+   "date": {
+    "harta": "lume",
+    "tinta": {
+     "lat": -53.5,
+     "lon": -70.5,
+     "nume": "Strâmtoarea Magellan"
+    },
+    "toleranta": 700
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Magellan a trecut din Atlantic în Pacific prin această strâmtoare."
+   }
+  },
+  {
+   "id": "VI2-16",
+   "nivel": "VI-S02-repere-cunoasterii-terrei-marile",
+   "competente": [
+    "VI-3.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce folosim astăzi ca să aflăm poziția exactă oriunde pe Pământ?",
+   "date": {
+    "variante": [
+     "sistemul GPS, cu sateliți",
+     "busola singură",
+     "un ceas",
+     "un termometru"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Receptorul GPS calculează poziția după semnalele mai multor sateliți."
+   }
+  },
+  {
+   "id": "VI2-17",
+   "nivel": "VI-S02-repere-cunoasterii-terrei-marile",
+   "competente": [
+    "VI-3.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "La ce folosesc sateliții de observare a Pământului?",
+   "date": {
+    "variante": [
+     "fotografiază suprafața, urmăresc vremea, pădurile, gheața și orașele",
+     "produc ploaie",
+     "măsoară adâncimea solului",
+     "trimit oameni pe Lună"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Imaginile satelitare ajută la hărți și prognoze."
+   }
+  },
+  {
+   "id": "VI2-18",
+   "nivel": "VI-S02-repere-cunoasterii-terrei-marile",
+   "competente": [
+    "VI-1.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Adevărat sau fals? Columb credea că a ajuns în India, de aceea locuitorii Americii au fost numiți „indieni”.",
+   "date": {
+    "variante": [
+     "Adevărat",
+     "Fals"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Adevărat: Columb voia să ajungă în Asia navigând spre vest."
+   }
+  },
+  {
+   "id": "VI2-19",
+   "nivel": "VI-S02-repere-cunoasterii-terrei-marile",
+   "competente": [
+    "VI-1.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Adevărat sau fals? Astăzi, toată suprafața și toate adâncurile Pământului sunt complet explorate.",
+   "date": {
+    "variante": [
+     "Fals",
+     "Adevărat"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Fals: fundul oceanelor și multe peșteri sunt încă puțin cunoscute."
+   }
+  },
+  {
+   "id": "VI2-20",
+   "nivel": "VI-S02-repere-cunoasterii-terrei-marile",
+   "competente": [
+    "VI-1.1"
+   ],
+   "tip": "lacunar",
+   "dificultate": 2,
+   "enunt": "Completează.",
+   "date": {
+    "text": "Prima călătorie în jurul lumii a fost condusă de {0}; primul om pe Lună a ajuns în anul {1}.",
+    "raspunsuri": [
+     "Magellan",
+     "1969"
+    ],
+    "distractori": [
+     "Columb",
+     "1492"
+    ]
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Magellan (1519–1522); Apollo 11 (1969)."
+   }
+  },
+  {
+   "id": "VI2-21",
+   "nivel": "VI-S02-repere-cunoasterii-terrei-marile",
+   "competente": [
+    "VI-3.4"
+   ],
+   "tip": "lacunar",
+   "dificultate": 2,
+   "enunt": "Completează.",
+   "date": {
+    "text": "Exploratorul român {0} a participat la expediția belgiană în {1}.",
+    "raspunsuri": [
+     "Emil Racoviță",
+     "Antarctica"
+    ],
+    "distractori": [
+     "Africa",
+     "Iuri Gagarin"
+    ]
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Expediția „Belgica”, 1897–1899."
+   }
+  },
+  {
+   "id": "VI2-22",
+   "nivel": "VI-S02-repere-cunoasterii-terrei-marile",
+   "competente": [
+    "VI-1.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "De ce au căutat europenii un drum pe mare spre India, în secolul XV?",
+   "date": {
+    "variante": [
+     "pentru mirodenii, mătase și alte mărfuri scumpe, fără să treacă pe uscat prin multe țări",
+     "ca să ajungă la Polul Sud",
+     "ca să vadă pinguini",
+     "ca să caute petrol"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Comerțul cu mirodenii era foarte profitabil."
+   }
+  },
+  {
+   "id": "VI2-23",
+   "nivel": "VI-S02-repere-cunoasterii-terrei-marile",
+   "competente": [
+    "VI-1.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 3,
+   "enunt": "Ce schimbări au adus marile descoperiri geografice?",
+   "date": {
+    "variante": [
+     "hărți noi, schimb de plante și animale între continente, dar și colonizarea și suferința popoarelor locale",
+     "doar lucruri bune pentru toți",
+     "nicio schimbare",
+     "dispariția oceanelor"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Istoria are și urmări pozitive, și negative."
+   }
+  },
+  {
+   "id": "VI2-24",
+   "nivel": "VI-S02-repere-cunoasterii-terrei-marile",
+   "competente": [
+    "VI-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce plante au ajuns în Europa din America după 1492?",
+   "date": {
+    "variante": [
+     "porumbul, cartoful, roșia",
+     "grâul și orzul",
+     "măslinul și vița-de-vie",
+     "stejarul și fagul"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Schimbul de plante între continente a schimbat hrana oamenilor."
+   }
+  },
+  {
+   "id": "VI2-25",
+   "nivel": "VI-S02-repere-cunoasterii-terrei-marile",
+   "competente": [
+    "VI-4.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Cum se numesc oamenii care cercetează peșterile?",
+   "date": {
+    "variante": [
+     "speologi",
+     "astronauți",
+     "meteorologi",
+     "vulcanologi"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Speologia studiază peșterile."
+   }
+  },
+  {
+   "id": "VI2-26",
+   "nivel": "VI-S02-repere-cunoasterii-terrei-marile",
+   "competente": [
+    "VI-3.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce instrument a ajutat navigatorii din secolul XV să știe în ce direcție merg?",
+   "date": {
+    "variante": [
+     "busola",
+     "GPS-ul",
+     "telefonul",
+     "radarul"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Busola arată nordul magnetic."
+   }
+  },
+  {
+   "id": "VI2-27",
+   "nivel": "VI-S02-repere-cunoasterii-terrei-marile",
+   "competente": [
+    "VI-2.3",
+    "VI-4.1"
+   ],
+   "tip": "grafic",
+   "dificultate": 3,
+   "enunt": "Graficul arată durata unor călătorii celebre (aproximativ). Care a durat cel mai mult?",
+   "date": {
+    "grafic": {
+     "tip": "bare",
+     "titlu": "Durata aproximativă a călătoriei",
+     "date": [
+      {
+       "eticheta": "Columb, 1492 (dus)",
+       "valoare": 2
+      },
+      {
+       "eticheta": "Vasco da Gama, 1497–1498 (dus)",
+       "valoare": 10
+      },
+      {
+       "eticheta": "Magellan, 1519–1522 (în jurul lumii)",
+       "valoare": 36
+      }
+     ],
+     "unitate": "luni",
+     "sursa": "Encyclopaedia Britannica"
+    },
+    "variante": [
+     "expediția lui Magellan",
+     "călătoria lui Columb",
+     "călătoria lui Vasco da Gama",
+     "au durat la fel"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Înconjurul lumii a durat aproape trei ani."
+   },
+   "surse": [
+    "Encyclopaedia Britannica – European exploration: The Age of Discovery",
+    "Wikipedia – Age of Discovery"
+   ]
+  },
+  {
+   "id": "VI2-28",
+   "nivel": "VI-S02-repere-cunoasterii-terrei-marile",
+   "competente": [
+    "VI-4.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce au în comun Amundsen, Hillary și Racoviță?",
+   "date": {
+    "variante": [
+     "toți au explorat locuri foarte greu accesibile",
+     "toți au zburat în spațiu",
+     "toți au descoperit America",
+     "toți au fost meteorologi"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Polul Sud, Everest, Antarctica."
+   }
+  },
+  {
+   "id": "VI2-29",
+   "nivel": "VI-S02-repere-cunoasterii-terrei-marile",
+   "competente": [
+    "VI-2.1"
+   ],
+   "tip": "denumeste",
+   "dificultate": 2,
+   "enunt": "Ce continent, explorat abia în secolele XIX–XX, e marcat pe hartă?",
+   "date": {
+    "harta": "lume",
+    "punct": {
+     "lat": -80,
+     "lon": 30
+    },
+    "variante": [
+     "Antarctica",
+     "Australia",
+     "America de Sud",
+     "Africa"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Antarctica a fost ultimul continent explorat."
+   }
+  },
+  {
+   "id": "VI2-30",
+   "nivel": "VI-S02-repere-cunoasterii-terrei-marile",
+   "competente": [
+    "VI-4.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 3,
+   "enunt": "Vrei să afli traseul lui Magellan. Ce surse sunt de încredere?",
+   "date": {
+    "variante": [
+     "atlasul istoric, enciclopediile și site-urile muzeelor sau universităților",
+     "un comentariu anonim pe o rețea socială",
+     "o reclamă",
+     "un joc fără autor"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Verifică informația în cel puțin două surse serioase."
+   }
+  },
+  {
+   "id": "VI3-01",
+   "nivel": "VI-S03-continente-tari-reprezentari-cartografice",
+   "competente": [
+    "VI-2.1"
+   ],
+   "tip": "etichete",
+   "dificultate": 2,
+   "enunt": "Pune pe hartă numele continentelor.",
+   "date": {
+    "tinte": [
+     {
+      "id": "as",
+      "eticheta": "Asia",
+      "lat": 50,
+      "lon": 90
+     },
+     {
+      "id": "af",
+      "eticheta": "Africa",
+      "lat": 5,
+      "lon": 20
+     },
+     {
+      "id": "eu",
+      "eticheta": "Europa",
+      "lat": 52,
+      "lon": 15
+     },
+     {
+      "id": "an",
+      "eticheta": "America de Nord",
+      "lat": 45,
+      "lon": -100
+     },
+     {
+      "id": "as2",
+      "eticheta": "America de Sud",
+      "lat": -15,
+      "lon": -60
+     },
+     {
+      "id": "au",
+      "eticheta": "Australia",
+      "lat": -25,
+      "lon": 134
+     }
+    ],
+    "harta": "lume"
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Asia la est, Africa la sud de Europa, cele două Americi la vest, Australia în sud-est."
+   }
+  },
+  {
+   "id": "VI3-02",
+   "nivel": "VI-S03-continente-tari-reprezentari-cartografice",
+   "competente": [
+    "VI-1.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 1,
+   "enunt": "Ce este un stat?",
+   "date": {
+    "variante": [
+     "un teritoriu cu granițe, populație și conducere proprie",
+     "un continent",
+     "un munte",
+     "un ocean"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Statul se mai numește țară."
+   }
+  },
+  {
+   "id": "VI3-03",
+   "nivel": "VI-S03-continente-tari-reprezentari-cartografice",
+   "competente": [
+    "VI-1.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 1,
+   "enunt": "Ce este capitala?",
+   "date": {
+    "variante": [
+     "orașul în care se află conducerea țării",
+     "cel mai mic oraș",
+     "orașul de lângă mare",
+     "orice oraș"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "București e capitala României."
+   }
+  },
+  {
+   "id": "VI3-04",
+   "nivel": "VI-S03-continente-tari-reprezentari-cartografice",
+   "competente": [
+    "VI-3.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Câte state membre are ONU?",
+   "date": {
+    "variante": [
+     "193",
+     "50",
+     "27",
+     "1 000"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Organizația Națiunilor Unite are 193 de state membre."
+   },
+   "surse": [
+    "Organizația Națiunilor Unite – Member States (un.org)",
+    "Wikipedia – Member states of the United Nations"
+   ]
+  },
+  {
+   "id": "VI3-05",
+   "nivel": "VI-S03-continente-tari-reprezentari-cartografice",
+   "competente": [
+    "VI-4.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 1,
+   "enunt": "Care e cea mai mare țară din lume ca suprafață?",
+   "date": {
+    "variante": [
+     "Rusia",
+     "China",
+     "SUA",
+     "Brazilia"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Rusia se întinde în Europa și Asia."
+   }
+  },
+  {
+   "id": "VI3-06",
+   "nivel": "VI-S03-continente-tari-reprezentari-cartografice",
+   "competente": [
+    "VI-4.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Care e cel mai mic stat din lume?",
+   "date": {
+    "variante": [
+     "Vaticanul",
+     "Monaco",
+     "Luxemburg",
+     "Malta"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Vaticanul e în orașul Roma."
+   }
+  },
+  {
+   "id": "VI3-07",
+   "nivel": "VI-S03-continente-tari-reprezentari-cartografice",
+   "competente": [
+    "VI-2.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce arată harta politică?",
+   "date": {
+    "variante": [
+     "statele, granițele și capitalele",
+     "relieful și râurile",
+     "temperaturile",
+     "vegetația"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Harta fizică arată relieful; cea politică, statele."
+   }
+  },
+  {
+   "id": "VI3-08",
+   "nivel": "VI-S03-continente-tari-reprezentari-cartografice",
+   "competente": [
+    "VI-2.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "De ce țările vecine au culori diferite pe harta politică?",
+   "date": {
+    "variante": [
+     "ca să se vadă clar unde se termină o țară și unde începe alta",
+     "pentru că au climă diferită",
+     "pentru că au munți diferiți",
+     "fără motiv"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Culorile nu au legătură cu relieful."
+   }
+  },
+  {
+   "id": "VI3-09",
+   "nivel": "VI-S03-continente-tari-reprezentari-cartografice",
+   "competente": [
+    "VI-2.1"
+   ],
+   "tip": "pin",
+   "dificultate": 1,
+   "enunt": "Atinge pe hartă România.",
+   "date": {
+    "harta": "lume",
+    "tinta": {
+     "lat": 46,
+     "lon": 25,
+     "nume": "România"
+    },
+    "toleranta": 400
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "România e în sud-estul Europei centrale, la Marea Neagră."
+   }
+  },
+  {
+   "id": "VI3-10",
+   "nivel": "VI-S03-continente-tari-reprezentari-cartografice",
+   "competente": [
+    "VI-2.1"
+   ],
+   "tip": "pin",
+   "dificultate": 2,
+   "enunt": "Atinge pe hartă Rusia.",
+   "date": {
+    "harta": "lume",
+    "tinta": {
+     "lat": 60,
+     "lon": 90,
+     "nume": "Rusia"
+    },
+    "toleranta": 2500
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Rusia acoperă estul Europei și nordul Asiei."
+   }
+  },
+  {
+   "id": "VI3-11",
+   "nivel": "VI-S03-continente-tari-reprezentari-cartografice",
+   "competente": [
+    "VI-2.1"
+   ],
+   "tip": "pin",
+   "dificultate": 2,
+   "enunt": "Atinge pe hartă Brazilia.",
+   "date": {
+    "harta": "lume",
+    "tinta": {
+     "lat": -10,
+     "lon": -52,
+     "nume": "Brazilia"
+    },
+    "toleranta": 1500
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Brazilia ocupă aproape jumătate din America de Sud."
+   }
+  },
+  {
+   "id": "VI3-12",
+   "nivel": "VI-S03-continente-tari-reprezentari-cartografice",
+   "competente": [
+    "VI-2.1"
+   ],
+   "tip": "pin",
+   "dificultate": 2,
+   "enunt": "Atinge pe hartă Egiptul.",
+   "date": {
+    "harta": "lume",
+    "tinta": {
+     "lat": 26,
+     "lon": 30,
+     "nume": "Egipt"
+    },
+    "toleranta": 700
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Egiptul e în nord-estul Africii, pe Nil."
+   }
+  },
+  {
+   "id": "VI3-13",
+   "nivel": "VI-S03-continente-tari-reprezentari-cartografice",
+   "competente": [
+    "VI-2.1"
+   ],
+   "tip": "pin",
+   "dificultate": 3,
+   "enunt": "Atinge pe hartă Japonia.",
+   "date": {
+    "harta": "lume",
+    "tinta": {
+     "lat": 36,
+     "lon": 138,
+     "nume": "Japonia"
+    },
+    "toleranta": 700
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Japonia e un arhipelag în estul Asiei."
+   }
+  },
+  {
+   "id": "VI3-14",
+   "nivel": "VI-S03-continente-tari-reprezentari-cartografice",
+   "competente": [
+    "VI-2.1"
+   ],
+   "tip": "pin",
+   "dificultate": 3,
+   "enunt": "Atinge pe hartă Canada.",
+   "date": {
+    "harta": "lume",
+    "tinta": {
+     "lat": 60,
+     "lon": -100,
+     "nume": "Canada"
+    },
+    "toleranta": 2000
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Canada e în nordul Americii de Nord."
+   }
+  },
+  {
+   "id": "VI3-15",
+   "nivel": "VI-S03-continente-tari-reprezentari-cartografice",
+   "competente": [
+    "VI-2.1"
+   ],
+   "tip": "asociaza",
+   "dificultate": 2,
+   "enunt": "Asociază țara cu capitala ei.",
+   "date": {
+    "perechi": [
+     [
+      "Franța",
+      "Paris"
+     ],
+     [
+      "Italia",
+      "Roma"
+     ],
+     [
+      "Germania",
+      "Berlin"
+     ],
+     [
+      "Spania",
+      "Madrid"
+     ]
+    ]
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Capitale europene importante."
+   }
+  },
+  {
+   "id": "VI3-16",
+   "nivel": "VI-S03-continente-tari-reprezentari-cartografice",
+   "competente": [
+    "VI-2.1"
+   ],
+   "tip": "asociaza",
+   "dificultate": 2,
+   "enunt": "Asociază țara cu continentul.",
+   "date": {
+    "perechi": [
+     [
+      "China",
+      "Asia"
+     ],
+     [
+      "Nigeria",
+      "Africa"
+     ],
+     [
+      "Argentina",
+      "America de Sud"
+     ],
+     [
+      "Mexic",
+      "America de Nord"
+     ]
+    ]
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Fiecare țară e pe un continent (Rusia și Turcia sunt pe două)."
+   }
+  },
+  {
+   "id": "VI3-17",
+   "nivel": "VI-S03-continente-tari-reprezentari-cartografice",
+   "competente": [
+    "VI-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce lanț muntos e considerat granița dintre Europa și Asia?",
+   "date": {
+    "variante": [
+     "Munții Ural",
+     "Munții Alpi",
+     "Munții Carpați",
+     "Munții Anzi"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Uralii sunt în Rusia."
+   }
+  },
+  {
+   "id": "VI3-18",
+   "nivel": "VI-S03-continente-tari-reprezentari-cartografice",
+   "competente": [
+    "VI-1.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce înseamnă Eurasia?",
+   "date": {
+    "variante": [
+     "Europa și Asia luate împreună, ca o singură masă de uscat",
+     "o țară din Asia",
+     "un ocean",
+     "o insulă"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Europa și Asia nu sunt despărțite de ocean."
+   }
+  },
+  {
+   "id": "VI3-19",
+   "nivel": "VI-S03-continente-tari-reprezentari-cartografice",
+   "competente": [
+    "VI-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 3,
+   "enunt": "Ce țări se întind pe două continente?",
+   "date": {
+    "variante": [
+     "Rusia și Turcia",
+     "Franța și Italia",
+     "Brazilia și Chile",
+     "Japonia și Coreea"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Rusia și Turcia au teritorii și în Europa, și în Asia."
+   }
+  },
+  {
+   "id": "VI3-20",
+   "nivel": "VI-S03-continente-tari-reprezentari-cartografice",
+   "competente": [
+    "VI-1.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Adevărat sau fals? Granițele dintre state se văd mereu în natură, ca niște ziduri.",
+   "date": {
+    "variante": [
+     "Fals",
+     "Adevărat"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Fals: majoritatea granițelor sunt linii convenționale; uneori urmează râuri sau munți."
+   }
+  },
+  {
+   "id": "VI3-21",
+   "nivel": "VI-S03-continente-tari-reprezentari-cartografice",
+   "competente": [
+    "VI-2.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Adevărat sau fals? Pe harta politică, culoarea unei țări nu arată relieful ei.",
+   "date": {
+    "variante": [
+     "Adevărat",
+     "Fals"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Adevărat: culorile doar deosebesc țările."
+   }
+  },
+  {
+   "id": "VI3-22",
+   "nivel": "VI-S03-continente-tari-reprezentari-cartografice",
+   "competente": [
+    "VI-1.1"
+   ],
+   "tip": "lacunar",
+   "dificultate": 2,
+   "enunt": "Completează.",
+   "date": {
+    "text": "Cea mai mare țară ca suprafață este {0}, iar cel mai mic stat este {1}.",
+    "raspunsuri": [
+     "Rusia",
+     "Vaticanul"
+    ],
+    "distractori": [
+     "China",
+     "Monaco"
+    ]
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Rusia – cea mai mare; Vaticanul – cel mai mic."
+   }
+  },
+  {
+   "id": "VI3-23",
+   "nivel": "VI-S03-continente-tari-reprezentari-cartografice",
+   "competente": [
+    "VI-2.1"
+   ],
+   "tip": "lacunar",
+   "dificultate": 2,
+   "enunt": "Completează.",
+   "date": {
+    "text": "Capitala Franței este {0}, iar capitala Italiei este {1}.",
+    "raspunsuri": [
+     "Paris",
+     "Roma"
+    ],
+    "distractori": [
+     "Berlin",
+     "Madrid"
+    ]
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Paris și Roma."
+   }
+  },
+  {
+   "id": "VI3-24",
+   "nivel": "VI-S03-continente-tari-reprezentari-cartografice",
+   "competente": [
+    "VI-4.3"
+   ],
+   "tip": "ordoneaza",
+   "dificultate": 2,
+   "enunt": "Ordonează continentele după suprafață, de la cel mai mare la cel mai mic.",
+   "date": {
+    "elemente": [
+     "Asia",
+     "Africa",
+     "America de Nord",
+     "America de Sud",
+     "Antarctica",
+     "Europa",
+     "Australia"
+    ],
+    "criteriu": "Suprafață, descrescător"
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Asia e cea mai mare; Australia cea mai mică."
+   }
+  },
+  {
+   "id": "VI3-25",
+   "nivel": "VI-S03-continente-tari-reprezentari-cartografice",
+   "competente": [
+    "VI-2.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce face o hartă digitală (ca o aplicație de hărți) în plus față de una tipărită?",
+   "date": {
+    "variante": [
+     "poți mări, micșora, căuta locuri și afla trasee",
+     "arată mereu doar un oraș",
+     "nu are legendă",
+     "nu se poate folosi"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Hărțile digitale sunt interactive."
+   }
+  },
+  {
+   "id": "VI3-26",
+   "nivel": "VI-S03-continente-tari-reprezentari-cartografice",
+   "competente": [
+    "VI-2.1"
+   ],
+   "tip": "denumeste",
+   "dificultate": 2,
+   "enunt": "Ce țară e marcată pe hartă?",
+   "date": {
+    "harta": "lume",
+    "punct": {
+     "lat": -25,
+     "lon": 134
+    },
+    "variante": [
+     "Australia",
+     "Noua Zeelandă",
+     "Indonezia",
+     "Madagascar"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Australia e țara-continent din emisfera sudică."
+   }
+  },
+  {
+   "id": "VI3-27",
+   "nivel": "VI-S03-continente-tari-reprezentari-cartografice",
+   "competente": [
+    "VI-2.1"
+   ],
+   "tip": "denumeste",
+   "dificultate": 3,
+   "enunt": "Ce țară e marcată pe hartă?",
+   "date": {
+    "harta": "lume",
+    "punct": {
+     "lat": 39,
+     "lon": -98
+    },
+    "variante": [
+     "Statele Unite ale Americii",
+     "Canada",
+     "Mexic",
+     "Brazilia"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "SUA sunt în mijlocul Americii de Nord."
+   }
+  },
+  {
+   "id": "VI3-28",
+   "nivel": "VI-S03-continente-tari-reprezentari-cartografice",
+   "competente": [
+    "VI-3.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 3,
+   "enunt": "De ce granițele unor țări din Africa sunt linii drepte?",
+   "date": {
+    "variante": [
+     "pentru că au fost trasate pe hartă de puterile coloniale, nu după relief sau popoare",
+     "pentru că acolo nu sunt munți",
+     "pentru că așa au cerut animalele",
+     "pentru că sunt râuri drepte"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Multe granițe africane au fost trasate în secolul XIX."
+   }
+  },
+  {
+   "id": "VI3-29",
+   "nivel": "VI-S03-continente-tari-reprezentari-cartografice",
+   "competente": [
+    "VI-1.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce este o țară fără ieșire la mare?",
+   "date": {
+    "variante": [
+     "o țară care nu are țărm la o mare sau la un ocean",
+     "o insulă",
+     "o țară cu multe porturi",
+     "o peninsulă"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Ungaria, Elveția și Austria nu au ieșire la mare."
+   }
+  },
+  {
+   "id": "VI3-30",
+   "nivel": "VI-S03-continente-tari-reprezentari-cartografice",
+   "competente": [
+    "VI-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce țară vecină cu România nu are ieșire la mare?",
+   "date": {
+    "variante": [
+     "Ungaria",
+     "Bulgaria",
+     "Ucraina",
+     "nicio țară vecină"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Ungaria și Serbia nu au ieșire la mare; Bulgaria și Ucraina au țărm la Marea Neagră."
+   }
+  },
+  {
+   "id": "VI5-01",
+   "nivel": "VI-S05-aplicatii-practice-exercitii-apreciere",
+   "competente": [
+    "VI-4.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 1,
+   "enunt": "Pe o hartă la scara 1:1 000 000, cât înseamnă 1 cm?",
+   "date": {
+    "variante": [
+     "10 km",
+     "1 km",
+     "100 km",
+     "1 000 km"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "1 000 000 cm = 10 000 m = 10 km."
+   }
+  },
+  {
+   "id": "VI5-02",
+   "nivel": "VI-S05-aplicatii-practice-exercitii-apreciere",
+   "competente": [
+    "VI-4.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Pe aceeași hartă, două orașe sunt la 13 cm. Ce distanță e în linie dreaptă?",
+   "date": {
+    "variante": [
+     "130 km",
+     "13 km",
+     "1 300 km",
+     "1,3 km"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "13 × 10 km = 130 km."
+   }
+  },
+  {
+   "id": "VI5-03",
+   "nivel": "VI-S05-aplicatii-practice-exercitii-apreciere",
+   "competente": [
+    "VI-4.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "De ce distanța pe drum e mai mare decât cea în linie dreaptă?",
+   "date": {
+    "variante": [
+     "pentru că drumul ocolește dealuri, râuri și trece prin localități",
+     "pentru că harta e greșită",
+     "pentru că mașinile merg în cerc",
+     "nu e niciodată mai mare"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Linia dreaptă e cea mai scurtă."
+   }
+  },
+  {
+   "id": "VI5-04",
+   "nivel": "VI-S05-aplicatii-practice-exercitii-apreciere",
+   "competente": [
+    "VI-4.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 3,
+   "enunt": "Un teren dreptunghiular are pe hartă (1:100 000) 2 cm pe 3 cm. Ce suprafață are în realitate?",
+   "date": {
+    "variante": [
+     "6 km²",
+     "6 cm²",
+     "60 km²",
+     "600 km²"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "2 cm = 2 km, 3 cm = 3 km; 2 × 3 = 6 km²."
+   }
+  }
+ ]
+}

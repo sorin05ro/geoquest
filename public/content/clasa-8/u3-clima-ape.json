@@ -1,0 +1,5867 @@
+{
+ "clasa": 8,
+ "unitate": "Clima, apele, vegetația, fauna și solurile",
+ "niveluri": [
+  {
+   "id": "VIII-S13-clima-factorii-genetici",
+   "tip": "nivel",
+   "titlu": "Clima României – factorii genetici",
+   "descopera": {
+    "intrebare": "De ce la Timișoara iernile sunt mai blânde decât la Iași?"
+   },
+   "invata": [
+    {
+     "titlu": "Factori astronomici și geografici",
+     "text": "Poziția la jumătatea distanței dintre Ecuator și Polul Nord (paralela de 45° N) dă României o climă temperată, cu patru anotimpuri.\nPoziția față de Oceanul Atlantic, Marea Mediterană, Marea Neagră și față de uscatul Europei de Est face ca România să primească mase de aer diferite: climă temperat-continentală de tranziție."
+    },
+    {
+     "titlu": "Circulația maselor de aer",
+     "text": "Din vest vin mase de aer umed, oceanic (ploi, ierni blânde). Din est și nord-est vin mase de aer continental, uscat (ierni geroase, veri fierbinți, crivăț). Din sud-vest vin mase de aer cald mediteraneean (Banat, Oltenia). Din nord pot veni mase de aer rece, polar."
+    },
+    {
+     "titlu": "Relieful",
+     "text": "Carpații sunt o barieră: opresc parțial masele de aer, modifică direcția vânturilor și fac ca vestul să fie mai umed, iar estul mai uscat. Altitudinea scade temperatura și crește precipitațiile: apar etaje climatice (de câmpie, de dealuri și podișuri, de munte)."
+    }
+   ],
+   "stiaiCa": "Pe vârful Omu (2 505 m), din Bucegi, temperatura medie anuală e sub 0 °C, în timp ce în Câmpia Română depășește 10 °C.",
+   "referintaProfesor": "Manual Art Klett, clasa a VIII-a, ediția 2025 (manuale.edu.ro), lecția „Clima – Factorii genetici”"
+  },
+  {
+   "id": "VIII-S13-elementele-climatice",
+   "tip": "nivel",
+   "titlu": "Elementele climatice ale României",
+   "descopera": {
+    "intrebare": "Cât de cald și cât de ploios e, în medie, în România?"
+   },
+   "invata": [
+    {
+     "titlu": "Temperatura",
+     "text": "Temperatura medie anuală scade de la sud la nord și de la câmpie la munte: peste 11 °C în sudul Câmpiei Române și pe litoral, 8–10 °C în dealuri și podișuri, sub 0 °C pe vârfurile cele mai înalte.\nRecorduri: maxima 44,5 °C, la Ion Sion (județul Brăila), pe 10 august 1951; minima −38,5 °C, la Bod (județul Brașov), pe 25 ianuarie 1942."
+    },
+    {
+     "titlu": "Precipitațiile",
+     "text": "Precipitațiile cresc cu altitudinea și de la est spre vest: peste 1 000–1 200 l/m² pe an în munții înalți, 500–700 l/m² în dealuri și în vest, sub 400 l/m² în Dobrogea și Delta Dunării.\nCele mai multe ploi cad la începutul verii (mai–iunie), iar cele mai puține iarna."
+    },
+    {
+     "titlu": "Vânturile",
+     "text": "Vânturile dominante bat din vest și nord-vest. Vânturi locale: crivățul (nord-est, rece, iarna), austrul (sud-vest, uscat), băltărețul (sud, umed, dinspre Dunăre), foehnul (cald, pe versanți), briza (pe litoral), nemira (Depresiunea Brașov)."
+    }
+   ],
+   "stiaiCa": "Recordul de căldură al României, 44,5 °C, a fost înregistrat la stația Ion Sion din Bărăgan, în 1951, și nu a fost depășit nici în verile foarte calde de după 2000.",
+   "referintaProfesor": "Manual Art Klett, clasa a VIII-a, ediția 2025 (manuale.edu.ro), lecția „Elementele climatice”"
+  },
+  {
+   "id": "VIII-S16-particularitatile-climatice-regionale-etaje",
+   "tip": "nivel",
+   "titlu": "Particularitățile climatice regionale",
+   "descopera": {
+    "intrebare": "De ce în Banat cresc castani comestibili, iar în Bucovina nu?"
+   },
+   "invata": [
+    {
+     "titlu": "Etajele climatice",
+     "text": "Etajul de câmpie: veri calde, ierni reci, precipitații puține (400–600 l/m²).\nEtajul de dealuri și podișuri: temperaturi medii de 8–10 °C, precipitații de 600–800 l/m².\nEtajul de munte: temperaturi scăzute, precipitații multe, zăpadă care stă mult. Pe vârfuri e etajul alpin, cu climă aspră."
+    },
+    {
+     "titlu": "Influențele climatice regionale",
+     "text": "Oceanice – în vest și în Transilvania (umed, ierni blânde). Submediteraneene – în Banat și sud-vestul Olteniei (cald, ploi de toamnă). Continentale/excesive – în est: Moldova, Bărăgan (ierni geroase, secetă). Pontice – în Dobrogea, pe litoral. Baltice – în nordul țării (Maramureș, Bucovina), cu răcoare și umezeală."
+    },
+    {
+     "titlu": "Climatul orizontului local",
+     "text": "Râmnicu Sărat, la contactul Subcarpaților de Curbură cu Câmpia Română, are influențe continentale: veri calde, ierni geroase cu crivăț, ploi moderate. Zona Vrancea–Buzău are și fenomene de foehn pe versanți."
+    }
+   ],
+   "stiaiCa": "În Banat, datorită influențelor submediteraneene, cresc în mod natural liliacul sălbatic, castanul comestibil și chiar ghimpele, plante iubitoare de căldură.",
+   "referintaProfesor": "Manual Art Klett, clasa a VIII-a, ediția 2025 (manuale.edu.ro), lecția „Particularitățile climatice regionale (etaje și influențe climatice)”"
+  },
+  {
+   "id": "VIII-S16-apele-dunarea",
+   "tip": "nivel",
+   "titlu": "Apele României – Dunărea",
+   "descopera": {
+    "intrebare": "Pe unde intră și pe unde iese Dunărea din România?"
+   },
+   "invata": [
+    {
+     "titlu": "Dunărea în România",
+     "text": "Dunărea intră în România la Baziaș și se varsă în Marea Neagră prin Delta Dunării, după aproximativ 1 075 km pe teritoriul sau la granița țării.\nSectoare: Defileul Dunării (Baziaș – Gura Văii), cu Cazanele Dunării; sectorul de luncă, între Gura Văii și Călărași; sectorul bălților (Balta Ialomiței, Balta Brăilei), între Călărași și Brăila; Dunărea maritimă (Brăila – Sulina); Delta Dunării."
+    },
+    {
+     "titlu": "Debit și folosire",
+     "text": "Debitul mediu al Dunării la vărsare e de aproximativ 6 500 m³/s, cel mai mare dintre râurile României. Primește aproape toate râurile țării.\nPe Dunăre s-au construit hidrocentralele Porțile de Fier I (1972) și Porțile de Fier II, împreună cu Serbia. Dunărea e o cale de navigație importantă (Coridorul VII paneuropean); canalul Dunăre–Marea Neagră duce spre portul Constanța."
+    },
+    {
+     "titlu": "Delta",
+     "text": "La Ceatal Chilia, Dunărea se împarte în brațele Chilia și Tulcea; Tulcea se împarte apoi în Sulina și Sfântu Gheorghe."
+    }
+   ],
+   "stiaiCa": "În Cazanele Dunării, pe malul românesc, a fost sculptat în stâncă chipul regelui dac Decebal, înalt de aproximativ 40 m – cea mai mare sculptură în stâncă din Europa.",
+   "referintaProfesor": "Manual Art Klett, clasa a VIII-a, ediția 2025 (manuale.edu.ro), lecția „Apele – Dunărea”"
+  },
+  {
+   "id": "VIII-S17-raurile-interioare",
+   "tip": "nivel",
+   "titlu": "Râurile interioare",
+   "descopera": {
+    "intrebare": "De ce râurile României par să pornească toate din Carpați?"
+   },
+   "invata": [
+    {
+     "titlu": "Rețeaua hidrografică",
+     "text": "Majoritatea râurilor izvorăsc din Carpați și curg radiar, în toate direcțiile, spre Dunăre (sau spre Tisa, în vest). Aproape toate ajung, în final, în Dunăre.\nGrupe: râurile din vest (Someș, Crișuri, Mureș, Bega, Timiș), râurile din sud (Jiu, Olt, Argeș, Ialomița), râurile din est (Siret, cu afluenții Suceava, Moldova, Bistrița, Trotuș, Buzău, Râmnicu Sărat; Prut), râurile din Dobrogea (Casimcea, Taița), scurte."
+    },
+    {
+     "titlu": "Cele mai lungi",
+     "text": "Mureșul e cel mai lung râu interior (aproximativ 760 km în România). Urmează Prutul (la graniță), Oltul (615 km, cel mai lung râu care curge în întregime prin România, de la izvor la vărsare) și Siretul.\nRâul Buzău și râul Râmnicu Sărat sunt afluenți ai Siretului."
+    },
+    {
+     "titlu": "Regim și folosire",
+     "text": "Râurile au ape mari primăvara (topirea zăpezilor și ploi) și la începutul verii (ploi torențiale – viituri), iar ape mici toamna și iarna.\nSunt folosite pentru alimentare cu apă, hidroenergie (Bistrița, Argeș, Lotru, Olt), irigații, pescuit și turism."
+    }
+   ],
+   "stiaiCa": "Oltul și Mureșul izvorăsc foarte aproape unul de altul, în Munții Hășmaș, dar unul curge spre sud și celălalt spre vest.",
+   "referintaProfesor": "Manual Art Klett, clasa a VIII-a, ediția 2025 (manuale.edu.ro), lecția „Râurile interioare”"
+  },
+  {
+   "id": "VIII-S18-lacurile-apele-subterane",
+   "tip": "nivel",
+   "titlu": "Lacurile și apele subterane",
+   "descopera": {
+    "intrebare": "Ce fel de lacuri poți găsi de la munte până la mare?"
+   },
+   "invata": [
+    {
+     "titlu": "Lacurile naturale",
+     "text": "Lacuri glaciare – în căldările din munții înalți: Bucura (cel mai întins lac glaciar) și Zănoaga (cel mai adânc), în Retezat; Bâlea, Capra (Făgăraș); Gâlcescu (Parâng).\nLac vulcanic – Sfânta Ana, în craterul unui vulcan stins (Munții Ciomatu).\nLac de baraj natural – Lacul Roșu, format în 1837 după o alunecare de teren.\nLacuri pe sare – Ursu (Sovata), cu apă caldă în adânc (heliotermal).\nLacuri de câmpie, limane fluviatile (Snagov), lacuri sărate (Amara, Lacul Sărat), lacuri din Deltă, lagune și limane maritime (Razim–Sinoe, cel mai mare complex lagunar; Techirghiol, cu nămol terapeutic)."
+    },
+    {
+     "titlu": "Lacurile artificiale",
+     "text": "Lacuri de acumulare pentru energie și apă: Porțile de Fier (cel mai mare, pe Dunăre), Izvorul Muntelui (Bistrița), Vidraru (Argeș), Vidra (Lotru). Iazuri și heleșteie pentru pește și irigații (în Câmpia Moldovei)."
+    },
+    {
+     "titlu": "Apele subterane",
+     "text": "Apele freatice, aproape de suprafață (fântâni), și apele de adâncime. Apele minerale, cu săruri dizolvate, sunt folosite pentru băut și tratament: Borsec, Bucovina, Slănic Moldova, Băile Herculane, Buziaș, Sângeorz-Băi. Apele termale: Băile Felix, Băile Herculane."
+    }
+   ],
+   "stiaiCa": "Lacul Ursu de la Sovata e heliotermal: Soarele încălzește un strat de apă sărată de sub suprafață, unde temperatura poate ajunge vara la peste 30 °C, deși la suprafață apa e mai rece.",
+   "referintaProfesor": "Manual Art Klett, clasa a VIII-a, ediția 2025 (manuale.edu.ro), lecția „Lacurile și apele subterane”"
+  },
+  {
+   "id": "VIII-S19-marea-neagra",
+   "tip": "nivel",
+   "titlu": "Marea Neagră",
+   "descopera": {
+    "intrebare": "De ce sub o anumită adâncime, în Marea Neagră aproape că nu există viață?"
+   },
+   "invata": [
+    {
+     "titlu": "Caracteristici",
+     "text": "Marea Neagră e o mare aproape închisă, legată de Marea Mediterană prin Bosfor, Marea Marmara și Dardanele. Are aproximativ 436 000 km² și adâncimea maximă de aproximativ 2 212 m, după Britannica.\nPrimește apa multor fluvii mari (Dunăre, Nipru, Nistru, Don), de aceea salinitatea e mică: aproximativ 17–18 ‰ la suprafață (față de 35 ‰ în ocean). Sub aproximativ 150–200 m, apa conține hidrogen sulfurat și aproape nu are oxigen, deci viața lipsește aproape complet."
+    },
+    {
+     "titlu": "Țărmul românesc",
+     "text": "Litoralul românesc are aproximativ 245 km. În nord (Sulina – Capul Midia) țărmul e jos, cu delte, lagune și cordoane de nisip. În sud (Capul Midia – Vama Veche) țărmul e înalt, cu faleze și plaje.\nPlatforma continentală e largă, cu petrol și gaze naturale."
+    },
+    {
+     "titlu": "Viața și folosirea mării",
+     "text": "Trăiesc delfini, calcan, hamsii, stavrid, guvizi, midii. Sturionii migrează pe Dunăre.\nMarea e folosită pentru turism (Mamaia, Eforie, Costinești, Neptun, Mangalia), transport (portul Constanța), pescuit și exploatarea petrolului și gazelor. Există o rezervație marină între Vama Veche și 2 Mai."
+    }
+   ],
+   "stiaiCa": "Apa Mării Negre e de două ori mai puțin sărată decât apa oceanului, pentru că primește multă apă dulce de la fluvii.",
+   "referintaProfesor": "Manual Art Klett, clasa a VIII-a, ediția 2025 (manuale.edu.ro), lecția „Marea Neagră”"
+  },
+  {
+   "id": "VIII-S20-vegetatia-fauna-solurile-aplicatii",
+   "tip": "expeditie",
+   "titlu": "Expediție: vegetația, fauna și solurile. Siguranța în fața fenomenelor extreme",
+   "descopera": {
+    "intrebare": "Ce plante și animale ocrotite trăiesc în România și cum te protejezi de fenomenele extreme?"
+   },
+   "invata": [
+    {
+     "titlu": "Ce faci în expediție",
+     "text": "Urmezi pașii, rezolvi sarcinile și notezi în Jurnalul exploratorului ce ai descoperit."
+    }
+   ],
+   "referintaProfesor": "Manual Art Klett, clasa a VIII-a, ediția 2025 (manuale.edu.ro), lecția „Vegetația, fauna și solurile. Aplicații practice”",
+   "pasi": [
+    {
+     "titlu": "1. Etajele de vegetație",
+     "text": "Pe harta de vegetație din atlas, identifică zonele de vegetație ale României și urmărește cum se schimbă de la câmpie la munte.",
+     "itemi": [
+      "VIII20-01",
+      "VIII20-02",
+      "VIII20-03",
+      "VIII20-04",
+      "VIII20-05"
+     ],
+     "jurnal": {
+      "cerinta": "Desenează un munte cu etajele de vegetație și scrie numele fiecăruia."
+     }
+    },
+    {
+     "titlu": "2. Fișa unei specii ocrotite",
+     "text": "Alege o plantă sau un animal ocrotit din România. Află unde trăiește, de ce e amenințat și cum e protejat.",
+     "itemi": [
+      "VIII20-06"
+     ],
+     "jurnal": {
+      "cerinta": "Scrie fișa speciei: nume, habitat, amenințări, protecție, sursa."
+     }
+    },
+    {
+     "titlu": "3. Planul de siguranță",
+     "text": "Cu familia, alcătuiți un plan pentru o situație de urgență: ce luați în rucsacul de urgență, unde vă întâlniți, ce numere de telefon folosiți (112).",
+     "itemi": [
+      "VIII20-07",
+      "VIII20-08",
+      "VIII20-09"
+     ],
+     "jurnal": {
+      "cerinta": "Scrie lista din rucsacul de urgență și locul de întâlnire stabilit."
+     }
+    },
+    {
+     "titlu": "4. Afișul clasei",
+     "text": "Realizați în grup un afiș cu regulile de comportament în caz de fenomen extrem din județul Buzău (inundații, alunecări, viscol, cutremur).",
+     "jurnal": {
+      "cerinta": "Fotografiază afișul.",
+      "foto": true
+     }
+    }
+   ]
+  }
+ ],
+ "itemi": [
+  {
+   "id": "VIII13a-01",
+   "nivel": "VIII-S13-clima-factorii-genetici",
+   "competente": [
+    "VIII-1.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 1,
+   "enunt": "Ce climă are România?",
+   "date": {
+    "variante": [
+     "temperat-continentală de tranziție",
+     "ecuatorială",
+     "polară",
+     "deșertică"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Între influențele oceanice și cele continentale."
+   },
+   "surse": [
+    "Administrația Națională de Meteorologie (ANM) – Clima României",
+    "Wikipedia – Climate of Romania"
+   ]
+  },
+  {
+   "id": "VIII13a-02",
+   "nivel": "VIII-S13-clima-factorii-genetici",
+   "competente": [
+    "VIII-3.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce factor astronomic determină clima temperată a României?",
+   "date": {
+    "variante": [
+     "poziția la paralela de 45° N",
+     "apropierea de Ecuator",
+     "apropierea de Polul Nord",
+     "altitudinea Lunii"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Unghiul de incidență al razelor solare e mediu."
+   }
+  },
+  {
+   "id": "VIII13a-03",
+   "nivel": "VIII-S13-clima-factorii-genetici",
+   "competente": [
+    "VIII-3.1"
+   ],
+   "tip": "asociaza",
+   "dificultate": 2,
+   "enunt": "Asociază masa de aer cu efectul ei.",
+   "date": {
+    "perechi": [
+     [
+      "oceanică, din vest",
+      "ploi și ierni blânde"
+     ],
+     [
+      "continentală, din est",
+      "ierni geroase și veri fierbinți"
+     ],
+     [
+      "mediteraneeană, din sud-vest",
+      "căldură și ploi de toamnă"
+     ],
+     [
+      "polară, din nord",
+      "răciri bruște"
+     ]
+    ]
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Masele de aer care influențează clima."
+   }
+  },
+  {
+   "id": "VIII13a-04",
+   "nivel": "VIII-S13-clima-factorii-genetici",
+   "competente": [
+    "VIII-3.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce rol au Carpații în climă?",
+   "date": {
+    "variante": [
+     "sunt o barieră care oprește parțial masele de aer și creează etaje climatice",
+     "nu au niciun rol",
+     "încălzesc toată țara",
+     "aduc musonul"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Vestul e mai umed, estul mai uscat."
+   }
+  },
+  {
+   "id": "VIII13a-05",
+   "nivel": "VIII-S13-clima-factorii-genetici",
+   "competente": [
+    "VIII-2.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "De ce vestul României e mai umed decât estul?",
+   "date": {
+    "variante": [
+     "primește masele de aer oceanic, iar Carpații le opresc spre est",
+     "pentru că e mai aproape de Marea Neagră",
+     "pentru că e mai înalt peste tot",
+     "pentru că are deșert"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Influența Atlanticului scade spre est."
+   }
+  },
+  {
+   "id": "VIII13a-06",
+   "nivel": "VIII-S13-clima-factorii-genetici",
+   "competente": [
+    "VIII-2.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "De ce Banatul și Oltenia au ierni mai blânde?",
+   "date": {
+    "variante": [
+     "primesc influențe mediteraneene (submediteraneene), din sud-vest",
+     "primesc aer polar",
+     "sunt la munte",
+     "sunt lângă Marea Neagră"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Aici cresc și castani comestibili, liliac sălbatic."
+   }
+  },
+  {
+   "id": "VIII13a-07",
+   "nivel": "VIII-S13-clima-factorii-genetici",
+   "competente": [
+    "VIII-3.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "De unde vine crivățul?",
+   "date": {
+    "variante": [
+     "din nord-est, din aerul rece continental",
+     "din sud-vest",
+     "din Marea Mediterană",
+     "din Oceanul Atlantic"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Crivățul aduce ger și viscol în Moldova și Bărăgan."
+   }
+  },
+  {
+   "id": "VIII13a-08",
+   "nivel": "VIII-S13-clima-factorii-genetici",
+   "competente": [
+    "VIII-3.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce se întâmplă cu temperatura cu cât urci pe munte?",
+   "date": {
+    "variante": [
+     "scade (aproximativ 6 °C la fiecare 1 000 m)",
+     "crește",
+     "rămâne aceeași",
+     "devine 50 °C"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "De aceea sus e mai frig."
+   }
+  },
+  {
+   "id": "VIII13a-09",
+   "nivel": "VIII-S13-clima-factorii-genetici",
+   "competente": [
+    "VIII-3.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 3,
+   "enunt": "Dacă în Câmpia Română, la 100 m, sunt 20 °C, cam câte grade sunt pe un vârf de 2 100 m?",
+   "date": {
+    "variante": [
+     "aproximativ 8 °C",
+     "aproximativ 20 °C",
+     "aproximativ 30 °C",
+     "aproximativ −20 °C"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "2 000 m × 6 °C/1 000 m = 12 °C mai puțin."
+   },
+   "indiciu": "Scade aproximativ 6 °C la fiecare 1 000 m urcați."
+  },
+  {
+   "id": "VIII13a-10",
+   "nivel": "VIII-S13-clima-factorii-genetici",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "pin",
+   "dificultate": 2,
+   "enunt": "Atinge pe harta României vârful Omu.",
+   "date": {
+    "harta": "romania",
+    "tinta": {
+     "lat": 45.45,
+     "lon": 25.46,
+     "nume": "Vârful Omu"
+    },
+    "toleranta": 40
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Omu e în Munții Bucegi."
+   }
+  },
+  {
+   "id": "VIII13a-11",
+   "nivel": "VIII-S13-clima-factorii-genetici",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "pin",
+   "dificultate": 3,
+   "enunt": "Atinge pe harta României Banatul, cu influențe submediteraneene.",
+   "date": {
+    "harta": "romania",
+    "tinta": {
+     "lat": 45.3,
+     "lon": 21.8,
+     "nume": "Banat"
+    },
+    "toleranta": 70
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Banatul e în sud-vestul țării."
+   }
+  },
+  {
+   "id": "VIII13a-12",
+   "nivel": "VIII-S13-clima-factorii-genetici",
+   "competente": [
+    "VIII-3.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Adevărat sau fals? Masele de aer oceanic aduc iarna ger puternic și secetă.",
+   "date": {
+    "variante": [
+     "Fals",
+     "Adevărat"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Fals: aduc ierni blânde și ploi."
+   }
+  },
+  {
+   "id": "VIII13a-13",
+   "nivel": "VIII-S13-clima-factorii-genetici",
+   "competente": [
+    "VIII-3.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Adevărat sau fals? Carpații fac ca vestul țării să fie mai umed decât estul.",
+   "date": {
+    "variante": [
+     "Adevărat",
+     "Fals"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Adevărat."
+   }
+  },
+  {
+   "id": "VIII13a-14",
+   "nivel": "VIII-S13-clima-factorii-genetici",
+   "competente": [
+    "VIII-1.1"
+   ],
+   "tip": "lacunar",
+   "dificultate": 2,
+   "enunt": "Completează.",
+   "date": {
+    "text": "Clima României este temperat-{0} de {1}.",
+    "raspunsuri": [
+     "continentală",
+     "tranziție"
+    ],
+    "distractori": [
+     "oceanică",
+     "deșert"
+    ]
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Termenul exact."
+   },
+   "surse": [
+    "Administrația Națională de Meteorologie (ANM) – Clima României",
+    "Wikipedia – Climate of Romania"
+   ]
+  },
+  {
+   "id": "VIII13a-15",
+   "nivel": "VIII-S13-clima-factorii-genetici",
+   "competente": [
+    "VIII-3.2"
+   ],
+   "tip": "lacunar",
+   "dificultate": 2,
+   "enunt": "Completează.",
+   "date": {
+    "text": "Vântul rece din nord-est se numește {0}; influențele din sud-vest sunt {1}.",
+    "raspunsuri": [
+     "crivăț",
+     "submediteraneene"
+    ],
+    "distractori": [
+     "austru",
+     "baltice"
+    ]
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Crivăț, submediteraneene."
+   }
+  },
+  {
+   "id": "VIII13a-16",
+   "nivel": "VIII-S13-clima-factorii-genetici",
+   "competente": [
+    "VIII-2.2"
+   ],
+   "tip": "grafic",
+   "dificultate": 3,
+   "enunt": "Graficul arată temperatura medie anuală la diferite altitudini în Carpați (valori aproximative). Ce observi?",
+   "date": {
+    "grafic": {
+     "tip": "profil",
+     "titlu": "Temperatura medie anuală după altitudine (aproximativ)",
+     "date": [
+      {
+       "eticheta": "100 m",
+       "valoare": 11
+      },
+      {
+       "eticheta": "500 m",
+       "valoare": 9
+      },
+      {
+       "eticheta": "1 000 m",
+       "valoare": 6
+      },
+      {
+       "eticheta": "1 500 m",
+       "valoare": 3
+      },
+      {
+       "eticheta": "2 000 m",
+       "valoare": 0
+      },
+      {
+       "eticheta": "2 500 m",
+       "valoare": -3
+      }
+     ],
+     "unitate": "°C",
+     "sursa": "ANM – Clima României"
+    },
+    "variante": [
+     "temperatura scade cu altitudinea",
+     "temperatura crește",
+     "rămâne constantă",
+     "e mereu negativă"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Etajarea climatică."
+   },
+   "surse": [
+    "Administrația Națională de Meteorologie (ANM) – Clima României",
+    "Wikipedia – Climate of Romania"
+   ]
+  },
+  {
+   "id": "VIII13a-17",
+   "nivel": "VIII-S13-clima-factorii-genetici",
+   "competente": [
+    "VIII-2.2"
+   ],
+   "tip": "ordoneaza",
+   "dificultate": 3,
+   "enunt": "Ordonează locurile de la cel mai cald la cel mai rece (medie anuală).",
+   "date": {
+    "elemente": [
+     "Câmpia Română",
+     "Podișul Getic",
+     "Subcarpați",
+     "vârful Omu"
+    ],
+    "criteriu": "De la cald la rece"
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Altitudinea scade temperatura."
+   }
+  },
+  {
+   "id": "VIII13a-18",
+   "nivel": "VIII-S13-clima-factorii-genetici",
+   "competente": [
+    "VIII-3.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce influență climatică are Dobrogea, lângă mare?",
+   "date": {
+    "variante": [
+     "pontică (influența Mării Negre)",
+     "oceanică",
+     "polară",
+     "montană"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Marea îndulcește temperaturile pe țărm."
+   }
+  },
+  {
+   "id": "VIII13a-19",
+   "nivel": "VIII-S13-clima-factorii-genetici",
+   "competente": [
+    "VIII-3.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce influență climatică are nordul Moldovei?",
+   "date": {
+    "variante": [
+     "baltică (scandinavo-baltică), cu aer mai umed și rece",
+     "mediteraneeană",
+     "pontică",
+     "tropicală"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Influențele din nord."
+   }
+  },
+  {
+   "id": "VIII13a-20",
+   "nivel": "VIII-S13-clima-factorii-genetici",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "denumeste",
+   "dificultate": 2,
+   "enunt": "Ce regiune cu cele mai puține precipitații din țară e marcată pe hartă?",
+   "date": {
+    "harta": "romania",
+    "punct": {
+     "lat": 44.4,
+     "lon": 28.4
+    },
+    "variante": [
+     "Dobrogea",
+     "Banatul",
+     "Maramureșul",
+     "Bucovina"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "În Dobrogea cad sub 400 l/m² pe an în unele zone."
+   },
+   "surse": [
+    "Administrația Națională de Meteorologie (ANM) – Clima României",
+    "Wikipedia – Climate of Romania"
+   ]
+  },
+  {
+   "id": "VIII13a-21",
+   "nivel": "VIII-S13-clima-factorii-genetici",
+   "competente": [
+    "VIII-4.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 3,
+   "enunt": "Compară clima de la Timișoara cu cea de la Iași.",
+   "date": {
+    "variante": [
+     "la Timișoara e mai umed și ierni mai blânde; la Iași iernile sunt mai geroase și verile mai uscate",
+     "sunt identice",
+     "Iașiul are ierni mai blânde",
+     "Timișoara e mai uscată"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Vest – oceanic; est – continental."
+   }
+  },
+  {
+   "id": "VIII13a-22",
+   "nivel": "VIII-S13-clima-factorii-genetici",
+   "competente": [
+    "VIII-3.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce este foehnul?",
+   "date": {
+    "variante": [
+     "un vânt cald și uscat care coboară pe versanții munților",
+     "un vânt rece de la nord",
+     "o ploaie",
+     "o ceață"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Apare, de exemplu, pe versanții Făgărașului."
+   }
+  },
+  {
+   "id": "VIII13a-23",
+   "nivel": "VIII-S13-clima-factorii-genetici",
+   "competente": [
+    "VIII-3.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce este austrul?",
+   "date": {
+    "variante": [
+     "un vânt uscat din sud-vest, care aduce secetă vara și ger uscat iarna",
+     "un vânt umed din vest",
+     "un vânt rece din nord-est",
+     "o briză marină"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Bate în Oltenia și Muntenia."
+   }
+  },
+  {
+   "id": "VIII13a-24",
+   "nivel": "VIII-S13-clima-factorii-genetici",
+   "competente": [
+    "VIII-3.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce este briza marină?",
+   "date": {
+    "variante": [
+     "un vânt care bate ziua dinspre mare spre uscat, iar noaptea invers",
+     "un vânt de munte",
+     "un uragan",
+     "vânt din Siberia"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Pe litoral vara."
+   }
+  },
+  {
+   "id": "VIII13a-25",
+   "nivel": "VIII-S13-clima-factorii-genetici",
+   "competente": [
+    "VIII-3.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 3,
+   "enunt": "De ce în depresiunile intramontane iarna e uneori mai frig decât pe versanți?",
+   "date": {
+    "variante": [
+     "aerul rece, greu, se adună în depresiune (inversiune termică)",
+     "pentru că sunt mai înalte",
+     "pentru că bate foehnul",
+     "pentru că e lângă mare"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Ex.: Depresiunea Brașov, Ciuc."
+   }
+  },
+  {
+   "id": "VIII13a-26",
+   "nivel": "VIII-S13-clima-factorii-genetici",
+   "competente": [
+    "VIII-3.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce vânt local rece bate în Depresiunea Brașov?",
+   "date": {
+    "variante": [
+     "nemira",
+     "crivățul",
+     "austrul",
+     "briza"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Nemira aduce viscol în sud-estul Transilvaniei."
+   }
+  },
+  {
+   "id": "VIII13a-27",
+   "nivel": "VIII-S13-clima-factorii-genetici",
+   "competente": [
+    "VIII-2.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce înseamnă „etaj climatic”?",
+   "date": {
+    "variante": [
+     "zona cu climă asemănătoare, la o anumită altitudine",
+     "un nor",
+     "un vânt",
+     "o clădire"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Câmpie, deal, munte."
+   }
+  },
+  {
+   "id": "VIII13a-28",
+   "nivel": "VIII-S13-clima-factorii-genetici",
+   "competente": [
+    "VIII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Cum influențează clima agricultura din Dobrogea?",
+   "date": {
+    "variante": [
+     "seceta obligă la irigații, dar soarele favorizează vița-de-vie",
+     "e prea ploios",
+     "e prea frig pentru orice cultură",
+     "nu o influențează"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Murfatlar."
+   }
+  },
+  {
+   "id": "VIII13a-29",
+   "nivel": "VIII-S13-clima-factorii-genetici",
+   "competente": [
+    "VIII-1.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Unde se află orașul Râmnicu Sărat față de influențele climatice?",
+   "date": {
+    "variante": [
+     "în zona cu influențe continentale (est), cu crivăț iarna",
+     "în zona oceanică din vest",
+     "în zona mediteraneeană",
+     "în zona polară"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Nord-estul Munteniei are veri calde și ierni geroase."
+   }
+  },
+  {
+   "id": "VIII13a-30",
+   "nivel": "VIII-S13-clima-factorii-genetici",
+   "competente": [
+    "VIII-3.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce înseamnă climă „de tranziție”, pentru România?",
+   "date": {
+    "variante": [
+     "între clima oceanică din vestul Europei și cea continentală din est",
+     "între clima polară și cea ecuatorială",
+     "o climă care se schimbă zilnic",
+     "o climă fără anotimpuri"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "România primește ambele influențe."
+   }
+  },
+  {
+   "id": "VIII13b-01",
+   "nivel": "VIII-S13-elementele-climatice",
+   "competente": [
+    "VIII-2.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 1,
+   "enunt": "Cum variază temperatura medie anuală în România?",
+   "date": {
+    "variante": [
+     "scade de la sud la nord și de la câmpie la munte",
+     "crește spre munte",
+     "e aceeași peste tot",
+     "crește spre nord"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Latitudinea și altitudinea."
+   },
+   "surse": [
+    "Administrația Națională de Meteorologie (ANM) – Clima României",
+    "Wikipedia – Climate of Romania"
+   ]
+  },
+  {
+   "id": "VIII13b-02",
+   "nivel": "VIII-S13-elementele-climatice",
+   "competente": [
+    "VIII-3.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 1,
+   "enunt": "Care e temperatura maximă record din România?",
+   "date": {
+    "variante": [
+     "44,5 °C (Ion Sion, 1951)",
+     "56,7 °C",
+     "38,5 °C",
+     "40 °C"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Ion Sion, județul Brăila."
+   },
+   "surse": [
+    "ANM – extreme climatice (44,5 °C la Ion Sion, 1951; −38,5 °C la Bod, 1942)",
+    "Wikipedia – Climate of Romania"
+   ]
+  },
+  {
+   "id": "VIII13b-03",
+   "nivel": "VIII-S13-elementele-climatice",
+   "competente": [
+    "VIII-3.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 1,
+   "enunt": "Care e temperatura minimă record din România?",
+   "date": {
+    "variante": [
+     "−38,5 °C (Bod, 1942)",
+     "−89,2 °C",
+     "−20 °C",
+     "−50 °C"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Bod, județul Brașov."
+   },
+   "surse": [
+    "ANM – extreme climatice (44,5 °C la Ion Sion, 1951; −38,5 °C la Bod, 1942)",
+    "Wikipedia – Climate of Romania"
+   ]
+  },
+  {
+   "id": "VIII13b-04",
+   "nivel": "VIII-S13-elementele-climatice",
+   "competente": [
+    "VIII-2.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Cum variază precipitațiile în România?",
+   "date": {
+    "variante": [
+     "cresc cu altitudinea și de la est spre vest",
+     "scad cu altitudinea",
+     "sunt aceleași peste tot",
+     "cresc spre Dobrogea"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Munții și vestul sunt mai ploioși."
+   },
+   "surse": [
+    "Administrația Națională de Meteorologie (ANM) – Clima României",
+    "Wikipedia – Climate of Romania"
+   ]
+  },
+  {
+   "id": "VIII13b-05",
+   "nivel": "VIII-S13-elementele-climatice",
+   "competente": [
+    "VIII-3.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Unde cad cele mai puține precipitații?",
+   "date": {
+    "variante": [
+     "în Dobrogea și în Delta Dunării (sub 400 l/m²/an)",
+     "în Munții Făgăraș",
+     "în Banat",
+     "în Maramureș"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Cea mai uscată regiune."
+   },
+   "surse": [
+    "Administrația Națională de Meteorologie (ANM) – Clima României",
+    "Wikipedia – Climate of Romania"
+   ]
+  },
+  {
+   "id": "VIII13b-06",
+   "nivel": "VIII-S13-elementele-climatice",
+   "competente": [
+    "VIII-3.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Unde cad cele mai multe precipitații?",
+   "date": {
+    "variante": [
+     "în munții înalți (peste 1 000–1 200 l/m²/an)",
+     "în Dobrogea",
+     "în Bărăgan",
+     "în Delta Dunării"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Aerul urcă pe munți și se răcește."
+   },
+   "surse": [
+    "Administrația Națională de Meteorologie (ANM) – Clima României",
+    "Wikipedia – Climate of Romania"
+   ]
+  },
+  {
+   "id": "VIII13b-07",
+   "nivel": "VIII-S13-elementele-climatice",
+   "competente": [
+    "VIII-3.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "În ce lună cad, de obicei, cele mai multe ploi?",
+   "date": {
+    "variante": [
+     "la începutul verii (mai–iunie)",
+     "în ianuarie",
+     "în februarie",
+     "în decembrie"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Ploile de convecție de început de vară."
+   }
+  },
+  {
+   "id": "VIII13b-08",
+   "nivel": "VIII-S13-elementele-climatice",
+   "competente": [
+    "VIII-1.1"
+   ],
+   "tip": "asociaza",
+   "dificultate": 2,
+   "enunt": "Asociază vântul cu caracteristica lui.",
+   "date": {
+    "perechi": [
+     [
+      "crivățul",
+      "rece, din nord-est, iarna"
+     ],
+     [
+      "austrul",
+      "uscat, din sud-vest"
+     ],
+     [
+      "băltărețul",
+      "umed, dinspre Dunăre"
+     ],
+     [
+      "foehnul",
+      "cald, coboară pe versanți"
+     ]
+    ]
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Vânturi locale."
+   }
+  },
+  {
+   "id": "VIII13b-09",
+   "nivel": "VIII-S13-elementele-climatice",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "pin",
+   "dificultate": 2,
+   "enunt": "Atinge pe harta României Ion Sion (Brăila), locul recordului de căldură.",
+   "date": {
+    "harta": "romania",
+    "tinta": {
+     "lat": 45.0,
+     "lon": 27.6,
+     "nume": "Ion Sion"
+    },
+    "toleranta": 45
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "În Bărăgan."
+   },
+   "surse": [
+    "ANM – extreme climatice (44,5 °C la Ion Sion, 1951; −38,5 °C la Bod, 1942)",
+    "Wikipedia – Climate of Romania"
+   ]
+  },
+  {
+   "id": "VIII13b-10",
+   "nivel": "VIII-S13-elementele-climatice",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "pin",
+   "dificultate": 2,
+   "enunt": "Atinge pe harta României Bod (Brașov), locul recordului de frig.",
+   "date": {
+    "harta": "romania",
+    "tinta": {
+     "lat": 45.76,
+     "lon": 25.65,
+     "nume": "Bod"
+    },
+    "toleranta": 35
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "În Depresiunea Brașov."
+   },
+   "surse": [
+    "ANM – extreme climatice (44,5 °C la Ion Sion, 1951; −38,5 °C la Bod, 1942)",
+    "Wikipedia – Climate of Romania"
+   ]
+  },
+  {
+   "id": "VIII13b-11",
+   "nivel": "VIII-S13-elementele-climatice",
+   "competente": [
+    "VIII-2.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Adevărat sau fals? Vânturile dominante în România bat din vest și nord-vest.",
+   "date": {
+    "variante": [
+     "Adevărat",
+     "Fals"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Adevărat."
+   }
+  },
+  {
+   "id": "VIII13b-12",
+   "nivel": "VIII-S13-elementele-climatice",
+   "competente": [
+    "VIII-3.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Adevărat sau fals? Recordul de frig al României s-a înregistrat în Bărăgan.",
+   "date": {
+    "variante": [
+     "Fals",
+     "Adevărat"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Fals: la Bod, în Depresiunea Brașov; în Bărăgan s-a înregistrat recordul de căldură."
+   },
+   "surse": [
+    "ANM – extreme climatice (44,5 °C la Ion Sion, 1951; −38,5 °C la Bod, 1942)",
+    "Wikipedia – Climate of Romania"
+   ]
+  },
+  {
+   "id": "VIII13b-13",
+   "nivel": "VIII-S13-elementele-climatice",
+   "competente": [
+    "VIII-3.1"
+   ],
+   "tip": "lacunar",
+   "dificultate": 2,
+   "enunt": "Completează.",
+   "date": {
+    "text": "Recordul de căldură al României, {0} °C, s-a înregistrat la Ion Sion; recordul de frig, −38,5 °C, la {1}.",
+    "raspunsuri": [
+     "44,5",
+     "Bod"
+    ],
+    "distractori": [
+     "56,7",
+     "Omu"
+    ]
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Recorduri."
+   },
+   "surse": [
+    "ANM – extreme climatice (44,5 °C la Ion Sion, 1951; −38,5 °C la Bod, 1942)",
+    "Wikipedia – Climate of Romania"
+   ]
+  },
+  {
+   "id": "VIII13b-14",
+   "nivel": "VIII-S13-elementele-climatice",
+   "competente": [
+    "VIII-2.2"
+   ],
+   "tip": "lacunar",
+   "dificultate": 2,
+   "enunt": "Completează.",
+   "date": {
+    "text": "Precipitațiile cresc cu {0}; cea mai uscată regiune e {1}.",
+    "raspunsuri": [
+     "altitudinea",
+     "Dobrogea"
+    ],
+    "distractori": [
+     "latitudinea",
+     "Banatul"
+    ]
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Altitudine, Dobrogea."
+   }
+  },
+  {
+   "id": "VIII13b-15",
+   "nivel": "VIII-S13-elementele-climatice",
+   "competente": [
+    "VIII-2.2"
+   ],
+   "tip": "grafic",
+   "dificultate": 3,
+   "enunt": "Diagrama arată precipitațiile anuale în trei locuri (valori aproximative). Unde plouă cel mai mult?",
+   "date": {
+    "grafic": {
+     "tip": "bare",
+     "titlu": "Precipitații anuale (valori aproximative)",
+     "date": [
+      {
+       "eticheta": "Constanța",
+       "valoare": 400
+      },
+      {
+       "eticheta": "București",
+       "valoare": 600
+      },
+      {
+       "eticheta": "Timișoara",
+       "valoare": 630
+      },
+      {
+       "eticheta": "vârful Omu",
+       "valoare": 1200
+      }
+     ],
+     "unitate": "l/m²",
+     "sursa": "ANM – Clima României"
+    },
+    "variante": [
+     "pe vârful Omu",
+     "la Constanța",
+     "la București",
+     "la Timișoara"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Munții sunt cei mai ploioși."
+   },
+   "surse": [
+    "Administrația Națională de Meteorologie (ANM) – Clima României",
+    "Wikipedia – Climate of Romania"
+   ]
+  },
+  {
+   "id": "VIII13b-16",
+   "nivel": "VIII-S13-elementele-climatice",
+   "competente": [
+    "VIII-2.2",
+    "VIII-2.3"
+   ],
+   "tip": "grafic",
+   "dificultate": 3,
+   "enunt": "Diagrama arată temperatura medie lunară la o stație din Câmpia Română (valori aproximative). Care e amplitudinea anuală?",
+   "date": {
+    "grafic": {
+     "tip": "profil",
+     "titlu": "Temperatura medie lunară, Câmpia Română (aproximativ)",
+     "date": [
+      {
+       "eticheta": "I",
+       "valoare": -2
+      },
+      {
+       "eticheta": "II",
+       "valoare": 0
+      },
+      {
+       "eticheta": "III",
+       "valoare": 5
+      },
+      {
+       "eticheta": "IV",
+       "valoare": 11
+      },
+      {
+       "eticheta": "V",
+       "valoare": 17
+      },
+      {
+       "eticheta": "VI",
+       "valoare": 21
+      },
+      {
+       "eticheta": "VII",
+       "valoare": 23
+      },
+      {
+       "eticheta": "VIII",
+       "valoare": 22
+      },
+      {
+       "eticheta": "IX",
+       "valoare": 17
+      },
+      {
+       "eticheta": "X",
+       "valoare": 11
+      },
+      {
+       "eticheta": "XI",
+       "valoare": 5
+      },
+      {
+       "eticheta": "XII",
+       "valoare": 0
+      }
+     ],
+     "unitate": "°C",
+     "sursa": "ANM – normale climatice"
+    },
+    "variante": [
+     "aproximativ 25 °C",
+     "aproximativ 23 °C",
+     "aproximativ 2 °C",
+     "aproximativ 40 °C"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "23 − (−2) = 25."
+   },
+   "surse": [
+    "Administrația Națională de Meteorologie (ANM) – Clima României",
+    "Wikipedia – Climate of Romania"
+   ]
+  },
+  {
+   "id": "VIII13b-17",
+   "nivel": "VIII-S13-elementele-climatice",
+   "competente": [
+    "VIII-4.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 3,
+   "enunt": "Compară clima litoralului cu cea a Bărăganului.",
+   "date": {
+    "variante": [
+     "litoralul are veri mai răcoroase și ierni mai blânde datorită mării; Bărăganul are extreme mai mari",
+     "Bărăganul e mai blând",
+     "sunt identice",
+     "litoralul are ierni mai geroase"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Influența pontică."
+   }
+  },
+  {
+   "id": "VIII13b-18",
+   "nivel": "VIII-S13-elementele-climatice",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "denumeste",
+   "dificultate": 2,
+   "enunt": "Ce oraș din Bărăgan, foarte afectat de crivăț iarna, e marcat pe hartă?",
+   "date": {
+    "harta": "romania",
+    "punct": {
+     "lat": 44.56,
+     "lon": 27.36
+    },
+    "variante": [
+     "Slobozia",
+     "Pitești",
+     "Sibiu",
+     "Bistrița"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Slobozia e în centrul Bărăganului."
+   }
+  },
+  {
+   "id": "VIII13b-19",
+   "nivel": "VIII-S13-elementele-climatice",
+   "competente": [
+    "VIII-4.4"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce fenomene climatice periculoase apar iarna în Bărăgan?",
+   "date": {
+    "variante": [
+     "viscolul și poleiul",
+     "taifunurile",
+     "tsunami-urile",
+     "musonul"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Crivățul spulberă zăpada."
+   }
+  },
+  {
+   "id": "VIII13b-20",
+   "nivel": "VIII-S13-elementele-climatice",
+   "competente": [
+    "VIII-4.4"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce fenomene climatice periculoase apar vara?",
+   "date": {
+    "variante": [
+     "canicula, seceta, grindina, furtunile",
+     "viscolul",
+     "poleiul",
+     "avalanșele de zăpadă"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "ANM emite avertizări de cod galben, portocaliu, roșu."
+   }
+  },
+  {
+   "id": "VIII13b-21",
+   "nivel": "VIII-S13-elementele-climatice",
+   "competente": [
+    "VIII-3.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce temperatură medie anuală are sudul Câmpiei Române?",
+   "date": {
+    "variante": [
+     "peste 11 °C",
+     "sub 0 °C",
+     "aproximativ 25 °C",
+     "aproximativ −5 °C"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Cea mai caldă zonă, cu litoralul."
+   },
+   "surse": [
+    "Administrația Națională de Meteorologie (ANM) – Clima României",
+    "Wikipedia – Climate of Romania"
+   ]
+  },
+  {
+   "id": "VIII13b-22",
+   "nivel": "VIII-S13-elementele-climatice",
+   "competente": [
+    "VIII-3.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce temperatură medie anuală au vârfurile cele mai înalte?",
+   "date": {
+    "variante": [
+     "sub 0 °C",
+     "peste 11 °C",
+     "aproximativ 20 °C",
+     "exact 10 °C"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Pe Omu, sub 0 °C."
+   },
+   "surse": [
+    "Administrația Națională de Meteorologie (ANM) – Clima României",
+    "Wikipedia – Climate of Romania"
+   ]
+  },
+  {
+   "id": "VIII13b-23",
+   "nivel": "VIII-S13-elementele-climatice",
+   "competente": [
+    "VIII-1.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce este canicula?",
+   "date": {
+    "variante": [
+     "o perioadă cu temperaturi foarte ridicate",
+     "o perioadă cu ger",
+     "o ploaie torențială",
+     "o ceață"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Peste 35 °C, de obicei."
+   }
+  },
+  {
+   "id": "VIII13b-24",
+   "nivel": "VIII-S13-elementele-climatice",
+   "competente": [
+    "VIII-1.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce sunt precipitațiile?",
+   "date": {
+    "variante": [
+     "apa care cade din nori: ploaie, ninsoare, grindină, lapoviță",
+     "vântul",
+     "temperatura",
+     "presiunea"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Se măsoară cu pluviometrul."
+   }
+  },
+  {
+   "id": "VIII13b-25",
+   "nivel": "VIII-S13-elementele-climatice",
+   "competente": [
+    "VIII-4.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 3,
+   "enunt": "Vrei să compari clima orașului tău cu a altui oraș. Ce date îți trebuie?",
+   "date": {
+    "variante": [
+     "temperaturile și precipitațiile medii lunare pe 30 de ani",
+     "prognoza pe mâine",
+     "o poză",
+     "numărul de locuitori"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Normalele climatice."
+   }
+  },
+  {
+   "id": "VIII13b-26",
+   "nivel": "VIII-S13-elementele-climatice",
+   "competente": [
+    "VIII-3.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce zonă a României are cele mai multe zile cu soare?",
+   "date": {
+    "variante": [
+     "litoralul și Delta Dunării",
+     "Maramureșul",
+     "Munții Rodnei",
+     "Bucovina"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Peste 2 300 de ore de soare pe an."
+   }
+  },
+  {
+   "id": "VIII13b-27",
+   "nivel": "VIII-S13-elementele-climatice",
+   "competente": [
+    "VIII-2.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "De ce iarna, în Moldova, ninsoarea poate fi viscolită puternic?",
+   "date": {
+    "variante": [
+     "crivățul bate tare și spulberă zăpada",
+     "bate foehnul cald",
+     "vine aer tropical",
+     "nu ninge niciodată"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Viscolul blochează drumurile."
+   }
+  },
+  {
+   "id": "VIII13b-28",
+   "nivel": "VIII-S13-elementele-climatice",
+   "competente": [
+    "VIII-4.4"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Cum te protejezi pe caniculă?",
+   "date": {
+    "variante": [
+     "stai la umbră între 11 și 17, bei apă, porți haine deschise la culoare",
+     "alergi la prânz",
+     "stai în mașina închisă",
+     "nu bei apă"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Regulile de siguranță."
+   }
+  },
+  {
+   "id": "VIII13b-29",
+   "nivel": "VIII-S13-elementele-climatice",
+   "competente": [
+    "VIII-1.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce aparat folosesc meteorologii pentru a măsura viteza vântului?",
+   "date": {
+    "variante": [
+     "anemometrul",
+     "higrometrul",
+     "barometrul",
+     "pluviometrul"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Viteza se exprimă în m/s sau km/h."
+   }
+  },
+  {
+   "id": "VIII13b-30",
+   "nivel": "VIII-S13-elementele-climatice",
+   "competente": [
+    "VIII-1.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce instrument măsoară cantitatea de precipitații?",
+   "date": {
+    "variante": [
+     "pluviometrul",
+     "anemometrul",
+     "termometrul",
+     "barometrul"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Se exprimă în l/m² sau mm."
+   }
+  },
+  {
+   "id": "VIII16a-01",
+   "nivel": "VIII-S16-particularitatile-climatice-regionale-etaje",
+   "competente": [
+    "VIII-3.2"
+   ],
+   "tip": "asociaza",
+   "dificultate": 1,
+   "enunt": "Asociază influența climatică cu regiunea.",
+   "date": {
+    "perechi": [
+     [
+      "oceanică",
+      "vestul țării"
+     ],
+     [
+      "submediteraneeană",
+      "Banat și sud-vestul Olteniei"
+     ],
+     [
+      "continentală",
+      "Moldova și Bărăgan"
+     ],
+     [
+      "pontică",
+      "Dobrogea"
+     ]
+    ]
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Influențe regionale."
+   }
+  },
+  {
+   "id": "VIII16a-02",
+   "nivel": "VIII-S16-particularitatile-climatice-regionale-etaje",
+   "competente": [
+    "VIII-3.2"
+   ],
+   "tip": "asociaza",
+   "dificultate": 1,
+   "enunt": "Asociază etajul climatic cu caracteristica lui.",
+   "date": {
+    "perechi": [
+     [
+      "de câmpie",
+      "veri calde, precipitații puține"
+     ],
+     [
+      "de dealuri și podișuri",
+      "8–10 °C, 600–800 l/m²"
+     ],
+     [
+      "de munte",
+      "rece, cu precipitații multe"
+     ],
+     [
+      "alpin",
+      "climă foarte aspră pe vârfuri"
+     ]
+    ]
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Etajele climatice."
+   }
+  },
+  {
+   "id": "VIII16a-03",
+   "nivel": "VIII-S16-particularitatile-climatice-regionale-etaje",
+   "competente": [
+    "VIII-3.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 1,
+   "enunt": "Ce influență climatică are nordul țării (Maramureș, Bucovina)?",
+   "date": {
+    "variante": [
+     "baltică, cu răcoare și umezeală",
+     "mediteraneeană",
+     "pontică",
+     "tropicală"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Masele de aer din nord."
+   }
+  },
+  {
+   "id": "VIII16a-04",
+   "nivel": "VIII-S16-particularitatile-climatice-regionale-etaje",
+   "competente": [
+    "VIII-3.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce plante iubitoare de căldură cresc în Banat?",
+   "date": {
+    "variante": [
+     "castanul comestibil, liliacul sălbatic",
+     "jneapănul",
+     "lichenii de tundră",
+     "molidul"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Influențe submediteraneene."
+   }
+  },
+  {
+   "id": "VIII16a-05",
+   "nivel": "VIII-S16-particularitatile-climatice-regionale-etaje",
+   "competente": [
+    "VIII-3.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce influență climatică are orașul Râmnicu Sărat?",
+   "date": {
+    "variante": [
+     "continentală, cu ierni geroase și veri calde",
+     "oceanică",
+     "submediteraneeană",
+     "baltică"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "La contactul Subcarpați–câmpie, în est."
+   }
+  },
+  {
+   "id": "VIII16a-06",
+   "nivel": "VIII-S16-particularitatile-climatice-regionale-etaje",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "pin",
+   "dificultate": 2,
+   "enunt": "Atinge pe harta României Bucovina, cu influențe baltice.",
+   "date": {
+    "harta": "romania",
+    "tinta": {
+     "lat": 47.6,
+     "lon": 25.8,
+     "nume": "Bucovina"
+    },
+    "toleranta": 60
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Bucovina e în nordul Moldovei."
+   }
+  },
+  {
+   "id": "VIII16a-07",
+   "nivel": "VIII-S16-particularitatile-climatice-regionale-etaje",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "pin",
+   "dificultate": 2,
+   "enunt": "Atinge pe harta României Dobrogea, cu influențe pontice.",
+   "date": {
+    "harta": "romania",
+    "tinta": {
+     "lat": 44.5,
+     "lon": 28.4,
+     "nume": "Dobrogea"
+    },
+    "toleranta": 70
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Între Dunăre și Marea Neagră."
+   }
+  },
+  {
+   "id": "VIII16a-08",
+   "nivel": "VIII-S16-particularitatile-climatice-regionale-etaje",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "pin",
+   "dificultate": 3,
+   "enunt": "Atinge pe harta României orașul Râmnicu Sărat.",
+   "date": {
+    "harta": "romania",
+    "tinta": {
+     "lat": 45.38,
+     "lon": 27.05,
+     "nume": "Râmnicu Sărat"
+    },
+    "toleranta": 35
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Nord-estul județului Buzău."
+   }
+  },
+  {
+   "id": "VIII16a-09",
+   "nivel": "VIII-S16-particularitatile-climatice-regionale-etaje",
+   "competente": [
+    "VIII-3.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Adevărat sau fals? În Banat influențele climatice sunt baltice.",
+   "date": {
+    "variante": [
+     "Fals",
+     "Adevărat"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Fals: sunt submediteraneene."
+   }
+  },
+  {
+   "id": "VIII16a-10",
+   "nivel": "VIII-S16-particularitatile-climatice-regionale-etaje",
+   "competente": [
+    "VIII-3.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Adevărat sau fals? În Bărăgan, iernile sunt geroase, iar verile secetoase.",
+   "date": {
+    "variante": [
+     "Adevărat",
+     "Fals"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Adevărat: influențe continentale."
+   }
+  },
+  {
+   "id": "VIII16a-11",
+   "nivel": "VIII-S16-particularitatile-climatice-regionale-etaje",
+   "competente": [
+    "VIII-3.2"
+   ],
+   "tip": "lacunar",
+   "dificultate": 2,
+   "enunt": "Completează.",
+   "date": {
+    "text": "În Dobrogea, influențele sunt {0}; în Banat, sunt {1}.",
+    "raspunsuri": [
+     "pontice",
+     "submediteraneene"
+    ],
+    "distractori": [
+     "baltice",
+     "oceanice"
+    ]
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Influențe regionale."
+   }
+  },
+  {
+   "id": "VIII16a-12",
+   "nivel": "VIII-S16-particularitatile-climatice-regionale-etaje",
+   "competente": [
+    "VIII-2.2"
+   ],
+   "tip": "lacunar",
+   "dificultate": 2,
+   "enunt": "Completează.",
+   "date": {
+    "text": "Pe munte precipitațiile sunt {0}, iar temperatura este {1} decât la câmpie.",
+    "raspunsuri": [
+     "mai multe",
+     "mai scăzută"
+    ],
+    "distractori": [
+     "mai puține",
+     "mai ridicată"
+    ]
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Etajarea."
+   }
+  },
+  {
+   "id": "VIII16a-13",
+   "nivel": "VIII-S16-particularitatile-climatice-regionale-etaje",
+   "competente": [
+    "VIII-2.2"
+   ],
+   "tip": "grafic",
+   "dificultate": 3,
+   "enunt": "Graficul compară temperatura medie a lunii ianuarie în trei orașe (valori aproximative). Unde e cel mai blând?",
+   "date": {
+    "grafic": {
+     "tip": "bare",
+     "titlu": "Temperatura medie în ianuarie (aproximativ)",
+     "date": [
+      {
+       "eticheta": "Timișoara",
+       "valoare": -1
+      },
+      {
+       "eticheta": "Constanța",
+       "valoare": 1
+      },
+      {
+       "eticheta": "Iași",
+       "valoare": -3
+      },
+      {
+       "eticheta": "Brașov",
+       "valoare": -4
+      }
+     ],
+     "unitate": "°C",
+     "sursa": "ANM – normale climatice"
+    },
+    "variante": [
+     "la Constanța",
+     "la Iași",
+     "la Brașov",
+     "la Timișoara"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Marea îndulcește iarna pe litoral."
+   },
+   "surse": [
+    "Administrația Națională de Meteorologie (ANM) – Clima României",
+    "Wikipedia – Climate of Romania"
+   ]
+  },
+  {
+   "id": "VIII16a-14",
+   "nivel": "VIII-S16-particularitatile-climatice-regionale-etaje",
+   "competente": [
+    "VIII-2.2"
+   ],
+   "tip": "ordoneaza",
+   "dificultate": 3,
+   "enunt": "Ordonează orașele de la cel mai umed la cel mai uscat (precipitații anuale).",
+   "date": {
+    "elemente": [
+     "Cluj-Napoca",
+     "Timișoara",
+     "București",
+     "Constanța"
+    ],
+    "criteriu": "De la umed la uscat"
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Precipitațiile scad spre est și spre mare."
+   }
+  },
+  {
+   "id": "VIII16a-15",
+   "nivel": "VIII-S16-particularitatile-climatice-regionale-etaje",
+   "competente": [
+    "VIII-4.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 3,
+   "enunt": "Compară climatul Maramureșului cu cel al Dobrogei.",
+   "date": {
+    "variante": [
+     "Maramureșul e mai rece și mai umed; Dobrogea e mai caldă și mai uscată",
+     "sunt identice",
+     "Dobrogea e mai rece",
+     "Maramureșul e mai uscat"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Nord-vest față de sud-est."
+   }
+  },
+  {
+   "id": "VIII16a-16",
+   "nivel": "VIII-S16-particularitatile-climatice-regionale-etaje",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "denumeste",
+   "dificultate": 2,
+   "enunt": "Ce regiune cu influențe submediteraneene e marcată pe hartă?",
+   "date": {
+    "harta": "romania",
+    "punct": {
+     "lat": 45.3,
+     "lon": 21.8
+    },
+    "variante": [
+     "Banatul",
+     "Bucovina",
+     "Dobrogea",
+     "Maramureșul"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Banatul e în sud-vest."
+   }
+  },
+  {
+   "id": "VIII16a-17",
+   "nivel": "VIII-S16-particularitatile-climatice-regionale-etaje",
+   "competente": [
+    "VIII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Cum influențează clima agricultura din Banat?",
+   "date": {
+    "variante": [
+     "căldura și ploile permit culturi variate, inclusiv legume și pomi timpurii",
+     "e prea frig pentru orice",
+     "e deșert",
+     "nu o influențează"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Câmpia Banatului e fertilă."
+   }
+  },
+  {
+   "id": "VIII16a-18",
+   "nivel": "VIII-S16-particularitatile-climatice-regionale-etaje",
+   "competente": [
+    "VIII-3.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "De ce în Transilvania influențele oceanice sunt mai puternice decât în Moldova?",
+   "date": {
+    "variante": [
+     "Transilvania e mai la vest și e deschisă spre vest prin Munții Apuseni fragmentați",
+     "pentru că e la mare",
+     "pentru că e mai la est",
+     "fără motiv"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Aerul oceanic pătrunde mai ușor."
+   }
+  },
+  {
+   "id": "VIII16a-19",
+   "nivel": "VIII-S16-particularitatile-climatice-regionale-etaje",
+   "competente": [
+    "VIII-3.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce fenomen apare în depresiunile montane în nopțile senine de iarnă?",
+   "date": {
+    "variante": [
+     "inversiunea termică (aer mai rece jos, mai cald pe versanți)",
+     "foehnul de vară",
+     "briza marină",
+     "musonul"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Ceață și ger în depresiuni."
+   }
+  },
+  {
+   "id": "VIII16a-20",
+   "nivel": "VIII-S16-particularitatile-climatice-regionale-etaje",
+   "competente": [
+    "VIII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "De ce stațiunile montane (Sinaia, Predeal) sunt căutate vara?",
+   "date": {
+    "variante": [
+     "pentru că acolo e mai răcoare decât la câmpie",
+     "pentru că e mai cald",
+     "pentru că e la mare",
+     "pentru că nu plouă niciodată"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Climatul montan."
+   }
+  },
+  {
+   "id": "VIII16a-21",
+   "nivel": "VIII-S16-particularitatile-climatice-regionale-etaje",
+   "competente": [
+    "VIII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "De ce litoralul e bun pentru turismul de vară?",
+   "date": {
+    "variante": [
+     "multe zile cu soare, ploi puține, apă caldă",
+     "ninge vara",
+     "e foarte ploios",
+     "e frig"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Turism balnear și de plajă."
+   }
+  },
+  {
+   "id": "VIII16a-22",
+   "nivel": "VIII-S16-particularitatile-climatice-regionale-etaje",
+   "competente": [
+    "VIII-1.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 3,
+   "enunt": "Ce înseamnă climat de tranziție?",
+   "date": {
+    "variante": [
+     "un climat între cel oceanic din vest și cel continental din est",
+     "un climat care se schimbă zilnic",
+     "un climat polar",
+     "un climat ecuatorial"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Specific României."
+   }
+  },
+  {
+   "id": "VIII16a-23",
+   "nivel": "VIII-S16-particularitatile-climatice-regionale-etaje",
+   "competente": [
+    "VIII-4.4"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce fenomen climatic periculos e frecvent în zona Buzău–Vrancea vara?",
+   "date": {
+    "variante": [
+     "ploile torențiale, cu viituri și alunecări de teren",
+     "avalanșele de nisip",
+     "taifunurile",
+     "tsunami-urile"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Relieful subcarpatic accentuează efectele."
+   }
+  },
+  {
+   "id": "VIII16a-24",
+   "nivel": "VIII-S16-particularitatile-climatice-regionale-etaje",
+   "competente": [
+    "VIII-3.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce etaj climatic are Delta Dunării?",
+   "date": {
+    "variante": [
+     "de câmpie, cu influențe pontice",
+     "alpin",
+     "de munte",
+     "subpolar"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Puține precipitații, multe zile cu soare."
+   }
+  },
+  {
+   "id": "VIII16a-25",
+   "nivel": "VIII-S16-particularitatile-climatice-regionale-etaje",
+   "competente": [
+    "VIII-2.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce culoare au pe harta precipitațiilor zonele foarte ploioase?",
+   "date": {
+    "variante": [
+     "albastru închis",
+     "galben",
+     "roșu",
+     "alb"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Cu cât e mai închis albastrul, cu atât plouă mai mult."
+   }
+  },
+  {
+   "id": "VIII16a-26",
+   "nivel": "VIII-S16-particularitatile-climatice-regionale-etaje",
+   "competente": [
+    "VIII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce culturi sunt avantajate de clima caldă a Dobrogei?",
+   "date": {
+    "variante": [
+     "vița-de-vie și cerealele, cu irigații",
+     "molidul",
+     "orezul de munte",
+     "cartoful de munte"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Murfatlar, Ostrov."
+   }
+  },
+  {
+   "id": "VIII16a-27",
+   "nivel": "VIII-S16-particularitatile-climatice-regionale-etaje",
+   "competente": [
+    "VIII-3.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce climat are Câmpia de Vest?",
+   "date": {
+    "variante": [
+     "de câmpie, cu influențe oceanice",
+     "alpin",
+     "pontic",
+     "baltic excesiv"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Mai umed decât Bărăganul."
+   }
+  },
+  {
+   "id": "VIII16a-28",
+   "nivel": "VIII-S16-particularitatile-climatice-regionale-etaje",
+   "competente": [
+    "VIII-4.4"
+   ],
+   "tip": "alegere",
+   "dificultate": 3,
+   "enunt": "Cum se adaptează agricultura la secetele tot mai dese din sud-est?",
+   "date": {
+    "variante": [
+     "irigații, soiuri rezistente la secetă, perdele forestiere",
+     "tăierea perdelelor forestiere",
+     "mai multe culturi care cer multă apă",
+     "nimic"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Adaptare la schimbările climatice."
+   }
+  },
+  {
+   "id": "VIII16a-29",
+   "nivel": "VIII-S16-particularitatile-climatice-regionale-etaje",
+   "competente": [
+    "VIII-1.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce înseamnă „influențe” climatice?",
+   "date": {
+    "variante": [
+     "efectele maselor de aer venite din anumite direcții asupra climei unei regiuni",
+     "ploi zilnice",
+     "zăpezi permanente",
+     "vânturi tropicale"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Influențe oceanice, continentale, mediteraneene etc."
+   }
+  },
+  {
+   "id": "VIII16a-30",
+   "nivel": "VIII-S16-particularitatile-climatice-regionale-etaje",
+   "competente": [
+    "VIII-3.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "De ce în Bucovina e mai răcoare decât în Câmpia Română?",
+   "date": {
+    "variante": [
+     "e mai la nord și mai înaltă, cu influențe baltice",
+     "e lângă Marea Neagră",
+     "are influențe mediteraneene",
+     "e mai la sud"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Latitudine și altitudine."
+   }
+  },
+  {
+   "id": "VIII16b-01",
+   "nivel": "VIII-S16-apele-dunarea",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 1,
+   "enunt": "Pe unde intră Dunărea în România?",
+   "date": {
+    "variante": [
+     "la Baziaș",
+     "la Sulina",
+     "la Galați",
+     "la Călărași"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Baziaș e în județul Caraș-Severin."
+   }
+  },
+  {
+   "id": "VIII16b-02",
+   "nivel": "VIII-S16-apele-dunarea",
+   "competente": [
+    "VIII-3.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Câți kilometri are Dunărea pe teritoriul sau la granița României?",
+   "date": {
+    "variante": [
+     "aproximativ 1 075 km",
+     "aproximativ 107 km",
+     "aproximativ 2 857 km",
+     "aproximativ 10 000 km"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Cea mai lungă porțiune dintre toate țările."
+   },
+   "surse": [
+    "ICPDR – Danube Basin facts",
+    "Administrația Fluvială a Dunării de Jos – Dunărea pe teritoriul României"
+   ]
+  },
+  {
+   "id": "VIII16b-03",
+   "nivel": "VIII-S16-apele-dunarea",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "ordoneaza",
+   "dificultate": 2,
+   "enunt": "Ordonează sectoarele Dunării în sensul curgerii.",
+   "date": {
+    "elemente": [
+     "Defileul Dunării",
+     "sectorul de luncă",
+     "sectorul bălților",
+     "Dunărea maritimă",
+     "Delta Dunării"
+    ],
+    "criteriu": "Sensul curgerii"
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "De la Baziaș spre mare."
+   }
+  },
+  {
+   "id": "VIII16b-04",
+   "nivel": "VIII-S16-apele-dunarea",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce sunt Cazanele Dunării?",
+   "date": {
+    "variante": [
+     "porțiunea cea mai îngustă și adâncă a Defileului Dunării",
+     "un lac din Deltă",
+     "o insulă",
+     "un baraj"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Între Munții Almăj și Munții Miroč (Serbia)."
+   }
+  },
+  {
+   "id": "VIII16b-05",
+   "nivel": "VIII-S16-apele-dunarea",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce bălți mari se află pe Dunăre, între Călărași și Brăila?",
+   "date": {
+    "variante": [
+     "Balta Ialomiței și Balta Brăilei",
+     "Lacul Razim și Sinoe",
+     "Lacul Bucura",
+     "Lacul Snagov"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Insula Mare a Brăilei a fost îndiguită."
+   }
+  },
+  {
+   "id": "VIII16b-06",
+   "nivel": "VIII-S16-apele-dunarea",
+   "competente": [
+    "VIII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce hidrocentrale mari sunt pe Dunăre?",
+   "date": {
+    "variante": [
+     "Porțile de Fier I și II",
+     "Vidraru și Lotru",
+     "Bicaz și Stejaru",
+     "Mărișelu și Tarnița"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Construite împreună cu Serbia."
+   },
+   "surse": [
+    "Hidroelectrica – Porțile de Fier I (hidroelectrica.ro)",
+    "Encyclopaedia Britannica – Iron Gate"
+   ]
+  },
+  {
+   "id": "VIII16b-07",
+   "nivel": "VIII-S16-apele-dunarea",
+   "competente": [
+    "VIII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "În ce an a fost terminată hidrocentrala Porțile de Fier I?",
+   "date": {
+    "variante": [
+     "1972",
+     "1918",
+     "1990",
+     "2007"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Cea mai mare hidrocentrală a României."
+   },
+   "surse": [
+    "Hidroelectrica – Porțile de Fier I (hidroelectrica.ro)",
+    "Encyclopaedia Britannica – Iron Gate"
+   ]
+  },
+  {
+   "id": "VIII16b-08",
+   "nivel": "VIII-S16-apele-dunarea",
+   "competente": [
+    "VIII-3.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce debit mediu are Dunărea la vărsare?",
+   "date": {
+    "variante": [
+     "aproximativ 6 500 m³/s",
+     "aproximativ 65 m³/s",
+     "aproximativ 650 000 m³/s",
+     "aproximativ 6 m³/s"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Cel mai mare din țară."
+   },
+   "surse": [
+    "ICPDR – Danube Basin facts",
+    "Administrația Fluvială a Dunării de Jos – Dunărea pe teritoriul României"
+   ]
+  },
+  {
+   "id": "VIII16b-09",
+   "nivel": "VIII-S16-apele-dunarea",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Unde se desparte Dunărea în brațele Chilia și Tulcea?",
+   "date": {
+    "variante": [
+     "la Ceatal Chilia (Ceatal Izmail)",
+     "la Baziaș",
+     "la Călărași",
+     "la Galați"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Apoi brațul Tulcea se împarte în Sulina și Sfântu Gheorghe."
+   }
+  },
+  {
+   "id": "VIII16b-10",
+   "nivel": "VIII-S16-apele-dunarea",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "pin",
+   "dificultate": 2,
+   "enunt": "Atinge pe harta României Baziaș, unde Dunărea intră în țară.",
+   "date": {
+    "harta": "romania",
+    "tinta": {
+     "lat": 44.82,
+     "lon": 21.38,
+     "nume": "Baziaș"
+    },
+    "toleranta": 40
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "În județul Caraș-Severin."
+   }
+  },
+  {
+   "id": "VIII16b-11",
+   "nivel": "VIII-S16-apele-dunarea",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "pin",
+   "dificultate": 2,
+   "enunt": "Atinge pe harta României Cazanele Dunării.",
+   "date": {
+    "harta": "romania",
+    "tinta": {
+     "lat": 44.63,
+     "lon": 22.3,
+     "nume": "Cazanele Dunării"
+    },
+    "toleranta": 35
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "În Defileul Dunării."
+   }
+  },
+  {
+   "id": "VIII16b-12",
+   "nivel": "VIII-S16-apele-dunarea",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "pin",
+   "dificultate": 3,
+   "enunt": "Atinge pe harta României Balta Brăilei.",
+   "date": {
+    "harta": "romania",
+    "tinta": {
+     "lat": 45.0,
+     "lon": 27.9,
+     "nume": "Balta Brăilei"
+    },
+    "toleranta": 40
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Între Brațul Măcin și Dunăre."
+   }
+  },
+  {
+   "id": "VIII16b-13",
+   "nivel": "VIII-S16-apele-dunarea",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "pin",
+   "dificultate": 3,
+   "enunt": "Atinge pe harta României Galați, cel mai mare port dunărean.",
+   "date": {
+    "harta": "romania",
+    "tinta": {
+     "lat": 45.44,
+     "lon": 28.05,
+     "nume": "Galați"
+    },
+    "toleranta": 30
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Pe Dunărea maritimă."
+   }
+  },
+  {
+   "id": "VIII16b-14",
+   "nivel": "VIII-S16-apele-dunarea",
+   "competente": [
+    "VIII-3.3"
+   ],
+   "tip": "asociaza",
+   "dificultate": 2,
+   "enunt": "Asociază orașul-port de pe Dunăre cu sectorul.",
+   "date": {
+    "perechi": [
+     [
+      "Drobeta-Turnu Severin",
+      "la ieșirea din defileu"
+     ],
+     [
+      "Giurgiu",
+      "sectorul de luncă"
+     ],
+     [
+      "Brăila",
+      "Dunărea maritimă, începutul ei"
+     ],
+     [
+      "Tulcea",
+      "la intrarea în Deltă"
+     ]
+    ]
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Porturi dunărene."
+   }
+  },
+  {
+   "id": "VIII16b-15",
+   "nivel": "VIII-S16-apele-dunarea",
+   "competente": [
+    "VIII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Adevărat sau fals? Dunărea e o cale de navigație internațională.",
+   "date": {
+    "variante": [
+     "Adevărat",
+     "Fals"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Adevărat: leagă Marea Nordului de Marea Neagră prin canalul Rin–Main–Dunăre."
+   }
+  },
+  {
+   "id": "VIII16b-16",
+   "nivel": "VIII-S16-apele-dunarea",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Adevărat sau fals? Dunărea iese din România prin Defileul Dunării.",
+   "date": {
+    "variante": [
+     "Fals",
+     "Adevărat"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Fals: intră prin defileu și se varsă prin Deltă."
+   }
+  },
+  {
+   "id": "VIII16b-17",
+   "nivel": "VIII-S16-apele-dunarea",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "lacunar",
+   "dificultate": 2,
+   "enunt": "Completează.",
+   "date": {
+    "text": "Dunărea intră în România la {0} și se varsă prin {1}.",
+    "raspunsuri": [
+     "Baziaș",
+     "Delta Dunării"
+    ],
+    "distractori": [
+     "Sulina",
+     "Porțile de Fier"
+    ]
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Intrare și vărsare."
+   }
+  },
+  {
+   "id": "VIII16b-18",
+   "nivel": "VIII-S16-apele-dunarea",
+   "competente": [
+    "VIII-3.3"
+   ],
+   "tip": "lacunar",
+   "dificultate": 2,
+   "enunt": "Completează.",
+   "date": {
+    "text": "Cea mai mare hidrocentrală a României e {0}; canalul Dunăre–Marea Neagră duce spre portul {1}.",
+    "raspunsuri": [
+     "Porțile de Fier I",
+     "Constanța"
+    ],
+    "distractori": [
+     "Vidraru",
+     "Galați"
+    ]
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Energie și navigație."
+   },
+   "surse": [
+    "Hidroelectrica – Porțile de Fier I (hidroelectrica.ro)",
+    "Encyclopaedia Britannica – Iron Gate"
+   ]
+  },
+  {
+   "id": "VIII16b-19",
+   "nivel": "VIII-S16-apele-dunarea",
+   "competente": [
+    "VIII-2.3"
+   ],
+   "tip": "grafic",
+   "dificultate": 3,
+   "enunt": "Graficul arată debitul mediu al Dunării în câteva puncte (m³/s, valori aproximative). Ce observi?",
+   "date": {
+    "grafic": {
+     "tip": "profil",
+     "titlu": "Debitul mediu al Dunării (aproximativ)",
+     "date": [
+      {
+       "eticheta": "Viena",
+       "valoare": 1900
+      },
+      {
+       "eticheta": "Budapesta",
+       "valoare": 2350
+      },
+      {
+       "eticheta": "Baziaș",
+       "valoare": 5500
+      },
+      {
+       "eticheta": "vărsare",
+       "valoare": 6500
+      }
+     ],
+     "unitate": "m³/s",
+     "sursa": "ICPDR"
+    },
+    "variante": [
+     "debitul crește spre vărsare, pe măsură ce primește afluenți",
+     "debitul scade spre vărsare",
+     "debitul e constant",
+     "debitul e cel mai mare la Viena"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Afluenții măresc debitul."
+   },
+   "surse": [
+    "ICPDR – Danube Basin facts",
+    "Administrația Fluvială a Dunării de Jos – Dunărea pe teritoriul României"
+   ]
+  },
+  {
+   "id": "VIII16b-20",
+   "nivel": "VIII-S16-apele-dunarea",
+   "competente": [
+    "VIII-4.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 3,
+   "enunt": "Compară sectorul de defileu cu sectorul bălților.",
+   "date": {
+    "variante": [
+     "în defileu albia e îngustă și adâncă între munți; în sectorul bălților Dunărea se desparte în brațe, cu lunci largi",
+     "sunt identice",
+     "defileul e mai lat",
+     "bălțile sunt la munte"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Relieful decide forma văii."
+   }
+  },
+  {
+   "id": "VIII16b-21",
+   "nivel": "VIII-S16-apele-dunarea",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "denumeste",
+   "dificultate": 2,
+   "enunt": "Ce oraș-port de pe Dunăre, la granița cu Bulgaria, e marcat pe hartă?",
+   "date": {
+    "harta": "romania",
+    "punct": {
+     "lat": 43.9,
+     "lon": 25.97
+    },
+    "variante": [
+     "Giurgiu",
+     "Călărași",
+     "Turnu Măgurele",
+     "Calafat"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Podul Prieteniei leagă Giurgiu de Ruse."
+   }
+  },
+  {
+   "id": "VIII16b-22",
+   "nivel": "VIII-S16-apele-dunarea",
+   "competente": [
+    "VIII-3.4"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce sculptură uriașă se află în stâncă, în Cazanele Dunării?",
+   "date": {
+    "variante": [
+     "chipul lui Decebal",
+     "chipul lui Ștefan cel Mare",
+     "Sfinxul",
+     "Babele"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Aproximativ 40 m înălțime."
+   }
+  },
+  {
+   "id": "VIII16b-23",
+   "nivel": "VIII-S16-apele-dunarea",
+   "competente": [
+    "VIII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce poduri leagă România de Bulgaria peste Dunăre?",
+   "date": {
+    "variante": [
+     "Giurgiu–Ruse și Calafat–Vidin",
+     "Brăila–Galați",
+     "Cernavodă–Fetești",
+     "Tulcea–Sulina"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Podul Calafat–Vidin a fost deschis în 2013."
+   }
+  },
+  {
+   "id": "VIII16b-24",
+   "nivel": "VIII-S16-apele-dunarea",
+   "competente": [
+    "VIII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce pod mare peste Dunăre a fost deschis în 2023, lângă Brăila?",
+   "date": {
+    "variante": [
+     "podul suspendat de la Brăila",
+     "Podul Prieteniei",
+     "Podul Anghel Saligny",
+     "Podul Calafat–Vidin"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Al treilea cel mai lung pod suspendat din Europa."
+   },
+   "surse": [
+    "Compania Națională de Investiții Rutiere – Podul suspendat peste Dunăre (Brăila)",
+    "Wikipedia (ro) – Podul suspendat de la Brăila"
+   ]
+  },
+  {
+   "id": "VIII16b-25",
+   "nivel": "VIII-S16-apele-dunarea",
+   "competente": [
+    "VIII-3.4"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce pod istoric peste Dunăre, construit de Anghel Saligny, e la Cernavodă?",
+   "date": {
+    "variante": [
+     "Podul Regele Carol I (Anghel Saligny)",
+     "Podul Brăila",
+     "Podul Prieteniei",
+     "Podul Calafat"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Inaugurat în 1895."
+   }
+  },
+  {
+   "id": "VIII16b-26",
+   "nivel": "VIII-S16-apele-dunarea",
+   "competente": [
+    "VIII-4.4"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "De ce sunt importante digurile de pe Dunăre?",
+   "date": {
+    "variante": [
+     "protejează localitățile și terenurile agricole de inundații",
+     "opresc navigația",
+     "produc energie",
+     "aduc pește"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Dar au redus luncile naturale."
+   }
+  },
+  {
+   "id": "VIII16b-27",
+   "nivel": "VIII-S16-apele-dunarea",
+   "competente": [
+    "VIII-4.4"
+   ],
+   "tip": "alegere",
+   "dificultate": 3,
+   "enunt": "Ce efect au avut îndiguirile din sectorul bălților?",
+   "date": {
+    "variante": [
+     "au crescut terenurile agricole, dar s-au pierdut zone umede și a crescut riscul la viituri mari",
+     "doar efecte pozitive",
+     "au creat munți",
+     "nu au avut efecte"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Se discută refacerea unor zone umede."
+   }
+  },
+  {
+   "id": "VIII16b-28",
+   "nivel": "VIII-S16-apele-dunarea",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce afluenți mari primește Dunărea pe stânga, în România?",
+   "date": {
+    "variante": [
+     "Jiul, Oltul, Argeșul, Ialomița, Siretul, Prutul",
+     "Mureșul și Someșul",
+     "Tisa și Crișurile direct",
+     "Bega și Timișul direct"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Mureșul ajunge în Tisa, apoi în Dunăre, în Serbia."
+   }
+  },
+  {
+   "id": "VIII16b-29",
+   "nivel": "VIII-S16-apele-dunarea",
+   "competente": [
+    "VIII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce animal mare, pe cale de dispariție, migrează din Marea Neagră pe Dunăre ca să depună icre?",
+   "date": {
+    "variante": [
+     "sturionul",
+     "delfinul",
+     "rechinul",
+     "foca"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Pescuitul sturionilor e interzis."
+   }
+  },
+  {
+   "id": "VIII16b-30",
+   "nivel": "VIII-S16-apele-dunarea",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce oraș, cu un port mare, e la ieșirea Dunării din defileu?",
+   "date": {
+    "variante": [
+     "Drobeta-Turnu Severin",
+     "Giurgiu",
+     "Galați",
+     "Tulcea"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Aici se văd ruinele podului lui Apolodor din Damasc."
+   }
+  },
+  {
+   "id": "VIII17-01",
+   "nivel": "VIII-S17-raurile-interioare",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 1,
+   "enunt": "De unde izvorăsc cele mai multe râuri ale României?",
+   "date": {
+    "variante": [
+     "din Carpați",
+     "din Delta Dunării",
+     "din Marea Neagră",
+     "din Bărăgan"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Rețeaua e radiară."
+   }
+  },
+  {
+   "id": "VIII17-02",
+   "nivel": "VIII-S17-raurile-interioare",
+   "competente": [
+    "VIII-1.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce înseamnă rețea hidrografică radiară?",
+   "date": {
+    "variante": [
+     "râurile pornesc din centru (Carpați) și curg în toate direcțiile",
+     "râurile curg toate spre nord",
+     "râurile sunt paralele",
+     "râurile curg în cerc"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Ca spițele unei roți."
+   }
+  },
+  {
+   "id": "VIII17-03",
+   "nivel": "VIII-S17-raurile-interioare",
+   "competente": [
+    "VIII-3.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Care e cel mai lung râu interior al României?",
+   "date": {
+    "variante": [
+     "Mureșul",
+     "Oltul",
+     "Siretul",
+     "Jiul"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Aproximativ 760 km în România."
+   },
+   "surse": [
+    "INS – Anuarul Statistic al României: principalele râuri (lungime pe teritoriul României)",
+    "Administrația Națională „Apele Române” – bazine hidrografice"
+   ]
+  },
+  {
+   "id": "VIII17-04",
+   "nivel": "VIII-S17-raurile-interioare",
+   "competente": [
+    "VIII-3.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Care e cel mai lung râu care curge în întregime prin România?",
+   "date": {
+    "variante": [
+     "Oltul (615 km)",
+     "Mureșul",
+     "Prutul",
+     "Someșul"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Mureșul iese în Ungaria."
+   },
+   "surse": [
+    "INS – Anuarul Statistic al României: principalele râuri (lungime pe teritoriul României)",
+    "Administrația Națională „Apele Române” – bazine hidrografice"
+   ]
+  },
+  {
+   "id": "VIII17-05",
+   "nivel": "VIII-S17-raurile-interioare",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "În ce râu se varsă râul Buzău?",
+   "date": {
+    "variante": [
+     "Siret",
+     "Ialomița",
+     "Argeș",
+     "direct în Dunăre"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "La fel și Râmnicu Sărat."
+   }
+  },
+  {
+   "id": "VIII17-06",
+   "nivel": "VIII-S17-raurile-interioare",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "asociaza",
+   "dificultate": 2,
+   "enunt": "Asociază râul cu grupa lui.",
+   "date": {
+    "perechi": [
+     [
+      "Someșul",
+      "vest"
+     ],
+     [
+      "Oltul",
+      "sud"
+     ],
+     [
+      "Bistrița",
+      "est (afluent al Siretului)"
+     ],
+     [
+      "Casimcea",
+      "Dobrogea"
+     ]
+    ]
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Grupe de râuri."
+   }
+  },
+  {
+   "id": "VIII17-07",
+   "nivel": "VIII-S17-raurile-interioare",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "asociaza",
+   "dificultate": 2,
+   "enunt": "Asociază râul cu orașul așezat pe el.",
+   "date": {
+    "perechi": [
+     [
+      "Mureș",
+      "Târgu Mureș"
+     ],
+     [
+      "Olt",
+      "Râmnicu Vâlcea"
+     ],
+     [
+      "Bega",
+      "Timișoara"
+     ],
+     [
+      "Buzău",
+      "Buzău"
+     ]
+    ]
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Orașe pe râuri."
+   }
+  },
+  {
+   "id": "VIII17-08",
+   "nivel": "VIII-S17-raurile-interioare",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "În ce râu se varsă Mureșul?",
+   "date": {
+    "variante": [
+     "Tisa (în Ungaria)",
+     "Dunărea, în România",
+     "Siret",
+     "Prut"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Apoi Tisa se varsă în Dunăre, în Serbia."
+   }
+  },
+  {
+   "id": "VIII17-09",
+   "nivel": "VIII-S17-raurile-interioare",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Unde izvorăsc Oltul și Mureșul?",
+   "date": {
+    "variante": [
+     "foarte aproape, în Munții Hășmaș",
+     "în Munții Făgăraș",
+     "în Delta Dunării",
+     "în Munții Apuseni"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Apoi curg în direcții diferite."
+   }
+  },
+  {
+   "id": "VIII17-10",
+   "nivel": "VIII-S17-raurile-interioare",
+   "competente": [
+    "VIII-3.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Când au râurile cele mai mari debite?",
+   "date": {
+    "variante": [
+     "primăvara și la începutul verii",
+     "toamna",
+     "iarna",
+     "niciodată"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Topirea zăpezii și ploi."
+   }
+  },
+  {
+   "id": "VIII17-11",
+   "nivel": "VIII-S17-raurile-interioare",
+   "competente": [
+    "VIII-1.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce este o viitură?",
+   "date": {
+    "variante": [
+     "o creștere bruscă a nivelului unui râu, după ploi torențiale",
+     "secarea râului",
+     "înghețarea râului",
+     "un lac nou"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Viiturile pot produce inundații."
+   }
+  },
+  {
+   "id": "VIII17-12",
+   "nivel": "VIII-S17-raurile-interioare",
+   "competente": [
+    "VIII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce râu are cele mai multe hidrocentrale în lanț?",
+   "date": {
+    "variante": [
+     "Bistrița (și Oltul)",
+     "Casimcea",
+     "Bega",
+     "Taița"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Pe Bistrița e lacul Izvorul Muntelui."
+   }
+  },
+  {
+   "id": "VIII17-13",
+   "nivel": "VIII-S17-raurile-interioare",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "pin",
+   "dificultate": 2,
+   "enunt": "Atinge pe harta României vărsarea Oltului în Dunăre.",
+   "date": {
+    "harta": "romania",
+    "tinta": {
+     "lat": 43.72,
+     "lon": 24.85,
+     "nume": "vărsarea Oltului"
+    },
+    "toleranta": 40
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Lângă Turnu Măgurele."
+   }
+  },
+  {
+   "id": "VIII17-14",
+   "nivel": "VIII-S17-raurile-interioare",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "pin",
+   "dificultate": 2,
+   "enunt": "Atinge pe harta României vărsarea Siretului în Dunăre.",
+   "date": {
+    "harta": "romania",
+    "tinta": {
+     "lat": 45.42,
+     "lon": 28.02,
+     "nume": "vărsarea Siretului"
+    },
+    "toleranta": 35
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Lângă Galați."
+   }
+  },
+  {
+   "id": "VIII17-15",
+   "nivel": "VIII-S17-raurile-interioare",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "pin",
+   "dificultate": 3,
+   "enunt": "Atinge pe harta României municipiul Buzău, așezat pe râul Buzău.",
+   "date": {
+    "harta": "romania",
+    "tinta": {
+     "lat": 45.15,
+     "lon": 26.82,
+     "nume": "Buzău"
+    },
+    "toleranta": 30
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Râul Buzău iese din Subcarpați și traversează câmpia spre Siret."
+   }
+  },
+  {
+   "id": "VIII17-16",
+   "nivel": "VIII-S17-raurile-interioare",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "pin",
+   "dificultate": 3,
+   "enunt": "Atinge pe harta României orașul Râmnicu Sărat, pe râul cu același nume.",
+   "date": {
+    "harta": "romania",
+    "tinta": {
+     "lat": 45.38,
+     "lon": 27.05,
+     "nume": "Râmnicu Sărat"
+    },
+    "toleranta": 35
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Râul Râmnicu Sărat e afluent al Siretului."
+   }
+  },
+  {
+   "id": "VIII17-17",
+   "nivel": "VIII-S17-raurile-interioare",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Adevărat sau fals? Toate râurile României se varsă direct în Marea Neagră.",
+   "date": {
+    "variante": [
+     "Fals",
+     "Adevărat"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Fals: aproape toate ajung în Dunăre."
+   }
+  },
+  {
+   "id": "VIII17-18",
+   "nivel": "VIII-S17-raurile-interioare",
+   "competente": [
+    "VIII-3.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Adevărat sau fals? Viiturile sunt frecvente vara, după ploi torențiale.",
+   "date": {
+    "variante": [
+     "Adevărat",
+     "Fals"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Adevărat."
+   }
+  },
+  {
+   "id": "VIII17-19",
+   "nivel": "VIII-S17-raurile-interioare",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "lacunar",
+   "dificultate": 2,
+   "enunt": "Completează.",
+   "date": {
+    "text": "Cel mai lung râu interior este {0}; cel mai lung râu care curge în întregime prin România este {1}.",
+    "raspunsuri": [
+     "Mureșul",
+     "Oltul"
+    ],
+    "distractori": [
+     "Siretul",
+     "Prutul"
+    ]
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Mureș și Olt."
+   },
+   "surse": [
+    "INS – Anuarul Statistic al României: principalele râuri (lungime pe teritoriul României)",
+    "Administrația Națională „Apele Române” – bazine hidrografice"
+   ]
+  },
+  {
+   "id": "VIII17-20",
+   "nivel": "VIII-S17-raurile-interioare",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "lacunar",
+   "dificultate": 2,
+   "enunt": "Completează.",
+   "date": {
+    "text": "Râul Buzău se varsă în {0}, iar Siretul se varsă în {1}.",
+    "raspunsuri": [
+     "Siret",
+     "Dunăre"
+    ],
+    "distractori": [
+     "Ialomița",
+     "Marea Neagră"
+    ]
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Drumul apei."
+   }
+  },
+  {
+   "id": "VIII17-21",
+   "nivel": "VIII-S17-raurile-interioare",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "ordoneaza",
+   "dificultate": 3,
+   "enunt": "Ordonează drumul apei de la Munții Buzăului până la mare.",
+   "date": {
+    "elemente": [
+     "râul Buzău",
+     "Siretul",
+     "Dunărea",
+     "Delta Dunării",
+     "Marea Neagră"
+    ],
+    "criteriu": "De la munte la mare"
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Râu → afluent → fluviu → deltă → mare."
+   }
+  },
+  {
+   "id": "VIII17-22",
+   "nivel": "VIII-S17-raurile-interioare",
+   "competente": [
+    "VIII-2.3"
+   ],
+   "tip": "grafic",
+   "dificultate": 3,
+   "enunt": "Graficul arată lungimea unor râuri pe teritoriul României (km, valori aproximative). Ce râu e al doilea ca lungime, după Mureș?",
+   "date": {
+    "grafic": {
+     "tip": "bare",
+     "titlu": "Lungimea râurilor pe teritoriul României (aproximativ)",
+     "date": [
+      {
+       "eticheta": "Mureș",
+       "valoare": 761
+      },
+      {
+       "eticheta": "Prut",
+       "valoare": 742
+      },
+      {
+       "eticheta": "Olt",
+       "valoare": 615
+      },
+      {
+       "eticheta": "Siret",
+       "valoare": 559
+      },
+      {
+       "eticheta": "Buzău",
+       "valoare": 302
+      }
+     ],
+     "unitate": "km",
+     "sursa": "INS – Anuarul Statistic"
+    },
+    "variante": [
+     "Prutul",
+     "Oltul",
+     "Siretul",
+     "Buzăul"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Prutul e graniță cu Republica Moldova."
+   },
+   "surse": [
+    "INS – Anuarul Statistic al României: principalele râuri (lungime pe teritoriul României)",
+    "Administrația Națională „Apele Române” – bazine hidrografice"
+   ]
+  },
+  {
+   "id": "VIII17-23",
+   "nivel": "VIII-S17-raurile-interioare",
+   "competente": [
+    "VIII-4.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 3,
+   "enunt": "Compară râurile din vest cu cele din est.",
+   "date": {
+    "variante": [
+     "râurile din vest ajung în Tisa; cele din est ajung în Siret și Prut, apoi în Dunăre",
+     "toate curg spre nord",
+     "nu există diferențe",
+     "cele din est ajung în Tisa"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Bazine diferite."
+   }
+  },
+  {
+   "id": "VIII17-24",
+   "nivel": "VIII-S17-raurile-interioare",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "denumeste",
+   "dificultate": 2,
+   "enunt": "Ce râu, cu orașul Cluj-Napoca, e marcat pe hartă?",
+   "date": {
+    "harta": "romania",
+    "punct": {
+     "lat": 46.77,
+     "lon": 23.6
+    },
+    "variante": [
+     "Someșul Mic",
+     "Mureșul",
+     "Oltul",
+     "Crișul Repede"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Cluj-Napoca e pe Someșul Mic."
+   }
+  },
+  {
+   "id": "VIII17-25",
+   "nivel": "VIII-S17-raurile-interioare",
+   "competente": [
+    "VIII-4.4"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce faci dacă se anunță viitură pe râul din apropiere?",
+   "date": {
+    "variante": [
+     "te îndepărtezi de albie și urmezi indicațiile autorităților",
+     "mergi să vezi apa de aproape",
+     "traversezi podul inundat",
+     "intri cu mașina în apă"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Siguranța înainte de toate."
+   }
+  },
+  {
+   "id": "VIII17-26",
+   "nivel": "VIII-S17-raurile-interioare",
+   "competente": [
+    "VIII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "La ce folosesc lacurile de acumulare de pe râuri?",
+   "date": {
+    "variante": [
+     "energie, apă potabilă, irigații, protecție contra inundațiilor",
+     "doar la înot",
+     "la extragerea petrolului",
+     "la nimic"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Folosință complexă."
+   }
+  },
+  {
+   "id": "VIII17-27",
+   "nivel": "VIII-S17-raurile-interioare",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce râu mare traversează Bucureștiul?",
+   "date": {
+    "variante": [
+     "Dâmbovița",
+     "Oltul",
+     "Mureșul",
+     "Siretul"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Dâmbovița e afluent al Argeșului."
+   }
+  },
+  {
+   "id": "VIII17-28",
+   "nivel": "VIII-S17-raurile-interioare",
+   "competente": [
+    "VIII-4.4"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce poluează râurile României?",
+   "date": {
+    "variante": [
+     "apele uzate netratate, deșeurile, îngrășămintele de pe câmpuri",
+     "peștii",
+     "sălciile de pe mal",
+     "ploaia curată"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Stațiile de epurare reduc poluarea."
+   }
+  },
+  {
+   "id": "VIII17-29",
+   "nivel": "VIII-S17-raurile-interioare",
+   "competente": [
+    "VIII-3.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "De ce râurile din Dobrogea sunt scurte și au puțină apă?",
+   "date": {
+    "variante": [
+     "Dobrogea e uscată și are relief jos, aproape de mare",
+     "izvorăsc din Carpați",
+     "sunt alimentate de ghețari",
+     "sunt înghețate"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Casimcea, Taița."
+   }
+  },
+  {
+   "id": "VIII17-30",
+   "nivel": "VIII-S17-raurile-interioare",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce râu desparte Moldova de Muntenia, în trecut, ca graniță istorică?",
+   "date": {
+    "variante": [
+     "Milcovul",
+     "Oltul",
+     "Mureșul",
+     "Jiul"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Milcovul curge prin Focșani."
+   }
+  },
+  {
+   "id": "VIII18-01",
+   "nivel": "VIII-S18-lacurile-apele-subterane",
+   "competente": [
+    "VIII-1.1"
+   ],
+   "tip": "asociaza",
+   "dificultate": 1,
+   "enunt": "Asociază lacul cu tipul lui.",
+   "date": {
+    "perechi": [
+     [
+      "Bucura",
+      "glaciar"
+     ],
+     [
+      "Sfânta Ana",
+      "vulcanic"
+     ],
+     [
+      "Lacul Roșu",
+      "de baraj natural"
+     ],
+     [
+      "Vidraru",
+      "de acumulare"
+     ]
+    ]
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Tipuri de lacuri."
+   }
+  },
+  {
+   "id": "VIII18-02",
+   "nivel": "VIII-S18-lacurile-apele-subterane",
+   "competente": [
+    "VIII-1.1"
+   ],
+   "tip": "asociaza",
+   "dificultate": 1,
+   "enunt": "Asociază lacul cu tipul lui.",
+   "date": {
+    "perechi": [
+     [
+      "Razim",
+      "lagună"
+     ],
+     [
+      "Techirghiol",
+      "liman maritim"
+     ],
+     [
+      "Ursu",
+      "pe sare, heliotermal"
+     ],
+     [
+      "Snagov",
+      "liman fluviatil"
+     ]
+    ]
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Alte tipuri."
+   }
+  },
+  {
+   "id": "VIII18-03",
+   "nivel": "VIII-S18-lacurile-apele-subterane",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 1,
+   "enunt": "Care e cel mai întins lac glaciar din România?",
+   "date": {
+    "variante": [
+     "Bucura",
+     "Zănoaga",
+     "Bâlea",
+     "Sfânta Ana"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "În Munții Retezat."
+   },
+   "surse": [
+    "INS / Administrația Națională „Apele Române” – lacuri",
+    "Wikipedia (ro) – Lista lacurilor din România"
+   ]
+  },
+  {
+   "id": "VIII18-04",
+   "nivel": "VIII-S18-lacurile-apele-subterane",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Care e cel mai adânc lac glaciar din România?",
+   "date": {
+    "variante": [
+     "Zănoaga",
+     "Bucura",
+     "Bâlea",
+     "Capra"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Tot în Retezat."
+   },
+   "surse": [
+    "INS / Administrația Națională „Apele Române” – lacuri",
+    "Wikipedia (ro) – Lista lacurilor din România"
+   ]
+  },
+  {
+   "id": "VIII18-05",
+   "nivel": "VIII-S18-lacurile-apele-subterane",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Care e singurul lac vulcanic din România?",
+   "date": {
+    "variante": [
+     "Sfânta Ana",
+     "Lacul Roșu",
+     "Lacul Ursu",
+     "Lacul Bucura"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "În Munții Ciomatu (Harghita)."
+   }
+  },
+  {
+   "id": "VIII18-06",
+   "nivel": "VIII-S18-lacurile-apele-subterane",
+   "competente": [
+    "VIII-1.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Cum s-a format Lacul Roșu?",
+   "date": {
+    "variante": [
+     "o alunecare de teren a blocat un râu, în 1837",
+     "într-un crater",
+     "săpat de ghețar",
+     "construit de om"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Trunchiurile de copaci înecați se văd și azi."
+   }
+  },
+  {
+   "id": "VIII18-07",
+   "nivel": "VIII-S18-lacurile-apele-subterane",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Care e cel mai mare lac de acumulare din România?",
+   "date": {
+    "variante": [
+     "Porțile de Fier",
+     "Vidraru",
+     "Izvorul Muntelui",
+     "Snagov"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Pe Dunăre."
+   },
+   "surse": [
+    "Hidroelectrica – Porțile de Fier I (hidroelectrica.ro)",
+    "Encyclopaedia Britannica – Iron Gate"
+   ]
+  },
+  {
+   "id": "VIII18-08",
+   "nivel": "VIII-S18-lacurile-apele-subterane",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Care e cel mai mare complex lagunar al României?",
+   "date": {
+    "variante": [
+     "Razim–Sinoe",
+     "Techirghiol",
+     "Bâlea",
+     "Snagov"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Razim e cel mai mare lac al țării."
+   },
+   "surse": [
+    "INS / Administrația Națională „Apele Române” – lacuri",
+    "Wikipedia (ro) – Lista lacurilor din România"
+   ]
+  },
+  {
+   "id": "VIII18-09",
+   "nivel": "VIII-S18-lacurile-apele-subterane",
+   "competente": [
+    "VIII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Pentru ce e cunoscut Lacul Techirghiol?",
+   "date": {
+    "variante": [
+     "nămolul terapeutic",
+     "apele glaciare",
+     "vulcanul",
+     "cascada"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Lacul e foarte sărat."
+   }
+  },
+  {
+   "id": "VIII18-10",
+   "nivel": "VIII-S18-lacurile-apele-subterane",
+   "competente": [
+    "VIII-1.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce sunt apele minerale?",
+   "date": {
+    "variante": [
+     "ape subterane cu multe săruri dizolvate, bune pentru băut sau tratament",
+     "ape de ploaie",
+     "ape de mare",
+     "ape poluate"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Borsec, Buziaș, Slănic Moldova."
+   }
+  },
+  {
+   "id": "VIII18-11",
+   "nivel": "VIII-S18-lacurile-apele-subterane",
+   "competente": [
+    "VIII-1.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce sunt apele freatice?",
+   "date": {
+    "variante": [
+     "ape subterane aflate aproape de suprafață, din care se alimentează fântânile",
+     "ape din nori",
+     "ape de mare",
+     "ape termale din adânc"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Apă de fântână."
+   }
+  },
+  {
+   "id": "VIII18-12",
+   "nivel": "VIII-S18-lacurile-apele-subterane",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "pin",
+   "dificultate": 2,
+   "enunt": "Atinge pe harta României Lacul Sfânta Ana.",
+   "date": {
+    "harta": "romania",
+    "tinta": {
+     "lat": 46.13,
+     "lon": 25.89,
+     "nume": "Lacul Sfânta Ana"
+    },
+    "toleranta": 35
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "În județul Harghita."
+   }
+  },
+  {
+   "id": "VIII18-13",
+   "nivel": "VIII-S18-lacurile-apele-subterane",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "pin",
+   "dificultate": 2,
+   "enunt": "Atinge pe harta României Lacul Razim.",
+   "date": {
+    "harta": "romania",
+    "tinta": {
+     "lat": 44.9,
+     "lon": 28.95,
+     "nume": "Lacul Razim"
+    },
+    "toleranta": 35
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "La sudul Deltei Dunării."
+   },
+   "surse": [
+    "INS / Administrația Națională „Apele Române” – lacuri",
+    "Wikipedia (ro) – Lista lacurilor din România"
+   ]
+  },
+  {
+   "id": "VIII18-14",
+   "nivel": "VIII-S18-lacurile-apele-subterane",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "pin",
+   "dificultate": 3,
+   "enunt": "Atinge pe harta României Lacul Roșu.",
+   "date": {
+    "harta": "romania",
+    "tinta": {
+     "lat": 46.79,
+     "lon": 25.8,
+     "nume": "Lacul Roșu"
+    },
+    "toleranta": 35
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Lângă Cheile Bicazului."
+   }
+  },
+  {
+   "id": "VIII18-15",
+   "nivel": "VIII-S18-lacurile-apele-subterane",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "pin",
+   "dificultate": 3,
+   "enunt": "Atinge pe harta României Lacul Vidraru.",
+   "date": {
+    "harta": "romania",
+    "tinta": {
+     "lat": 45.37,
+     "lon": 24.63,
+     "nume": "Lacul Vidraru"
+    },
+    "toleranta": 35
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Pe Argeș, în Munții Făgăraș."
+   }
+  },
+  {
+   "id": "VIII18-16",
+   "nivel": "VIII-S18-lacurile-apele-subterane",
+   "competente": [
+    "VIII-1.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Adevărat sau fals? Lacul Bâlea e un lac vulcanic.",
+   "date": {
+    "variante": [
+     "Fals",
+     "Adevărat"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Fals: e un lac glaciar, în Munții Făgăraș."
+   }
+  },
+  {
+   "id": "VIII18-17",
+   "nivel": "VIII-S18-lacurile-apele-subterane",
+   "competente": [
+    "VIII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Adevărat sau fals? Apele minerale ale României sunt folosite în stațiuni balneare.",
+   "date": {
+    "variante": [
+     "Adevărat",
+     "Fals"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Adevărat: Herculane, Slănic Moldova, Sovata etc."
+   }
+  },
+  {
+   "id": "VIII18-18",
+   "nivel": "VIII-S18-lacurile-apele-subterane",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "lacunar",
+   "dificultate": 2,
+   "enunt": "Completează.",
+   "date": {
+    "text": "Cel mai întins lac glaciar e {0}, iar singurul lac vulcanic e {1}.",
+    "raspunsuri": [
+     "Bucura",
+     "Sfânta Ana"
+    ],
+    "distractori": [
+     "Zănoaga",
+     "Lacul Roșu"
+    ]
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Bucura, Sfânta Ana."
+   },
+   "surse": [
+    "INS / Administrația Națională „Apele Române” – lacuri",
+    "Wikipedia (ro) – Lista lacurilor din România"
+   ]
+  },
+  {
+   "id": "VIII18-19",
+   "nivel": "VIII-S18-lacurile-apele-subterane",
+   "competente": [
+    "VIII-3.3"
+   ],
+   "tip": "lacunar",
+   "dificultate": 2,
+   "enunt": "Completează.",
+   "date": {
+    "text": "Lacul {0} e cunoscut pentru nămol, iar Lacul {1} de la Sovata e heliotermal.",
+    "raspunsuri": [
+     "Techirghiol",
+     "Ursu"
+    ],
+    "distractori": [
+     "Snagov",
+     "Bâlea"
+    ]
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Lacuri balneare."
+   }
+  },
+  {
+   "id": "VIII18-20",
+   "nivel": "VIII-S18-lacurile-apele-subterane",
+   "competente": [
+    "VIII-2.3"
+   ],
+   "tip": "grafic",
+   "dificultate": 3,
+   "enunt": "Graficul compară suprafața unor lacuri (km², valori aproximative). Care e cel mai mare?",
+   "date": {
+    "grafic": {
+     "tip": "bare",
+     "titlu": "Suprafața unor lacuri din România (aproximativ)",
+     "date": [
+      {
+       "eticheta": "Razim",
+       "valoare": 415
+      },
+      {
+       "eticheta": "Sinoe",
+       "valoare": 171
+      },
+      {
+       "eticheta": "Izvorul Muntelui",
+       "valoare": 31
+      },
+      {
+       "eticheta": "Bucura",
+       "valoare": 0.1
+      }
+     ],
+     "unitate": "km²",
+     "sursa": "Wikipedia (ro) – Lista lacurilor din România"
+    },
+    "variante": [
+     "Razim",
+     "Sinoe",
+     "Izvorul Muntelui",
+     "Bucura"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Razim e cel mai mare lac al României."
+   },
+   "surse": [
+    "INS / Administrația Națională „Apele Române” – lacuri",
+    "Wikipedia (ro) – Lista lacurilor din România"
+   ]
+  },
+  {
+   "id": "VIII18-21",
+   "nivel": "VIII-S18-lacurile-apele-subterane",
+   "competente": [
+    "VIII-2.2"
+   ],
+   "tip": "ordoneaza",
+   "dificultate": 3,
+   "enunt": "Ordonează lacurile de la cel mai înalt la cel mai jos.",
+   "date": {
+    "elemente": [
+     "Bucura (glaciar)",
+     "Sfânta Ana (vulcanic)",
+     "Lacul Roșu (de baraj natural)",
+     "Snagov (de câmpie)",
+     "Razim (lagună)"
+    ],
+    "criteriu": "Altitudine, descrescător"
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "De la munte la mare."
+   }
+  },
+  {
+   "id": "VIII18-22",
+   "nivel": "VIII-S18-lacurile-apele-subterane",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "denumeste",
+   "dificultate": 2,
+   "enunt": "Ce lac de acumulare mare, pe Bistrița, e marcat pe hartă?",
+   "date": {
+    "harta": "romania",
+    "punct": {
+     "lat": 46.95,
+     "lon": 26.05
+    },
+    "variante": [
+     "Izvorul Muntelui (Bicaz)",
+     "Vidraru",
+     "Porțile de Fier",
+     "Lacul Roșu"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Lângă Ceahlău."
+   }
+  },
+  {
+   "id": "VIII18-23",
+   "nivel": "VIII-S18-lacurile-apele-subterane",
+   "competente": [
+    "VIII-4.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 3,
+   "enunt": "Compară un lac glaciar cu un lac de acumulare.",
+   "date": {
+    "variante": [
+     "lacul glaciar e natural, mic, în căldări; lacul de acumulare e artificial, în spatele unui baraj, folosit pentru energie",
+     "sunt identice",
+     "ambele sunt artificiale",
+     "lacul glaciar are baraj de beton"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Origine și folosință."
+   }
+  },
+  {
+   "id": "VIII18-24",
+   "nivel": "VIII-S18-lacurile-apele-subterane",
+   "competente": [
+    "VIII-3.4"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce stațiune cu ape termale și minerale e una dintre cele mai vechi din România, din vremea romanilor?",
+   "date": {
+    "variante": [
+     "Băile Herculane",
+     "Mamaia",
+     "Poiana Brașov",
+     "Sinaia"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Numele vine de la Hercule."
+   }
+  },
+  {
+   "id": "VIII18-25",
+   "nivel": "VIII-S18-lacurile-apele-subterane",
+   "competente": [
+    "VIII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce sunt iazurile?",
+   "date": {
+    "variante": [
+     "lacuri mici artificiale, făcute pe văi, pentru pește sau irigații",
+     "lacuri glaciare",
+     "lacuri vulcanice",
+     "lagune"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Frecvente în Câmpia Moldovei."
+   }
+  },
+  {
+   "id": "VIII18-26",
+   "nivel": "VIII-S18-lacurile-apele-subterane",
+   "competente": [
+    "VIII-4.4"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Cum protejăm apele subterane?",
+   "date": {
+    "variante": [
+     "nu aruncăm deșeuri pe sol, folosim îngrășămintele cu măsură, avem canalizare",
+     "deversăm uleiuri pe sol",
+     "facem gropi de gunoi oriunde",
+     "folosim mult pesticid"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Poluarea ajunge în fântâni."
+   }
+  },
+  {
+   "id": "VIII18-27",
+   "nivel": "VIII-S18-lacurile-apele-subterane",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "În ce munți se află Lacul Bâlea?",
+   "date": {
+    "variante": [
+     "Făgăraș",
+     "Retezat",
+     "Rodnei",
+     "Apuseni"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Lângă Transfăgărășan."
+   }
+  },
+  {
+   "id": "VIII18-28",
+   "nivel": "VIII-S18-lacurile-apele-subterane",
+   "competente": [
+    "VIII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce apă minerală cunoscută provine din Depresiunea Borsec, în Carpații Orientali?",
+   "date": {
+    "variante": [
+     "Borsec",
+     "Techirghiol",
+     "Razim",
+     "Snagov"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Borsec e numită „regina apelor minerale”."
+   }
+  },
+  {
+   "id": "VIII18-29",
+   "nivel": "VIII-S18-lacurile-apele-subterane",
+   "competente": [
+    "VIII-1.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce înseamnă lac heliotermal?",
+   "date": {
+    "variante": [
+     "lac în care Soarele încălzește un strat de apă din adânc, mai mult decât la suprafață",
+     "lac înghețat",
+     "lac vulcanic fierbinte",
+     "lac de acumulare"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Lacul Ursu de la Sovata."
+   }
+  },
+  {
+   "id": "VIII18-30",
+   "nivel": "VIII-S18-lacurile-apele-subterane",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "În ce munți se află Lacul Bucura?",
+   "date": {
+    "variante": [
+     "Retezat",
+     "Făgăraș",
+     "Rodnei",
+     "Apuseni"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Retezat are peste 80 de lacuri glaciare."
+   }
+  },
+  {
+   "id": "VIII19-01",
+   "nivel": "VIII-S19-marea-neagra",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 1,
+   "enunt": "Cu ce mare comunică Marea Neagră?",
+   "date": {
+    "variante": [
+     "Marea Mediterană, prin Bosfor, Marea Marmara și Dardanele",
+     "Marea Baltică",
+     "Marea Nordului",
+     "Marea Caspică"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "O mare aproape închisă."
+   }
+  },
+  {
+   "id": "VIII19-02",
+   "nivel": "VIII-S19-marea-neagra",
+   "competente": [
+    "VIII-3.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce adâncime maximă are Marea Neagră?",
+   "date": {
+    "variante": [
+     "aproximativ 2 212 m",
+     "aproximativ 22 m",
+     "aproximativ 11 000 m",
+     "aproximativ 200 m"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "După Britannica."
+   },
+   "surse": [
+    "Encyclopaedia Britannica – Black Sea (suprafață ~436 400 km², adâncime maximă 2 212 m)",
+    "Wikipedia – Black Sea"
+   ]
+  },
+  {
+   "id": "VIII19-03",
+   "nivel": "VIII-S19-marea-neagra",
+   "competente": [
+    "VIII-3.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce suprafață are Marea Neagră?",
+   "date": {
+    "variante": [
+     "aproximativ 436 000 km²",
+     "aproximativ 4 360 km²",
+     "aproximativ 43 milioane km²",
+     "aproximativ 1 milion km²"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Mai mult decât suprafața României."
+   },
+   "surse": [
+    "Encyclopaedia Britannica – Black Sea (suprafață ~436 400 km², adâncime maximă 2 212 m)",
+    "Wikipedia – Black Sea"
+   ]
+  },
+  {
+   "id": "VIII19-04",
+   "nivel": "VIII-S19-marea-neagra",
+   "competente": [
+    "VIII-3.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "De ce Marea Neagră e puțin sărată?",
+   "date": {
+    "variante": [
+     "primește multă apă dulce de la fluvii mari",
+     "pentru că e foarte rece",
+     "pentru că e foarte adâncă",
+     "pentru că plouă cu sare"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Salinitate de aproximativ 17–18 ‰ la suprafață."
+   },
+   "surse": [
+    "Encyclopaedia Britannica – Black Sea (suprafață ~436 400 km², adâncime maximă 2 212 m)",
+    "Wikipedia – Black Sea"
+   ]
+  },
+  {
+   "id": "VIII19-05",
+   "nivel": "VIII-S19-marea-neagra",
+   "competente": [
+    "VIII-3.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "De ce în adâncul Mării Negre aproape că nu există viață?",
+   "date": {
+    "variante": [
+     "sub aproximativ 150–200 m apa are hidrogen sulfurat și aproape deloc oxigen",
+     "pentru că e prea caldă",
+     "pentru că e înghețată",
+     "pentru că e prea luminoasă"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Straturile de apă se amestecă foarte puțin."
+   }
+  },
+  {
+   "id": "VIII19-06",
+   "nivel": "VIII-S19-marea-neagra",
+   "competente": [
+    "VIII-3.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce lungime are litoralul românesc?",
+   "date": {
+    "variante": [
+     "aproximativ 245 km",
+     "aproximativ 24 km",
+     "aproximativ 1 075 km",
+     "aproximativ 2 450 km"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "De la Sulina la Vama Veche."
+   }
+  },
+  {
+   "id": "VIII19-07",
+   "nivel": "VIII-S19-marea-neagra",
+   "competente": [
+    "VIII-1.1"
+   ],
+   "tip": "asociaza",
+   "dificultate": 2,
+   "enunt": "Asociază sectorul de țărm cu caracteristica.",
+   "date": {
+    "perechi": [
+     [
+      "nordic (Sulina – Capul Midia)",
+      "țărm jos, cu delte și lagune"
+     ],
+     [
+      "sudic (Capul Midia – Vama Veche)",
+      "țărm înalt, cu faleze"
+     ],
+     [
+      "platforma continentală",
+      "resurse de petrol și gaze"
+     ],
+     [
+      "Vama Veche – 2 Mai",
+      "rezervație marină"
+     ]
+    ]
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Țărmul românesc."
+   }
+  },
+  {
+   "id": "VIII19-08",
+   "nivel": "VIII-S19-marea-neagra",
+   "competente": [
+    "VIII-3.3"
+   ],
+   "tip": "asociaza",
+   "dificultate": 2,
+   "enunt": "Asociază viețuitoarea cu Marea Neagră.",
+   "date": {
+    "perechi": [
+     [
+      "delfinul",
+      "mamifer marin"
+     ],
+     [
+      "calcanul",
+      "pește plat"
+     ],
+     [
+      "midia",
+      "moluscă"
+     ],
+     [
+      "sturionul",
+      "pește care migrează pe Dunăre"
+     ]
+    ]
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Viața din Marea Neagră."
+   }
+  },
+  {
+   "id": "VIII19-09",
+   "nivel": "VIII-S19-marea-neagra",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "pin",
+   "dificultate": 2,
+   "enunt": "Atinge pe harta României portul Constanța.",
+   "date": {
+    "harta": "romania",
+    "tinta": {
+     "lat": 44.17,
+     "lon": 28.65,
+     "nume": "Constanța"
+    },
+    "toleranta": 30
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Cel mai mare port de la Marea Neagră."
+   }
+  },
+  {
+   "id": "VIII19-10",
+   "nivel": "VIII-S19-marea-neagra",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "pin",
+   "dificultate": 2,
+   "enunt": "Atinge pe harta României stațiunea Mamaia.",
+   "date": {
+    "harta": "romania",
+    "tinta": {
+     "lat": 44.25,
+     "lon": 28.62,
+     "nume": "Mamaia"
+    },
+    "toleranta": 30
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "La nord de Constanța."
+   }
+  },
+  {
+   "id": "VIII19-11",
+   "nivel": "VIII-S19-marea-neagra",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "pin",
+   "dificultate": 3,
+   "enunt": "Atinge pe harta României Capul Midia, unde se schimbă tipul de țărm.",
+   "date": {
+    "harta": "romania",
+    "tinta": {
+     "lat": 44.34,
+     "lon": 28.68,
+     "nume": "Capul Midia"
+    },
+    "toleranta": 30
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "La nord de Mamaia."
+   }
+  },
+  {
+   "id": "VIII19-12",
+   "nivel": "VIII-S19-marea-neagra",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "pin",
+   "dificultate": 3,
+   "enunt": "Atinge pe harta României Mangalia.",
+   "date": {
+    "harta": "romania",
+    "tinta": {
+     "lat": 43.8,
+     "lon": 28.58,
+     "nume": "Mangalia"
+    },
+    "toleranta": 30
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "În sudul litoralului."
+   }
+  },
+  {
+   "id": "VIII19-13",
+   "nivel": "VIII-S19-marea-neagra",
+   "competente": [
+    "VIII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Care e cel mai mare port de la Marea Neagră?",
+   "date": {
+    "variante": [
+     "Constanța",
+     "Odesa",
+     "Varna",
+     "Mangalia"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Portul Constanța e unul dintre cele mai mari din Europa."
+   }
+  },
+  {
+   "id": "VIII19-14",
+   "nivel": "VIII-S19-marea-neagra",
+   "competente": [
+    "VIII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce resurse se exploatează din platforma continentală a Mării Negre?",
+   "date": {
+    "variante": [
+     "petrol și gaze naturale",
+     "aur",
+     "cărbune",
+     "diamante"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Inclusiv zăcământul Neptun Deep."
+   }
+  },
+  {
+   "id": "VIII19-15",
+   "nivel": "VIII-S19-marea-neagra",
+   "competente": [
+    "VIII-1.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Adevărat sau fals? Marea Neagră e mai sărată decât oceanul.",
+   "date": {
+    "variante": [
+     "Fals",
+     "Adevărat"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Fals: e de aproximativ două ori mai puțin sărată."
+   },
+   "surse": [
+    "Encyclopaedia Britannica – Black Sea (suprafață ~436 400 km², adâncime maximă 2 212 m)",
+    "Wikipedia – Black Sea"
+   ]
+  },
+  {
+   "id": "VIII19-16",
+   "nivel": "VIII-S19-marea-neagra",
+   "competente": [
+    "VIII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Adevărat sau fals? Pe litoralul sudic românesc există faleze.",
+   "date": {
+    "variante": [
+     "Adevărat",
+     "Fals"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Adevărat: între Capul Midia și Vama Veche."
+   }
+  },
+  {
+   "id": "VIII19-17",
+   "nivel": "VIII-S19-marea-neagra",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "lacunar",
+   "dificultate": 2,
+   "enunt": "Completează.",
+   "date": {
+    "text": "Marea Neagră comunică cu Marea Marmara prin strâmtoarea {0}; cel mai mare port românesc e {1}.",
+    "raspunsuri": [
+     "Bosfor",
+     "Constanța"
+    ],
+    "distractori": [
+     "Gibraltar",
+     "Galați"
+    ]
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Bosfor, Constanța."
+   }
+  },
+  {
+   "id": "VIII19-18",
+   "nivel": "VIII-S19-marea-neagra",
+   "competente": [
+    "VIII-3.2"
+   ],
+   "tip": "lacunar",
+   "dificultate": 2,
+   "enunt": "Completează.",
+   "date": {
+    "text": "Sub aproximativ 200 m, apa Mării Negre conține {0} și aproape deloc {1}.",
+    "raspunsuri": [
+     "hidrogen sulfurat",
+     "oxigen"
+    ],
+    "distractori": [
+     "sare de bucătărie",
+     "azot"
+    ]
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Zona fără viață."
+   }
+  },
+  {
+   "id": "VIII19-19",
+   "nivel": "VIII-S19-marea-neagra",
+   "competente": [
+    "VIII-2.3"
+   ],
+   "tip": "grafic",
+   "dificultate": 3,
+   "enunt": "Graficul compară salinitatea medie la suprafață (‰, valori aproximative). De câte ori e mai sărat oceanul decât Marea Neagră?",
+   "date": {
+    "grafic": {
+     "tip": "bare",
+     "titlu": "Salinitatea la suprafață (aproximativ)",
+     "date": [
+      {
+       "eticheta": "Oceanul Planetar",
+       "valoare": 35
+      },
+      {
+       "eticheta": "Marea Mediterană",
+       "valoare": 38
+      },
+      {
+       "eticheta": "Marea Neagră",
+       "valoare": 17
+      }
+     ],
+     "unitate": "‰",
+     "sursa": "Encyclopaedia Britannica"
+    },
+    "variante": [
+     "de aproximativ 2 ori",
+     "la fel",
+     "de 10 ori",
+     "de 2 ori mai puțin"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "35 : 17 ≈ 2."
+   },
+   "surse": [
+    "Encyclopaedia Britannica – Black Sea (suprafață ~436 400 km², adâncime maximă 2 212 m)",
+    "Wikipedia – Black Sea"
+   ]
+  },
+  {
+   "id": "VIII19-20",
+   "nivel": "VIII-S19-marea-neagra",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "ordoneaza",
+   "dificultate": 3,
+   "enunt": "Ordonează stațiunile de pe litoral de la nord la sud.",
+   "date": {
+    "elemente": [
+     "Mamaia",
+     "Constanța",
+     "Eforie",
+     "Costinești",
+     "Neptun",
+     "Mangalia",
+     "Vama Veche"
+    ],
+    "criteriu": "De la nord la sud"
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Litoralul românesc."
+   }
+  },
+  {
+   "id": "VIII19-21",
+   "nivel": "VIII-S19-marea-neagra",
+   "competente": [
+    "VIII-4.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 3,
+   "enunt": "Compară litoralul nordic cu cel sudic.",
+   "date": {
+    "variante": [
+     "nordul e jos, cu lagune și delte, puțin turism; sudul e înalt, cu faleze și stațiuni",
+     "sunt identice",
+     "nordul are faleze",
+     "sudul are deltă"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Două sectoare diferite."
+   }
+  },
+  {
+   "id": "VIII19-22",
+   "nivel": "VIII-S19-marea-neagra",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "denumeste",
+   "dificultate": 2,
+   "enunt": "Ce țară vecină, la sud, are și ea țărm la Marea Neagră?",
+   "date": {
+    "harta": "lume",
+    "punct": {
+     "lat": 42.7,
+     "lon": 25.5
+    },
+    "variante": [
+     "Bulgaria",
+     "Ungaria",
+     "Serbia",
+     "Grecia"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Bulgaria are stațiunile Varna și Burgas."
+   }
+  },
+  {
+   "id": "VIII19-23",
+   "nivel": "VIII-S19-marea-neagra",
+   "competente": [
+    "VIII-4.4"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce amenință Marea Neagră?",
+   "date": {
+    "variante": [
+     "poluarea adusă de fluvii, deșeurile de plastic și pescuitul excesiv",
+     "zăpada",
+     "ghețarii",
+     "vulcanii activi"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Se cer măsuri comune ale statelor riverane."
+   }
+  },
+  {
+   "id": "VIII19-24",
+   "nivel": "VIII-S19-marea-neagra",
+   "competente": [
+    "VIII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce lucrare protejează plajele de eroziunea valurilor?",
+   "date": {
+    "variante": [
+     "diguri și înnisipări artificiale",
+     "tăierea dunelor",
+     "construcții pe plajă",
+     "extragerea nisipului"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Plajele de la Mamaia au fost lărgite."
+   }
+  },
+  {
+   "id": "VIII19-25",
+   "nivel": "VIII-S19-marea-neagra",
+   "competente": [
+    "VIII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce state au țărm la Marea Neagră?",
+   "date": {
+    "variante": [
+     "România, Bulgaria, Turcia, Georgia, Rusia, Ucraina",
+     "România și Ungaria",
+     "Grecia și Italia",
+     "Serbia și Croația"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Șase state riverane."
+   }
+  },
+  {
+   "id": "VIII19-26",
+   "nivel": "VIII-S19-marea-neagra",
+   "competente": [
+    "VIII-3.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce sunt cordoanele litorale?",
+   "date": {
+    "variante": [
+     "fâșii de nisip care despart lagunele de mare",
+     "faleze înalte",
+     "insule vulcanice",
+     "recife de corali"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Ex.: cordonul care închide Lacul Razim."
+   }
+  },
+  {
+   "id": "VIII19-27",
+   "nivel": "VIII-S19-marea-neagra",
+   "competente": [
+    "VIII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce pește mic, hrană pentru delfini, se pescuiește mult în Marea Neagră?",
+   "date": {
+    "variante": [
+     "hamsia",
+     "somonul",
+     "tonul",
+     "codul"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Și stavridul."
+   }
+  },
+  {
+   "id": "VIII19-28",
+   "nivel": "VIII-S19-marea-neagra",
+   "competente": [
+    "VIII-4.4"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce faci dacă vezi un delfin eșuat pe plajă?",
+   "date": {
+    "variante": [
+     "anunți autoritățile sau Muzeul de Științele Naturii din Constanța și nu îl atingi",
+     "îl împingi în larg singur",
+     "faci poze aproape de el",
+     "îl iei acasă"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Delfinii sunt protejați prin lege."
+   }
+  },
+  {
+   "id": "VIII19-29",
+   "nivel": "VIII-S19-marea-neagra",
+   "competente": [
+    "VIII-3.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "De ce iarna Marea Neagră nu îngheață pe litoralul românesc, de obicei?",
+   "date": {
+    "variante": [
+     "apa sărată îngheață mai greu, iar marea păstrează căldura",
+     "e prea adâncă și fierbinte",
+     "nu e niciodată frig",
+     "e acoperită de petrol"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Doar în ierni foarte geroase apar sloiuri lângă țărm."
+   }
+  },
+  {
+   "id": "VIII19-30",
+   "nivel": "VIII-S19-marea-neagra",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce insulă din Marea Neagră, aproape de Delta Dunării, aparține Ucrainei?",
+   "date": {
+    "variante": [
+     "Insula Șerpilor",
+     "Insula Mare a Brăilei",
+     "Insula Ada Kaleh",
+     "Insula Sacalin"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Ada Kaleh a fost acoperită de lacul Porțile de Fier."
+   }
+  },
+  {
+   "id": "VIII20-01",
+   "nivel": "VIII-S20-vegetatia-fauna-solurile-aplicatii",
+   "competente": [
+    "VIII-1.1"
+   ],
+   "tip": "ordoneaza",
+   "dificultate": 1,
+   "enunt": "Ordonează zonele de vegetație ale României de la câmpie spre vârful muntelui.",
+   "date": {
+    "elemente": [
+     "stepa",
+     "silvostepa",
+     "pădurile de stejar",
+     "pădurile de fag",
+     "pădurile de molid",
+     "jnepenișurile (subalpin)",
+     "pajiștile alpine"
+    ],
+    "criteriu": "De jos în sus"
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Vegetația urmează altitudinea."
+   }
+  },
+  {
+   "id": "VIII20-02",
+   "nivel": "VIII-S20-vegetatia-fauna-solurile-aplicatii",
+   "competente": [
+    "VIII-1.2"
+   ],
+   "tip": "asociaza",
+   "dificultate": 2,
+   "enunt": "Asociază solul cu zona.",
+   "date": {
+    "perechi": [
+     [
+      "cernoziomul",
+      "stepa și silvostepa (Bărăgan, Dobrogea)"
+     ],
+     [
+      "solurile brune",
+      "pădurile de foioase"
+     ],
+     [
+      "podzolurile",
+      "pădurile de conifere, la munte"
+     ],
+     [
+      "aluviunile",
+      "luncile râurilor"
+     ]
+    ]
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Solurile urmează vegetația și clima."
+   }
+  },
+  {
+   "id": "VIII20-03",
+   "nivel": "VIII-S20-vegetatia-fauna-solurile-aplicatii",
+   "competente": [
+    "VIII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce carnivore mari trăiesc în Carpații României?",
+   "date": {
+    "variante": [
+     "ursul brun, lupul, râsul",
+     "leul, tigrul",
+     "ursul polar",
+     "jaguarul"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "România are cele mai mari populații din UE."
+   },
+   "surse": [
+    "Comisia Europeană (DG Mediu) – Large Carnivores in the EU: România",
+    "WWF România – Carnivore mari"
+   ]
+  },
+  {
+   "id": "VIII20-04",
+   "nivel": "VIII-S20-vegetatia-fauna-solurile-aplicatii",
+   "competente": [
+    "VIII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce animal ocrotit trăiește pe stâncăriile înalte ale Carpaților?",
+   "date": {
+    "variante": [
+     "capra neagră",
+     "zimbrul",
+     "pelicanul",
+     "delfinul"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Simbol al munților."
+   }
+  },
+  {
+   "id": "VIII20-05",
+   "nivel": "VIII-S20-vegetatia-fauna-solurile-aplicatii",
+   "competente": [
+    "VIII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce animal mare a fost reintrodus în Carpați (Vânători-Neamț, Munții Țarcu)?",
+   "date": {
+    "variante": [
+     "zimbrul",
+     "ursul polar",
+     "renul",
+     "bizonul american"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Cel mai mare mamifer terestru din Europa."
+   }
+  },
+  {
+   "id": "VIII20-06",
+   "nivel": "VIII-S20-vegetatia-fauna-solurile-aplicatii",
+   "competente": [
+    "VIII-4.4"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce plantă ocrotită crește pe stâncile din munții înalți?",
+   "date": {
+    "variante": [
+     "floarea de colț",
+     "păpădia",
+     "trandafirul de grădină",
+     "porumbul"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "E interzisă culegerea ei."
+   }
+  },
+  {
+   "id": "VIII20-07",
+   "nivel": "VIII-S20-vegetatia-fauna-solurile-aplicatii",
+   "competente": [
+    "VIII-4.4"
+   ],
+   "tip": "asociaza",
+   "dificultate": 2,
+   "enunt": "Asociază fenomenul cu regula de comportament.",
+   "date": {
+    "perechi": [
+     [
+      "viscolul",
+      "nu pleci la drum; ai provizii și lanternă"
+     ],
+     [
+      "canicula",
+      "stai la umbră, bei apă"
+     ],
+     [
+      "inundația",
+      "urci pe un loc înalt, oprești curentul"
+     ],
+     [
+      "furtuna cu fulgere",
+      "te adăpostești într-o clădire, nu sub copaci"
+     ]
+    ]
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Reguli de siguranță."
+   }
+  },
+  {
+   "id": "VIII20-08",
+   "nivel": "VIII-S20-vegetatia-fauna-solurile-aplicatii",
+   "competente": [
+    "VIII-4.4"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce înseamnă mesajul RO-ALERT pe telefon?",
+   "date": {
+    "variante": [
+     "o avertizare oficială despre un pericol iminent în zona ta",
+     "o reclamă",
+     "o glumă",
+     "un mesaj de la prieteni"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Urmează instrucțiunile."
+   }
+  },
+  {
+   "id": "VIII20-09",
+   "nivel": "VIII-S20-vegetatia-fauna-solurile-aplicatii",
+   "competente": [
+    "VIII-4.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 3,
+   "enunt": "Ce fenomen hidrologic periculos e frecvent iarna pe râurile mari?",
+   "date": {
+    "variante": [
+     "podul de gheață, care poate bloca apa și produce inundații",
+     "seceta",
+     "canicula",
+     "grindina"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Nu se merge pe gheața râului."
+   }
+  }
+ ]
+}
