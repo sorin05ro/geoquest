@@ -1,5 +1,7 @@
 # Cum publici GeoQuest pe internet (GitHub Pages)
 
+> **Stare (28.10.2026):** aplicația e publicată la https://sorin05ro.github.io/geoquest/, din depozitul `sorin05ro/geoquest`. Orice modificare urcată în ramura `main` se publică singură, prin ramura `gh-pages`. Pașii de mai jos sunt pentru o instalare nouă.
+
 Nu trebuie să scrii cod. Faci asta o singură dată; după aceea, orice modificare salvată se publică singură în 2–3 minute.
 
 ## Ce îți trebuie
@@ -18,7 +20,7 @@ Nu trebuie să scrii cod. Faci asta o singură dată; după aceea, orice modific
 ## Pasul 2. Pornește publicarea (o singură dată)
 
 1. Pe github.com, deschide depozitul `geoquest`.
-2. **Settings → Pages**. La „Build and deployment”, la „Source”, alege **GitHub Actions**.
+2. **Settings → Pages**. La „Source”, alege **Deploy from a branch**, ramura **gh-pages**, folderul **/ (root)** (ramura apare după prima publicare).
 3. Înapoi pe pagina depozitului: **Add file → Create new file**. Ca nume scrie exact `.github/workflows/publicare.yml` (barele creează singure folderele).
 4. Deschide pe calculator fișierul `docs/publicare.yml` cu Notepad, copiază tot textul și lipește-l în pagina GitHub. Apasă **Commit changes…**, apoi din nou **Commit changes**.
 5. În GitHub Desktop apasă **Fetch origin**, apoi **Pull origin**, ca fișierul nou să ajungă și pe calculator.
