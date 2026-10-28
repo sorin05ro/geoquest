@@ -1,0 +1,5577 @@
+{
+ "clasa": 8,
+ "unitate": "Relieful României",
+ "niveluri": [
+  {
+   "id": "VIII-S03-relieful-caracteristici-generale",
+   "tip": "nivel",
+   "titlu": "Relieful României – caracteristici generale",
+   "descopera": {
+    "intrebare": "De ce se spune că relieful României e „armonios”?"
+   },
+   "invata": [
+    {
+     "titlu": "Proporție și dispunere",
+     "text": "Relieful României e variat și proporționat: aproximativ o treime munți, o treime dealuri și podișuri, o treime câmpii.\nE dispus concentric, în trepte: în centru Depresiunea Colinară a Transilvaniei, apoi arcul Carpaților, apoi Subcarpații, dealurile și podișurile, iar la exterior câmpiile și Delta Dunării. Treptele coboară de la peste 2 500 m (vârful Moldoveanu, 2 544 m) până la nivelul mării, în Deltă."
+    },
+    {
+     "titlu": "Roci și vârste",
+     "text": "Cele mai vechi roci sunt în Munții Măcinului (Dobrogea de Nord), din munți foarte vechi, erodați. Carpații s-au format în aceeași perioadă cu Alpii, deci sunt munți tineri. Cea mai nouă unitate e Delta Dunării, care se formează și acum.\nTipuri de relief după rocă: vulcanic (Călimani, Harghita), carstic, pe calcare (Apuseni, Mehedinți), glaciar (Retezat, Făgăraș, Parâng, Rodnei), pe sare (Slănic), pe gresii și conglomerate (Ceahlău, Bucegi)."
+    },
+    {
+     "titlu": "Agenți modelatori",
+     "text": "Relieful e modelat de ape (văi, alunecări de teren), vânt (în Dobrogea și Câmpia Română, dune la Hanu Conachi și Carei), îngheț-dezgheț (pe vârfuri), ghețari (în trecut) și de om (cariere, terase, baraje)."
+    }
+   ],
+   "stiaiCa": "La Berca–Pâclele, în județul Buzău, gazele din adânc împing la suprafață noroi și formează conuri mici, numite vulcani noroioși – un fenomen rar în Europa.",
+   "referintaProfesor": "Manual Art Klett, clasa a VIII-a, ediția 2025 (manuale.edu.ro), lecția „Relieful – caracteristici generale”"
+  },
+  {
+   "id": "VIII-S04-unitatile-majore-relief-carpatii",
+   "tip": "nivel",
+   "titlu": "Carpații și Depresiunea Colinară a Transilvaniei",
+   "descopera": {
+    "intrebare": "Prin ce se deosebesc Carpații Orientali de cei Meridionali?"
+   },
+   "invata": [
+    {
+     "titlu": "Carpații Orientali",
+     "text": "Se întind de la granița de nord până la Valea Prahovei. Au trei grupe: nordică (Maramureș, Rodnei – vârful Pietrosul Rodnei, 2 303 m), centrală (Ceahlău, Hășmaș, Ciuc) și sudică – Carpații de Curbură (Siriu, Penteleu, Podu Calului, Munții Buzăului, Vrancei, Ciucaș).\nAu un lanț vulcanic la vest (Oaș, Gutâi, Țibleș, Călimani, Gurghiu, Harghita) și multe depresiuni (Maramureș, Dornelor, Ciuc, Brașov)."
+    },
+    {
+     "titlu": "Carpații Meridionali și Occidentali",
+     "text": "Carpații Meridionali, între Valea Prahovei și Culoarul Timiș–Cerna, sunt cei mai înalți și masivi: Bucegi, Făgăraș (Moldoveanu 2 544 m, Negoiu), Parâng, Retezat (Peleaga, 2 509 m). Au relief glaciar.\nCarpații Occidentali, între Dunăre și Someș, sunt mai joși și fragmentați: Munții Banatului, Poiana Ruscă și Munții Apuseni (vârful Curcubăta Mare, 1 849 m), cu relief carstic spectaculos (Peștera Scărișoara, cu un ghețar subteran)."
+    },
+    {
+     "titlu": "Depresiunea Colinară a Transilvaniei",
+     "text": "În interiorul arcului carpatic se află o depresiune largă, cu dealuri și podișuri: Podișul Someșan, Câmpia Transilvaniei (de fapt, dealuri joase), Podișul Târnavelor. Are zăcăminte de gaze naturale și sare."
+    }
+   ],
+   "stiaiCa": "Peștera Ghețarul de la Scărișoara, din Munții Apuseni, adăpostește unul dintre cei mai mari ghețari subterani din Europa.",
+   "referintaProfesor": "Manual Art Klett, clasa a VIII-a, ediția 2025 (manuale.edu.ro), lecția „Unitățile majore de relief: Carpații și Depresiunea Colinară a Transilvaniei”"
+  },
+  {
+   "id": "VIII-S06-subcarpatii-podisul-getic-podisul",
+   "tip": "nivel",
+   "titlu": "Subcarpații, Podișul Getic și Podișul Mehedinți",
+   "descopera": {
+    "intrebare": "Ce fel de relief se află între Munții Buzăului și Câmpia Română?"
+   },
+   "invata": [
+    {
+     "titlu": "Subcarpații",
+     "text": "Subcarpații sunt dealuri înalte situate la exteriorul Carpaților Orientali și Meridionali, de la Valea Moldovei până la Valea Motrului. Au roci moi (argile, marne, nisipuri, sare), deci alunecări de teren frecvente.\nSe împart în: Subcarpații Moldovei, Subcarpații de Curbură (între Trotuș și Dâmbovița – aici e județul Buzău, cu Vulcanii Noroioși) și Subcarpații Getici. Au depresiuni largi, dens populate, cu livezi și vii (Dealu Mare)."
+    },
+    {
+     "titlu": "Podișul Getic",
+     "text": "Podișul Getic se află la sudul Subcarpaților Getici, între Dâmbovița și Dunăre. E format din piemonturi (depozite de pietrișuri și nisipuri cărate de râuri din munți): Piemontul Cândești, Argeșului, Cotmeana, Olteț, Bălăciței.\nResurse: petrol și gaze, cărbune (lignit, în Oltenia)."
+    },
+    {
+     "titlu": "Podișul Mehedinți",
+     "text": "Mic, situat între Carpații Meridionali și Subcarpații Getici, în vestul Olteniei. E alcătuit din roci cristaline și calcare: are relief carstic (Podul Natural de la Ponoarele, Peștera Topolnița)."
+    }
+   ],
+   "stiaiCa": "La Ponoarele, în Podișul Mehedinți, apa a săpat în calcar un pod natural de piatră pe care trece un drum.",
+   "referintaProfesor": "Manual Art Klett, clasa a VIII-a, ediția 2025 (manuale.edu.ro), lecția „Subcarpații, Podișul Getic și Podișul Mehedinți”"
+  },
+  {
+   "id": "VIII-S08-podisul-moldovei-podisul-dobrogei",
+   "tip": "nivel",
+   "titlu": "Podișul Moldovei și Podișul Dobrogei",
+   "descopera": {
+    "intrebare": "În Dobrogea sunt cei mai vechi munți din România, dar cel mai înalt vârf al lor are sub 500 m. Cum e posibil?"
+   },
+   "invata": [
+    {
+     "titlu": "Podișul Moldovei",
+     "text": "Se află în estul țării, între Subcarpații Moldovei și râul Prut. E format din roci sedimentare, multe argiloase, de aceea pe versanți sunt frecvente alunecările de teren.\nSubunități: Podișul Sucevei (nord-vest), Câmpia Moldovei (nord-est) și Podișul Bârladului (sud). Orașe: Suceava, Iași, Bârlad, Vaslui."
+    },
+    {
+     "titlu": "Podișul Dobrogei",
+     "text": "Se află între Dunăre și Marea Neagră. În nord sunt Munții Măcinului, cei mai vechi munți din România: s-au format acum peste 250 de milioane de ani și au fost tociți de eroziune. Vârful Țuțuiatu (Greci) are 467 m.\nTot în nord: Dealurile Tulcei și Podișul Babadag. În sud: Podișul Casimcei (din șisturi verzi) și Podișul Medgidiei, traversat de Canalul Dunăre–Marea Neagră. Clima e secetoasă. Orașe: Constanța, Tulcea, Medgidia."
+    }
+   ],
+   "stiaiCa": "Munții Măcinului sunt munți hercinici, mult mai vechi decât Carpații. De aceea sunt atât de joși: au avut timp să fie erodați.",
+   "referintaProfesor": "Manual Art Klett, clasa a VIII-a, ediția 2025 (manuale.edu.ro), lecția „Podișul Moldovei și Podișul Dobrogei”"
+  },
+  {
+   "id": "VIII-S09-campia-vest-dealurile-vest",
+   "tip": "nivel",
+   "titlu": "Câmpia de Vest și Dealurile de Vest",
+   "descopera": {
+    "intrebare": "De ce în vestul țării plouă mai mult decât în Bărăgan, deși ambele sunt câmpii?"
+   },
+   "invata": [
+    {
+     "titlu": "Dealurile de Vest",
+     "text": "Fac trecerea dintre Carpații Occidentali și Câmpia de Vest. Se împart în Dealurile Silvaniei (nord), Dealurile Crișanei (centru) și Dealurile Banatului (sud)."
+    },
+    {
+     "titlu": "Câmpia de Vest",
+     "text": "Se întinde de-a lungul graniței cu Ungaria și Serbia. E o câmpie de acumulare: s-a format din aluviunile aduse de râurile care coboară din Carpații Occidentali (Someșul, Crișurile, Mureșul, Timișul).\nAre influențe climatice oceanice, deci e mai umedă. Zonele mlăștinoase au fost desecate. Predomină agricultura. Orașe: Timișoara, Arad, Oradea, Satu Mare."
+    }
+   ],
+   "stiaiCa": "În trecut, mari suprafețe din Banat erau mlaștini. Au fost desecate prin canale, iar azi sunt terenuri agricole.",
+   "referintaProfesor": "Manual Art Klett, clasa a VIII-a, ediția 2025 (manuale.edu.ro), lecția „Câmpia de Vest și Dealurile de Vest”"
+  },
+  {
+   "id": "VIII-S10-campia-romana",
+   "tip": "nivel",
+   "titlu": "Câmpia Română",
+   "descopera": {
+    "intrebare": "Orașul nostru e la marginea celei mai întinse câmpii a României. Cum se numește și de ce e atât de bună pentru agricultură?"
+   },
+   "invata": [
+    {
+     "titlu": "Poziție și subunități",
+     "text": "Câmpia Română e cea mai întinsă câmpie a țării. E mărginită la sud și la est de Dunăre (în nord-est și de Siret), iar la nord de Podișul Getic și de Subcarpați.\nDe la vest la est: Câmpia Olteniei, Câmpia Burnasului, Câmpia Vlăsiei (cu Bucureștiul) și Bărăganul. Râmnicu Sărat se află la marginea ei nordică, unde câmpia întâlnește Subcarpații de Curbură."
+    },
+    {
+     "titlu": "Roci, soluri, climă",
+     "text": "O mare parte a câmpiei e acoperită de loess, o rocă afânată, gălbuie. Pe loess s-au format cernoziomuri, soluri foarte fertile.\nÎn Bărăgan sunt crovuri, mici adâncituri rotunjite. Spre est clima devine mai uscată, cu secete frecvente; iarna bate crivățul, un vânt rece și uscat din est. De aceea se fac irigații."
+    }
+   ],
+   "stiaiCa": "Bărăganul e numit „grânarul țării” pentru culturile mari de cereale.",
+   "referintaProfesor": "Manual Art Klett, clasa a VIII-a, ediția 2025 (manuale.edu.ro), lecția „Câmpia Română”"
+  },
+  {
+   "id": "VIII-S11-delta-dunarii-platforma-continentala",
+   "tip": "nivel",
+   "titlu": "Delta Dunării și platforma continentală",
+   "descopera": {
+    "intrebare": "Cea mai nouă unitate de relief a României crește în fiecare an. Ce este și de ce crește?"
+   },
+   "invata": [
+    {
+     "titlu": "Delta Dunării",
+     "text": "Delta e cea mai nouă unitate de relief: s-a format din aluviunile depuse de Dunăre la vărsarea în Marea Neagră, și încă se formează.\nDunărea se desparte în trei brațe: Chilia (în nord, la granița cu Ucraina, cu cel mai mare debit), Sulina (în centru, rectificat pentru nave) și Sfântu Gheorghe (în sud).\nUscatul e format din grinduri, fâșii mai înalte de nisip și aluviuni, ca Letea și Caraorman. În sud se află Lacul Razim. Poarta deltei e orașul Tulcea."
+    },
+    {
+     "titlu": "Rezervație și platformă",
+     "text": "În 1990, Delta a devenit Rezervație a Biosferei, iar în 1991 a intrat pe Lista Patrimoniului Mondial UNESCO.\nÎn fața Deltei și a Dobrogei, sub mare, se întinde platforma continentală a Mării Negre, cu adâncimi mici. Din ea se extrag petrol și gaze naturale."
+    }
+   ],
+   "stiaiCa": "În Delta Dunării trăiesc peste 300 de specii de păsări, printre ele pelicanii.",
+   "referintaProfesor": "Manual Art Klett, clasa a VIII-a, ediția 2025 (manuale.edu.ro), lecția „Delta Dunării și platforma continentală a Mării Negre”"
+  },
+  {
+   "id": "VIII-S12-aplicatii-practice-studii-caz",
+   "tip": "expeditie",
+   "titlu": "Expediție: relieful și riscurile județului Buzău",
+   "descopera": {
+    "intrebare": "În același județ ai munți, dealuri și câmpie. Ce riscuri aduce fiecare?"
+   },
+   "invata": [
+    {
+     "titlu": "Ce faci în expediție",
+     "text": "Citești un profil de relief, cunoști riscurile din orizontul local, recapitulezi regulile pentru cutremur și explici rolul reliefului în dezvoltarea orașului nostru."
+    }
+   ],
+   "pasi": [
+    {
+     "titlu": "1. Treptele de relief ale județului",
+     "text": "Județul Buzău coboară de la munte, prin Subcarpații de Curbură, până în Câmpia Română.",
+     "itemi": [
+      "E12-01",
+      "E12-02"
+     ]
+    },
+    {
+     "titlu": "2. Riscurile din orizontul local",
+     "text": "În zona noastră se întâmplă cutremure (zona Vrancea), alunecări de teren pe dealuri, inundații și secete.",
+     "itemi": [
+      "E12-03",
+      "E12-04"
+     ],
+     "jurnal": {
+      "cerinta": "Descrie un loc din localitatea ta unde ai văzut urme de alunecare, de inundație sau de secetă (fără adrese exacte). Ce măsură ai propune?",
+      "foto": true
+     }
+    },
+    {
+     "titlu": "3. Cutremurele în România",
+     "text": "Cele mai multe cutremure puternice din România se produc în zona Vrancea, la adâncimi mari.",
+     "itemi": [
+      "E12-05"
+     ]
+    },
+    {
+     "titlu": "4. Rolul reliefului",
+     "text": "Gândește-te de ce s-au dezvoltat așezări la contactul dintre deal și câmpie.",
+     "jurnal": {
+      "cerinta": "Explică în 4–5 propoziții cum influențează relieful drumurile, agricultura și construcțiile din județul nostru."
+     }
+    }
+   ],
+   "referintaProfesor": "Manual Art Klett, clasa a VIII-a, ediția 2025 (manuale.edu.ro), lecția „Aplicații practice: profile geografice; relieful județului natal; riscuri”"
+  }
+ ],
+ "itemi": [
+  {
+   "id": "VIII3-01",
+   "nivel": "VIII-S03-relieful-caracteristici-generale",
+   "competente": [
+    "VIII-3.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 1,
+   "enunt": "Care e cel mai înalt vârf din România?",
+   "date": {
+    "variante": [
+     "Moldoveanu (2 544 m)",
+     "Negoiu",
+     "Omu",
+     "Pietrosul Rodnei"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Moldoveanu e în Munții Făgăraș."
+   },
+   "surse": [
+    "Encyclopaedia Britannica – Carpathian Mountains: Southern Carpathians (Moldoveanu 2 544 m)",
+    "Wikipedia (ro) – Vârful Moldoveanu"
+   ]
+  },
+  {
+   "id": "VIII3-02",
+   "nivel": "VIII-S03-relieful-caracteristici-generale",
+   "competente": [
+    "VIII-3.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce proporție au treptele de relief ale României?",
+   "date": {
+    "variante": [
+     "aproximativ o treime munți, o treime dealuri și podișuri, o treime câmpii",
+     "90 % munți",
+     "doar câmpii",
+     "jumătate deșert"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Relief proporționat și armonios."
+   }
+  },
+  {
+   "id": "VIII3-03",
+   "nivel": "VIII-S03-relieful-caracteristici-generale",
+   "competente": [
+    "VIII-2.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Cum e dispus relieful României?",
+   "date": {
+    "variante": [
+     "concentric, în trepte, în jurul Depresiunii Transilvaniei",
+     "haotic",
+     "doar în linie dreaptă de la nord la sud",
+     "totul la aceeași altitudine"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Ca un amfiteatru."
+   }
+  },
+  {
+   "id": "VIII3-04",
+   "nivel": "VIII-S03-relieful-caracteristici-generale",
+   "competente": [
+    "VIII-2.2"
+   ],
+   "tip": "ordoneaza",
+   "dificultate": 2,
+   "enunt": "Ordonează treptele de relief de la centru spre exterior.",
+   "date": {
+    "elemente": [
+     "Depresiunea Colinară a Transilvaniei",
+     "Carpații",
+     "Subcarpații, dealurile și podișurile",
+     "câmpiile",
+     "Delta Dunării"
+    ],
+    "criteriu": "Dispunere concentrică"
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "De la centru spre margini."
+   }
+  },
+  {
+   "id": "VIII3-05",
+   "nivel": "VIII-S03-relieful-caracteristici-generale",
+   "competente": [
+    "VIII-3.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Unde se află cele mai vechi roci din România?",
+   "date": {
+    "variante": [
+     "în Munții Măcinului",
+     "în Delta Dunării",
+     "în Câmpia Română",
+     "în Munții Bucegi"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Munții Măcinului sunt resturile unor munți foarte vechi."
+   }
+  },
+  {
+   "id": "VIII3-06",
+   "nivel": "VIII-S03-relieful-caracteristici-generale",
+   "competente": [
+    "VIII-3.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Care e cea mai nouă unitate de relief a României?",
+   "date": {
+    "variante": [
+     "Delta Dunării",
+     "Munții Măcinului",
+     "Carpații",
+     "Podișul Moldovei"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Delta se formează și acum."
+   }
+  },
+  {
+   "id": "VIII3-07",
+   "nivel": "VIII-S03-relieful-caracteristici-generale",
+   "competente": [
+    "VIII-3.1"
+   ],
+   "tip": "asociaza",
+   "dificultate": 2,
+   "enunt": "Asociază tipul de relief cu un exemplu.",
+   "date": {
+    "perechi": [
+     [
+      "vulcanic",
+      "Munții Călimani"
+     ],
+     [
+      "carstic",
+      "Munții Apuseni"
+     ],
+     [
+      "glaciar",
+      "Munții Retezat"
+     ],
+     [
+      "pe conglomerate",
+      "Ceahlău, Bucegi"
+     ]
+    ]
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Relieful după rocă și agent."
+   }
+  },
+  {
+   "id": "VIII3-08",
+   "nivel": "VIII-S03-relieful-caracteristici-generale",
+   "competente": [
+    "VIII-3.2"
+   ],
+   "tip": "asociaza",
+   "dificultate": 2,
+   "enunt": "Asociază agentul modelator cu forma de relief.",
+   "date": {
+    "perechi": [
+     [
+      "râul",
+      "vale"
+     ],
+     [
+      "ghețarul",
+      "căldare glaciară"
+     ],
+     [
+      "vântul",
+      "dună"
+     ],
+     [
+      "apa care dizolvă calcarul",
+      "peșteră"
+     ]
+    ]
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Agenți și forme."
+   }
+  },
+  {
+   "id": "VIII3-09",
+   "nivel": "VIII-S03-relieful-caracteristici-generale",
+   "competente": [
+    "VIII-3.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce fenomen natural rar se întâlnește la Berca–Pâclele, în județul Buzău?",
+   "date": {
+    "variante": [
+     "vulcanii noroioși",
+     "gheizerele",
+     "ghețarii activi",
+     "dunele de nisip"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Gazele din adânc împing noroi la suprafață."
+   },
+   "surse": [
+    "Euronews România – Buzău, județul vulcanilor noroioși",
+    "Adevărul (ediția Buzău) – Vulcanii Noroioși"
+   ]
+  },
+  {
+   "id": "VIII3-10",
+   "nivel": "VIII-S03-relieful-caracteristici-generale",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "pin",
+   "dificultate": 2,
+   "enunt": "Atinge pe harta României vârful Moldoveanu.",
+   "date": {
+    "harta": "romania",
+    "tinta": {
+     "lat": 45.6,
+     "lon": 24.74,
+     "nume": "Vârful Moldoveanu"
+    },
+    "toleranta": 40
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Moldoveanu e în Munții Făgăraș."
+   },
+   "surse": [
+    "Encyclopaedia Britannica – Carpathian Mountains: Southern Carpathians (Moldoveanu 2 544 m)",
+    "Wikipedia (ro) – Vârful Moldoveanu"
+   ]
+  },
+  {
+   "id": "VIII3-11",
+   "nivel": "VIII-S03-relieful-caracteristici-generale",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "pin",
+   "dificultate": 2,
+   "enunt": "Atinge pe harta României Vulcanii Noroioși de la Berca–Pâclele.",
+   "date": {
+    "harta": "romania",
+    "tinta": {
+     "lat": 45.35,
+     "lon": 26.7,
+     "nume": "Vulcanii Noroioși"
+    },
+    "toleranta": 35
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Sunt în Subcarpații Buzăului."
+   },
+   "surse": [
+    "Euronews România – Buzău, județul vulcanilor noroioși",
+    "Adevărul (ediția Buzău) – Vulcanii Noroioși"
+   ]
+  },
+  {
+   "id": "VIII3-12",
+   "nivel": "VIII-S03-relieful-caracteristici-generale",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "pin",
+   "dificultate": 3,
+   "enunt": "Atinge pe harta României Munții Măcinului.",
+   "date": {
+    "harta": "romania",
+    "tinta": {
+     "lat": 45.2,
+     "lon": 28.3,
+     "nume": "Munții Măcinului"
+    },
+    "toleranta": 45
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Sunt în nord-vestul Dobrogei."
+   }
+  },
+  {
+   "id": "VIII3-13",
+   "nivel": "VIII-S03-relieful-caracteristici-generale",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "pin",
+   "dificultate": 3,
+   "enunt": "Atinge pe harta României Depresiunea Colinară a Transilvaniei.",
+   "date": {
+    "harta": "romania",
+    "tinta": {
+     "lat": 46.6,
+     "lon": 24.4,
+     "nume": "Depresiunea Transilvaniei"
+    },
+    "toleranta": 70
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "În centrul țării, înconjurată de Carpați."
+   }
+  },
+  {
+   "id": "VIII3-14",
+   "nivel": "VIII-S03-relieful-caracteristici-generale",
+   "competente": [
+    "VIII-3.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce proces afectează des versanții din Subcarpați după ploi mari?",
+   "date": {
+    "variante": [
+     "alunecările de teren",
+     "erupțiile vulcanice",
+     "avalanșele de nisip",
+     "tsunami-urile"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Rocile argiloase alunecă ușor."
+   }
+  },
+  {
+   "id": "VIII3-15",
+   "nivel": "VIII-S03-relieful-caracteristici-generale",
+   "competente": [
+    "VIII-3.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Unde se află dune de nisip în România?",
+   "date": {
+    "variante": [
+     "la Hanu Conachi (Galați) și în zona Carei (Satu Mare)",
+     "în Munții Făgăraș",
+     "în Delta, pe vârfuri de munte",
+     "nu există"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Formate de vânt."
+   }
+  },
+  {
+   "id": "VIII3-16",
+   "nivel": "VIII-S03-relieful-caracteristici-generale",
+   "competente": [
+    "VIII-3.4"
+   ],
+   "tip": "alegere",
+   "dificultate": 3,
+   "enunt": "Ce înseamnă relief antropic?",
+   "date": {
+    "variante": [
+     "relief creat sau modificat de om: cariere, haldele de steril, terase, diguri",
+     "relief vulcanic",
+     "relief glaciar",
+     "relief marin"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Antropic = făcut de om."
+   }
+  },
+  {
+   "id": "VIII3-17",
+   "nivel": "VIII-S03-relieful-caracteristici-generale",
+   "competente": [
+    "VIII-3.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Adevărat sau fals? Carpații sunt munți tineri, de aceeași vârstă cu Alpii.",
+   "date": {
+    "variante": [
+     "Adevărat",
+     "Fals"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Adevărat."
+   }
+  },
+  {
+   "id": "VIII3-18",
+   "nivel": "VIII-S03-relieful-caracteristici-generale",
+   "competente": [
+    "VIII-3.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Adevărat sau fals? Relieful României e dominat de munți foarte înalți, de peste 4 000 m.",
+   "date": {
+    "variante": [
+     "Fals",
+     "Adevărat"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Fals: vârful maxim e 2 544 m, iar relieful e proporționat."
+   }
+  },
+  {
+   "id": "VIII3-19",
+   "nivel": "VIII-S03-relieful-caracteristici-generale",
+   "competente": [
+    "VIII-3.1"
+   ],
+   "tip": "lacunar",
+   "dificultate": 2,
+   "enunt": "Completează.",
+   "date": {
+    "text": "Cel mai înalt vârf din România este {0}, în Munții {1}.",
+    "raspunsuri": [
+     "Moldoveanu",
+     "Făgăraș"
+    ],
+    "distractori": [
+     "Omu",
+     "Bucegi"
+    ]
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Moldoveanu, Făgăraș."
+   },
+   "surse": [
+    "Encyclopaedia Britannica – Carpathian Mountains: Southern Carpathians (Moldoveanu 2 544 m)",
+    "Wikipedia (ro) – Vârful Moldoveanu"
+   ]
+  },
+  {
+   "id": "VIII3-20",
+   "nivel": "VIII-S03-relieful-caracteristici-generale",
+   "competente": [
+    "VIII-3.1"
+   ],
+   "tip": "lacunar",
+   "dificultate": 2,
+   "enunt": "Completează.",
+   "date": {
+    "text": "Cele mai vechi roci sunt în Munții {0}, iar cea mai nouă unitate de relief este {1}.",
+    "raspunsuri": [
+     "Măcinului",
+     "Delta Dunării"
+    ],
+    "distractori": [
+     "Apuseni",
+     "Câmpia Română"
+    ]
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Vechi și nou."
+   }
+  },
+  {
+   "id": "VIII3-21",
+   "nivel": "VIII-S03-relieful-caracteristici-generale",
+   "competente": [
+    "VIII-2.3"
+   ],
+   "tip": "grafic",
+   "dificultate": 3,
+   "enunt": "Profilul schematic arată relieful de la Munții Făgăraș până la Dunăre (valori aproximative). Ordonează treptele.",
+   "date": {
+    "grafic": {
+     "tip": "profil",
+     "titlu": "Profil schematic Făgăraș – Dunăre",
+     "date": [
+      {
+       "eticheta": "Făgăraș",
+       "valoare": 2500
+      },
+      {
+       "eticheta": "Subcarpați",
+       "valoare": 700
+      },
+      {
+       "eticheta": "Podișul Getic",
+       "valoare": 400
+      },
+      {
+       "eticheta": "Câmpia Română",
+       "valoare": 100
+      },
+      {
+       "eticheta": "Dunărea",
+       "valoare": 20
+      }
+     ],
+     "unitate": "m"
+    },
+    "variante": [
+     "munți – Subcarpați – podiș – câmpie – Dunăre",
+     "câmpie – munți – podiș",
+     "Dunăre – munți – câmpie",
+     "podiș – câmpie – munți"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Treptele coboară spre Dunăre."
+   }
+  },
+  {
+   "id": "VIII3-22",
+   "nivel": "VIII-S03-relieful-caracteristici-generale",
+   "competente": [
+    "VIII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "De ce relieful variat e un avantaj pentru România?",
+   "date": {
+    "variante": [
+     "oferă resurse diverse: păduri și pășuni la munte, livezi și vii pe dealuri, cereale la câmpie",
+     "nu e un avantaj",
+     "împiedică orice agricultură",
+     "face țara mai frigului"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Varietatea reliefului = varietatea economiei."
+   }
+  },
+  {
+   "id": "VIII3-23",
+   "nivel": "VIII-S03-relieful-caracteristici-generale",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "denumeste",
+   "dificultate": 2,
+   "enunt": "Ce munți vulcanici din Carpații Orientali sunt marcați pe hartă?",
+   "date": {
+    "harta": "romania",
+    "punct": {
+     "lat": 47.1,
+     "lon": 25.3
+    },
+    "variante": [
+     "Munții Călimani",
+     "Munții Bucegi",
+     "Munții Retezat",
+     "Munții Apuseni"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Călimani fac parte din lanțul vulcanic Oaș–Harghita."
+   }
+  },
+  {
+   "id": "VIII3-24",
+   "nivel": "VIII-S03-relieful-caracteristici-generale",
+   "competente": [
+    "VIII-3.4"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce parc național e primul din România (1935)?",
+   "date": {
+    "variante": [
+     "Parcul Național Retezat",
+     "Parcul Natural Apuseni",
+     "Delta Dunării",
+     "Parcul Bucegi"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Retezat are peste 80 de lacuri glaciare."
+   },
+   "surse": [
+    "Parcul Național Retezat (retezat.ro) – istoric: primul parc național (1935)",
+    "Wikipedia (ro) – Parcul Național Retezat"
+   ]
+  },
+  {
+   "id": "VIII3-25",
+   "nivel": "VIII-S03-relieful-caracteristici-generale",
+   "competente": [
+    "VIII-3.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce rocă formează Ceahlăul și Bucegii, cu forme spectaculoase (Babele, Sfinxul)?",
+   "date": {
+    "variante": [
+     "conglomeratele",
+     "sarea",
+     "lava",
+     "nisipul"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Babele și Sfinxul au fost sculptate de vânt și îngheț."
+   }
+  },
+  {
+   "id": "VIII3-26",
+   "nivel": "VIII-S03-relieful-caracteristici-generale",
+   "competente": [
+    "VIII-3.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce forme de relief s-au format pe sare?",
+   "date": {
+    "variante": [
+     "masive de sare, lacuri sărate, „munți de sare” (Slănic)",
+     "vulcani",
+     "fiorduri",
+     "atoli"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Sarea se dizolvă ușor."
+   }
+  },
+  {
+   "id": "VIII3-27",
+   "nivel": "VIII-S03-relieful-caracteristici-generale",
+   "competente": [
+    "VIII-4.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 3,
+   "enunt": "De ce Delta Dunării crește spre mare?",
+   "date": {
+    "variante": [
+     "Dunărea depune aluviuni la vărsare",
+     "valurile aduc nisip din Turcia",
+     "se ridică scoarța rapid",
+     "o construiesc oamenii"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Aluviunile formează uscat nou."
+   }
+  },
+  {
+   "id": "VIII3-28",
+   "nivel": "VIII-S03-relieful-caracteristici-generale",
+   "competente": [
+    "VIII-4.4"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Cum reduc oamenii eroziunea pe versanți?",
+   "date": {
+    "variante": [
+     "plantează păduri, fac terase, construiesc drenaje",
+     "taie pădurile",
+     "ară de sus în jos",
+     "nu fac nimic"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Protejarea solului."
+   }
+  },
+  {
+   "id": "VIII3-29",
+   "nivel": "VIII-S03-relieful-caracteristici-generale",
+   "competente": [
+    "VIII-2.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce culoare au pe harta fizică a României Carpații?",
+   "date": {
+    "variante": [
+     "maro",
+     "verde",
+     "albastru",
+     "galben deschis"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Maroul arată altitudinile mari."
+   }
+  },
+  {
+   "id": "VIII3-30",
+   "nivel": "VIII-S03-relieful-caracteristici-generale",
+   "competente": [
+    "VIII-3.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce sunt depresiunile intramontane?",
+   "date": {
+    "variante": [
+     "zone mai joase înconjurate de munți, locuite din vechime",
+     "vârfuri foarte înalte",
+     "lacuri sărate",
+     "dune"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Exemple: Țara Bârsei, Depresiunea Petroșani, Depresiunea Maramureșului."
+   }
+  },
+  {
+   "id": "VIII4-01",
+   "nivel": "VIII-S04-unitatile-majore-relief-carpatii",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "asociaza",
+   "dificultate": 2,
+   "enunt": "Asociază grupa Carpaților cu vârful cel mai înalt.",
+   "date": {
+    "perechi": [
+     [
+      "Carpații Orientali",
+      "Pietrosul Rodnei (2 303 m)"
+     ],
+     [
+      "Carpații Meridionali",
+      "Moldoveanu (2 544 m)"
+     ],
+     [
+      "Carpații Occidentali",
+      "Curcubăta Mare (1 849 m)"
+     ]
+    ]
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Vârfurile maxime."
+   },
+   "surse": [
+    "Parcul Național Munții Rodnei – prezentare (Pietrosul Rodnei 2 303 m)",
+    "Wikipedia (ro) – Vârful Pietrosul Rodnei"
+   ]
+  },
+  {
+   "id": "VIII4-02",
+   "nivel": "VIII-S04-unitatile-majore-relief-carpatii",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 1,
+   "enunt": "Care grupă a Carpaților e cea mai înaltă?",
+   "date": {
+    "variante": [
+     "Carpații Meridionali",
+     "Carpații Orientali",
+     "Carpații Occidentali",
+     "Munții Măcinului"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Au cele mai multe vârfuri de peste 2 500 m."
+   }
+  },
+  {
+   "id": "VIII4-03",
+   "nivel": "VIII-S04-unitatile-majore-relief-carpatii",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce vale desparte Carpații Orientali de Carpații Meridionali?",
+   "date": {
+    "variante": [
+     "Valea Prahovei",
+     "Valea Oltului",
+     "Valea Mureșului",
+     "Valea Jiului"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Pe Valea Prahovei sunt Sinaia, Bușteni, Azuga."
+   }
+  },
+  {
+   "id": "VIII4-04",
+   "nivel": "VIII-S04-unitatile-majore-relief-carpatii",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce culoar desparte Carpații Meridionali de Carpații Occidentali?",
+   "date": {
+    "variante": [
+     "Culoarul Timiș–Cerna",
+     "Valea Prahovei",
+     "Valea Bistriței",
+     "Valea Someșului"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Culoarul face legătura Banat–Oltenia."
+   }
+  },
+  {
+   "id": "VIII4-05",
+   "nivel": "VIII-S04-unitatile-majore-relief-carpatii",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Din ce grupă a Carpaților fac parte Munții Buzăului?",
+   "date": {
+    "variante": [
+     "Carpații de Curbură (grupa sudică a Carpaților Orientali)",
+     "Carpații Meridionali",
+     "Carpații Occidentali",
+     "Munții Apuseni"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Munții Buzăului, Siriu, Penteleu, Podu Calului sunt în Curbură."
+   }
+  },
+  {
+   "id": "VIII4-06",
+   "nivel": "VIII-S04-unitatile-majore-relief-carpatii",
+   "competente": [
+    "VIII-3.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce munți vulcanici se află în Carpații Orientali?",
+   "date": {
+    "variante": [
+     "Oaș, Gutâi, Țibleș, Călimani, Gurghiu, Harghita",
+     "Bucegi, Piatra Craiului",
+     "Retezat, Parâng",
+     "Măcin, Babadag"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Cel mai lung lanț vulcanic din Europa."
+   }
+  },
+  {
+   "id": "VIII4-07",
+   "nivel": "VIII-S04-unitatile-majore-relief-carpatii",
+   "competente": [
+    "VIII-3.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce relief e tipic Munților Apuseni?",
+   "date": {
+    "variante": [
+     "carstic, cu peșteri și chei",
+     "vulcanic activ",
+     "glaciar cu ghețari actuali",
+     "de dune"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Calcarele sunt dizolvate de apă."
+   }
+  },
+  {
+   "id": "VIII4-08",
+   "nivel": "VIII-S04-unitatile-majore-relief-carpatii",
+   "competente": [
+    "VIII-3.4"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce peșteră din Apuseni are un ghețar subteran?",
+   "date": {
+    "variante": [
+     "Scărișoara",
+     "Peștera Urșilor",
+     "Peștera Muierii",
+     "Peștera Polovragi"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Ghețarul are mii de ani."
+   },
+   "surse": [
+    "Parcul Natural Apuseni – Peștera Ghețarul Scărișoara",
+    "Wikipedia (ro) – Peștera Scărișoara"
+   ]
+  },
+  {
+   "id": "VIII4-09",
+   "nivel": "VIII-S04-unitatile-majore-relief-carpatii",
+   "competente": [
+    "VIII-3.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce relief e tipic în Retezat, Făgăraș, Parâng și Rodnei?",
+   "date": {
+    "variante": [
+     "glaciar: căldări, lacuri glaciare, văi în U",
+     "vulcanic",
+     "de dune",
+     "carstic marin"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Ghețarii au existat aici în trecut."
+   }
+  },
+  {
+   "id": "VIII4-10",
+   "nivel": "VIII-S04-unitatile-majore-relief-carpatii",
+   "competente": [
+    "VIII-3.4"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Care e cel mai înalt vârf al Munților Retezat?",
+   "date": {
+    "variante": [
+     "Peleaga (2 509 m)",
+     "Moldoveanu",
+     "Omu",
+     "Ceahlău"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Retezat are peste 80 de lacuri glaciare."
+   },
+   "surse": [
+    "Parcul Național Retezat (retezat.ro) – istoric: primul parc național (1935)",
+    "Wikipedia (ro) – Parcul Național Retezat"
+   ]
+  },
+  {
+   "id": "VIII4-11",
+   "nivel": "VIII-S04-unitatile-majore-relief-carpatii",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "pin",
+   "dificultate": 2,
+   "enunt": "Atinge pe harta României Munții Apuseni.",
+   "date": {
+    "harta": "romania",
+    "tinta": {
+     "lat": 46.5,
+     "lon": 22.8,
+     "nume": "Munții Apuseni"
+    },
+    "toleranta": 60
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Apusenii sunt în vestul Transilvaniei."
+   }
+  },
+  {
+   "id": "VIII4-12",
+   "nivel": "VIII-S04-unitatile-majore-relief-carpatii",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "pin",
+   "dificultate": 2,
+   "enunt": "Atinge pe harta României Munții Retezat.",
+   "date": {
+    "harta": "romania",
+    "tinta": {
+     "lat": 45.37,
+     "lon": 22.85,
+     "nume": "Munții Retezat"
+    },
+    "toleranta": 40
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Retezatul e în județul Hunedoara."
+   },
+   "surse": [
+    "Parcul Național Retezat (retezat.ro) – istoric: primul parc național (1935)",
+    "Wikipedia (ro) – Parcul Național Retezat"
+   ]
+  },
+  {
+   "id": "VIII4-13",
+   "nivel": "VIII-S04-unitatile-majore-relief-carpatii",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "pin",
+   "dificultate": 2,
+   "enunt": "Atinge pe harta României Munții Rodnei.",
+   "date": {
+    "harta": "romania",
+    "tinta": {
+     "lat": 47.55,
+     "lon": 24.7,
+     "nume": "Munții Rodnei"
+    },
+    "toleranta": 45
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Munții Rodnei sunt în nordul Carpaților Orientali."
+   },
+   "surse": [
+    "Parcul Național Munții Rodnei – prezentare (Pietrosul Rodnei 2 303 m)",
+    "Wikipedia (ro) – Vârful Pietrosul Rodnei"
+   ]
+  },
+  {
+   "id": "VIII4-14",
+   "nivel": "VIII-S04-unitatile-majore-relief-carpatii",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "pin",
+   "dificultate": 3,
+   "enunt": "Atinge pe harta României Munții Buzăului.",
+   "date": {
+    "harta": "romania",
+    "tinta": {
+     "lat": 45.5,
+     "lon": 26.35,
+     "nume": "Munții Buzăului"
+    },
+    "toleranta": 45
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "În Carpații de Curbură, la nord-vest de Buzău."
+   }
+  },
+  {
+   "id": "VIII4-15",
+   "nivel": "VIII-S04-unitatile-majore-relief-carpatii",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "pin",
+   "dificultate": 3,
+   "enunt": "Atinge pe harta României Ceahlăul.",
+   "date": {
+    "harta": "romania",
+    "tinta": {
+     "lat": 46.98,
+     "lon": 25.95,
+     "nume": "Ceahlău"
+    },
+    "toleranta": 35
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Ceahlăul e în județul Neamț."
+   }
+  },
+  {
+   "id": "VIII4-16",
+   "nivel": "VIII-S04-unitatile-majore-relief-carpatii",
+   "competente": [
+    "VIII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce resurse are Depresiunea Colinară a Transilvaniei?",
+   "date": {
+    "variante": [
+     "gaze naturale și sare",
+     "petrol din abundență și aur",
+     "cărbune și uraniu",
+     "nimic"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Gazul metan din Transilvania e foarte curat."
+   }
+  },
+  {
+   "id": "VIII4-17",
+   "nivel": "VIII-S04-unitatile-majore-relief-carpatii",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce subunități are Depresiunea Colinară a Transilvaniei?",
+   "date": {
+    "variante": [
+     "Podișul Someșan, Câmpia Transilvaniei, Podișul Târnavelor",
+     "Bărăganul, Burnasul",
+     "Podișul Bârladului, Câmpia Moldovei",
+     "Podișul Mehedinți, Podișul Getic"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Câmpia Transilvaniei e de fapt un relief deluros."
+   }
+  },
+  {
+   "id": "VIII4-18",
+   "nivel": "VIII-S04-unitatile-majore-relief-carpatii",
+   "competente": [
+    "VIII-3.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Adevărat sau fals? Carpații Occidentali sunt mai înalți decât Carpații Meridionali.",
+   "date": {
+    "variante": [
+     "Fals",
+     "Adevărat"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Fals: sunt mai joși și mai fragmentați."
+   }
+  },
+  {
+   "id": "VIII4-19",
+   "nivel": "VIII-S04-unitatile-majore-relief-carpatii",
+   "competente": [
+    "VIII-3.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Adevărat sau fals? „Câmpia Transilvaniei” e, de fapt, o regiune de dealuri joase.",
+   "date": {
+    "variante": [
+     "Adevărat",
+     "Fals"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Adevărat: numele e tradițional."
+   }
+  },
+  {
+   "id": "VIII4-20",
+   "nivel": "VIII-S04-unitatile-majore-relief-carpatii",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "lacunar",
+   "dificultate": 2,
+   "enunt": "Completează.",
+   "date": {
+    "text": "Carpații Orientali se termină la Valea {0}; cel mai înalt vârf al lor e {1}.",
+    "raspunsuri": [
+     "Prahovei",
+     "Pietrosul Rodnei"
+    ],
+    "distractori": [
+     "Oltului",
+     "Moldoveanu"
+    ]
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Prahova și Pietrosul."
+   },
+   "surse": [
+    "Parcul Național Munții Rodnei – prezentare (Pietrosul Rodnei 2 303 m)",
+    "Wikipedia (ro) – Vârful Pietrosul Rodnei"
+   ]
+  },
+  {
+   "id": "VIII4-21",
+   "nivel": "VIII-S04-unitatile-majore-relief-carpatii",
+   "competente": [
+    "VIII-3.1"
+   ],
+   "tip": "lacunar",
+   "dificultate": 2,
+   "enunt": "Completează.",
+   "date": {
+    "text": "Munții Apuseni au relief {0}; Munții Călimani au relief {1}.",
+    "raspunsuri": [
+     "carstic",
+     "vulcanic"
+    ],
+    "distractori": [
+     "glaciar",
+     "dunar"
+    ]
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Carstic și vulcanic."
+   }
+  },
+  {
+   "id": "VIII4-22",
+   "nivel": "VIII-S04-unitatile-majore-relief-carpatii",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "ordoneaza",
+   "dificultate": 3,
+   "enunt": "Ordonează grupele Carpaților după altitudinea vârfului maxim, descrescător.",
+   "date": {
+    "elemente": [
+     "Carpații Meridionali",
+     "Carpații Orientali",
+     "Carpații Occidentali"
+    ],
+    "criteriu": "Altitudine, descrescător"
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "2 544 m, 2 303 m, 1 849 m."
+   },
+   "surse": [
+    "Encyclopaedia Britannica – Carpathian Mountains: Southern Carpathians (Moldoveanu 2 544 m)",
+    "Wikipedia (ro) – Vârful Moldoveanu"
+   ]
+  },
+  {
+   "id": "VIII4-23",
+   "nivel": "VIII-S04-unitatile-majore-relief-carpatii",
+   "competente": [
+    "VIII-2.3"
+   ],
+   "tip": "grafic",
+   "dificultate": 3,
+   "enunt": "Graficul compară vârfurile maxime ale grupelor carpatice. Cu cât e mai înalt Moldoveanu decât Curcubăta Mare?",
+   "date": {
+    "grafic": {
+     "tip": "bare",
+     "titlu": "Vârfuri maxime ale Carpaților românești",
+     "date": [
+      {
+       "eticheta": "Moldoveanu",
+       "valoare": 2544
+      },
+      {
+       "eticheta": "Pietrosul Rodnei",
+       "valoare": 2303
+      },
+      {
+       "eticheta": "Curcubăta Mare",
+       "valoare": 1849
+      }
+     ],
+     "unitate": "m"
+    },
+    "variante": [
+     "cu 695 m",
+     "cu 241 m",
+     "cu 454 m",
+     "cu 1 849 m"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "2 544 − 1 849 = 695."
+   },
+   "surse": [
+    "Parcul Natural Apuseni – prezentare",
+    "Wikipedia (ro) – Vârful Curcubăta Mare"
+   ]
+  },
+  {
+   "id": "VIII4-24",
+   "nivel": "VIII-S04-unitatile-majore-relief-carpatii",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "denumeste",
+   "dificultate": 2,
+   "enunt": "Ce depresiune intramontană mare, cu orașul Brașov, e marcată pe hartă?",
+   "date": {
+    "harta": "romania",
+    "punct": {
+     "lat": 45.75,
+     "lon": 25.7
+    },
+    "variante": [
+     "Depresiunea Brașov (Țara Bârsei)",
+     "Depresiunea Petroșani",
+     "Depresiunea Maramureșului",
+     "Depresiunea Ciuc"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Cea mai mare depresiune intramontană."
+   }
+  },
+  {
+   "id": "VIII4-25",
+   "nivel": "VIII-S04-unitatile-majore-relief-carpatii",
+   "competente": [
+    "VIII-4.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 3,
+   "enunt": "Compară Carpații Meridionali cu Carpații Occidentali.",
+   "date": {
+    "variante": [
+     "Meridionalii sunt mai înalți, masivi, cu relief glaciar; Occidentalii sunt mai joși, fragmentați, cu relief carstic",
+     "sunt identici",
+     "Occidentalii sunt mai înalți",
+     "Meridionalii sunt vulcanici"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Diferențe de altitudine și roci."
+   }
+  },
+  {
+   "id": "VIII4-26",
+   "nivel": "VIII-S04-unitatile-majore-relief-carpatii",
+   "competente": [
+    "VIII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce pas leagă Transilvania de Muntenia pe Valea Prahovei?",
+   "date": {
+    "variante": [
+     "Pasul Predeal",
+     "Pasul Prislop",
+     "Pasul Tihuța",
+     "Pasul Vâlcan"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Pe aici trec calea ferată și DN1."
+   }
+  },
+  {
+   "id": "VIII4-27",
+   "nivel": "VIII-S04-unitatile-majore-relief-carpatii",
+   "competente": [
+    "VIII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce drum spectaculos traversează Munții Făgăraș?",
+   "date": {
+    "variante": [
+     "Transfăgărășanul",
+     "Transalpina",
+     "DN1",
+     "Autostrada A1"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Leagă Argeșul de Sibiu, pe lângă Lacul Bâlea."
+   }
+  },
+  {
+   "id": "VIII4-28",
+   "nivel": "VIII-S04-unitatile-majore-relief-carpatii",
+   "competente": [
+    "VIII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce drum urcă cel mai sus în România, prin Munții Parâng?",
+   "date": {
+    "variante": [
+     "Transalpina",
+     "Transfăgărășanul",
+     "DN1",
+     "Valea Oltului"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Ajunge la peste 2 100 m."
+   }
+  },
+  {
+   "id": "VIII4-29",
+   "nivel": "VIII-S04-unitatile-majore-relief-carpatii",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Prin ce defileu traversează Oltul Carpații Meridionali?",
+   "date": {
+    "variante": [
+     "Defileul Oltului (Turnu Roșu – Cozia)",
+     "Cheile Bicazului",
+     "Defileul Dunării",
+     "Cheile Turzii"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Râul a tăiat munții."
+   }
+  },
+  {
+   "id": "VIII4-30",
+   "nivel": "VIII-S04-unitatile-majore-relief-carpatii",
+   "competente": [
+    "VIII-3.4"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce chei celebre se află în Carpații Orientali, lângă Lacul Roșu?",
+   "date": {
+    "variante": [
+     "Cheile Bicazului",
+     "Cheile Turzii",
+     "Cheile Nerei",
+     "Cheile Râșnoavei"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Pereți de calcar de sute de metri."
+   }
+  },
+  {
+   "id": "VIII6-01",
+   "nivel": "VIII-S06-subcarpatii-podisul-getic-podisul",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 1,
+   "enunt": "Ce sunt Subcarpații?",
+   "date": {
+    "variante": [
+     "dealuri înalte situate la exteriorul Carpaților",
+     "munți vulcanici",
+     "câmpii joase",
+     "podișuri de calcar"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "„Sub” Carpați, la poalele lor."
+   }
+  },
+  {
+   "id": "VIII6-02",
+   "nivel": "VIII-S06-subcarpatii-podisul-getic-podisul",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "asociaza",
+   "dificultate": 2,
+   "enunt": "Asociază ramura Subcarpaților cu poziția ei.",
+   "date": {
+    "perechi": [
+     [
+      "Subcarpații Moldovei",
+      "nord-est"
+     ],
+     [
+      "Subcarpații de Curbură",
+      "la cotul Carpaților, inclusiv în Buzău"
+     ],
+     [
+      "Subcarpații Getici",
+      "sud, între Dâmbovița și Motru"
+     ]
+    ]
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Cele trei ramuri."
+   }
+  },
+  {
+   "id": "VIII6-03",
+   "nivel": "VIII-S06-subcarpatii-podisul-getic-podisul",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "În ce ramură a Subcarpaților se află Vulcanii Noroioși?",
+   "date": {
+    "variante": [
+     "Subcarpații de Curbură",
+     "Subcarpații Getici",
+     "Subcarpații Moldovei",
+     "Podișul Mehedinți"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "La Berca–Pâclele, județul Buzău."
+   },
+   "surse": [
+    "Euronews România – Buzău, județul vulcanilor noroioși",
+    "Adevărul (ediția Buzău) – Vulcanii Noroioși"
+   ]
+  },
+  {
+   "id": "VIII6-04",
+   "nivel": "VIII-S06-subcarpatii-podisul-getic-podisul",
+   "competente": [
+    "VIII-3.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "De ce în Subcarpați sunt frecvente alunecările de teren?",
+   "date": {
+    "variante": [
+     "rocile sunt moi (argile, marne), iar pantele sunt mari",
+     "sunt vulcani activi",
+     "e deșert",
+     "sunt ghețari"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "După ploi mari, terenul alunecă."
+   }
+  },
+  {
+   "id": "VIII6-05",
+   "nivel": "VIII-S06-subcarpatii-podisul-getic-podisul",
+   "competente": [
+    "VIII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce podgorie cunoscută se află în Subcarpații de Curbură?",
+   "date": {
+    "variante": [
+     "Dealu Mare",
+     "Murfatlar",
+     "Cotnari",
+     "Recaș"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Între Prahova și Buzău."
+   }
+  },
+  {
+   "id": "VIII6-06",
+   "nivel": "VIII-S06-subcarpatii-podisul-getic-podisul",
+   "competente": [
+    "VIII-1.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce este un piemont?",
+   "date": {
+    "variante": [
+     "o întindere formată din pietrișuri și nisipuri cărate de râuri din munți și depuse la poalele lor",
+     "un vârf de munte",
+     "un lac glaciar",
+     "un vulcan"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Podișul Getic e format din piemonturi."
+   }
+  },
+  {
+   "id": "VIII6-07",
+   "nivel": "VIII-S06-subcarpatii-podisul-getic-podisul",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Între ce râuri se află Podișul Getic?",
+   "date": {
+    "variante": [
+     "între Dâmbovița și Dunăre (Motru)",
+     "între Prut și Siret",
+     "între Mureș și Someș",
+     "între Ialomița și Buzău"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "În sudul Subcarpaților Getici."
+   }
+  },
+  {
+   "id": "VIII6-08",
+   "nivel": "VIII-S06-subcarpatii-podisul-getic-podisul",
+   "competente": [
+    "VIII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce resurse are Podișul Getic?",
+   "date": {
+    "variante": [
+     "petrol, gaze și lignit",
+     "aur și argint",
+     "sare din abundență",
+     "diamante"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Lignitul e exploatat în Oltenia."
+   }
+  },
+  {
+   "id": "VIII6-09",
+   "nivel": "VIII-S06-subcarpatii-podisul-getic-podisul",
+   "competente": [
+    "VIII-3.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce relief are Podișul Mehedinți?",
+   "date": {
+    "variante": [
+     "carstic, pe calcare",
+     "vulcanic",
+     "de dune",
+     "glaciar"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Podul Natural de la Ponoarele, Peștera Topolnița."
+   }
+  },
+  {
+   "id": "VIII6-10",
+   "nivel": "VIII-S06-subcarpatii-podisul-getic-podisul",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "pin",
+   "dificultate": 2,
+   "enunt": "Atinge pe harta României Subcarpații de Curbură, lângă Buzău.",
+   "date": {
+    "harta": "romania",
+    "tinta": {
+     "lat": 45.3,
+     "lon": 26.6,
+     "nume": "Subcarpații de Curbură"
+    },
+    "toleranta": 45
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Între Trotuș și Dâmbovița."
+   }
+  },
+  {
+   "id": "VIII6-11",
+   "nivel": "VIII-S06-subcarpatii-podisul-getic-podisul",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "pin",
+   "dificultate": 2,
+   "enunt": "Atinge pe harta României Podișul Getic.",
+   "date": {
+    "harta": "romania",
+    "tinta": {
+     "lat": 44.7,
+     "lon": 24,
+     "nume": "Podișul Getic"
+    },
+    "toleranta": 70
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Podișul Getic e în nordul Olteniei și Munteniei."
+   }
+  },
+  {
+   "id": "VIII6-12",
+   "nivel": "VIII-S06-subcarpatii-podisul-getic-podisul",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "pin",
+   "dificultate": 3,
+   "enunt": "Atinge pe harta României Podișul Mehedinți.",
+   "date": {
+    "harta": "romania",
+    "tinta": {
+     "lat": 44.85,
+     "lon": 22.65,
+     "nume": "Podișul Mehedinți"
+    },
+    "toleranta": 40
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "În vestul Olteniei."
+   }
+  },
+  {
+   "id": "VIII6-13",
+   "nivel": "VIII-S06-subcarpatii-podisul-getic-podisul",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "pin",
+   "dificultate": 3,
+   "enunt": "Atinge pe harta României municipiul Buzău.",
+   "date": {
+    "harta": "romania",
+    "tinta": {
+     "lat": 45.15,
+     "lon": 26.82,
+     "nume": "Buzău"
+    },
+    "toleranta": 30
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Buzău e la ieșirea râului din Subcarpați în câmpie."
+   }
+  },
+  {
+   "id": "VIII6-14",
+   "nivel": "VIII-S06-subcarpatii-podisul-getic-podisul",
+   "competente": [
+    "VIII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "De ce depresiunile subcarpatice sunt dens populate?",
+   "date": {
+    "variante": [
+     "au climă blândă, soluri bune, ape și sunt adăpostite",
+     "sunt foarte reci",
+     "sunt deșerturi",
+     "nu au apă"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Livezi, vii, sate mari."
+   }
+  },
+  {
+   "id": "VIII6-15",
+   "nivel": "VIII-S06-subcarpatii-podisul-getic-podisul",
+   "competente": [
+    "VIII-3.4"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce mină de sare veche, transformată în atracție turistică, e în Subcarpații de Curbură?",
+   "date": {
+    "variante": [
+     "Salina Slănic (Prahova)",
+     "Salina Turda",
+     "Salina Praid",
+     "Salina Ocnele Mari"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Slănic e în județul Prahova."
+   }
+  },
+  {
+   "id": "VIII6-16",
+   "nivel": "VIII-S06-subcarpatii-podisul-getic-podisul",
+   "competente": [
+    "VIII-3.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Adevărat sau fals? Subcarpații sunt alcătuiți mai ales din roci dure, ca granitul.",
+   "date": {
+    "variante": [
+     "Fals",
+     "Adevărat"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Fals: din roci moi (argile, marne, nisipuri, sare)."
+   }
+  },
+  {
+   "id": "VIII6-17",
+   "nivel": "VIII-S06-subcarpatii-podisul-getic-podisul",
+   "competente": [
+    "VIII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Adevărat sau fals? Podișul Getic are zăcăminte de petrol și gaze.",
+   "date": {
+    "variante": [
+     "Adevărat",
+     "Fals"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Adevărat."
+   }
+  },
+  {
+   "id": "VIII6-18",
+   "nivel": "VIII-S06-subcarpatii-podisul-getic-podisul",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "lacunar",
+   "dificultate": 2,
+   "enunt": "Completează.",
+   "date": {
+    "text": "Județul Buzău se află în Subcarpații de {0}; fenomenul natural rar de la Berca e reprezentat de vulcanii {1}.",
+    "raspunsuri": [
+     "Curbură",
+     "noroioși"
+    ],
+    "distractori": [
+     "Getici",
+     "stinși"
+    ]
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Curbură, noroioși."
+   },
+   "surse": [
+    "Euronews România – Buzău, județul vulcanilor noroioși",
+    "Adevărul (ediția Buzău) – Vulcanii Noroioși"
+   ]
+  },
+  {
+   "id": "VIII6-19",
+   "nivel": "VIII-S06-subcarpatii-podisul-getic-podisul",
+   "competente": [
+    "VIII-1.1"
+   ],
+   "tip": "lacunar",
+   "dificultate": 2,
+   "enunt": "Completează.",
+   "date": {
+    "text": "Podișul Getic e format din {0}; Podișul Mehedinți are relief {1}.",
+    "raspunsuri": [
+     "piemonturi",
+     "carstic"
+    ],
+    "distractori": [
+     "dune",
+     "vulcanic"
+    ]
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Piemonturi și carst."
+   }
+  },
+  {
+   "id": "VIII6-20",
+   "nivel": "VIII-S06-subcarpatii-podisul-getic-podisul",
+   "competente": [
+    "VIII-2.2"
+   ],
+   "tip": "ordoneaza",
+   "dificultate": 3,
+   "enunt": "Ordonează unitățile de relief de la nord la sud prin județul Buzău.",
+   "date": {
+    "elemente": [
+     "Munții Buzăului",
+     "Subcarpații de Curbură",
+     "Câmpia Română"
+    ],
+    "criteriu": "De la nord-vest la sud-est"
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Munte, deal, câmpie."
+   }
+  },
+  {
+   "id": "VIII6-21",
+   "nivel": "VIII-S06-subcarpatii-podisul-getic-podisul",
+   "competente": [
+    "VIII-2.3"
+   ],
+   "tip": "grafic",
+   "dificultate": 3,
+   "enunt": "Profilul schematic arată relieful pe Valea Buzăului (valori aproximative). Ce unitate e între munți și câmpie?",
+   "date": {
+    "grafic": {
+     "tip": "profil",
+     "titlu": "Profil schematic pe Valea Buzăului",
+     "date": [
+      {
+       "eticheta": "Munții Buzăului",
+       "valoare": 1500
+      },
+      {
+       "eticheta": "Subcarpații de Curbură",
+       "valoare": 600
+      },
+      {
+       "eticheta": "municipiul Buzău",
+       "valoare": 100
+      },
+      {
+       "eticheta": "Câmpia Română",
+       "valoare": 60
+      }
+     ],
+     "unitate": "m"
+    },
+    "variante": [
+     "Subcarpații de Curbură",
+     "Podișul Getic",
+     "Delta Dunării",
+     "Podișul Moldovei"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Subcarpații sunt treapta de tranziție."
+   }
+  },
+  {
+   "id": "VIII6-22",
+   "nivel": "VIII-S06-subcarpatii-podisul-getic-podisul",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "denumeste",
+   "dificultate": 2,
+   "enunt": "Ce podiș e marcat pe hartă, la sudul Subcarpaților Getici?",
+   "date": {
+    "harta": "romania",
+    "punct": {
+     "lat": 44.7,
+     "lon": 24
+    },
+    "variante": [
+     "Podișul Getic",
+     "Podișul Moldovei",
+     "Podișul Dobrogei",
+     "Podișul Târnavelor"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Format din piemonturi."
+   }
+  },
+  {
+   "id": "VIII6-23",
+   "nivel": "VIII-S06-subcarpatii-podisul-getic-podisul",
+   "competente": [
+    "VIII-4.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 3,
+   "enunt": "Compară Subcarpații cu Carpații.",
+   "date": {
+    "variante": [
+     "Subcarpații sunt mai joși, din roci moi, cu alunecări; Carpații sunt mai înalți, din roci mai dure",
+     "Subcarpații sunt mai înalți",
+     "sunt identici",
+     "Carpații au roci mai moi"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Treapta de tranziție."
+   }
+  },
+  {
+   "id": "VIII6-24",
+   "nivel": "VIII-S06-subcarpatii-podisul-getic-podisul",
+   "competente": [
+    "VIII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce culturi sunt tipice pe dealurile subcarpatice?",
+   "date": {
+    "variante": [
+     "pomii fructiferi și vița-de-vie",
+     "orezul",
+     "bumbacul",
+     "ceaiul"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Livezile de prun și podgoriile."
+   }
+  },
+  {
+   "id": "VIII6-25",
+   "nivel": "VIII-S06-subcarpatii-podisul-getic-podisul",
+   "competente": [
+    "VIII-3.4"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce fenomen natural, flăcări care ies din pământ, e la Lopătari (Buzău)?",
+   "date": {
+    "variante": [
+     "Focul Viu",
+     "Vulcanii Noroioși",
+     "Gheizerul",
+     "Izvorul Mucului"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Gazele naturale ard la suprafață."
+   }
+  },
+  {
+   "id": "VIII6-26",
+   "nivel": "VIII-S06-subcarpatii-podisul-getic-podisul",
+   "competente": [
+    "VIII-3.4"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce muzeu unic se află la Colți, în Munții Buzăului?",
+   "date": {
+    "variante": [
+     "Muzeul Chihlimbarului",
+     "Muzeul Satului",
+     "Muzeul Aurului",
+     "Muzeul Sării"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Chihlimbarul de Buzău (romanit) e o rășină fosilă."
+   }
+  },
+  {
+   "id": "VIII6-27",
+   "nivel": "VIII-S06-subcarpatii-podisul-getic-podisul",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce oraș important e în Subcarpații Getici?",
+   "date": {
+    "variante": [
+     "Râmnicu Vâlcea (și Târgu Jiu)",
+     "Constanța",
+     "Iași",
+     "Timișoara"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Așezate în depresiuni subcarpatice."
+   }
+  },
+  {
+   "id": "VIII6-28",
+   "nivel": "VIII-S06-subcarpatii-podisul-getic-podisul",
+   "competente": [
+    "VIII-4.4"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Cum se pot proteja satele subcarpatice de alunecări?",
+   "date": {
+    "variante": [
+     "împădurirea versanților, drenarea apei, evitarea construcțiilor pe pante instabile",
+     "construcții pe pante instabile",
+     "tăierea pădurii",
+     "irigații abundente pe pante"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Prevenție."
+   }
+  },
+  {
+   "id": "VIII6-29",
+   "nivel": "VIII-S06-subcarpatii-podisul-getic-podisul",
+   "competente": [
+    "VIII-3.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce sunt cutele diapire din Subcarpați?",
+   "date": {
+    "variante": [
+     "cute ale straturilor în care sarea a străpuns rocile de deasupra",
+     "vulcani activi",
+     "ghețari",
+     "dune"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Sarea urcă spre suprafață."
+   }
+  },
+  {
+   "id": "VIII6-30",
+   "nivel": "VIII-S06-subcarpatii-podisul-getic-podisul",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce râu desparte Subcarpații Getici de Podișul Mehedinți la vest?",
+   "date": {
+    "variante": [
+     "Motrul",
+     "Oltul",
+     "Argeșul",
+     "Buzăul"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Subcarpații Getici se întind până la Motru."
+   }
+  },
+  {
+   "id": "E8-01",
+   "nivel": "VIII-S08-podisul-moldovei-podisul-dobrogei",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "pin",
+   "dificultate": 1,
+   "enunt": "Atinge pe hartă Podișul Moldovei.",
+   "date": {
+    "harta": "romania",
+    "tinta": {
+     "lat": 46.8,
+     "lon": 27.3,
+     "nume": "Podișul Moldovei"
+    },
+    "toleranta": 120
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Podișul Moldovei e în estul țării, între Carpații Orientali (cu Subcarpații) și Prut."
+   }
+  },
+  {
+   "id": "E8-02",
+   "nivel": "VIII-S08-podisul-moldovei-podisul-dobrogei",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "pin",
+   "dificultate": 1,
+   "enunt": "Atinge pe hartă Podișul Dobrogei.",
+   "date": {
+    "harta": "romania",
+    "tinta": {
+     "lat": 44.6,
+     "lon": 28.4,
+     "nume": "Podișul Dobrogei"
+    },
+    "toleranta": 100
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Dobrogea e în sud-est, între Dunăre și Marea Neagră."
+   }
+  },
+  {
+   "id": "E8-03",
+   "nivel": "VIII-S08-podisul-moldovei-podisul-dobrogei",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "pin",
+   "dificultate": 2,
+   "enunt": "Atinge pe hartă Munții Măcinului.",
+   "date": {
+    "harta": "romania",
+    "tinta": {
+     "lat": 45.21,
+     "lon": 28.25,
+     "nume": "Munții Măcinului"
+    },
+    "toleranta": 45
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Munții Măcinului sunt în nord-vestul Dobrogei, chiar lângă Dunăre."
+   },
+   "indiciu": "Caută în nordul Dobrogei, unde Dunărea face un cot spre est."
+  },
+  {
+   "id": "E8-04",
+   "nivel": "VIII-S08-podisul-moldovei-podisul-dobrogei",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "etichete",
+   "dificultate": 2,
+   "enunt": "Pune numele orașelor pe hartă.",
+   "date": {
+    "tinte": [
+     {
+      "id": "suceava",
+      "eticheta": "Suceava",
+      "lat": 47.65,
+      "lon": 26.26
+     },
+     {
+      "id": "iasi",
+      "eticheta": "Iași",
+      "lat": 47.16,
+      "lon": 27.59
+     },
+     {
+      "id": "constanta",
+      "eticheta": "Constanța",
+      "lat": 44.17,
+      "lon": 28.63
+     },
+     {
+      "id": "tulcea",
+      "eticheta": "Tulcea",
+      "lat": 45.18,
+      "lon": 28.8
+     }
+    ],
+    "harta": "romania"
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Suceava e cel mai la nord-vest, Iași spre Prut; Constanța e pe țărmul mării, Tulcea lângă Dunăre, la intrarea în Deltă."
+   }
+  },
+  {
+   "id": "E8-05",
+   "nivel": "VIII-S08-podisul-moldovei-podisul-dobrogei",
+   "competente": [
+    "VIII-1.1",
+    "VIII-2.1"
+   ],
+   "tip": "asociaza",
+   "dificultate": 2,
+   "enunt": "Asociază orașul cu unitatea de relief în care se află.",
+   "date": {
+    "perechi": [
+     [
+      "Suceava",
+      "Podișul Sucevei"
+     ],
+     [
+      "Bârlad",
+      "Podișul Bârladului"
+     ],
+     [
+      "Tulcea",
+      "Dobrogea de Nord"
+     ],
+     [
+      "Constanța",
+      "Dobrogea de Sud"
+     ]
+    ]
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Orașele Suceava și Bârlad dau numele podișurilor lor; Tulcea e în nordul Dobrogei, Constanța în sud."
+   }
+  },
+  {
+   "id": "E8-06",
+   "nivel": "VIII-S08-podisul-moldovei-podisul-dobrogei",
+   "competente": [
+    "VIII-1.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 1,
+   "enunt": "Care sunt cei mai vechi munți din România?",
+   "date": {
+    "variante": [
+     "Munții Măcinului",
+     "Munții Făgăraș",
+     "Munții Apuseni",
+     "Munții Bucegi"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Munții Măcinului, din Dobrogea, sunt cei mai vechi munți din România."
+   },
+   "surse": [
+    "Wikipedia – Munții Măcinului (Țuțuiatu, 467 m)",
+    "Parcul Național Munții Măcinului – Traseul Țuțuiatu (parcmacin.ro)"
+   ]
+  },
+  {
+   "id": "E8-07",
+   "nivel": "VIII-S08-podisul-moldovei-podisul-dobrogei",
+   "competente": [
+    "VIII-1.1",
+    "VIII-3.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce altitudine are Vârful Țuțuiatu (Greci), cel mai înalt din Munții Măcinului?",
+   "date": {
+    "variante": [
+     "467 m",
+     "2 544 m",
+     "1 467 m",
+     "67 m"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Vârful Țuțuiatu are 467 m."
+   },
+   "surse": [
+    "Wikipedia – Munții Măcinului (Țuțuiatu, 467 m)",
+    "Parcul Național Munții Măcinului – Traseul Țuțuiatu (parcmacin.ro)"
+   ]
+  },
+  {
+   "id": "E8-08",
+   "nivel": "VIII-S08-podisul-moldovei-podisul-dobrogei",
+   "competente": [
+    "VIII-2.2",
+    "VIII-4.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce proces modelează des versanții din Podișul Moldovei?",
+   "date": {
+    "variante": [
+     "alunecările de teren",
+     "erupțiile vulcanice",
+     "ghețarii",
+     "valurile mării"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Rocile argiloase, îmbibate cu apă, alunecă ușor pe versanți."
+   }
+  },
+  {
+   "id": "E8-09",
+   "nivel": "VIII-S08-podisul-moldovei-podisul-dobrogei",
+   "competente": [
+    "VIII-1.2",
+    "VIII-2.1"
+   ],
+   "tip": "lacunar",
+   "dificultate": 2,
+   "enunt": "Completează.",
+   "date": {
+    "text": "Podișul Dobrogei se află între {0} și Marea Neagră. Canalul Dunăre–Marea Neagră traversează Podișul {1}.",
+    "raspunsuri": [
+     "Dunăre",
+     "Medgidiei"
+    ],
+    "distractori": [
+     "Prut",
+     "Casimcei"
+    ]
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Dobrogea e între Dunăre și mare; canalul trece prin Podișul Medgidiei."
+   }
+  },
+  {
+   "id": "E8-10",
+   "nivel": "VIII-S08-podisul-moldovei-podisul-dobrogei",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Care subunitate NU aparține Podișului Moldovei?",
+   "date": {
+    "variante": [
+     "Podișul Babadag",
+     "Podișul Sucevei",
+     "Câmpia Moldovei",
+     "Podișul Bârladului"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect: Podișul Babadag e în Dobrogea.",
+    "gresit": "Podișul Babadag e în nordul Dobrogei. Celelalte trei sunt subunități ale Podișului Moldovei."
+   }
+  },
+  {
+   "id": "E8-11",
+   "nivel": "VIII-S08-podisul-moldovei-podisul-dobrogei",
+   "competente": [
+    "VIII-1.1",
+    "VIII-1.2"
+   ],
+   "tip": "asociaza",
+   "dificultate": 2,
+   "enunt": "Asociază fiecare subunitate cu o caracteristică.",
+   "date": {
+    "perechi": [
+     [
+      "Munții Măcinului",
+      "munți vechi, din granit, foarte erodați"
+     ],
+     [
+      "Podișul Casimcei",
+      "podiș format din șisturi verzi"
+     ],
+     [
+      "Podișul Medgidiei",
+      "traversat de Canalul Dunăre–Marea Neagră"
+     ],
+     [
+      "Podișul Sucevei",
+      "în nord-vestul Podișului Moldovei"
+     ]
+    ]
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Verifică: șisturile verzi sunt specifice Podișului Casimcei; canalul traversează Podișul Medgidiei."
+   }
+  },
+  {
+   "id": "E8-12",
+   "nivel": "VIII-S08-podisul-moldovei-podisul-dobrogei",
+   "competente": [
+    "VIII-4.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 3,
+   "enunt": "Prin ce se deosebesc Munții Măcinului de Carpați?",
+   "date": {
+    "variante": [
+     "sunt mult mai vechi și mai erodați, deci mult mai joși",
+     "sunt mai tineri și mai înalți",
+     "sunt vulcani activi",
+     "sunt acoperiți de ghețari"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Munții Măcinului sunt mult mai vechi; eroziunea i-a tocit timp îndelungat, de aceea au sub 500 m."
+   }
+  },
+  {
+   "id": "E8-13",
+   "nivel": "VIII-S08-podisul-moldovei-podisul-dobrogei",
+   "competente": [
+    "VIII-2.2"
+   ],
+   "tip": "grafic",
+   "dificultate": 2,
+   "enunt": "Din ce treaptă de relief fac parte Podișul Moldovei și Podișul Dobrogei și ce parte din suprafața țării ocupă treapta lor?",
+   "date": {
+    "grafic": {
+     "tip": "structura",
+     "titlu": "Treptele de relief ale României (% din suprafață)",
+     "unitate": " %",
+     "date": [
+      {
+       "eticheta": "munți",
+       "valoare": 31
+      },
+      {
+       "eticheta": "dealuri și podișuri",
+       "valoare": 36
+      },
+      {
+       "eticheta": "câmpii",
+       "valoare": 33
+      }
+     ],
+     "sursa": "ICPDR – Romania: Facts & Figures"
+    },
+    "variante": [
+     "dealuri și podișuri, 36 %",
+     "munți, 31 %",
+     "câmpii, 33 %",
+     "dealuri și podișuri, 33 %"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Podișurile intră în treapta dealurilor și podișurilor, care ocupă 36 % din suprafața țării."
+   },
+   "surse": [
+    "ICPDR – Romania: Facts & Figures (31 % munți, 36 % dealuri și podișuri, 33 % câmpii)",
+    "manualele de geografie clasa a VIII-a"
+   ]
+  },
+  {
+   "id": "E8-14",
+   "nivel": "VIII-S08-podisul-moldovei-podisul-dobrogei",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "ordoneaza",
+   "dificultate": 3,
+   "enunt": "Ordonează unitățile de relief de la nord la sud.",
+   "date": {
+    "elemente": [
+     "Podișul Sucevei",
+     "Podișul Bârladului",
+     "Podișul Babadag",
+     "Podișul Medgidiei"
+    ],
+    "criteriu": "De la nord la sud"
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Sucevei (nord), Bârladului (sud Moldova), Babadag (nordul Dobrogei), Medgidiei (sudul Dobrogei)."
+   },
+   "indiciu": "Primele două sunt în Moldova, ultimele două în Dobrogea."
+  },
+  {
+   "id": "E8-15",
+   "nivel": "VIII-S08-podisul-moldovei-podisul-dobrogei",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "pin",
+   "dificultate": 2,
+   "enunt": "Atinge pe harta României orașul Iași.",
+   "date": {
+    "harta": "romania",
+    "tinta": {
+     "lat": 47.16,
+     "lon": 27.59,
+     "nume": "Iași"
+    },
+    "toleranta": 30
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Iașiul e în Câmpia Moldovei (Podișul Moldovei)."
+   }
+  },
+  {
+   "id": "E8-16",
+   "nivel": "VIII-S08-podisul-moldovei-podisul-dobrogei",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "pin",
+   "dificultate": 2,
+   "enunt": "Atinge pe harta României orașul Constanța.",
+   "date": {
+    "harta": "romania",
+    "tinta": {
+     "lat": 44.18,
+     "lon": 28.63,
+     "nume": "Constanța"
+    },
+    "toleranta": 30
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Constanța e pe țărmul Mării Negre, în Podișul Dobrogei."
+   }
+  },
+  {
+   "id": "E8-17",
+   "nivel": "VIII-S08-podisul-moldovei-podisul-dobrogei",
+   "competente": [
+    "VIII-3.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce subunitate a Podișului Moldovei e de fapt un relief deluros jos, numit „câmpie”?",
+   "date": {
+    "variante": [
+     "Câmpia Moldovei (Jijiei)",
+     "Podișul Sucevei",
+     "Podișul Bârladului",
+     "Podișul Covurlui"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Ca și Câmpia Transilvaniei."
+   }
+  },
+  {
+   "id": "E8-18",
+   "nivel": "VIII-S08-podisul-moldovei-podisul-dobrogei",
+   "competente": [
+    "VIII-3.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce sunt cuestele din Podișul Moldovei?",
+   "date": {
+    "variante": [
+     "dealuri asimetrice, cu o pantă abruptă și una lină, formate pe straturi înclinate",
+     "vulcani",
+     "dune",
+     "fiorduri"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Ex.: Coasta Iașilor."
+   }
+  },
+  {
+   "id": "E8-19",
+   "nivel": "VIII-S08-podisul-moldovei-podisul-dobrogei",
+   "competente": [
+    "VIII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce podgorie celebră e în Podișul Moldovei?",
+   "date": {
+    "variante": [
+     "Cotnari",
+     "Dealu Mare",
+     "Murfatlar",
+     "Recaș"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Grasa de Cotnari."
+   }
+  },
+  {
+   "id": "E8-20",
+   "nivel": "VIII-S08-podisul-moldovei-podisul-dobrogei",
+   "competente": [
+    "VIII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce podgorie celebră e în Podișul Dobrogei?",
+   "date": {
+    "variante": [
+     "Murfatlar",
+     "Cotnari",
+     "Dealu Mare",
+     "Odobești"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Dobrogea are multe zile însorite."
+   }
+  },
+  {
+   "id": "E8-21",
+   "nivel": "VIII-S08-podisul-moldovei-podisul-dobrogei",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce râuri mărginesc Podișul Moldovei?",
+   "date": {
+    "variante": [
+     "Siretul (vest) și Prutul (est)",
+     "Oltul și Jiul",
+     "Mureșul și Someșul",
+     "Argeșul și Ialomița"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Siretul și Prutul curg de la nord la sud."
+   }
+  },
+  {
+   "id": "E8-22",
+   "nivel": "VIII-S08-podisul-moldovei-podisul-dobrogei",
+   "competente": [
+    "VIII-3.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce relief de calcare apare în Dobrogea de Sud?",
+   "date": {
+    "variante": [
+     "podiș jos, cu văi seci și peșteri (carst)",
+     "vulcani activi",
+     "ghețari",
+     "dune de nisip înalte"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Ex.: Peștera Limanu."
+   }
+  },
+  {
+   "id": "E8-23",
+   "nivel": "VIII-S08-podisul-moldovei-podisul-dobrogei",
+   "competente": [
+    "VIII-2.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "De ce Dobrogea are puține râuri?",
+   "date": {
+    "variante": [
+     "e cea mai uscată regiune a țării",
+     "e cea mai ploioasă",
+     "e acoperită de gheață",
+     "e muntoasă"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Sub 400 l/m² pe an în unele zone."
+   }
+  },
+  {
+   "id": "E8-24",
+   "nivel": "VIII-S08-podisul-moldovei-podisul-dobrogei",
+   "competente": [
+    "VIII-3.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Adevărat sau fals? Munții Măcinului sunt cei mai vechi munți din România.",
+   "date": {
+    "variante": [
+     "Adevărat",
+     "Fals"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Adevărat: resturi ale unui lanț hercinic erodat."
+   }
+  },
+  {
+   "id": "E8-25",
+   "nivel": "VIII-S08-podisul-moldovei-podisul-dobrogei",
+   "competente": [
+    "VIII-3.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Adevărat sau fals? Podișul Dobrogei e mai înalt decât Carpații.",
+   "date": {
+    "variante": [
+     "Fals",
+     "Adevărat"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Fals: e un podiș jos."
+   }
+  },
+  {
+   "id": "E8-26",
+   "nivel": "VIII-S08-podisul-moldovei-podisul-dobrogei",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "denumeste",
+   "dificultate": 2,
+   "enunt": "Ce subunitate a Podișului Moldovei e marcată pe hartă, în sud?",
+   "date": {
+    "harta": "romania",
+    "punct": {
+     "lat": 46.3,
+     "lon": 27.6
+    },
+    "variante": [
+     "Podișul Bârladului",
+     "Podișul Sucevei",
+     "Câmpia Moldovei",
+     "Podișul Covurlui"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Cea mai întinsă subunitate."
+   }
+  },
+  {
+   "id": "E8-27",
+   "nivel": "VIII-S08-podisul-moldovei-podisul-dobrogei",
+   "competente": [
+    "VIII-4.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 3,
+   "enunt": "Compară Podișul Moldovei cu Podișul Dobrogei.",
+   "date": {
+    "variante": [
+     "Moldova are roci sedimentare tinere și cueste; Dobrogea are roci foarte vechi (Măcin) și climă mai uscată",
+     "sunt identice",
+     "Moldova e mai uscată",
+     "Dobrogea are roci mai tinere peste tot"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Diferențe de roci și climă."
+   }
+  },
+  {
+   "id": "E8-28",
+   "nivel": "VIII-S08-podisul-moldovei-podisul-dobrogei",
+   "competente": [
+    "VIII-3.4"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce oraș antic grecesc se află pe țărmul Dobrogei, lângă Constanța?",
+   "date": {
+    "variante": [
+     "Tomis (Constanța de azi)",
+     "Sarmizegetusa",
+     "Apulum",
+     "Napoca"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Și Histria, Callatis."
+   }
+  },
+  {
+   "id": "E8-29",
+   "nivel": "VIII-S08-podisul-moldovei-podisul-dobrogei",
+   "competente": [
+    "VIII-3.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce vânt rece bate iarna în Moldova și Dobrogea, dinspre nord-est?",
+   "date": {
+    "variante": [
+     "crivățul",
+     "foehnul",
+     "austrul",
+     "musonul"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Crivățul aduce ger și viscol."
+   }
+  },
+  {
+   "id": "E8-30",
+   "nivel": "VIII-S08-podisul-moldovei-podisul-dobrogei",
+   "competente": [
+    "VIII-4.4"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce problemă de mediu are Podișul Moldovei?",
+   "date": {
+    "variante": [
+     "eroziunea solului și alunecările de teren",
+     "erupțiile vulcanice",
+     "avalanșele",
+     "tsunami-urile"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Pădurile au fost defrișate în trecut."
+   }
+  },
+  {
+   "id": "E9-01",
+   "nivel": "VIII-S09-campia-vest-dealurile-vest",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "pin",
+   "dificultate": 1,
+   "enunt": "Atinge pe hartă Câmpia de Vest.",
+   "date": {
+    "harta": "romania",
+    "tinta": {
+     "lat": 46.3,
+     "lon": 21.3,
+     "nume": "Câmpia de Vest"
+    },
+    "toleranta": 90
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Câmpia de Vest e lângă granița cu Ungaria și Serbia."
+   }
+  },
+  {
+   "id": "E9-02",
+   "nivel": "VIII-S09-campia-vest-dealurile-vest",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "etichete",
+   "dificultate": 2,
+   "enunt": "Pune numele orașelor pe hartă.",
+   "date": {
+    "tinte": [
+     {
+      "id": "timisoara",
+      "eticheta": "Timișoara",
+      "lat": 45.76,
+      "lon": 21.23
+     },
+     {
+      "id": "arad",
+      "eticheta": "Arad",
+      "lat": 46.17,
+      "lon": 21.31
+     },
+     {
+      "id": "oradea",
+      "eticheta": "Oradea",
+      "lat": 47.05,
+      "lon": 21.93
+     },
+     {
+      "id": "satumare",
+      "eticheta": "Satu Mare",
+      "lat": 47.79,
+      "lon": 22.89
+     }
+    ],
+    "harta": "romania"
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "De la nord la sud: Satu Mare, Oradea, Arad, Timișoara."
+   }
+  },
+  {
+   "id": "E9-03",
+   "nivel": "VIII-S09-campia-vest-dealurile-vest",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 1,
+   "enunt": "Unde se află Câmpia de Vest?",
+   "date": {
+    "variante": [
+     "în vestul țării, la granița cu Ungaria și Serbia",
+     "în sudul țării, lângă Dunăre",
+     "în estul țării, lângă Prut",
+     "în centrul Transilvaniei"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Câmpia de Vest e de-a lungul graniței de vest."
+   }
+  },
+  {
+   "id": "E9-04",
+   "nivel": "VIII-S09-campia-vest-dealurile-vest",
+   "competente": [
+    "VIII-2.1",
+    "VIII-1.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Între ce unități de relief se află Dealurile de Vest?",
+   "date": {
+    "variante": [
+     "între Carpații Occidentali și Câmpia de Vest",
+     "între Carpații Meridionali și Dunăre",
+     "între Subcarpați și Podișul Moldovei",
+     "între Delta Dunării și mare"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Dealurile de Vest fac trecerea de la Carpații Occidentali la Câmpia de Vest."
+   }
+  },
+  {
+   "id": "E9-05",
+   "nivel": "VIII-S09-campia-vest-dealurile-vest",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "asociaza",
+   "dificultate": 2,
+   "enunt": "Asociază fiecare subunitate cu poziția ei.",
+   "date": {
+    "perechi": [
+     [
+      "Dealurile Silvaniei",
+      "în nord"
+     ],
+     [
+      "Dealurile Crișanei",
+      "în centru"
+     ],
+     [
+      "Dealurile Banatului",
+      "în sud"
+     ],
+     [
+      "Câmpia de Vest",
+      "la vest de dealuri"
+     ]
+    ]
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Silvaniei – nord, Crișanei – centru, Banatului – sud; câmpia e la vest de ele."
+   }
+  },
+  {
+   "id": "E9-06",
+   "nivel": "VIII-S09-campia-vest-dealurile-vest",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "ordoneaza",
+   "dificultate": 2,
+   "enunt": "Ordonează orașele din vest de la nord la sud.",
+   "date": {
+    "elemente": [
+     "Satu Mare",
+     "Oradea",
+     "Arad",
+     "Timișoara"
+    ],
+    "criteriu": "De la nord la sud"
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Satu Mare e cel mai nordic, Timișoara cel mai sudic."
+   }
+  },
+  {
+   "id": "E9-07",
+   "nivel": "VIII-S09-campia-vest-dealurile-vest",
+   "competente": [
+    "VIII-1.1",
+    "VIII-3.1"
+   ],
+   "tip": "lacunar",
+   "dificultate": 2,
+   "enunt": "Completează.",
+   "date": {
+    "text": "Câmpia de Vest s-a format din aluviunile aduse de râuri; este o câmpie de {0}. Râurile care o traversează coboară din Carpații {1}.",
+    "raspunsuri": [
+     "acumulare",
+     "Occidentali"
+    ],
+    "distractori": [
+     "eroziune",
+     "Orientali"
+    ]
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "E o câmpie de acumulare, cu râuri care vin din Carpații Occidentali."
+   }
+  },
+  {
+   "id": "E9-08",
+   "nivel": "VIII-S09-campia-vest-dealurile-vest",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Care râu NU traversează Câmpia de Vest?",
+   "date": {
+    "variante": [
+     "Prutul",
+     "Mureșul",
+     "Someșul",
+     "Timișul"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Prutul e în estul țării. Mureșul, Someșul, Crișurile și Timișul traversează Câmpia de Vest."
+   }
+  },
+  {
+   "id": "E9-09",
+   "nivel": "VIII-S09-campia-vest-dealurile-vest",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "pin",
+   "dificultate": 2,
+   "enunt": "Atinge pe hartă orașul Arad, de pe râul Mureș.",
+   "date": {
+    "harta": "romania",
+    "tinta": {
+     "lat": 46.17,
+     "lon": 21.31,
+     "nume": "Arad"
+    },
+    "toleranta": 35
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Aradul e în Câmpia de Vest, pe Mureș."
+   }
+  },
+  {
+   "id": "E9-10",
+   "nivel": "VIII-S09-campia-vest-dealurile-vest",
+   "competente": [
+    "VIII-3.3",
+    "VIII-4.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 3,
+   "enunt": "Ce influențe climatice se simt mai mult în Câmpia de Vest?",
+   "date": {
+    "variante": [
+     "influențe oceanice, mai umede",
+     "influențe de ariditate, foarte uscate",
+     "influențe pontice, de la Marea Neagră",
+     "influențe polare"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Vestul țării primește mase de aer umed dinspre ocean; estul e mai uscat."
+   }
+  },
+  {
+   "id": "E9-11",
+   "nivel": "VIII-S09-campia-vest-dealurile-vest",
+   "competente": [
+    "VIII-1.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce activitate economică predomină în Câmpia de Vest?",
+   "date": {
+    "variante": [
+     "agricultura",
+     "mineritul de cărbune",
+     "pescuitul la mare",
+     "turismul montan"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Solurile fertile și relieful neted favorizează agricultura."
+   }
+  },
+  {
+   "id": "E9-12",
+   "nivel": "VIII-S09-campia-vest-dealurile-vest",
+   "competente": [
+    "VIII-2.2"
+   ],
+   "tip": "grafic",
+   "dificultate": 2,
+   "enunt": "Pe acest profil schematic, ce unitate de relief se află între munți și câmpie?",
+   "date": {
+    "grafic": {
+     "tip": "profil",
+     "titlu": "Profil schematic de la est la vest (altitudini orientative, m)",
+     "unitate": "m",
+     "date": [
+      {
+       "eticheta": "Carpații Occ.",
+       "valoare": 1400
+      },
+      {
+       "eticheta": "",
+       "valoare": 700
+      },
+      {
+       "eticheta": "Dealurile de Vest",
+       "valoare": 350
+      },
+      {
+       "eticheta": "",
+       "valoare": 180
+      },
+      {
+       "eticheta": "Câmpia de Vest",
+       "valoare": 100
+      }
+     ]
+    },
+    "variante": [
+     "Dealurile de Vest",
+     "Câmpia Română",
+     "Subcarpații",
+     "Podișul Getic"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Dealurile de Vest fac trecerea de la Carpații Occidentali la Câmpia de Vest."
+   }
+  },
+  {
+   "id": "E9-13",
+   "nivel": "VIII-S09-campia-vest-dealurile-vest",
+   "competente": [
+    "VIII-1.1"
+   ],
+   "tip": "lacunar",
+   "dificultate": 1,
+   "enunt": "Completează.",
+   "date": {
+    "text": "Dealurile de Vest fac legătura între Carpații {0} și Câmpia de Vest.",
+    "raspunsuri": [
+     "Occidentali"
+    ],
+    "distractori": [
+     "Orientali",
+     "Meridionali"
+    ]
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Carpații Occidentali sunt chiar la est de Dealurile de Vest."
+   }
+  },
+  {
+   "id": "E9-14",
+   "nivel": "VIII-S09-campia-vest-dealurile-vest",
+   "competente": [
+    "VIII-4.2",
+    "VIII-4.4"
+   ],
+   "tip": "alegere",
+   "dificultate": 3,
+   "enunt": "Pe ce fel de terenuri s-au făcut lucrări de desecare în Câmpia de Vest?",
+   "date": {
+    "variante": [
+     "pe terenurile mlăștinoase",
+     "pe vârfurile munților",
+     "pe dunele de nisip",
+     "în orașe"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Desecarea înseamnă scurgerea apei din mlaștini prin canale, ca terenul să poată fi cultivat."
+   }
+  },
+  {
+   "id": "E9-15",
+   "nivel": "VIII-S09-campia-vest-dealurile-vest",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "pin",
+   "dificultate": 2,
+   "enunt": "Atinge pe harta României Timișoara.",
+   "date": {
+    "harta": "romania",
+    "tinta": {
+     "lat": 45.75,
+     "lon": 21.23,
+     "nume": "Timișoara"
+    },
+    "toleranta": 30
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Timișoara e în Câmpia de Vest, pe Bega."
+   }
+  },
+  {
+   "id": "E9-16",
+   "nivel": "VIII-S09-campia-vest-dealurile-vest",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "pin",
+   "dificultate": 2,
+   "enunt": "Atinge pe harta României Oradea.",
+   "date": {
+    "harta": "romania",
+    "tinta": {
+     "lat": 47.06,
+     "lon": 21.93,
+     "nume": "Oradea"
+    },
+    "toleranta": 30
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Oradea e pe Crișul Repede."
+   }
+  },
+  {
+   "id": "E9-17",
+   "nivel": "VIII-S09-campia-vest-dealurile-vest",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce subunități are Câmpia de Vest?",
+   "date": {
+    "variante": [
+     "Câmpia Someșului, Crișurilor, Mureșului, Timișului",
+     "Bărăganul, Burnasul",
+     "Câmpia Jijiei",
+     "Câmpia Transilvaniei"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "După râurile care o traversează."
+   }
+  },
+  {
+   "id": "E9-18",
+   "nivel": "VIII-S09-campia-vest-dealurile-vest",
+   "competente": [
+    "VIII-3.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce fel de câmpie e Câmpia de Vest?",
+   "date": {
+    "variante": [
+     "câmpie de subsidență (care s-a lăsat) și de glacis, cu zone mlăștinoase desecate",
+     "câmpie vulcanică",
+     "câmpie glaciară",
+     "câmpie deltaică"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Râurile au divagat mult."
+   }
+  },
+  {
+   "id": "E9-19",
+   "nivel": "VIII-S09-campia-vest-dealurile-vest",
+   "competente": [
+    "VIII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce resursă specială are Câmpia de Vest, folosită în stațiuni?",
+   "date": {
+    "variante": [
+     "ape termale (Băile Felix, Băile 1 Mai)",
+     "sare gemă",
+     "aur",
+     "cărbune"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Lângă Oradea."
+   }
+  },
+  {
+   "id": "E9-20",
+   "nivel": "VIII-S09-campia-vest-dealurile-vest",
+   "competente": [
+    "VIII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce canal navigabil traversează Timișoara?",
+   "date": {
+    "variante": [
+     "Canalul Bega",
+     "Canalul Dunăre–Marea Neagră",
+     "Canalul Sulina",
+     "Canalul Suez"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Construit în secolul XVIII."
+   }
+  },
+  {
+   "id": "E9-21",
+   "nivel": "VIII-S09-campia-vest-dealurile-vest",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce dealuri se află între Câmpia de Vest și Munții Apuseni?",
+   "date": {
+    "variante": [
+     "Dealurile de Vest",
+     "Subcarpații",
+     "Podișul Getic",
+     "Dealurile Moldovei"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Dealurile Crișanei, Banatului."
+   }
+  },
+  {
+   "id": "E9-22",
+   "nivel": "VIII-S09-campia-vest-dealurile-vest",
+   "competente": [
+    "VIII-3.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Adevărat sau fals? Câmpia de Vest are influențe climatice oceanice mai puternice decât Câmpia Română.",
+   "date": {
+    "variante": [
+     "Adevărat",
+     "Fals"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Adevărat: e mai aproape de Atlantic și mai umedă."
+   }
+  },
+  {
+   "id": "E9-23",
+   "nivel": "VIII-S09-campia-vest-dealurile-vest",
+   "competente": [
+    "VIII-3.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Adevărat sau fals? Dealurile de Vest sunt mai înalte decât Carpații Meridionali.",
+   "date": {
+    "variante": [
+     "Fals",
+     "Adevărat"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Fals: sunt dealuri joase."
+   }
+  },
+  {
+   "id": "E9-24",
+   "nivel": "VIII-S09-campia-vest-dealurile-vest",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "denumeste",
+   "dificultate": 2,
+   "enunt": "Ce oraș din Câmpia de Vest, pe Mureș, e marcat pe hartă?",
+   "date": {
+    "harta": "romania",
+    "punct": {
+     "lat": 46.18,
+     "lon": 21.32
+    },
+    "variante": [
+     "Arad",
+     "Timișoara",
+     "Oradea",
+     "Satu Mare"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Arad e pe Mureș."
+   }
+  },
+  {
+   "id": "E9-25",
+   "nivel": "VIII-S09-campia-vest-dealurile-vest",
+   "competente": [
+    "VIII-4.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 3,
+   "enunt": "Compară Câmpia de Vest cu Câmpia Română.",
+   "date": {
+    "variante": [
+     "Câmpia de Vest e mai umedă, mai mică, cu influențe oceanice; Câmpia Română e mai mare și mai uscată în est",
+     "sunt identice",
+     "Câmpia de Vest e mai uscată",
+     "Câmpia Română e mai mică"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Influențe climatice diferite."
+   }
+  },
+  {
+   "id": "E9-26",
+   "nivel": "VIII-S09-campia-vest-dealurile-vest",
+   "competente": [
+    "VIII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce dune de nisip se află în nord-vestul Câmpiei de Vest?",
+   "date": {
+    "variante": [
+     "dunele de la Carei",
+     "dunele de la Hanu Conachi",
+     "Babele",
+     "Sfinxul"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Rezervația Dunele de nisip de la Foieni."
+   }
+  },
+  {
+   "id": "E9-27",
+   "nivel": "VIII-S09-campia-vest-dealurile-vest",
+   "competente": [
+    "VIII-3.4"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce stațiune balneară, cu ape termale, se află lângă Oradea?",
+   "date": {
+    "variante": [
+     "Băile Felix",
+     "Băile Herculane",
+     "Sovata",
+     "Techirghiol"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Apă termală din adânc."
+   }
+  },
+  {
+   "id": "E9-28",
+   "nivel": "VIII-S09-campia-vest-dealurile-vest",
+   "competente": [
+    "VIII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce culturi sunt importante în Câmpia de Vest?",
+   "date": {
+    "variante": [
+     "cereale, legume, sfeclă de zahăr",
+     "orez de munte",
+     "ceai",
+     "banane"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Soluri fertile și climă umedă."
+   }
+  },
+  {
+   "id": "E9-29",
+   "nivel": "VIII-S09-campia-vest-dealurile-vest",
+   "competente": [
+    "VIII-2.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "De ce râurile din Câmpia de Vest au albii instabile?",
+   "date": {
+    "variante": [
+     "panta e foarte mică, iar râurile își schimbă cursul (divagă)",
+     "sunt înghețate tot anul",
+     "sunt subterane",
+     "curg pe munte"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "S-au făcut îndiguiri și canale."
+   }
+  },
+  {
+   "id": "E9-30",
+   "nivel": "VIII-S09-campia-vest-dealurile-vest",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce râu traversează Oradea?",
+   "date": {
+    "variante": [
+     "Crișul Repede",
+     "Mureșul",
+     "Bega",
+     "Someșul"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Oradea e în Câmpia Crișurilor."
+   }
+  },
+  {
+   "id": "E10-01",
+   "nivel": "VIII-S10-campia-romana",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "pin",
+   "dificultate": 1,
+   "enunt": "Atinge pe hartă Câmpia Română.",
+   "date": {
+    "harta": "romania",
+    "tinta": {
+     "lat": 44.4,
+     "lon": 25.8,
+     "nume": "Câmpia Română"
+    },
+    "toleranta": 150
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Câmpia Română e în sudul țării, între Carpați (cu Subcarpații și Podișul Getic) și Dunăre."
+   }
+  },
+  {
+   "id": "E10-02",
+   "nivel": "VIII-S10-campia-romana",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "pin",
+   "dificultate": 1,
+   "enunt": "Atinge pe hartă Bucureștiul.",
+   "date": {
+    "harta": "romania",
+    "tinta": {
+     "lat": 44.43,
+     "lon": 26.1,
+     "nume": "București"
+    },
+    "toleranta": 35
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Bucureștiul e în Câmpia Vlăsiei, în partea centrală a Câmpiei Române."
+   }
+  },
+  {
+   "id": "E10-03",
+   "nivel": "VIII-S10-campia-romana",
+   "competente": [
+    "VIII-2.1",
+    "VIII-4.2"
+   ],
+   "tip": "pin",
+   "dificultate": 2,
+   "enunt": "Atinge pe hartă orașul nostru, Râmnicu Sărat.",
+   "date": {
+    "harta": "romania",
+    "tinta": {
+     "lat": 45.38,
+     "lon": 27.06,
+     "nume": "Râmnicu Sărat"
+    },
+    "toleranta": 35
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Râmnicu Sărat e în nord-estul Câmpiei Române, la contactul cu Subcarpații de Curbură, între Buzău și Focșani."
+   },
+   "indiciu": "Caută la nord-est de Buzău, aproape de curbura Carpaților."
+  },
+  {
+   "id": "E10-04",
+   "nivel": "VIII-S10-campia-romana",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "etichete",
+   "dificultate": 2,
+   "enunt": "Pune numele orașelor din Câmpia Română pe hartă.",
+   "date": {
+    "tinte": [
+     {
+      "id": "craiova",
+      "eticheta": "Craiova",
+      "lat": 44.32,
+      "lon": 23.8
+     },
+     {
+      "id": "bucuresti",
+      "eticheta": "București",
+      "lat": 44.43,
+      "lon": 26.1
+     },
+     {
+      "id": "buzau",
+      "eticheta": "Buzău",
+      "lat": 45.15,
+      "lon": 26.82
+     },
+     {
+      "id": "slobozia",
+      "eticheta": "Slobozia",
+      "lat": 44.56,
+      "lon": 27.37
+     }
+    ],
+    "harta": "romania"
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Craiova e în vest, Bucureștiul în centru, Slobozia în Bărăgan, Buzăul în nord-est."
+   }
+  },
+  {
+   "id": "E10-05",
+   "nivel": "VIII-S10-campia-romana",
+   "competente": [
+    "VIII-1.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 1,
+   "enunt": "Care este cea mai întinsă câmpie a României?",
+   "date": {
+    "variante": [
+     "Câmpia Română",
+     "Câmpia de Vest",
+     "Câmpia Moldovei",
+     "Câmpia Transilvaniei"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Câmpia Română e cea mai întinsă câmpie a țării."
+   }
+  },
+  {
+   "id": "E10-06",
+   "nivel": "VIII-S10-campia-romana",
+   "competente": [
+    "VIII-1.1",
+    "VIII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce rocă afânată, gălbuie, acoperă mare parte din Câmpia Română?",
+   "date": {
+    "variante": [
+     "loessul",
+     "granitul",
+     "marmura",
+     "bazaltul"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Loessul e o rocă afânată, gălbuie, pe care s-au format soluri fertile."
+   }
+  },
+  {
+   "id": "E10-07",
+   "nivel": "VIII-S10-campia-romana",
+   "competente": [
+    "VIII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce soluri foarte fertile s-au format în Câmpia Română?",
+   "date": {
+    "variante": [
+     "cernoziomurile",
+     "solurile de tundră",
+     "solurile nisipoase de deșert",
+     "solurile de munte"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Cernoziomurile sunt cele mai fertile soluri ale țării."
+   }
+  },
+  {
+   "id": "E10-08",
+   "nivel": "VIII-S10-campia-romana",
+   "competente": [
+    "VIII-1.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Cum se numește vântul rece și uscat care bate iarna, dinspre est, în Bărăgan?",
+   "date": {
+    "variante": [
+     "crivățul",
+     "foehnul",
+     "austrul",
+     "musonul"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Crivățul aduce iarna ger și viscol în estul țării."
+   }
+  },
+  {
+   "id": "E10-09",
+   "nivel": "VIII-S10-campia-romana",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "ordoneaza",
+   "dificultate": 2,
+   "enunt": "Ordonează subunitățile Câmpiei Române de la vest la est.",
+   "date": {
+    "elemente": [
+     "Câmpia Olteniei",
+     "Câmpia Burnasului",
+     "Câmpia Vlăsiei",
+     "Bărăganul"
+    ],
+    "criteriu": "De la vest la est"
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Olteniei e în vest, Bărăganul în est; Bucureștiul (Vlăsia) e între ele."
+   },
+   "indiciu": "Bucureștiul e în Câmpia Vlăsiei."
+  },
+  {
+   "id": "E10-10",
+   "nivel": "VIII-S10-campia-romana",
+   "competente": [
+    "VIII-1.2",
+    "VIII-2.1"
+   ],
+   "tip": "lacunar",
+   "dificultate": 2,
+   "enunt": "Completează.",
+   "date": {
+    "text": "Câmpia Română e mărginită la sud de fluviul {0}, iar la nord de Podișul Getic și de {1}.",
+    "raspunsuri": [
+     "Dunărea",
+     "Subcarpați"
+    ],
+    "distractori": [
+     "Prut",
+     "Carpații Meridionali"
+    ]
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "La sud e Dunărea; la nord, Podișul Getic și Subcarpații."
+   }
+  },
+  {
+   "id": "E10-11",
+   "nivel": "VIII-S10-campia-romana",
+   "competente": [
+    "VIII-3.2",
+    "VIII-4.4"
+   ],
+   "tip": "alegere",
+   "dificultate": 3,
+   "enunt": "De ce se fac irigații în estul Câmpiei Române?",
+   "date": {
+    "variante": [
+     "clima e mai uscată și secetele sunt frecvente",
+     "solul e prea fertil",
+     "plouă prea mult",
+     "câmpia e prea înaltă"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Spre est clima devine mai uscată; fără irigații, secetele distrug recoltele."
+   }
+  },
+  {
+   "id": "E10-12",
+   "nivel": "VIII-S10-campia-romana",
+   "competente": [
+    "VIII-1.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce sunt crovurile, tipice Bărăganului?",
+   "date": {
+    "variante": [
+     "mici adâncituri rotunjite",
+     "dealuri înalte",
+     "lacuri de munte",
+     "vulcani noroioși"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Crovurile sunt adâncituri mici, rotunjite, formate în loess."
+   }
+  },
+  {
+   "id": "E10-13",
+   "nivel": "VIII-S10-campia-romana",
+   "competente": [
+    "VIII-4.3"
+   ],
+   "tip": "asociaza",
+   "dificultate": 3,
+   "enunt": "Asociază fiecare câmpie cu o caracteristică.",
+   "date": {
+    "perechi": [
+     [
+      "Câmpia de Vest",
+      "influențe climatice oceanice"
+     ],
+     [
+      "Câmpia Română",
+      "cea mai întinsă câmpie a țării"
+     ],
+     [
+      "Bărăganul",
+      "crivăț și crovuri"
+     ]
+    ]
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Vestul are influențe oceanice; Câmpia Română e cea mai întinsă; Bărăganul are crivăț și crovuri."
+   }
+  },
+  {
+   "id": "E10-14",
+   "nivel": "VIII-S10-campia-romana",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "pin",
+   "dificultate": 3,
+   "enunt": "Atinge pe hartă Bărăganul.",
+   "date": {
+    "harta": "romania",
+    "tinta": {
+     "lat": 44.6,
+     "lon": 27.4,
+     "nume": "Bărăganul"
+    },
+    "toleranta": 70
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Bărăganul e în estul Câmpiei Române, la vest de Dunăre, în jurul Sloboziei."
+   }
+  },
+  {
+   "id": "E10-15",
+   "nivel": "VIII-S10-campia-romana",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce subunitate a Câmpiei Române e cea mai uscată, în est?",
+   "date": {
+    "variante": [
+     "Bărăganul",
+     "Câmpia Olteniei",
+     "Câmpia Pitești",
+     "Câmpia Târgoviștei"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Bărăganul are cele mai puține ploi din câmpie."
+   }
+  },
+  {
+   "id": "E10-16",
+   "nivel": "VIII-S10-campia-romana",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce subunitate a Câmpiei Române se află în jurul orașului nostru?",
+   "date": {
+    "variante": [
+     "Câmpia Râmnicului, în nord-estul Câmpiei Române",
+     "Câmpia Olteniei",
+     "Câmpia Burnasului",
+     "Câmpia Găvanu-Burdea"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Câmpiile Buzăului și Râmnicului sunt în nord-estul Câmpiei Române."
+   }
+  },
+  {
+   "id": "E10-17",
+   "nivel": "VIII-S10-campia-romana",
+   "competente": [
+    "VIII-3.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce sunt câmpiile de subsidență?",
+   "date": {
+    "variante": [
+     "câmpii joase care se lasă lent, cu râuri care divagă și zone mlăștinoase",
+     "câmpii foarte înalte",
+     "câmpii din nisip vulcanic",
+     "câmpii glaciare"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Ex.: Câmpia Siretului Inferior, Câmpia Buzăului."
+   }
+  },
+  {
+   "id": "E10-18",
+   "nivel": "VIII-S10-campia-romana",
+   "competente": [
+    "VIII-3.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce sunt câmpiile piemontane (de glacis)?",
+   "date": {
+    "variante": [
+     "câmpii înalte, la contactul cu dealurile, formate din materiale aduse de râuri",
+     "câmpii sub nivelul mării",
+     "câmpii de deltă",
+     "câmpii de gheață"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Ex.: Câmpia Pitești, Câmpia Târgoviștei."
+   }
+  },
+  {
+   "id": "E10-19",
+   "nivel": "VIII-S10-campia-romana",
+   "competente": [
+    "VIII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce culturi agricole predomină în Câmpia Română?",
+   "date": {
+    "variante": [
+     "grâu, porumb, floarea-soarelui",
+     "orez și ceai",
+     "cafea",
+     "măslini"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "E cel mai important grânar al țării."
+   }
+  },
+  {
+   "id": "E10-20",
+   "nivel": "VIII-S10-campia-romana",
+   "competente": [
+    "VIII-3.4"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce lac sărat cu nămol terapeutic e în Bărăgan?",
+   "date": {
+    "variante": [
+     "Lacul Amara (și Lacul Sărat de lângă Brăila)",
+     "Lacul Bucura",
+     "Lacul Sfânta Ana",
+     "Lacul Vidraru"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Lacurile sărate din Bărăgan sunt balneare."
+   }
+  },
+  {
+   "id": "E10-21",
+   "nivel": "VIII-S10-campia-romana",
+   "competente": [
+    "VIII-3.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Adevărat sau fals? Câmpia Română e cea mai întinsă câmpie a României.",
+   "date": {
+    "variante": [
+     "Adevărat",
+     "Fals"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Adevărat."
+   }
+  },
+  {
+   "id": "E10-22",
+   "nivel": "VIII-S10-campia-romana",
+   "competente": [
+    "VIII-3.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Adevărat sau fals? În estul Câmpiei Române plouă mai mult decât în vest.",
+   "date": {
+    "variante": [
+     "Fals",
+     "Adevărat"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Fals: estul (Bărăganul) e mai uscat."
+   }
+  },
+  {
+   "id": "E10-23",
+   "nivel": "VIII-S10-campia-romana",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "denumeste",
+   "dificultate": 2,
+   "enunt": "Ce subunitate a Câmpiei Române, în vest, e marcată pe hartă?",
+   "date": {
+    "harta": "romania",
+    "punct": {
+     "lat": 44.1,
+     "lon": 23.7
+    },
+    "variante": [
+     "Câmpia Olteniei",
+     "Bărăganul",
+     "Câmpia Burnasului",
+     "Câmpia Vlăsiei"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Câmpia Olteniei are dune de nisip la Dăbuleni."
+   }
+  },
+  {
+   "id": "E10-24",
+   "nivel": "VIII-S10-campia-romana",
+   "competente": [
+    "VIII-4.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 3,
+   "enunt": "Compară vestul cu estul Câmpiei Române.",
+   "date": {
+    "variante": [
+     "vestul e mai umed, cu păduri de stejar în trecut; estul e mai uscat, cu stepă și irigații",
+     "sunt identice",
+     "estul e mai umed",
+     "vestul e deșert"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Influențe climatice diferite."
+   }
+  },
+  {
+   "id": "E10-25",
+   "nivel": "VIII-S10-campia-romana",
+   "competente": [
+    "VIII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce zonă cu nisipuri din sudul Olteniei e cunoscută pentru pepeni?",
+   "date": {
+    "variante": [
+     "Dăbuleni",
+     "Bărăgan",
+     "Vlăsia",
+     "Burnas"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Nisipurile de la Dăbuleni sunt cultivate."
+   }
+  },
+  {
+   "id": "E10-26",
+   "nivel": "VIII-S10-campia-romana",
+   "competente": [
+    "VIII-3.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce pădure veche a acoperit câmpia din jurul Bucureștiului?",
+   "date": {
+    "variante": [
+     "Codrii Vlăsiei",
+     "Codrii Cosminului",
+     "Pădurea Letea",
+     "Pădurea Hoia"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Azi au rămas doar resturi (Snagov, Băneasa)."
+   }
+  },
+  {
+   "id": "E10-27",
+   "nivel": "VIII-S10-campia-romana",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce râuri traversează Câmpia Română de la nord la sud?",
+   "date": {
+    "variante": [
+     "Jiul, Oltul, Argeșul, Ialomița, Buzăul, Siretul",
+     "Mureșul și Crișurile",
+     "Someșul și Tisa",
+     "Bega și Timișul"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Toate se varsă în Dunăre (direct sau prin afluenți)."
+   }
+  },
+  {
+   "id": "E10-28",
+   "nivel": "VIII-S10-campia-romana",
+   "competente": [
+    "VIII-4.4"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce problemă climatică amenință agricultura din Bărăgan?",
+   "date": {
+    "variante": [
+     "seceta",
+     "avalanșele",
+     "ghețarii",
+     "taifunurile"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Irigațiile sunt esențiale."
+   }
+  },
+  {
+   "id": "E10-29",
+   "nivel": "VIII-S10-campia-romana",
+   "competente": [
+    "VIII-3.4"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce oraș-port de pe Dunăre e în estul Câmpiei Române?",
+   "date": {
+    "variante": [
+     "Brăila",
+     "Pitești",
+     "Târgoviște",
+     "Ploiești"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Brăila e pe Dunărea maritimă."
+   }
+  },
+  {
+   "id": "E10-30",
+   "nivel": "VIII-S10-campia-romana",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce câmpie se află între Ialomița și Dunăre, în est?",
+   "date": {
+    "variante": [
+     "Bărăganul (Bărăganul Ialomiței)",
+     "Câmpia Olteniei",
+     "Câmpia Pitești",
+     "Câmpia Găvanu-Burdea"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Bărăganul are crovuri și lacuri sărate."
+   }
+  },
+  {
+   "id": "E11-01",
+   "nivel": "VIII-S11-delta-dunarii-platforma-continentala",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "etichete",
+   "dificultate": 2,
+   "enunt": "Pune numele brațelor Dunării pe hartă.",
+   "date": {
+    "tinte": [
+     {
+      "id": "chilia",
+      "eticheta": "Brațul Chilia",
+      "lat": 45.326,
+      "lon": 28.982
+     },
+     {
+      "id": "sulina",
+      "eticheta": "Brațul Sulina",
+      "lat": 45.182,
+      "lon": 29.511
+     },
+     {
+      "id": "sfg",
+      "eticheta": "Brațul Sfântu Gheorghe",
+      "lat": 45.026,
+      "lon": 29.281
+     }
+    ],
+    "harta": "romania"
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Chilia e în nord, Sulina la mijloc, Sfântu Gheorghe în sud."
+   },
+   "indiciu": "Brațele, de la nord la sud: Chilia, Sulina, Sfântu Gheorghe."
+  },
+  {
+   "id": "E11-02",
+   "nivel": "VIII-S11-delta-dunarii-platforma-continentala",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "pin",
+   "dificultate": 1,
+   "enunt": "Atinge pe hartă Delta Dunării.",
+   "date": {
+    "harta": "romania",
+    "tinta": {
+     "lat": 45.15,
+     "lon": 29.3,
+     "nume": "Delta Dunării"
+    },
+    "toleranta": 55
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Delta e în extremitatea de est a țării, unde Dunărea se varsă în Marea Neagră."
+   }
+  },
+  {
+   "id": "E11-03",
+   "nivel": "VIII-S11-delta-dunarii-platforma-continentala",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "pin",
+   "dificultate": 2,
+   "enunt": "Atinge pe hartă orașul Tulcea, poarta Deltei.",
+   "date": {
+    "harta": "romania",
+    "tinta": {
+     "lat": 45.18,
+     "lon": 28.8,
+     "nume": "Tulcea"
+    },
+    "toleranta": 30
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Tulcea e pe Dunăre, chiar înainte ca fluviul să se despartă în brațe."
+   }
+  },
+  {
+   "id": "E11-04",
+   "nivel": "VIII-S11-delta-dunarii-platforma-continentala",
+   "competente": [
+    "VIII-1.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 1,
+   "enunt": "Care este cea mai nouă unitate de relief a României?",
+   "date": {
+    "variante": [
+     "Delta Dunării",
+     "Munții Măcinului",
+     "Câmpia Română",
+     "Podișul Moldovei"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Delta e cea mai nouă unitate de relief și încă se formează."
+   }
+  },
+  {
+   "id": "E11-05",
+   "nivel": "VIII-S11-delta-dunarii-platforma-continentala",
+   "competente": [
+    "VIII-1.1",
+    "VIII-2.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Care braț al Dunării duce cea mai mare cantitate de apă?",
+   "date": {
+    "variante": [
+     "Chilia",
+     "Sulina",
+     "Sfântu Gheorghe",
+     "Borcea"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect: aproximativ jumătate din debitul Dunării trece pe Chilia.",
+    "gresit": "Brațul Chilia, din nord, duce cam jumătate din apa Dunării."
+   },
+   "surse": [
+    "Wikipedia – Chilia branch (aproximativ jumătate din debit; graniță România–Ucraina)",
+    "manualele de geografie clasa a VIII-a"
+   ]
+  },
+  {
+   "id": "E11-06",
+   "nivel": "VIII-S11-delta-dunarii-platforma-continentala",
+   "competente": [
+    "VIII-1.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce braț a fost rectificat (îndreptat) pentru navele maritime?",
+   "date": {
+    "variante": [
+     "Sulina",
+     "Chilia",
+     "Sfântu Gheorghe",
+     "niciunul"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Brațul Sulina a fost îndreptat și adâncit pentru navigație."
+   }
+  },
+  {
+   "id": "E11-07",
+   "nivel": "VIII-S11-delta-dunarii-platforma-continentala",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "ordoneaza",
+   "dificultate": 1,
+   "enunt": "Ordonează brațele Dunării de la nord la sud.",
+   "date": {
+    "elemente": [
+     "Chilia",
+     "Sulina",
+     "Sfântu Gheorghe"
+    ],
+    "criteriu": "De la nord la sud"
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Chilia (nord), Sulina (centru), Sfântu Gheorghe (sud)."
+   }
+  },
+  {
+   "id": "E11-08",
+   "nivel": "VIII-S11-delta-dunarii-platforma-continentala",
+   "competente": [
+    "VIII-1.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce sunt grindurile din Deltă?",
+   "date": {
+    "variante": [
+     "fâșii de uscat mai înalte, din nisip și aluviuni",
+     "lacuri adânci",
+     "canale săpate de om",
+     "insule vulcanice"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Grindurile sunt fâșii mai înalte de uscat, ca Letea și Caraorman."
+   }
+  },
+  {
+   "id": "E11-09",
+   "nivel": "VIII-S11-delta-dunarii-platforma-continentala",
+   "competente": [
+    "VIII-1.2"
+   ],
+   "tip": "asociaza",
+   "dificultate": 2,
+   "enunt": "Asociază fiecare element cu o caracteristică.",
+   "date": {
+    "perechi": [
+     [
+      "Brațul Chilia",
+      "la granița cu Ucraina"
+     ],
+     [
+      "Brațul Sulina",
+      "rectificat pentru navigație"
+     ],
+     [
+      "Brațul Sfântu Gheorghe",
+      "brațul din sud"
+     ],
+     [
+      "Grindul Letea",
+      "pădure pe nisipuri"
+     ]
+    ]
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Chilia e la graniță, Sulina e pentru nave, Sfântu Gheorghe e la sud; pe grindul Letea crește o pădure."
+   }
+  },
+  {
+   "id": "E11-10",
+   "nivel": "VIII-S11-delta-dunarii-platforma-continentala",
+   "competente": [
+    "VIII-3.4"
+   ],
+   "tip": "lacunar",
+   "dificultate": 2,
+   "enunt": "Completează.",
+   "date": {
+    "text": "Delta Dunării a devenit Rezervație a Biosferei în anul {0} și a intrat pe Lista Patrimoniului Mondial UNESCO în anul {1}.",
+    "raspunsuri": [
+     "1990",
+     "1991"
+    ],
+    "distractori": [
+     "1989",
+     "2007"
+    ]
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Rezervație a Biosferei: 1990; patrimoniu UNESCO: 1991."
+   },
+   "surse": [
+    "Radio Constanța, 1.09.2021 (HG 983/1990; UNESCO 1991)",
+    "Euronews România – Ziua Deltei Dunării (1990)",
+    "ESA – Pământul văzut din spațiu: Delta Dunării (UNESCO 1991)"
+   ]
+  },
+  {
+   "id": "E11-11",
+   "nivel": "VIII-S11-delta-dunarii-platforma-continentala",
+   "competente": [
+    "VIII-3.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 3,
+   "enunt": "De ce Delta Dunării înaintează treptat spre mare?",
+   "date": {
+    "variante": [
+     "Dunărea depune aluviuni la vărsare",
+     "nivelul mării scade mult în fiecare an",
+     "vântul aduce nisip din deșert",
+     "o ridică mișcările vulcanice"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Aluviunile aduse de Dunăre se depun la vărsare și formează uscat nou."
+   }
+  },
+  {
+   "id": "E11-12",
+   "nivel": "VIII-S11-delta-dunarii-platforma-continentala",
+   "competente": [
+    "VIII-1.1",
+    "VIII-3.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce se exploatează pe platforma continentală a Mării Negre?",
+   "date": {
+    "variante": [
+     "petrol și gaze naturale",
+     "cărbune",
+     "aur",
+     "sare gemă"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Pe platforma continentală se extrag petrol și gaze naturale."
+   }
+  },
+  {
+   "id": "E11-13",
+   "nivel": "VIII-S11-delta-dunarii-platforma-continentala",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Cum se numește lacul mare din sudul Deltei, desprins din mare?",
+   "date": {
+    "variante": [
+     "Lacul Razim",
+     "Lacul Sfânta Ana",
+     "Lacul Bâlea",
+     "Lacul Snagov"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Razim e un lac lagunar mare din sudul Deltei."
+   }
+  },
+  {
+   "id": "E11-14",
+   "nivel": "VIII-S11-delta-dunarii-platforma-continentala",
+   "competente": [
+    "VIII-4.4"
+   ],
+   "tip": "alegere",
+   "dificultate": 3,
+   "enunt": "Care măsură protejează Delta Dunării?",
+   "date": {
+    "variante": [
+     "interzicerea pescuitului în perioada de reproducere a peștilor",
+     "desecarea lacurilor pentru agricultură",
+     "construirea de hoteluri pe grinduri",
+     "aducerea de specii străine de pești"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Desecările, construcțiile și speciile străine strică ecosistemul. Pauza de pescuit lasă peștii să se înmulțească."
+   }
+  },
+  {
+   "id": "E11-15",
+   "nivel": "VIII-S11-delta-dunarii-platforma-continentala",
+   "competente": [
+    "VIII-3.4"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Din ce an e Delta Dunării Rezervație a Biosferei?",
+   "date": {
+    "variante": [
+     "1990",
+     "1935",
+     "2007",
+     "1880"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Și patrimoniu mondial UNESCO din 1991."
+   },
+   "surse": [
+    "Administrația Rezervației Biosferei Delta Dunării (ddbra.ro)",
+    "UNESCO World Heritage Centre – Danube Delta"
+   ]
+  },
+  {
+   "id": "E11-16",
+   "nivel": "VIII-S11-delta-dunarii-platforma-continentala",
+   "competente": [
+    "VIII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce pasăre e simbolul Deltei Dunării?",
+   "date": {
+    "variante": [
+     "pelicanul",
+     "barza",
+     "vulturul pleșuv",
+     "pinguinul"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Delta are cea mai mare colonie de pelicani din Europa."
+   }
+  },
+  {
+   "id": "E11-17",
+   "nivel": "VIII-S11-delta-dunarii-platforma-continentala",
+   "competente": [
+    "VIII-1.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce sunt plaurii?",
+   "date": {
+    "variante": [
+     "insule plutitoare de stuf și rădăcini",
+     "dune de nisip",
+     "brațe ale Dunării",
+     "păduri pe grinduri"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Plaurii se mișcă pe lacuri."
+   }
+  },
+  {
+   "id": "E11-18",
+   "nivel": "VIII-S11-delta-dunarii-platforma-continentala",
+   "competente": [
+    "VIII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce pădure veche, cu liane, se află pe grindul Letea?",
+   "date": {
+    "variante": [
+     "Pădurea Letea",
+     "Codrii Vlăsiei",
+     "Pădurea Băneasa",
+     "Pădurea Hoia"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Cea mai nordică pădure cu liane din Europa."
+   }
+  },
+  {
+   "id": "E11-19",
+   "nivel": "VIII-S11-delta-dunarii-platforma-continentala",
+   "competente": [
+    "VIII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce ocupații tradiționale au locuitorii Deltei?",
+   "date": {
+    "variante": [
+     "pescuitul, recoltarea stufului, turismul",
+     "mineritul",
+     "creșterea renilor",
+     "industria oțelului"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Lipovenii sunt pescari pricepuți."
+   }
+  },
+  {
+   "id": "E11-20",
+   "nivel": "VIII-S11-delta-dunarii-platforma-continentala",
+   "competente": [
+    "VIII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce plantă acoperă cea mai mare parte a Deltei?",
+   "date": {
+    "variante": [
+     "stuful",
+     "molidul",
+     "cactusul",
+     "bambusul"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Delta are una dintre cele mai mari suprafețe de stuf din lume."
+   }
+  },
+  {
+   "id": "E11-21",
+   "nivel": "VIII-S11-delta-dunarii-platforma-continentala",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "pin",
+   "dificultate": 3,
+   "enunt": "Atinge pe harta României orașul Sulina, la vărsarea brațului Sulina.",
+   "date": {
+    "harta": "romania",
+    "tinta": {
+     "lat": 45.16,
+     "lon": 29.66,
+     "nume": "Sulina"
+    },
+    "toleranta": 30
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Sulina e cel mai estic oraș al României."
+   }
+  },
+  {
+   "id": "E11-22",
+   "nivel": "VIII-S11-delta-dunarii-platforma-continentala",
+   "competente": [
+    "VIII-3.4"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Adevărat sau fals? Delta Dunării e în patrimoniul mondial UNESCO.",
+   "date": {
+    "variante": [
+     "Adevărat",
+     "Fals"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Adevărat, din 1991."
+   },
+   "surse": [
+    "Administrația Rezervației Biosferei Delta Dunării (ddbra.ro)",
+    "UNESCO World Heritage Centre – Danube Delta"
+   ]
+  },
+  {
+   "id": "E11-23",
+   "nivel": "VIII-S11-delta-dunarii-platforma-continentala",
+   "competente": [
+    "VIII-3.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Adevărat sau fals? Delta Dunării e o unitate de relief foarte veche.",
+   "date": {
+    "variante": [
+     "Fals",
+     "Adevărat"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Fals: e cea mai nouă și se formează și acum."
+   }
+  },
+  {
+   "id": "E11-24",
+   "nivel": "VIII-S11-delta-dunarii-platforma-continentala",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "denumeste",
+   "dificultate": 2,
+   "enunt": "Ce oraș, „poarta Deltei”, e marcat pe hartă?",
+   "date": {
+    "harta": "romania",
+    "punct": {
+     "lat": 45.18,
+     "lon": 28.8
+    },
+    "variante": [
+     "Tulcea",
+     "Sulina",
+     "Galați",
+     "Brăila"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Tulcea e la începutul Deltei."
+   }
+  },
+  {
+   "id": "E11-25",
+   "nivel": "VIII-S11-delta-dunarii-platforma-continentala",
+   "competente": [
+    "VIII-4.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 3,
+   "enunt": "Compară cele trei brațe ale Dunării.",
+   "date": {
+    "variante": [
+     "Chilia e cel mai mare debit, Sulina e rectificat pentru nave, Sfântu Gheorghe e cel mai vechi și sinuos",
+     "sunt identice",
+     "Sulina are cel mai mare debit",
+     "Chilia e rectificat"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Fiecare braț are particularitatea lui."
+   }
+  },
+  {
+   "id": "E11-26",
+   "nivel": "VIII-S11-delta-dunarii-platforma-continentala",
+   "competente": [
+    "VIII-3.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce e platforma continentală a Mării Negre?",
+   "date": {
+    "variante": [
+     "continuarea sub apă a uscatului, până la aproximativ 200 m adâncime",
+     "groapa cea mai adâncă",
+     "o insulă",
+     "un vulcan submarin"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "E foarte largă în dreptul Dobrogei."
+   }
+  },
+  {
+   "id": "E11-27",
+   "nivel": "VIII-S11-delta-dunarii-platforma-continentala",
+   "competente": [
+    "VIII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce resursă se exploatează din platforma continentală românească?",
+   "date": {
+    "variante": [
+     "petrol și gaze naturale",
+     "aur",
+     "cărbune",
+     "sare gemă"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Inclusiv zăcământul Neptun Deep."
+   }
+  },
+  {
+   "id": "E11-28",
+   "nivel": "VIII-S11-delta-dunarii-platforma-continentala",
+   "competente": [
+    "VIII-4.4"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce măsură protejează păsările din Delta?",
+   "date": {
+    "variante": [
+     "zonele strict protejate, unde accesul e interzis",
+     "vânătoarea liberă",
+     "desecarea lacurilor",
+     "zgomotul bărcilor cu motor puternic oriunde"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Regulile Rezervației."
+   }
+  },
+  {
+   "id": "E11-29",
+   "nivel": "VIII-S11-delta-dunarii-platforma-continentala",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce complex lagunar se află la sudul Deltei?",
+   "date": {
+    "variante": [
+     "Razim–Sinoe",
+     "Bâlea",
+     "Techirghiol",
+     "Snagov"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Razim e cel mai mare lac al României."
+   }
+  },
+  {
+   "id": "E11-30",
+   "nivel": "VIII-S11-delta-dunarii-platforma-continentala",
+   "competente": [
+    "VIII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce minoritate etnică, cu tradiții de pescari, trăiește în Delta?",
+   "date": {
+    "variante": [
+     "lipovenii",
+     "secuii",
+     "sașii",
+     "moții"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Lipovenii sunt de origine rusă, de rit vechi."
+   }
+  },
+  {
+   "id": "E12-01",
+   "nivel": "VIII-S12-aplicatii-practice-studii-caz",
+   "competente": [
+    "VIII-2.2",
+    "VIII-4.2"
+   ],
+   "tip": "ordoneaza",
+   "dificultate": 2,
+   "enunt": "Ordonează unitățile de relief pe care le traversezi prin județul Buzău, de la nord-vest la sud-est.",
+   "date": {
+    "elemente": [
+     "Carpații de Curbură",
+     "Subcarpații de Curbură",
+     "Câmpia Română"
+    ],
+    "criteriu": "De la nord-vest la sud-est"
+   },
+   "feedback": {
+    "corect": "Corect: de la munte spre câmpie.",
+    "gresit": "Coborând de la nord-vest: munții, apoi Subcarpații, apoi câmpia."
+   }
+  },
+  {
+   "id": "E12-02",
+   "nivel": "VIII-S12-aplicatii-practice-studii-caz",
+   "competente": [
+    "VIII-3.4"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce fenomen natural rar poți vedea în județul Buzău, la Berca–Pâclele?",
+   "date": {
+    "variante": [
+     "vulcanii noroioși",
+     "ghețarii",
+     "gheizerele fierbinți",
+     "dunele de nisip"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Vulcanii noroioși sunt un fenomen rar; zona e arie protejată."
+   },
+   "surse": [
+    "Euronews România – Buzău, județul vulcanilor noroioși",
+    "Adevărul (ediția Buzău) – Vulcanii Noroioși"
+   ]
+  },
+  {
+   "id": "E12-03",
+   "nivel": "VIII-S12-aplicatii-practice-studii-caz",
+   "competente": [
+    "VIII-4.4"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce măsură reduce riscul de alunecare pe un versant?",
+   "date": {
+    "variante": [
+     "plantarea de arbori pe versant",
+     "tăierea pădurii",
+     "arătura din deal spre vale",
+     "construirea de case grele pe margine"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Rădăcinile copacilor țin solul. Tăierea pădurii și arătura pe direcția pantei cresc riscul."
+   }
+  },
+  {
+   "id": "E12-04",
+   "nivel": "VIII-S12-aplicatii-practice-studii-caz",
+   "competente": [
+    "VIII-4.4"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce faci dacă se anunță cod roșu de inundații în zona ta?",
+   "date": {
+    "variante": [
+     "urmezi indicațiile autorităților și te muți pe un loc mai înalt",
+     "mergi să filmezi râul de aproape",
+     "traversezi podul ca să vezi apa",
+     "rămâi la subsol"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "La cod roșu urmezi indicațiile autorităților și stai departe de râu, pe un loc mai înalt."
+   }
+  },
+  {
+   "id": "E12-05",
+   "nivel": "VIII-S12-aplicatii-practice-studii-caz",
+   "competente": [
+    "VIII-3.2",
+    "VIII-4.4"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Unde se produc cele mai multe cutremure puternice din România?",
+   "date": {
+    "variante": [
+     "în zona Vrancea, la curbura Carpaților",
+     "în Delta Dunării",
+     "în Câmpia de Vest",
+     "în Munții Măcinului"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect, chiar lângă județul nostru.",
+    "gresit": "Zona seismică Vrancea e la curbura Carpaților, aproape de Râmnicu Sărat."
+   }
+  }
+ ]
+}

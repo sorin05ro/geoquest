@@ -1,0 +1,4197 @@
+{
+ "clasa": 8,
+ "unitate": "Populația, așezările omenești și organizarea administrativ-teritorială",
+ "niveluri": [
+  {
+   "id": "VIII-S21-populatia-elemente-structuri-demografice",
+   "tip": "nivel",
+   "titlu": "Populația României – elemente și structuri demografice",
+   "descopera": {
+    "intrebare": "De ce scade populația României?"
+   },
+   "invata": [
+    {
+     "titlu": "Numărul populației",
+     "text": "La recensământul din 2021, România avea 19 053 815 locuitori, după INS. Populația a crescut până în jurul anului 1990 (peste 23 de milioane), apoi a scăzut, din cauza natalității mici și a emigrării.\nSporul natural e negativ din 1992: mor mai mulți oameni decât se nasc. Mulți români au emigrat pentru muncă, mai ales în Italia, Spania, Germania, Marea Britanie."
+    },
+    {
+     "titlu": "Densitatea și repartiția",
+     "text": "Densitatea medie e de aproximativ 80 loc./km². Populația e densă în București și în jurul marilor orașe, în Subcarpați, pe Valea Prahovei, în Câmpia Moldovei, și rară în Delta Dunării și în munții înalți."
+    },
+    {
+     "titlu": "Structuri demografice",
+     "text": "Structura pe sexe: puțin mai multe femei decât bărbați. Structura pe vârste: populația îmbătrânește – crește ponderea vârstnicilor.\nStructura etnică (din cei care au declarat etnia, RPL 2021): români aproximativ 89 %, maghiari aproximativ 6 %, romi aproximativ 3 %, apoi ucraineni, germani, turci, ruși-lipoveni, tătari și alții.\nStructura religioasă: majoritatea sunt ortodocși; urmează romano-catolicii, reformații, penticostalii, greco-catolicii și alții."
+    }
+   ],
+   "stiaiCa": "La recensământul din 2021 s-a putut răspunde, pentru prima dată, și online, de pe telefon sau calculator.",
+   "referintaProfesor": "Manual Art Klett, clasa a VIII-a, ediția 2025 (manuale.edu.ro), lecția „Populația – elemente și structuri demografice”"
+  },
+  {
+   "id": "VIII-S22-asezarile-rurale-evolutie-diferentieri",
+   "tip": "nivel",
+   "titlu": "Așezările rurale – evoluție și diferențieri",
+   "descopera": {
+    "intrebare": "Prin ce se deosebește un sat din Bărăgan de unul din Munții Apuseni?"
+   },
+   "invata": [
+    {
+     "titlu": "Satele României",
+     "text": "În România sunt aproape 13 000 de sate, organizate în peste 2 800 de comune. Aproape jumătate din populație trăiește la sat.\nSatele sunt foarte vechi: multe sunt menționate în documente din Evul Mediu. În Transilvania se păstrează sate săsești cu biserici fortificate (Viscri, Biertan)."
+    },
+    {
+     "titlu": "Forme și mărimi",
+     "text": "După formă: sate adunate (case strânse, în câmpie – Bărăgan), răsfirate (case în grupuri, pe dealuri), risipite (case împrăștiate, la munte – Apuseni, Bran), liniare (de-a lungul unui drum sau al unei văi).\nSatele de câmpie sunt mari (mii de locuitori), cele de munte, mici."
+    },
+    {
+     "titlu": "Funcții",
+     "text": "Agricole (cereale, legume), pastorale (creșterea oilor – Mărginimea Sibiului), viticole și pomicole (pe dealuri), pescărești (în Deltă), forestiere (la munte), turistice (Bran, Sirnea, Botiza, Viscri – agroturism).\nProbleme: îmbătrânirea, plecarea tinerilor, lipsa unor servicii (medici, școli, transport). Avantaje: aer curat, tradiții, natură."
+    }
+   ],
+   "stiaiCa": "Sirnea, din Țara Bârsei, a fost primul sat turistic din România, declarat așa încă din 1968.",
+   "referintaProfesor": "Manual Art Klett, clasa a VIII-a, ediția 2025 (manuale.edu.ro), lecția „Așezările rurale – evoluție și diferențieri teritoriale”"
+  },
+  {
+   "id": "VIII-S23-asezarile-urbane-evolutie-caracteristici",
+   "tip": "nivel",
+   "titlu": "Așezările urbane – evoluție și caracteristici",
+   "descopera": {
+    "intrebare": "Care e cel mai vechi oraș al României?"
+   },
+   "invata": [
+    {
+     "titlu": "Evoluție",
+     "text": "Cele mai vechi orașe sunt cetățile grecești de pe țărmul Mării Negre (secolele VII–VI î.Hr.): Histria, Tomis (Constanța), Callatis (Mangalia). Romanii au întemeiat orașe ca Apulum (Alba Iulia), Napoca (Cluj), Drobeta.\nÎn Evul Mediu au apărut orașe-târguri și cetăți: Brașov, Sibiu, Sighișoara, Suceava, Iași, Târgoviște, București. Industrializarea din secolul XX a creat orașe noi și a mărit mult pe cele vechi."
+    },
+    {
+     "titlu": "Rețeaua urbană azi",
+     "text": "România are aproximativ 320 de orașe, dintre care 103 municipii. Puțin peste jumătate din populație trăiește la oraș.\nDupă București, cele mai mari orașe sunt (RPL 2021): Cluj-Napoca, Iași, Constanța, Timișoara, Brașov, Craiova, Galați – fiecare cu peste 200 000 de locuitori.\nRâmnicu Sărat și Buzău sunt municipii în județul Buzău."
+    },
+    {
+     "titlu": "Funcții și probleme",
+     "text": "Funcții: administrative (reședințe de județ), industriale (Pitești, Brașov), portuare (Constanța, Galați), universitare (Cluj, Iași), turistice (Sinaia, Mamaia), balneare (Băile Herculane, Sovata).\nProbleme: trafic, poluare, lipsa spațiilor verzi, extinderea necontrolată. Soluții: transport public, piste de biciclete, parcuri, zone metropolitane."
+    }
+   ],
+   "stiaiCa": "Histria, întemeiată de coloniști greci în secolul al VII-lea î.Hr., e considerată cel mai vechi oraș atestat de pe teritoriul României.",
+   "referintaProfesor": "Manual Art Klett, clasa a VIII-a, ediția 2025 (manuale.edu.ro), lecția „Așezările urbane – evoluție și caracteristici actuale”"
+  },
+  {
+   "id": "VIII-S24-caracterizarea-geografica-orasului-bucuresti",
+   "tip": "nivel",
+   "titlu": "Caracterizarea geografică a orașului București",
+   "descopera": {
+    "intrebare": "Cum a devenit Bucureștiul capitala României?"
+   },
+   "invata": [
+    {
+     "titlu": "Poziție și cadru natural",
+     "text": "Bucureștiul e în sud-estul țării, în Câmpia Română (Câmpia Vlăsiei), pe râurile Dâmbovița și Colentina. Altitudinea e mică (aproximativ 60–90 m). Climă de câmpie, cu veri calde și ierni geroase.\nÎn trecut era înconjurat de Codrii Vlăsiei; azi are lacuri (salba de lacuri pe Colentina: Herăstrău, Floreasca, Tei) și parcuri (Cișmigiu, Herăstrău – Parcul Regele Mihai I)."
+    },
+    {
+     "titlu": "Istorie și populație",
+     "text": "E atestat documentar din 1459, într-un act al lui Vlad Țepeș. A devenit capitala Țării Românești, apoi a Principatelor Unite (1862) și a României.\nLa RPL 2021 avea aproximativ 1,7 milioane de locuitori, de aproape șase ori mai mult decât următorul oraș. E împărțit în 6 sectoare."
+    },
+    {
+     "titlu": "Funcții",
+     "text": "Centru politic și administrativ (Parlamentul, Guvernul, Președinția), economic (bănci, companii, IT), universitar, cultural (Ateneul Român, muzee, teatre), nod de transport (Gara de Nord, aeroportul Henri Coandă, autostrăzi, metrou).\nProbleme: trafic, poluare, lipsa spațiilor verzi pe cap de locuitor, risc seismic ridicat."
+    }
+   ],
+   "stiaiCa": "Palatul Parlamentului din București e una dintre cele mai mari clădiri administrative din lume.",
+   "referintaProfesor": "Manual Art Klett, clasa a VIII-a, ediția 2025 (manuale.edu.ro), lecția „Caracterizarea geografică a orașului București”"
+  },
+  {
+   "id": "VIII-S25-organizarea-administrativ-teritoriala",
+   "tip": "nivel",
+   "titlu": "Organizarea administrativ-teritorială",
+   "descopera": {
+    "intrebare": "Ce e un județ și ce e o regiune de dezvoltare?"
+   },
+   "invata": [
+    {
+     "titlu": "Unitățile administrative",
+     "text": "Teritoriul României e împărțit în 41 de județe și municipiul București. Județele sunt formate din municipii, orașe și comune; comunele sunt formate din sate.\nFiecare județ are o reședință (de exemplu, municipiul Buzău pentru județul Buzău), un Consiliu Județean și un prefect. Fiecare localitate are primar și consiliu local."
+    },
+    {
+     "titlu": "Regiunile de dezvoltare",
+     "text": "Pentru dezvoltare și fonduri europene, județele sunt grupate în 8 regiuni de dezvoltare: Nord-Est, Sud-Est, Sud-Muntenia, Sud-Vest Oltenia, Vest, Nord-Vest, Centru și București-Ilfov. Ele nu sunt unități administrative.\nJudețul Buzău face parte din Regiunea Sud-Est, alături de Brăila, Constanța, Galați, Tulcea și Vrancea."
+    },
+    {
+     "titlu": "Regiunile istorice",
+     "text": "Tradițional, România are regiuni istorice: Muntenia, Oltenia, Moldova, Transilvania, Banat, Crișana, Maramureș, Dobrogea, Bucovina.\nJudețul Buzău e în nord-estul Munteniei, la granița istorică cu Moldova."
+    }
+   ],
+   "stiaiCa": "Județul Buzău e singurul județ cu un muzeu al chihlimbarului (la Colți) și cu vulcani noroioși care sunt rezervație naturală (Berca–Pâclele).",
+   "referintaProfesor": "Manual Art Klett, clasa a VIII-a, ediția 2025 (manuale.edu.ro), lecția „Organizarea administrativ-teritorială”"
+  },
+  {
+   "id": "VIII-S27-aplicatii-practice-studii-caz",
+   "tip": "expeditie",
+   "titlu": "Expediție: populația județului meu",
+   "descopera": {
+    "intrebare": "Cum s-a schimbat populația județului Buzău și a orașului Râmnicu Sărat?"
+   },
+   "invata": [
+    {
+     "titlu": "Ce faci în expediție",
+     "text": "Urmezi pașii, rezolvi sarcinile și notezi în Jurnalul exploratorului ce ai descoperit."
+    }
+   ],
+   "referintaProfesor": "Manual Art Klett, clasa a VIII-a, ediția 2025 (manuale.edu.ro), lecția „Aplicații practice/studii de caz: grafice și hărți despre populația României”",
+   "pasi": [
+    {
+     "titlu": "1. Datele",
+     "text": "Cu profesorul, caută pe site-ul INS populația județului Buzău și a orașului Râmnicu Sărat la recensămintele din 2002, 2011 și 2021.",
+     "itemi": [
+      "VIII27-01"
+     ],
+     "jurnal": {
+      "cerinta": "Notează valorile în tabel: anul, populația județului, populația orașului."
+     }
+    },
+    {
+     "titlu": "2. Graficul",
+     "text": "Desenează un grafic liniar cu evoluția populației orașului Râmnicu Sărat.",
+     "itemi": [
+      "VIII27-02"
+     ],
+     "jurnal": {
+      "cerinta": "Fotografiază graficul.",
+      "foto": true
+     }
+    },
+    {
+     "titlu": "3. Interpretarea",
+     "text": "Scrie 3 concluzii: populația a crescut sau a scăzut? De ce crezi? Ce consecințe are pentru oraș?",
+     "itemi": [
+      "VIII27-03",
+      "VIII27-04"
+     ],
+     "jurnal": {
+      "cerinta": "Scrie concluziile."
+     }
+    },
+    {
+     "titlu": "4. Harta densității",
+     "text": "Pe harta județului Buzău, colorează comunele după densitatea populației (date de la profesor), cu o legendă de 3 culori.",
+     "jurnal": {
+      "cerinta": "Fotografiază harta și explică legenda.",
+      "foto": true
+     }
+    }
+   ]
+  }
+ ],
+ "itemi": [
+  {
+   "id": "VIII21-01",
+   "nivel": "VIII-S21-populatia-elemente-structuri-demografice",
+   "competente": [
+    "VIII-2.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 1,
+   "enunt": "Câți locuitori avea România la recensământul din 2021?",
+   "date": {
+    "variante": [
+     "19 053 815 (aproximativ 19 milioane)",
+     "aproximativ 9 milioane",
+     "aproximativ 23 de milioane",
+     "aproximativ 190 de milioane"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "După INS."
+   },
+   "surse": [
+    "INS – Recensământul Populației și Locuințelor 2021: rezultate definitive (recensamantromania.ro)",
+    "Wikipedia (ro) – Recensământul populației din 2021 (România)"
+   ]
+  },
+  {
+   "id": "VIII21-02",
+   "nivel": "VIII-S21-populatia-elemente-structuri-demografice",
+   "competente": [
+    "VIII-1.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "De ce scade populația României?",
+   "date": {
+    "variante": [
+     "natalitatea e mică și mulți oameni au emigrat",
+     "pentru că se nasc prea mulți copii",
+     "pentru că vin mulți imigranți",
+     "nu scade"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Spor natural negativ și emigrare."
+   }
+  },
+  {
+   "id": "VIII21-03",
+   "nivel": "VIII-S21-populatia-elemente-structuri-demografice",
+   "competente": [
+    "VIII-1.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Din ce an e sporul natural negativ în România?",
+   "date": {
+    "variante": [
+     "din 1992",
+     "din 1950",
+     "din 2020",
+     "nu a fost niciodată negativ"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Mor mai mulți decât se nasc."
+   },
+   "surse": [
+    "INS – recensămintele din 1930, 1956, 1966, 1977, 1992, 2002, 2011, 2021",
+    "Wikipedia (ro) – Demografia României"
+   ]
+  },
+  {
+   "id": "VIII21-04",
+   "nivel": "VIII-S21-populatia-elemente-structuri-demografice",
+   "competente": [
+    "VIII-2.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce densitate medie are România?",
+   "date": {
+    "variante": [
+     "aproximativ 80 loc./km²",
+     "aproximativ 8 loc./km²",
+     "aproximativ 800 loc./km²",
+     "aproximativ 1 loc./km²"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "19 milioane : 238 de mii km²."
+   },
+   "surse": [
+    "INS – Recensământul Populației și Locuințelor 2021: rezultate definitive (recensamantromania.ro)",
+    "Wikipedia (ro) – Recensământul populației din 2021 (România)"
+   ]
+  },
+  {
+   "id": "VIII21-05",
+   "nivel": "VIII-S21-populatia-elemente-structuri-demografice",
+   "competente": [
+    "VIII-2.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 3,
+   "enunt": "Calculează: 19 milioane de locuitori pe 238 de mii km². Ce densitate rezultă?",
+   "date": {
+    "variante": [
+     "aproximativ 80 loc./km²",
+     "aproximativ 8 loc./km²",
+     "aproximativ 800 loc./km²",
+     "aproximativ 12 loc./km²"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "19 000 000 : 238 000 ≈ 80."
+   },
+   "indiciu": "Împarte populația la suprafață."
+  },
+  {
+   "id": "VIII21-06",
+   "nivel": "VIII-S21-populatia-elemente-structuri-demografice",
+   "competente": [
+    "VIII-2.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Unde e cea mai mică densitate a populației?",
+   "date": {
+    "variante": [
+     "în Delta Dunării și în munții înalți",
+     "în București",
+     "pe Valea Prahovei",
+     "în Câmpia Moldovei"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Condiții naturale restrictive."
+   }
+  },
+  {
+   "id": "VIII21-07",
+   "nivel": "VIII-S21-populatia-elemente-structuri-demografice",
+   "competente": [
+    "VIII-2.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Unde e cea mai mare densitate a populației?",
+   "date": {
+    "variante": [
+     "în București și în jurul marilor orașe",
+     "în Delta Dunării",
+     "în Munții Retezat",
+     "în Bărăgan"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Concentrare urbană."
+   }
+  },
+  {
+   "id": "VIII21-08",
+   "nivel": "VIII-S21-populatia-elemente-structuri-demografice",
+   "competente": [
+    "VIII-1.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce înseamnă emigrare?",
+   "date": {
+    "variante": [
+     "plecarea oamenilor din țară pentru a trăi în altă țară",
+     "venirea străinilor în țară",
+     "nașterea copiilor",
+     "mutarea în alt cartier"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Mulți români au emigrat după 1990."
+   }
+  },
+  {
+   "id": "VIII21-09",
+   "nivel": "VIII-S21-populatia-elemente-structuri-demografice",
+   "competente": [
+    "VIII-1.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "În ce țări au emigrat cei mai mulți români?",
+   "date": {
+    "variante": [
+     "Italia, Spania, Germania, Marea Britanie",
+     "China, Japonia",
+     "Brazilia, Argentina",
+     "Australia, Noua Zeelandă"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Țări ale Uniunii Europene, mai ales."
+   }
+  },
+  {
+   "id": "VIII21-10",
+   "nivel": "VIII-S21-populatia-elemente-structuri-demografice",
+   "competente": [
+    "VIII-1.1"
+   ],
+   "tip": "asociaza",
+   "dificultate": 2,
+   "enunt": "Asociază structura demografică cu ce arată.",
+   "date": {
+    "perechi": [
+     [
+      "pe sexe",
+      "câți bărbați și câte femei"
+     ],
+     [
+      "pe vârste",
+      "câți tineri, adulți, vârstnici"
+     ],
+     [
+      "etnică",
+      "ce etnii declară oamenii"
+     ],
+     [
+      "religioasă",
+      "ce religii declară oamenii"
+     ]
+    ]
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Structuri demografice."
+   }
+  },
+  {
+   "id": "VIII21-11",
+   "nivel": "VIII-S21-populatia-elemente-structuri-demografice",
+   "competente": [
+    "VIII-2.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce etnie e majoritară în România, după RPL 2021?",
+   "date": {
+    "variante": [
+     "română (aproximativ 89 % din cei care au declarat etnia)",
+     "maghiară",
+     "germană",
+     "turcă"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Urmează maghiarii (≈6 %) și romii (≈3 %)."
+   },
+   "surse": [
+    "INS – Recensământul Populației și Locuințelor 2021: rezultate definitive (recensamantromania.ro)",
+    "Wikipedia (ro) – Recensământul populației din 2021 (România)"
+   ]
+  },
+  {
+   "id": "VIII21-12",
+   "nivel": "VIII-S21-populatia-elemente-structuri-demografice",
+   "competente": [
+    "VIII-2.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Unde trăiesc mai ales maghiarii din România?",
+   "date": {
+    "variante": [
+     "în județele Harghita și Covasna și în alte zone din Transilvania",
+     "în Dobrogea",
+     "în Oltenia",
+     "în Bărăgan"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Secuii sunt o comunitate de limbă maghiară."
+   }
+  },
+  {
+   "id": "VIII21-13",
+   "nivel": "VIII-S21-populatia-elemente-structuri-demografice",
+   "competente": [
+    "VIII-2.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce minorități trăiesc mai ales în Dobrogea?",
+   "date": {
+    "variante": [
+     "turcii, tătarii și lipovenii",
+     "secuii și sașii",
+     "moții",
+     "ceangăii"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Dobrogea e o regiune multietnică."
+   }
+  },
+  {
+   "id": "VIII21-14",
+   "nivel": "VIII-S21-populatia-elemente-structuri-demografice",
+   "competente": [
+    "VIII-1.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce înseamnă că populația României „îmbătrânește”?",
+   "date": {
+    "variante": [
+     "crește ponderea vârstnicilor și scade ponderea copiilor",
+     "oamenii trăiesc mai puțin",
+     "se nasc mai mulți copii",
+     "toți sunt tineri"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Efect al natalității mici."
+   }
+  },
+  {
+   "id": "VIII21-15",
+   "nivel": "VIII-S21-populatia-elemente-structuri-demografice",
+   "competente": [
+    "VIII-1.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Adevărat sau fals? Populația României crește rapid în ultimii ani.",
+   "date": {
+    "variante": [
+     "Fals",
+     "Adevărat"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Fals: scade, din 1990 încoace."
+   },
+   "surse": [
+    "INS – recensămintele din 1930, 1956, 1966, 1977, 1992, 2002, 2011, 2021",
+    "Wikipedia (ro) – Demografia României"
+   ]
+  },
+  {
+   "id": "VIII21-16",
+   "nivel": "VIII-S21-populatia-elemente-structuri-demografice",
+   "competente": [
+    "VIII-2.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Adevărat sau fals? În România trăiesc puțin mai multe femei decât bărbați.",
+   "date": {
+    "variante": [
+     "Adevărat",
+     "Fals"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Adevărat: femeile au speranța de viață mai mare."
+   },
+   "surse": [
+    "INS – Recensământul Populației și Locuințelor 2021: rezultate definitive (recensamantromania.ro)",
+    "Wikipedia (ro) – Recensământul populației din 2021 (România)"
+   ]
+  },
+  {
+   "id": "VIII21-17",
+   "nivel": "VIII-S21-populatia-elemente-structuri-demografice",
+   "competente": [
+    "VIII-2.3"
+   ],
+   "tip": "lacunar",
+   "dificultate": 2,
+   "enunt": "Completează.",
+   "date": {
+    "text": "La RPL 2021, România avea aproximativ {0} milioane de locuitori; sporul natural e {1}.",
+    "raspunsuri": [
+     "19",
+     "negativ"
+    ],
+    "distractori": [
+     "23",
+     "pozitiv"
+    ]
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "19 milioane, spor negativ."
+   },
+   "surse": [
+    "INS – Recensământul Populației și Locuințelor 2021: rezultate definitive (recensamantromania.ro)",
+    "Wikipedia (ro) – Recensământul populației din 2021 (România)"
+   ]
+  },
+  {
+   "id": "VIII21-18",
+   "nivel": "VIII-S21-populatia-elemente-structuri-demografice",
+   "competente": [
+    "VIII-1.1"
+   ],
+   "tip": "lacunar",
+   "dificultate": 2,
+   "enunt": "Completează.",
+   "date": {
+    "text": "Plecarea din țară se numește {0}; venirea în țară se numește {1}.",
+    "raspunsuri": [
+     "emigrare",
+     "imigrare"
+    ],
+    "distractori": [
+     "navetă",
+     "urbanizare"
+    ]
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Migrație externă."
+   }
+  },
+  {
+   "id": "VIII21-19",
+   "nivel": "VIII-S21-populatia-elemente-structuri-demografice",
+   "competente": [
+    "VIII-2.3"
+   ],
+   "tip": "grafic",
+   "dificultate": 3,
+   "enunt": "Graficul arată populația României la recensăminte (milioane, valori rotunjite). Când a fost populația cea mai mare?",
+   "date": {
+    "grafic": {
+     "tip": "profil",
+     "titlu": "Populația României la recensăminte",
+     "date": [
+      {
+       "eticheta": "1956",
+       "valoare": 17.5
+      },
+      {
+       "eticheta": "1966",
+       "valoare": 19.1
+      },
+      {
+       "eticheta": "1977",
+       "valoare": 21.6
+      },
+      {
+       "eticheta": "1992",
+       "valoare": 22.8
+      },
+      {
+       "eticheta": "2002",
+       "valoare": 21.7
+      },
+      {
+       "eticheta": "2011",
+       "valoare": 20.1
+      },
+      {
+       "eticheta": "2021",
+       "valoare": 19.1
+      }
+     ],
+     "unitate": "milioane",
+     "sursa": "INS"
+    },
+    "variante": [
+     "în 1992 (dintre recensămintele din grafic)",
+     "în 1956",
+     "în 2021",
+     "în 2002"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Apoi a scăzut."
+   },
+   "surse": [
+    "INS – recensămintele din 1930, 1956, 1966, 1977, 1992, 2002, 2011, 2021",
+    "Wikipedia (ro) – Demografia României"
+   ]
+  },
+  {
+   "id": "VIII21-20",
+   "nivel": "VIII-S21-populatia-elemente-structuri-demografice",
+   "competente": [
+    "VIII-2.3",
+    "VIII-4.1"
+   ],
+   "tip": "grafic",
+   "dificultate": 3,
+   "enunt": "Folosind graficul, cu cât a scăzut populația între 1992 și 2021?",
+   "date": {
+    "grafic": {
+     "tip": "profil",
+     "titlu": "Populația României la recensăminte",
+     "date": [
+      {
+       "eticheta": "1956",
+       "valoare": 17.5
+      },
+      {
+       "eticheta": "1966",
+       "valoare": 19.1
+      },
+      {
+       "eticheta": "1977",
+       "valoare": 21.6
+      },
+      {
+       "eticheta": "1992",
+       "valoare": 22.8
+      },
+      {
+       "eticheta": "2002",
+       "valoare": 21.7
+      },
+      {
+       "eticheta": "2011",
+       "valoare": 20.1
+      },
+      {
+       "eticheta": "2021",
+       "valoare": 19.1
+      }
+     ],
+     "unitate": "milioane",
+     "sursa": "INS"
+    },
+    "variante": [
+     "cu aproximativ 3,7 milioane",
+     "cu 1 milion",
+     "cu 10 milioane",
+     "a crescut"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "22,8 − 19,1 = 3,7."
+   },
+   "surse": [
+    "INS – recensămintele din 1930, 1956, 1966, 1977, 1992, 2002, 2011, 2021",
+    "Wikipedia (ro) – Demografia României"
+   ]
+  },
+  {
+   "id": "VIII21-21",
+   "nivel": "VIII-S21-populatia-elemente-structuri-demografice",
+   "competente": [
+    "VIII-4.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 3,
+   "enunt": "Ce formă are piramida vârstelor în România azi?",
+   "date": {
+    "variante": [
+     "bază îngustă (puțini copii) și mijloc larg (mulți adulți)",
+     "bază foarte largă, ca în Africa",
+     "triunghi perfect",
+     "cerc"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Populație îmbătrânită."
+   }
+  },
+  {
+   "id": "VIII21-22",
+   "nivel": "VIII-S21-populatia-elemente-structuri-demografice",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "pin",
+   "dificultate": 2,
+   "enunt": "Atinge pe harta României județul Harghita, cu populație majoritar maghiară.",
+   "date": {
+    "harta": "romania",
+    "tinta": {
+     "lat": 46.5,
+     "lon": 25.6,
+     "nume": "Harghita"
+    },
+    "toleranta": 50
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "În estul Transilvaniei."
+   }
+  },
+  {
+   "id": "VIII21-23",
+   "nivel": "VIII-S21-populatia-elemente-structuri-demografice",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "pin",
+   "dificultate": 3,
+   "enunt": "Atinge pe harta României Delta Dunării, cea mai slab populată regiune.",
+   "date": {
+    "harta": "romania",
+    "tinta": {
+     "lat": 45.1,
+     "lon": 29.3,
+     "nume": "Delta Dunării"
+    },
+    "toleranta": 50
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Sub 10 loc./km²."
+   }
+  },
+  {
+   "id": "VIII21-24",
+   "nivel": "VIII-S21-populatia-elemente-structuri-demografice",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "denumeste",
+   "dificultate": 2,
+   "enunt": "Ce oraș, cu populația cea mai mare din țară, e marcat pe hartă?",
+   "date": {
+    "harta": "romania",
+    "punct": {
+     "lat": 44.43,
+     "lon": 26.1
+    },
+    "variante": [
+     "București",
+     "Ploiești",
+     "Pitești",
+     "Giurgiu"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Capitala."
+   }
+  },
+  {
+   "id": "VIII21-25",
+   "nivel": "VIII-S21-populatia-elemente-structuri-demografice",
+   "competente": [
+    "VIII-1.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce instituție face recensămintele în România?",
+   "date": {
+    "variante": [
+     "Institutul Național de Statistică (INS)",
+     "Poliția",
+     "Banca Națională",
+     "Primăria"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Recensământul se face o dată la 10 ani."
+   }
+  },
+  {
+   "id": "VIII21-26",
+   "nivel": "VIII-S21-populatia-elemente-structuri-demografice",
+   "competente": [
+    "VIII-1.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce înseamnă natalitate scăzută?",
+   "date": {
+    "variante": [
+     "se nasc puțini copii la 1 000 de locuitori",
+     "se nasc foarte mulți copii",
+     "mor puțini oameni",
+     "vin mulți imigranți"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Natalitatea României e printre cele mai mici din UE."
+   }
+  },
+  {
+   "id": "VIII21-27",
+   "nivel": "VIII-S21-populatia-elemente-structuri-demografice",
+   "competente": [
+    "VIII-2.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 3,
+   "enunt": "Ce consecințe are emigrarea tinerilor?",
+   "date": {
+    "variante": [
+     "lipsa forței de muncă, îmbătrânirea populației, sate depopulate",
+     "creșterea natalității",
+     "mai mulți copii la școală",
+     "nicio consecință"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Dar și bani trimiși acasă."
+   }
+  },
+  {
+   "id": "VIII21-28",
+   "nivel": "VIII-S21-populatia-elemente-structuri-demografice",
+   "competente": [
+    "VIII-1.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce religie e majoritară în România?",
+   "date": {
+    "variante": [
+     "creștin-ortodoxă",
+     "islamul",
+     "budismul",
+     "iudaismul"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Urmată de romano-catolici și reformați."
+   },
+   "surse": [
+    "INS – Recensământul Populației și Locuințelor 2021: rezultate definitive (recensamantromania.ro)",
+    "Wikipedia (ro) – Recensământul populației din 2021 (România)"
+   ]
+  },
+  {
+   "id": "VIII21-29",
+   "nivel": "VIII-S21-populatia-elemente-structuri-demografice",
+   "competente": [
+    "VIII-2.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce comunitate germană istorică trăiește în sudul Transilvaniei?",
+   "date": {
+    "variante": [
+     "sașii",
+     "secuii",
+     "lipovenii",
+     "tătarii"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Satele cu biserici fortificate sunt ale sașilor."
+   }
+  },
+  {
+   "id": "VIII21-30",
+   "nivel": "VIII-S21-populatia-elemente-structuri-demografice",
+   "competente": [
+    "VIII-1.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce este un recensământ?",
+   "date": {
+    "variante": [
+     "numărarea oficială a tuturor locuitorilor și locuințelor dintr-o țară",
+     "un sondaj de opinie",
+     "o hartă",
+     "un concurs"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Se face o dată la 10 ani."
+   }
+  },
+  {
+   "id": "VIII22-01",
+   "nivel": "VIII-S22-asezarile-rurale-evolutie-diferentieri",
+   "competente": [
+    "VIII-3.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 1,
+   "enunt": "Câte comune are România, aproximativ?",
+   "date": {
+    "variante": [
+     "peste 2 800",
+     "aproximativ 41",
+     "aproximativ 300",
+     "aproximativ 28 000"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Cu aproape 13 000 de sate."
+   },
+   "surse": [
+    "INS – Anuarul Statistic al României: organizarea administrativă a teritoriului",
+    "Legea nr. 2/1968 privind organizarea administrativă a teritoriului (cu modificările ulterioare)"
+   ]
+  },
+  {
+   "id": "VIII22-02",
+   "nivel": "VIII-S22-asezarile-rurale-evolutie-diferentieri",
+   "competente": [
+    "VIII-3.2"
+   ],
+   "tip": "asociaza",
+   "dificultate": 2,
+   "enunt": "Asociază forma satului cu relieful.",
+   "date": {
+    "perechi": [
+     [
+      "sat adunat",
+      "câmpie (Bărăgan)"
+     ],
+     [
+      "sat risipit",
+      "munte (Apuseni)"
+     ],
+     [
+      "sat răsfirat",
+      "deal"
+     ],
+     [
+      "sat liniar",
+      "vale sau drum"
+     ]
+    ]
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Relieful decide forma."
+   }
+  },
+  {
+   "id": "VIII22-03",
+   "nivel": "VIII-S22-asezarile-rurale-evolutie-diferentieri",
+   "competente": [
+    "VIII-3.3"
+   ],
+   "tip": "asociaza",
+   "dificultate": 2,
+   "enunt": "Asociază funcția satului cu un exemplu.",
+   "date": {
+    "perechi": [
+     [
+      "pescărească",
+      "satele din Delta Dunării"
+     ],
+     [
+      "pastorală",
+      "Mărginimea Sibiului"
+     ],
+     [
+      "turistică",
+      "Bran, Sirnea"
+     ],
+     [
+      "viticolă",
+      "satele de pe Dealu Mare"
+     ]
+    ]
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Funcțiile satelor."
+   }
+  },
+  {
+   "id": "VIII22-04",
+   "nivel": "VIII-S22-asezarile-rurale-evolutie-diferentieri",
+   "competente": [
+    "VIII-3.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce formă au de obicei satele din Bărăgan?",
+   "date": {
+    "variante": [
+     "adunată, cu case strânse și străzi drepte",
+     "risipită",
+     "răsfirată pe dealuri",
+     "pe stânci"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Terenul plan permite asta."
+   }
+  },
+  {
+   "id": "VIII22-05",
+   "nivel": "VIII-S22-asezarile-rurale-evolutie-diferentieri",
+   "competente": [
+    "VIII-3.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce formă au de obicei satele din Munții Apuseni?",
+   "date": {
+    "variante": [
+     "risipită, cu case împrăștiate pe versanți",
+     "adunată",
+     "liniară pe autostradă",
+     "în blocuri"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Fiecare gospodărie lângă terenul ei."
+   }
+  },
+  {
+   "id": "VIII22-06",
+   "nivel": "VIII-S22-asezarile-rurale-evolutie-diferentieri",
+   "competente": [
+    "VIII-3.4"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce sate din Transilvania au biserici fortificate în patrimoniul UNESCO?",
+   "date": {
+    "variante": [
+     "sate săsești, ca Viscri și Biertan",
+     "satele din Deltă",
+     "satele din Bărăgan",
+     "satele din Dobrogea"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Construite de sași în Evul Mediu."
+   },
+   "surse": [
+    "UNESCO World Heritage Centre – Villages with Fortified Churches in Transylvania",
+    "Fundația Mihai Eminescu Trust – Viscri"
+   ]
+  },
+  {
+   "id": "VIII22-07",
+   "nivel": "VIII-S22-asezarile-rurale-evolutie-diferentieri",
+   "competente": [
+    "VIII-3.4"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Care a fost primul sat turistic din România?",
+   "date": {
+    "variante": [
+     "Sirnea",
+     "Viscri",
+     "Bran",
+     "Botiza"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Declarat în 1968."
+   }
+  },
+  {
+   "id": "VIII22-08",
+   "nivel": "VIII-S22-asezarile-rurale-evolutie-diferentieri",
+   "competente": [
+    "VIII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce înseamnă agroturism?",
+   "date": {
+    "variante": [
+     "turism în gospodării rurale, cu cazare și mâncare tradițională",
+     "turism în orașe mari",
+     "turism pe vapoare",
+     "turism la fabrici"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Bran, Moieciu, Maramureș, Bucovina."
+   }
+  },
+  {
+   "id": "VIII22-09",
+   "nivel": "VIII-S22-asezarile-rurale-evolutie-diferentieri",
+   "competente": [
+    "VIII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce probleme au multe sate din România?",
+   "date": {
+    "variante": [
+     "îmbătrânirea, plecarea tinerilor, lipsa unor servicii",
+     "prea mulți copii",
+     "trafic aglomerat",
+     "prea multe fabrici"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Depopulare rurală."
+   }
+  },
+  {
+   "id": "VIII22-10",
+   "nivel": "VIII-S22-asezarile-rurale-evolutie-diferentieri",
+   "competente": [
+    "VIII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce avantaje are viața la sat?",
+   "date": {
+    "variante": [
+     "aer curat, liniște, natură, tradiții",
+     "trafic intens",
+     "poluare industrială",
+     "zgomot"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Calitatea mediului."
+   }
+  },
+  {
+   "id": "VIII22-11",
+   "nivel": "VIII-S22-asezarile-rurale-evolutie-diferentieri",
+   "competente": [
+    "VIII-3.1"
+   ],
+   "tip": "pin",
+   "dificultate": 2,
+   "enunt": "Atinge pe harta României Viscri.",
+   "date": {
+    "harta": "romania",
+    "tinta": {
+     "lat": 46.05,
+     "lon": 25.09,
+     "nume": "Viscri"
+    },
+    "toleranta": 35
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Viscri e în județul Brașov."
+   }
+  },
+  {
+   "id": "VIII22-12",
+   "nivel": "VIII-S22-asezarile-rurale-evolutie-diferentieri",
+   "competente": [
+    "VIII-3.1"
+   ],
+   "tip": "pin",
+   "dificultate": 2,
+   "enunt": "Atinge pe harta României Branul.",
+   "date": {
+    "harta": "romania",
+    "tinta": {
+     "lat": 45.52,
+     "lon": 25.37,
+     "nume": "Bran"
+    },
+    "toleranta": 35
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Bran e între Bucegi și Piatra Craiului."
+   }
+  },
+  {
+   "id": "VIII22-13",
+   "nivel": "VIII-S22-asezarile-rurale-evolutie-diferentieri",
+   "competente": [
+    "VIII-3.1"
+   ],
+   "tip": "pin",
+   "dificultate": 3,
+   "enunt": "Atinge pe harta României Mărginimea Sibiului.",
+   "date": {
+    "harta": "romania",
+    "tinta": {
+     "lat": 45.7,
+     "lon": 23.9,
+     "nume": "Mărginimea Sibiului"
+    },
+    "toleranta": 40
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "La sud-vest de Sibiu."
+   }
+  },
+  {
+   "id": "VIII22-14",
+   "nivel": "VIII-S22-asezarile-rurale-evolutie-diferentieri",
+   "competente": [
+    "VIII-3.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Adevărat sau fals? Satele de munte sunt de obicei mai mari decât satele de câmpie.",
+   "date": {
+    "variante": [
+     "Fals",
+     "Adevărat"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Fals: satele de câmpie sunt mai mari."
+   }
+  },
+  {
+   "id": "VIII22-15",
+   "nivel": "VIII-S22-asezarile-rurale-evolutie-diferentieri",
+   "competente": [
+    "VIII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Adevărat sau fals? Aproape jumătate din populația României trăiește la sat.",
+   "date": {
+    "variante": [
+     "Adevărat",
+     "Fals"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Adevărat, după RPL 2021."
+   },
+   "surse": [
+    "INS – Recensământul Populației și Locuințelor 2021: rezultate definitive (recensamantromania.ro)",
+    "Wikipedia (ro) – Recensământul populației din 2021 (România)"
+   ]
+  },
+  {
+   "id": "VIII22-16",
+   "nivel": "VIII-S22-asezarile-rurale-evolutie-diferentieri",
+   "competente": [
+    "VIII-3.2"
+   ],
+   "tip": "lacunar",
+   "dificultate": 2,
+   "enunt": "Completează.",
+   "date": {
+    "text": "La câmpie satele sunt {0}, iar la munte sunt {1}.",
+    "raspunsuri": [
+     "adunate",
+     "risipite"
+    ],
+    "distractori": [
+     "liniare",
+     "răsfirate"
+    ]
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Formele satelor."
+   }
+  },
+  {
+   "id": "VIII22-17",
+   "nivel": "VIII-S22-asezarile-rurale-evolutie-diferentieri",
+   "competente": [
+    "VIII-3.4"
+   ],
+   "tip": "lacunar",
+   "dificultate": 2,
+   "enunt": "Completează.",
+   "date": {
+    "text": "Satele cu biserici fortificate sunt tipice {0}, iar bisericile de lemn sunt tipice {1}.",
+    "raspunsuri": [
+     "sașilor",
+     "Maramureșului"
+    ],
+    "distractori": [
+     "secuilor",
+     "Dobrogei"
+    ]
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Patrimoniu rural."
+   }
+  },
+  {
+   "id": "VIII22-18",
+   "nivel": "VIII-S22-asezarile-rurale-evolutie-diferentieri",
+   "competente": [
+    "VIII-3.1"
+   ],
+   "tip": "grafic",
+   "dificultate": 3,
+   "enunt": "Graficul arată populația a trei sate imaginare la două recensăminte. Ce sat s-a depopulat cel mai mult?",
+   "date": {
+    "grafic": {
+     "tip": "bare",
+     "titlu": "Populația satelor imaginare (2011 / 2021)",
+     "date": [
+      {
+       "eticheta": "satul A 2011",
+       "valoare": 1200
+      },
+      {
+       "eticheta": "satul A 2021",
+       "valoare": 1150
+      },
+      {
+       "eticheta": "satul B 2011",
+       "valoare": 800
+      },
+      {
+       "eticheta": "satul B 2021",
+       "valoare": 450
+      },
+      {
+       "eticheta": "satul C 2011",
+       "valoare": 2500
+      },
+      {
+       "eticheta": "satul C 2021",
+       "valoare": 2600
+      }
+     ],
+     "unitate": "locuitori"
+    },
+    "variante": [
+     "satul B",
+     "satul A",
+     "satul C",
+     "niciunul"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Satul B a pierdut aproape jumătate din locuitori."
+   }
+  },
+  {
+   "id": "VIII22-19",
+   "nivel": "VIII-S22-asezarile-rurale-evolutie-diferentieri",
+   "competente": [
+    "VIII-3.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 3,
+   "enunt": "De ce satele din jurul marilor orașe cresc, iar cele izolate scad?",
+   "date": {
+    "variante": [
+     "lângă orașe sunt locuri de muncă și servicii; satele izolate pierd tineri",
+     "satele izolate au mai multe școli",
+     "orașele se mută la sat",
+     "fără motiv"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Suburbanizare."
+   }
+  },
+  {
+   "id": "VIII22-20",
+   "nivel": "VIII-S22-asezarile-rurale-evolutie-diferentieri",
+   "competente": [
+    "VIII-3.1"
+   ],
+   "tip": "denumeste",
+   "dificultate": 2,
+   "enunt": "Ce regiune cu biserici de lemn din patrimoniul UNESCO e marcată pe hartă?",
+   "date": {
+    "harta": "romania",
+    "punct": {
+     "lat": 47.7,
+     "lon": 24
+    },
+    "variante": [
+     "Maramureș",
+     "Bucovina",
+     "Oltenia",
+     "Dobrogea"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Biserici de lemn cu turle înalte."
+   }
+  },
+  {
+   "id": "VIII22-21",
+   "nivel": "VIII-S22-asezarile-rurale-evolutie-diferentieri",
+   "competente": [
+    "VIII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce ocupație au locuitorii satelor din Delta Dunării?",
+   "date": {
+    "variante": [
+     "pescuitul",
+     "mineritul",
+     "creșterea renilor",
+     "industria oțelului"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Și recoltarea stufului, turismul."
+   }
+  },
+  {
+   "id": "VIII22-22",
+   "nivel": "VIII-S22-asezarile-rurale-evolutie-diferentieri",
+   "competente": [
+    "VIII-3.4"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce înseamnă transhumanță?",
+   "date": {
+    "variante": [
+     "mutarea turmelor de oi de la munte (vara) la câmpie sau în bălți (iarna)",
+     "mutarea satelor",
+     "migrația păsărilor",
+     "plecarea în străinătate"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Tradiție pastorală veche."
+   }
+  },
+  {
+   "id": "VIII22-23",
+   "nivel": "VIII-S22-asezarile-rurale-evolutie-diferentieri",
+   "competente": [
+    "VIII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 3,
+   "enunt": "Ce poate ajuta satele să-și păstreze tinerii?",
+   "date": {
+    "variante": [
+     "internet, drumuri bune, locuri de muncă, școli și dispensare",
+     "închiderea școlilor",
+     "desființarea transportului",
+     "nimic"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Dezvoltare rurală."
+   }
+  },
+  {
+   "id": "VIII22-24",
+   "nivel": "VIII-S22-asezarile-rurale-evolutie-diferentieri",
+   "competente": [
+    "VIII-3.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce unitate administrativă cuprinde unul sau mai multe sate?",
+   "date": {
+    "variante": [
+     "comuna",
+     "județul",
+     "municipiul",
+     "regiunea"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Comuna are primar și consiliu local."
+   }
+  },
+  {
+   "id": "VIII22-25",
+   "nivel": "VIII-S22-asezarile-rurale-evolutie-diferentieri",
+   "competente": [
+    "VIII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce sat din Maramureș e cunoscut pentru „Cimitirul Vesel”?",
+   "date": {
+    "variante": [
+     "Săpânța",
+     "Viscri",
+     "Sirnea",
+     "Biertan"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Crucile pictate în albastru cu versuri."
+   }
+  },
+  {
+   "id": "VIII22-26",
+   "nivel": "VIII-S22-asezarile-rurale-evolutie-diferentieri",
+   "competente": [
+    "VIII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce funcție au satele de pe dealurile subcarpatice ale Buzăului?",
+   "date": {
+    "variante": [
+     "pomicole și viticole",
+     "pescărești",
+     "miniere de aur",
+     "portuare"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Livezi și podgorii."
+   }
+  },
+  {
+   "id": "VIII22-27",
+   "nivel": "VIII-S22-asezarile-rurale-evolutie-diferentieri",
+   "competente": [
+    "VIII-3.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "De ce satele vechi s-au format lângă izvoare și râuri?",
+   "date": {
+    "variante": [
+     "pentru apă de băut și pentru animale",
+     "pentru apărare de vulcani",
+     "pentru că era obligatoriu",
+     "fără motiv"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Apa e esențială."
+   }
+  },
+  {
+   "id": "VIII22-28",
+   "nivel": "VIII-S22-asezarile-rurale-evolutie-diferentieri",
+   "competente": [
+    "VIII-3.4"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce muzeu din București prezintă case tradiționale din toată țara?",
+   "date": {
+    "variante": [
+     "Muzeul Național al Satului „Dimitrie Gusti”",
+     "Muzeul Țăranului Român doar cu picturi",
+     "Muzeul de Istorie",
+     "Muzeul Antipa"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "În Parcul Herăstrău."
+   }
+  },
+  {
+   "id": "VIII22-29",
+   "nivel": "VIII-S22-asezarile-rurale-evolutie-diferentieri",
+   "competente": [
+    "VIII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce înseamnă depopulare?",
+   "date": {
+    "variante": [
+     "scăderea numărului de locuitori dintr-o localitate",
+     "creșterea populației",
+     "construirea de case",
+     "mutarea unui oraș"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Frecventă în satele izolate."
+   }
+  },
+  {
+   "id": "VIII22-30",
+   "nivel": "VIII-S22-asezarile-rurale-evolutie-diferentieri",
+   "competente": [
+    "VIII-3.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce formă au satele de-a lungul unei văi înguste de munte?",
+   "date": {
+    "variante": [
+     "liniară",
+     "adunată",
+     "circulară",
+     "risipită pe câmpie"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Casele urmează drumul și râul."
+   }
+  },
+  {
+   "id": "VIII23-01",
+   "nivel": "VIII-S23-asezarile-urbane-evolutie-caracteristici",
+   "competente": [
+    "VIII-3.4"
+   ],
+   "tip": "alegere",
+   "dificultate": 1,
+   "enunt": "Care e considerat cel mai vechi oraș atestat de pe teritoriul României?",
+   "date": {
+    "variante": [
+     "Histria",
+     "București",
+     "Cluj-Napoca",
+     "Râmnicu Sărat"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Colonie grecească din secolul VII î.Hr."
+   }
+  },
+  {
+   "id": "VIII23-02",
+   "nivel": "VIII-S23-asezarile-urbane-evolutie-caracteristici",
+   "competente": [
+    "VIII-3.4"
+   ],
+   "tip": "asociaza",
+   "dificultate": 2,
+   "enunt": "Asociază numele antic cu orașul de azi.",
+   "date": {
+    "perechi": [
+     [
+      "Tomis",
+      "Constanța"
+     ],
+     [
+      "Callatis",
+      "Mangalia"
+     ],
+     [
+      "Napoca",
+      "Cluj-Napoca"
+     ],
+     [
+      "Apulum",
+      "Alba Iulia"
+     ]
+    ]
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Orașe antice."
+   }
+  },
+  {
+   "id": "VIII23-03",
+   "nivel": "VIII-S23-asezarile-urbane-evolutie-caracteristici",
+   "competente": [
+    "VIII-3.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Câte municipii are România?",
+   "date": {
+    "variante": [
+     "103",
+     "41",
+     "320",
+     "2 862"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "După INS."
+   },
+   "surse": [
+    "INS – Anuarul Statistic al României: organizarea administrativă a teritoriului",
+    "Legea nr. 2/1968 privind organizarea administrativă a teritoriului (cu modificările ulterioare)"
+   ]
+  },
+  {
+   "id": "VIII23-04",
+   "nivel": "VIII-S23-asezarile-urbane-evolutie-caracteristici",
+   "competente": [
+    "VIII-3.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Care e cel mai mare oraș al României după București (RPL 2021)?",
+   "date": {
+    "variante": [
+     "Cluj-Napoca",
+     "Iași",
+     "Constanța",
+     "Timișoara"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Aproximativ 287 000 de locuitori."
+   },
+   "surse": [
+    "INS – RPL 2021: populația rezidentă pe municipii și orașe",
+    "Fanatik.ro – cele mai populate 10 orașe din România (date RPL 2021)"
+   ]
+  },
+  {
+   "id": "VIII23-05",
+   "nivel": "VIII-S23-asezarile-urbane-evolutie-caracteristici",
+   "competente": [
+    "VIII-3.3"
+   ],
+   "tip": "asociaza",
+   "dificultate": 2,
+   "enunt": "Asociază orașul cu funcția lui principală.",
+   "date": {
+    "perechi": [
+     [
+      "Constanța",
+      "port maritim"
+     ],
+     [
+      "Pitești",
+      "industrie de automobile"
+     ],
+     [
+      "Sinaia",
+      "turism montan"
+     ],
+     [
+      "Băile Herculane",
+      "balneară"
+     ]
+    ]
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Funcțiile orașelor."
+   }
+  },
+  {
+   "id": "VIII23-06",
+   "nivel": "VIII-S23-asezarile-urbane-evolutie-caracteristici",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "pin",
+   "dificultate": 2,
+   "enunt": "Atinge pe harta României Cluj-Napoca.",
+   "date": {
+    "harta": "romania",
+    "tinta": {
+     "lat": 46.77,
+     "lon": 23.6,
+     "nume": "Cluj-Napoca"
+    },
+    "toleranta": 30
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "În nord-vestul Transilvaniei."
+   }
+  },
+  {
+   "id": "VIII23-07",
+   "nivel": "VIII-S23-asezarile-urbane-evolutie-caracteristici",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "pin",
+   "dificultate": 2,
+   "enunt": "Atinge pe harta României Iași.",
+   "date": {
+    "harta": "romania",
+    "tinta": {
+     "lat": 47.16,
+     "lon": 27.59,
+     "nume": "Iași"
+    },
+    "toleranta": 30
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "În nord-estul țării."
+   }
+  },
+  {
+   "id": "VIII23-08",
+   "nivel": "VIII-S23-asezarile-urbane-evolutie-caracteristici",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "pin",
+   "dificultate": 2,
+   "enunt": "Atinge pe harta României Brașov.",
+   "date": {
+    "harta": "romania",
+    "tinta": {
+     "lat": 45.66,
+     "lon": 25.61,
+     "nume": "Brașov"
+    },
+    "toleranta": 30
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "La curbura Carpaților."
+   }
+  },
+  {
+   "id": "VIII23-09",
+   "nivel": "VIII-S23-asezarile-urbane-evolutie-caracteristici",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "pin",
+   "dificultate": 3,
+   "enunt": "Atinge pe harta României Craiova.",
+   "date": {
+    "harta": "romania",
+    "tinta": {
+     "lat": 44.32,
+     "lon": 23.8,
+     "nume": "Craiova"
+    },
+    "toleranta": 30
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "În Oltenia, pe Jiu."
+   }
+  },
+  {
+   "id": "VIII23-10",
+   "nivel": "VIII-S23-asezarile-urbane-evolutie-caracteristici",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "pin",
+   "dificultate": 3,
+   "enunt": "Atinge pe harta României Histria.",
+   "date": {
+    "harta": "romania",
+    "tinta": {
+     "lat": 44.55,
+     "lon": 28.77,
+     "nume": "Histria"
+    },
+    "toleranta": 35
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Pe malul Lacului Sinoe."
+   }
+  },
+  {
+   "id": "VIII23-11",
+   "nivel": "VIII-S23-asezarile-urbane-evolutie-caracteristici",
+   "competente": [
+    "VIII-3.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "De ce multe orașe au crescut mult în secolul XX?",
+   "date": {
+    "variante": [
+     "industrializarea a atras oameni de la sate",
+     "s-au mutat orașele",
+     "s-au născut mai mulți copii doar la oraș",
+     "fără motiv"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Urbanizare rapidă."
+   }
+  },
+  {
+   "id": "VIII23-12",
+   "nivel": "VIII-S23-asezarile-urbane-evolutie-caracteristici",
+   "competente": [
+    "VIII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce orașe sunt mari centre universitare?",
+   "date": {
+    "variante": [
+     "Cluj-Napoca, Iași, București, Timișoara",
+     "Sulina, Vama Veche",
+     "Bran, Sirnea",
+     "Săpânța, Viscri"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Universități vechi și mari."
+   }
+  },
+  {
+   "id": "VIII23-13",
+   "nivel": "VIII-S23-asezarile-urbane-evolutie-caracteristici",
+   "competente": [
+    "VIII-3.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce rang administrativ are Râmnicu Sărat?",
+   "date": {
+    "variante": [
+     "municipiu",
+     "comună",
+     "sat",
+     "capitală de județ"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Reședința județului e municipiul Buzău."
+   }
+  },
+  {
+   "id": "VIII23-14",
+   "nivel": "VIII-S23-asezarile-urbane-evolutie-caracteristici",
+   "competente": [
+    "VIII-3.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Adevărat sau fals? Puțin peste jumătate din populația României trăiește la oraș.",
+   "date": {
+    "variante": [
+     "Adevărat",
+     "Fals"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Adevărat, după RPL 2021."
+   },
+   "surse": [
+    "INS – Recensământul Populației și Locuințelor 2021: rezultate definitive (recensamantromania.ro)",
+    "Wikipedia (ro) – Recensământul populației din 2021 (România)"
+   ]
+  },
+  {
+   "id": "VIII23-15",
+   "nivel": "VIII-S23-asezarile-urbane-evolutie-caracteristici",
+   "competente": [
+    "VIII-3.4"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Adevărat sau fals? Bucureștiul e cel mai vechi oraș al României.",
+   "date": {
+    "variante": [
+     "Fals",
+     "Adevărat"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Fals: e atestat documentar din 1459; Histria e mult mai veche."
+   }
+  },
+  {
+   "id": "VIII23-16",
+   "nivel": "VIII-S23-asezarile-urbane-evolutie-caracteristici",
+   "competente": [
+    "VIII-3.4"
+   ],
+   "tip": "lacunar",
+   "dificultate": 2,
+   "enunt": "Completează.",
+   "date": {
+    "text": "Constanța de azi se numea în Antichitate {0}, iar Mangalia se numea {1}.",
+    "raspunsuri": [
+     "Tomis",
+     "Callatis"
+    ],
+    "distractori": [
+     "Napoca",
+     "Apulum"
+    ]
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Cetăți grecești."
+   }
+  },
+  {
+   "id": "VIII23-17",
+   "nivel": "VIII-S23-asezarile-urbane-evolutie-caracteristici",
+   "competente": [
+    "VIII-3.1"
+   ],
+   "tip": "lacunar",
+   "dificultate": 2,
+   "enunt": "Completează.",
+   "date": {
+    "text": "România are {0} municipii; cel mai mare oraș după București este {1}.",
+    "raspunsuri": [
+     "103",
+     "Cluj-Napoca"
+    ],
+    "distractori": [
+     "41",
+     "Iași"
+    ]
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Rețeaua urbană."
+   },
+   "surse": [
+    "INS – Anuarul Statistic al României: organizarea administrativă a teritoriului",
+    "Legea nr. 2/1968 privind organizarea administrativă a teritoriului (cu modificările ulterioare)"
+   ]
+  },
+  {
+   "id": "VIII23-18",
+   "nivel": "VIII-S23-asezarile-urbane-evolutie-caracteristici",
+   "competente": [
+    "VIII-2.3"
+   ],
+   "tip": "grafic",
+   "dificultate": 3,
+   "enunt": "Graficul arată populația marilor orașe (RPL 2021, mii locuitori, rotunjit). Ce oraș e pe locul al doilea în grafic?",
+   "date": {
+    "grafic": {
+     "tip": "bare",
+     "titlu": "Populația orașelor mari (RPL 2021, rotunjit)",
+     "date": [
+      {
+       "eticheta": "Cluj-Napoca",
+       "valoare": 287
+      },
+      {
+       "eticheta": "Iași",
+       "valoare": 272
+      },
+      {
+       "eticheta": "Constanța",
+       "valoare": 264
+      },
+      {
+       "eticheta": "Timișoara",
+       "valoare": 251
+      },
+      {
+       "eticheta": "Brașov",
+       "valoare": 238
+      },
+      {
+       "eticheta": "Craiova",
+       "valoare": 234
+      }
+     ],
+     "unitate": "mii",
+     "sursa": "INS – RPL 2021"
+    },
+    "variante": [
+     "Iași",
+     "Timișoara",
+     "Constanța",
+     "Craiova"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Cluj, Iași, Constanța, Timișoara, Brașov, Craiova."
+   },
+   "surse": [
+    "INS – RPL 2021: populația rezidentă pe municipii și orașe",
+    "Fanatik.ro – cele mai populate 10 orașe din România (date RPL 2021)"
+   ]
+  },
+  {
+   "id": "VIII23-19",
+   "nivel": "VIII-S23-asezarile-urbane-evolutie-caracteristici",
+   "competente": [
+    "VIII-2.2"
+   ],
+   "tip": "ordoneaza",
+   "dificultate": 3,
+   "enunt": "Ordonează orașele după vechimea atestării, de la cel mai vechi.",
+   "date": {
+    "elemente": [
+     "Histria (sec. VII î.Hr.)",
+     "Apulum (sec. II d.Hr.)",
+     "Brașov (sec. XIII)",
+     "București (1459)"
+    ],
+    "criteriu": "Cronologic"
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Greci, romani, Ev Mediu."
+   }
+  },
+  {
+   "id": "VIII23-20",
+   "nivel": "VIII-S23-asezarile-urbane-evolutie-caracteristici",
+   "competente": [
+    "VIII-4.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 3,
+   "enunt": "Compară un oraș industrial cu un oraș turistic.",
+   "date": {
+    "variante": [
+     "orașul industrial are fabrici și cartiere de muncitori; orașul turistic are hoteluri și obiective de vizitat",
+     "sunt identice",
+     "orașul turistic are mai multe fabrici",
+     "orașul industrial nu are locuitori"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Funcții diferite."
+   }
+  },
+  {
+   "id": "VIII23-21",
+   "nivel": "VIII-S23-asezarile-urbane-evolutie-caracteristici",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "denumeste",
+   "dificultate": 2,
+   "enunt": "Ce oraș-port de pe Dunăre e marcat pe hartă?",
+   "date": {
+    "harta": "romania",
+    "punct": {
+     "lat": 45.44,
+     "lon": 28.05
+    },
+    "variante": [
+     "Galați",
+     "Brăila",
+     "Tulcea",
+     "Giurgiu"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Galați are cel mai mare șantier naval."
+   }
+  },
+  {
+   "id": "VIII23-22",
+   "nivel": "VIII-S23-asezarile-urbane-evolutie-caracteristici",
+   "competente": [
+    "VIII-4.4"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce soluții are un oraș pentru traficul aglomerat?",
+   "date": {
+    "variante": [
+     "transport public, piste de biciclete, parcări la marginea orașului",
+     "mai multe mașini în centru",
+     "închiderea autobuzelor",
+     "tăierea copacilor"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Mobilitate urbană."
+   }
+  },
+  {
+   "id": "VIII23-23",
+   "nivel": "VIII-S23-asezarile-urbane-evolutie-caracteristici",
+   "competente": [
+    "VIII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce este o zonă metropolitană?",
+   "date": {
+    "variante": [
+     "un oraș mare și localitățile din jur, legate prin navetă și servicii",
+     "un sat izolat",
+     "un parc",
+     "o insulă"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Ex.: zona metropolitană Cluj, Iași."
+   }
+  },
+  {
+   "id": "VIII23-24",
+   "nivel": "VIII-S23-asezarile-urbane-evolutie-caracteristici",
+   "competente": [
+    "VIII-3.4"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce oraș medieval transilvănean a fost Capitală Culturală Europeană în 2007?",
+   "date": {
+    "variante": [
+     "Sibiu",
+     "Buzău",
+     "Constanța",
+     "Galați"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Timișoara a fost în 2023."
+   }
+  },
+  {
+   "id": "VIII23-25",
+   "nivel": "VIII-S23-asezarile-urbane-evolutie-caracteristici",
+   "competente": [
+    "VIII-3.4"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce oraș românesc a fost Capitală Europeană a Culturii în 2023?",
+   "date": {
+    "variante": [
+     "Timișoara",
+     "Iași",
+     "Cluj-Napoca",
+     "Craiova"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Al doilea oraș românesc, după Sibiu."
+   }
+  },
+  {
+   "id": "VIII23-26",
+   "nivel": "VIII-S23-asezarile-urbane-evolutie-caracteristici",
+   "competente": [
+    "VIII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce funcție are municipiul Buzău?",
+   "date": {
+    "variante": [
+     "reședință de județ, centru administrativ, industrial și comercial",
+     "stațiune montană",
+     "port maritim",
+     "sat pescăresc"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Buzău e reședința județului Buzău."
+   }
+  },
+  {
+   "id": "VIII23-27",
+   "nivel": "VIII-S23-asezarile-urbane-evolutie-caracteristici",
+   "competente": [
+    "VIII-3.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "De ce Brașov s-a dezvoltat ca centru comercial medieval?",
+   "date": {
+    "variante": [
+     "era la intersecția drumurilor comerciale prin trecătorile Carpaților",
+     "era la mare",
+     "era în deltă",
+     "era pe un vulcan"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Poziție strategică."
+   }
+  },
+  {
+   "id": "VIII23-28",
+   "nivel": "VIII-S23-asezarile-urbane-evolutie-caracteristici",
+   "competente": [
+    "VIII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce înseamnă „spații verzi” în oraș?",
+   "date": {
+    "variante": [
+     "parcuri, grădini, scuaruri cu vegetație",
+     "parcări",
+     "fabrici",
+     "autostrăzi"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Îmbunătățesc calitatea vieții."
+   }
+  },
+  {
+   "id": "VIII23-29",
+   "nivel": "VIII-S23-asezarile-urbane-evolutie-caracteristici",
+   "competente": [
+    "VIII-3.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 3,
+   "enunt": "De ce unele orașe mici, foste centre miniere, au pierdut populație?",
+   "date": {
+    "variante": [
+     "minele s-au închis și oamenii au plecat să caute muncă",
+     "s-au născut prea mulți copii",
+     "au devenit capitale",
+     "s-a mutat marea"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Ex.: orașele din Valea Jiului."
+   }
+  },
+  {
+   "id": "VIII23-30",
+   "nivel": "VIII-S23-asezarile-urbane-evolutie-caracteristici",
+   "competente": [
+    "VIII-3.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce oraș, al treilea după populație (RPL 2021), e cel mai mare port?",
+   "date": {
+    "variante": [
+     "Constanța",
+     "Galați",
+     "Brăila",
+     "Tulcea"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Aproximativ 264 000 de locuitori."
+   },
+   "surse": [
+    "INS – RPL 2021: populația rezidentă pe municipii și orașe",
+    "Fanatik.ro – cele mai populate 10 orașe din România (date RPL 2021)"
+   ]
+  },
+  {
+   "id": "VIII24-01",
+   "nivel": "VIII-S24-caracterizarea-geografica-orasului-bucuresti",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 1,
+   "enunt": "Pe ce râu e așezat Bucureștiul?",
+   "date": {
+    "variante": [
+     "Dâmbovița (și Colentina)",
+     "Oltul",
+     "Mureșul",
+     "Siretul"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Dâmbovița traversează centrul."
+   }
+  },
+  {
+   "id": "VIII24-02",
+   "nivel": "VIII-S24-caracterizarea-geografica-orasului-bucuresti",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "În ce unitate de relief se află Bucureștiul?",
+   "date": {
+    "variante": [
+     "Câmpia Română (Câmpia Vlăsiei)",
+     "Podișul Getic",
+     "Subcarpați",
+     "Carpați"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Altitudine de aproximativ 60–90 m."
+   }
+  },
+  {
+   "id": "VIII24-03",
+   "nivel": "VIII-S24-caracterizarea-geografica-orasului-bucuresti",
+   "competente": [
+    "VIII-3.4"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "În ce an e atestat documentar Bucureștiul?",
+   "date": {
+    "variante": [
+     "1459",
+     "1918",
+     "1862",
+     "1600"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Într-un act al lui Vlad Țepeș."
+   }
+  },
+  {
+   "id": "VIII24-04",
+   "nivel": "VIII-S24-caracterizarea-geografica-orasului-bucuresti",
+   "competente": [
+    "VIII-3.4"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Din ce an e Bucureștiul capitala Principatelor Unite?",
+   "date": {
+    "variante": [
+     "1862",
+     "1459",
+     "1918",
+     "2007"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "După Unirea din 1859."
+   }
+  },
+  {
+   "id": "VIII24-05",
+   "nivel": "VIII-S24-caracterizarea-geografica-orasului-bucuresti",
+   "competente": [
+    "VIII-3.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Câți locuitori avea Bucureștiul la RPL 2021?",
+   "date": {
+    "variante": [
+     "aproximativ 1,7 milioane",
+     "aproximativ 170 000",
+     "aproximativ 17 milioane",
+     "aproximativ 700 000"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Aproape 1,72 milioane, după INS."
+   },
+   "surse": [
+    "INS – RPL 2021: populația rezidentă pe municipii și orașe",
+    "Fanatik.ro – cele mai populate 10 orașe din România (date RPL 2021)"
+   ]
+  },
+  {
+   "id": "VIII24-06",
+   "nivel": "VIII-S24-caracterizarea-geografica-orasului-bucuresti",
+   "competente": [
+    "VIII-3.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "În câte sectoare e împărțit Bucureștiul?",
+   "date": {
+    "variante": [
+     "6",
+     "2",
+     "10",
+     "41"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Fiecare are primărie de sector."
+   }
+  },
+  {
+   "id": "VIII24-07",
+   "nivel": "VIII-S24-caracterizarea-geografica-orasului-bucuresti",
+   "competente": [
+    "VIII-3.3"
+   ],
+   "tip": "asociaza",
+   "dificultate": 2,
+   "enunt": "Asociază funcția Bucureștiului cu un exemplu.",
+   "date": {
+    "perechi": [
+     [
+      "politică",
+      "Parlamentul și Guvernul"
+     ],
+     [
+      "culturală",
+      "Ateneul Român"
+     ],
+     [
+      "de transport",
+      "Gara de Nord și aeroportul Henri Coandă"
+     ],
+     [
+      "universitară",
+      "Universitatea din București"
+     ]
+    ]
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Funcțiile capitalei."
+   }
+  },
+  {
+   "id": "VIII24-08",
+   "nivel": "VIII-S24-caracterizarea-geografica-orasului-bucuresti",
+   "competente": [
+    "VIII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce lacuri formează o salbă pe râul Colentina?",
+   "date": {
+    "variante": [
+     "Herăstrău, Floreasca, Tei și altele",
+     "Bucura, Zănoaga",
+     "Razim, Sinoe",
+     "Vidraru, Bicaz"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Lacuri amenajate."
+   }
+  },
+  {
+   "id": "VIII24-09",
+   "nivel": "VIII-S24-caracterizarea-geografica-orasului-bucuresti",
+   "competente": [
+    "VIII-3.4"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce clădire din București e una dintre cele mai mari clădiri administrative din lume?",
+   "date": {
+    "variante": [
+     "Palatul Parlamentului",
+     "Ateneul Român",
+     "Gara de Nord",
+     "Arcul de Triumf"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Construit în anii 1980."
+   }
+  },
+  {
+   "id": "VIII24-10",
+   "nivel": "VIII-S24-caracterizarea-geografica-orasului-bucuresti",
+   "competente": [
+    "VIII-3.4"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce sală de concerte e simbolul culturii Bucureștiului?",
+   "date": {
+    "variante": [
+     "Ateneul Român",
+     "Palatul Parlamentului",
+     "Arena Națională",
+     "Casa Presei"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Inaugurat în 1888."
+   }
+  },
+  {
+   "id": "VIII24-11",
+   "nivel": "VIII-S24-caracterizarea-geografica-orasului-bucuresti",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "pin",
+   "dificultate": 2,
+   "enunt": "Atinge pe harta României Bucureștiul.",
+   "date": {
+    "harta": "romania",
+    "tinta": {
+     "lat": 44.43,
+     "lon": 26.1,
+     "nume": "București"
+    },
+    "toleranta": 30
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "În sud-estul țării."
+   }
+  },
+  {
+   "id": "VIII24-12",
+   "nivel": "VIII-S24-caracterizarea-geografica-orasului-bucuresti",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "pin",
+   "dificultate": 3,
+   "enunt": "Atinge pe harta României aeroportul Henri Coandă (Otopeni).",
+   "date": {
+    "harta": "romania",
+    "tinta": {
+     "lat": 44.57,
+     "lon": 26.08,
+     "nume": "Otopeni"
+    },
+    "toleranta": 25
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "La nord de București."
+   }
+  },
+  {
+   "id": "VIII24-13",
+   "nivel": "VIII-S24-caracterizarea-geografica-orasului-bucuresti",
+   "competente": [
+    "VIII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce risc natural e important pentru București?",
+   "date": {
+    "variante": [
+     "cutremurele (din zona Vrancea)",
+     "erupțiile vulcanice",
+     "tsunami-urile",
+     "avalanșele"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Cutremurul din 4 martie 1977 a produs pagube mari."
+   }
+  },
+  {
+   "id": "VIII24-14",
+   "nivel": "VIII-S24-caracterizarea-geografica-orasului-bucuresti",
+   "competente": [
+    "VIII-4.4"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce problemă de mediu are Bucureștiul?",
+   "date": {
+    "variante": [
+     "poluarea aerului și traficul",
+     "avalanșele de zăpadă",
+     "lipsa totală de apă",
+     "vulcanii"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Transportul public și spațiile verzi ajută."
+   }
+  },
+  {
+   "id": "VIII24-15",
+   "nivel": "VIII-S24-caracterizarea-geografica-orasului-bucuresti",
+   "competente": [
+    "VIII-3.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Adevărat sau fals? Bucureștiul are de câteva ori mai mulți locuitori decât oricare alt oraș al României.",
+   "date": {
+    "variante": [
+     "Adevărat",
+     "Fals"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Adevărat: de aproape șase ori mai mult decât Clujul."
+   },
+   "surse": [
+    "INS – RPL 2021: populația rezidentă pe municipii și orașe",
+    "Fanatik.ro – cele mai populate 10 orașe din România (date RPL 2021)"
+   ]
+  },
+  {
+   "id": "VIII24-16",
+   "nivel": "VIII-S24-caracterizarea-geografica-orasului-bucuresti",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Adevărat sau fals? Bucureștiul e situat în Subcarpați.",
+   "date": {
+    "variante": [
+     "Fals",
+     "Adevărat"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Fals: e în Câmpia Română."
+   }
+  },
+  {
+   "id": "VIII24-17",
+   "nivel": "VIII-S24-caracterizarea-geografica-orasului-bucuresti",
+   "competente": [
+    "VIII-3.4"
+   ],
+   "tip": "lacunar",
+   "dificultate": 2,
+   "enunt": "Completează.",
+   "date": {
+    "text": "Bucureștiul e atestat documentar în anul {0}; e împărțit în {1} sectoare.",
+    "raspunsuri": [
+     "1459",
+     "6"
+    ],
+    "distractori": [
+     "1862",
+     "41"
+    ]
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Istorie și organizare."
+   }
+  },
+  {
+   "id": "VIII24-18",
+   "nivel": "VIII-S24-caracterizarea-geografica-orasului-bucuresti",
+   "competente": [
+    "VIII-3.3"
+   ],
+   "tip": "lacunar",
+   "dificultate": 2,
+   "enunt": "Completează.",
+   "date": {
+    "text": "Cel mai mare aeroport al țării se numește {0}; cea mai mare gară e {1}.",
+    "raspunsuri": [
+     "Henri Coandă",
+     "Gara de Nord"
+    ],
+    "distractori": [
+     "Traian Vuia",
+     "Gara Basarab"
+    ]
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Noduri de transport."
+   }
+  },
+  {
+   "id": "VIII24-19",
+   "nivel": "VIII-S24-caracterizarea-geografica-orasului-bucuresti",
+   "competente": [
+    "VIII-2.3"
+   ],
+   "tip": "grafic",
+   "dificultate": 3,
+   "enunt": "Graficul compară populația Bucureștiului cu a altor orașe (RPL 2021, mii, rotunjit). De câte ori e mai mare Bucureștiul decât Clujul?",
+   "date": {
+    "grafic": {
+     "tip": "bare",
+     "titlu": "Populația (RPL 2021, mii, rotunjit)",
+     "date": [
+      {
+       "eticheta": "București",
+       "valoare": 1717
+      },
+      {
+       "eticheta": "Cluj-Napoca",
+       "valoare": 287
+      },
+      {
+       "eticheta": "Iași",
+       "valoare": 272
+      },
+      {
+       "eticheta": "Oradea",
+       "valoare": 183
+      }
+     ],
+     "unitate": "mii",
+     "sursa": "INS – RPL 2021"
+    },
+    "variante": [
+     "de aproximativ 6 ori",
+     "de 2 ori",
+     "de 20 de ori",
+     "la fel"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "1 717 : 287 ≈ 6."
+   },
+   "surse": [
+    "INS – RPL 2021: populația rezidentă pe municipii și orașe",
+    "Fanatik.ro – cele mai populate 10 orașe din România (date RPL 2021)"
+   ]
+  },
+  {
+   "id": "VIII24-20",
+   "nivel": "VIII-S24-caracterizarea-geografica-orasului-bucuresti",
+   "competente": [
+    "VIII-4.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 3,
+   "enunt": "Compară Bucureștiul cu Clujul.",
+   "date": {
+    "variante": [
+     "Bucureștiul e capitala, mult mai mare, în câmpie; Clujul e în Transilvania, între dealuri, mare centru universitar și IT",
+     "sunt identice",
+     "Clujul e capitala",
+     "Bucureștiul e la munte"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Poziții și funcții."
+   }
+  },
+  {
+   "id": "VIII24-21",
+   "nivel": "VIII-S24-caracterizarea-geografica-orasului-bucuresti",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "denumeste",
+   "dificultate": 2,
+   "enunt": "Ce județ înconjoară Bucureștiul?",
+   "date": {
+    "harta": "romania",
+    "punct": {
+     "lat": 44.5,
+     "lon": 26.05
+    },
+    "variante": [
+     "Ilfov",
+     "Giurgiu",
+     "Prahova",
+     "Ialomița"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Bucureștiul și Ilfov formează o regiune de dezvoltare."
+   }
+  },
+  {
+   "id": "VIII24-22",
+   "nivel": "VIII-S24-caracterizarea-geografica-orasului-bucuresti",
+   "competente": [
+    "VIII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce mijloc de transport public subteran are Bucureștiul?",
+   "date": {
+    "variante": [
+     "metroul",
+     "telefericul",
+     "vaporașul",
+     "tramvaiul subteran pe apă"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Primul tronson s-a deschis în 1979."
+   }
+  },
+  {
+   "id": "VIII24-23",
+   "nivel": "VIII-S24-caracterizarea-geografica-orasului-bucuresti",
+   "competente": [
+    "VIII-3.4"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce muzeu de științele naturii poartă numele unui mare naturalist român?",
+   "date": {
+    "variante": [
+     "Muzeul „Grigore Antipa”",
+     "Muzeul Satului",
+     "Muzeul Țăranului",
+     "Muzeul Enescu"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Diorame cu animale din toată lumea."
+   }
+  },
+  {
+   "id": "VIII24-24",
+   "nivel": "VIII-S24-caracterizarea-geografica-orasului-bucuresti",
+   "competente": [
+    "VIII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "De ce Bucureștiul e cel mai important nod de transport al țării?",
+   "date": {
+    "variante": [
+     "aici se întâlnesc autostrăzi, căi ferate, aeroportul cel mai mare",
+     "are port maritim",
+     "e la munte",
+     "e în deltă"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Toate drumurile principale pornesc din capitală."
+   }
+  },
+  {
+   "id": "VIII24-25",
+   "nivel": "VIII-S24-caracterizarea-geografica-orasului-bucuresti",
+   "competente": [
+    "VIII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce autostradă leagă Bucureștiul de Constanța?",
+   "date": {
+    "variante": [
+     "A2 (Autostrada Soarelui)",
+     "A1",
+     "A3",
+     "A10"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "A1 merge spre Pitești."
+   }
+  },
+  {
+   "id": "VIII24-26",
+   "nivel": "VIII-S24-caracterizarea-geografica-orasului-bucuresti",
+   "competente": [
+    "VIII-3.4"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce monument din București amintește de Marea Unire și de victoria din Primul Război Mondial?",
+   "date": {
+    "variante": [
+     "Arcul de Triumf",
+     "Ateneul Român",
+     "Palatul Parlamentului",
+     "Turnul Chindiei"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Refăcut în piatră în 1936."
+   }
+  },
+  {
+   "id": "VIII24-27",
+   "nivel": "VIII-S24-caracterizarea-geografica-orasului-bucuresti",
+   "competente": [
+    "VIII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce parc mare din București are un lac și Muzeul Satului?",
+   "date": {
+    "variante": [
+     "Parcul Regele Mihai I (Herăstrău)",
+     "Cișmigiu",
+     "Parcul Tineretului",
+     "Grădina Botanică"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Pe malul lacului Herăstrău."
+   }
+  },
+  {
+   "id": "VIII24-28",
+   "nivel": "VIII-S24-caracterizarea-geografica-orasului-bucuresti",
+   "competente": [
+    "VIII-4.4"
+   ],
+   "tip": "alegere",
+   "dificultate": 3,
+   "enunt": "De ce clădirile vechi din București trebuie consolidate?",
+   "date": {
+    "variante": [
+     "orașul e expus cutremurelor puternice din Vrancea",
+     "din cauza inundațiilor din mare",
+     "din cauza vulcanilor",
+     "din cauza ghețarilor"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Clădirile cu bulină roșie sunt cu risc seismic."
+   }
+  },
+  {
+   "id": "VIII24-29",
+   "nivel": "VIII-S24-caracterizarea-geografica-orasului-bucuresti",
+   "competente": [
+    "VIII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce domeniu economic modern s-a dezvoltat mult în București?",
+   "date": {
+    "variante": [
+     "IT-ul și serviciile financiare",
+     "mineritul cărbunelui",
+     "pescuitul",
+     "creșterea oilor"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Multe companii au sedii în capitală."
+   }
+  },
+  {
+   "id": "VIII24-30",
+   "nivel": "VIII-S24-caracterizarea-geografica-orasului-bucuresti",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce râu formează o salbă de lacuri în nordul Bucureștiului?",
+   "date": {
+    "variante": [
+     "Colentina",
+     "Dâmbovița",
+     "Argeș",
+     "Ialomița"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Lacurile Herăstrău, Floreasca, Tei."
+   }
+  },
+  {
+   "id": "VIII25-01",
+   "nivel": "VIII-S25-organizarea-administrativ-teritoriala",
+   "competente": [
+    "VIII-1.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 1,
+   "enunt": "Câte județe are România?",
+   "date": {
+    "variante": [
+     "41 (plus municipiul București)",
+     "27",
+     "8",
+     "100"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "București are statut special."
+   },
+   "surse": [
+    "INS – Anuarul Statistic al României: organizarea administrativă a teritoriului",
+    "Legea nr. 2/1968 privind organizarea administrativă a teritoriului (cu modificările ulterioare)"
+   ]
+  },
+  {
+   "id": "VIII25-02",
+   "nivel": "VIII-S25-organizarea-administrativ-teritoriala",
+   "competente": [
+    "VIII-1.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce unități administrative formează un județ?",
+   "date": {
+    "variante": [
+     "municipii, orașe și comune",
+     "doar sate",
+     "regiuni de dezvoltare",
+     "state"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Comunele sunt formate din sate."
+   },
+   "surse": [
+    "INS – Anuarul Statistic al României: organizarea administrativă a teritoriului",
+    "Legea nr. 2/1968 privind organizarea administrativă a teritoriului (cu modificările ulterioare)"
+   ]
+  },
+  {
+   "id": "VIII25-03",
+   "nivel": "VIII-S25-organizarea-administrativ-teritoriala",
+   "competente": [
+    "VIII-1.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Câte regiuni de dezvoltare are România?",
+   "date": {
+    "variante": [
+     "8",
+     "41",
+     "6",
+     "12"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Pentru planificare și fonduri europene."
+   },
+   "surse": [
+    "Ministerul Dezvoltării – Regiunile de dezvoltare (Legea nr. 315/2004)",
+    "Eurostat – NUTS: Romania"
+   ]
+  },
+  {
+   "id": "VIII25-04",
+   "nivel": "VIII-S25-organizarea-administrativ-teritoriala",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Din ce regiune de dezvoltare face parte județul Buzău?",
+   "date": {
+    "variante": [
+     "Sud-Est",
+     "Nord-Est",
+     "Centru",
+     "Vest"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Alături de Brăila, Constanța, Galați, Tulcea, Vrancea."
+   },
+   "surse": [
+    "Ministerul Dezvoltării – Regiunile de dezvoltare (Legea nr. 315/2004)",
+    "Eurostat – NUTS: Romania"
+   ]
+  },
+  {
+   "id": "VIII25-05",
+   "nivel": "VIII-S25-organizarea-administrativ-teritoriala",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Care e reședința județului Buzău?",
+   "date": {
+    "variante": [
+     "municipiul Buzău",
+     "Râmnicu Sărat",
+     "Nehoiu",
+     "Pogoanele"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Râmnicu Sărat e al doilea municipiu al județului."
+   }
+  },
+  {
+   "id": "VIII25-06",
+   "nivel": "VIII-S25-organizarea-administrativ-teritoriala",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "asociaza",
+   "dificultate": 2,
+   "enunt": "Asociază județul cu reședința lui.",
+   "date": {
+    "perechi": [
+     [
+      "Prahova",
+      "Ploiești"
+     ],
+     [
+      "Vrancea",
+      "Focșani"
+     ],
+     [
+      "Brăila",
+      "Brăila"
+     ],
+     [
+      "Ialomița",
+      "Slobozia"
+     ]
+    ]
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Județele din jurul Buzăului."
+   }
+  },
+  {
+   "id": "VIII25-07",
+   "nivel": "VIII-S25-organizarea-administrativ-teritoriala",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "asociaza",
+   "dificultate": 2,
+   "enunt": "Asociază județul cu reședința lui.",
+   "date": {
+    "perechi": [
+     [
+      "Argeș",
+      "Pitești"
+     ],
+     [
+      "Dolj",
+      "Craiova"
+     ],
+     [
+      "Mureș",
+      "Târgu Mureș"
+     ],
+     [
+      "Suceava",
+      "Suceava"
+     ]
+    ]
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Alte reședințe."
+   }
+  },
+  {
+   "id": "VIII25-08",
+   "nivel": "VIII-S25-organizarea-administrativ-teritoriala",
+   "competente": [
+    "VIII-1.2"
+   ],
+   "tip": "asociaza",
+   "dificultate": 2,
+   "enunt": "Asociază instituția cu nivelul ei.",
+   "date": {
+    "perechi": [
+     [
+      "primarul",
+      "localitate"
+     ],
+     [
+      "Consiliul Județean",
+      "județ"
+     ],
+     [
+      "prefectul",
+      "reprezentantul Guvernului în județ"
+     ],
+     [
+      "Guvernul",
+      "țară"
+     ]
+    ]
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Administrația publică."
+   }
+  },
+  {
+   "id": "VIII25-09",
+   "nivel": "VIII-S25-organizarea-administrativ-teritoriala",
+   "competente": [
+    "VIII-1.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce sunt regiunile de dezvoltare?",
+   "date": {
+    "variante": [
+     "grupări de județe pentru planificare și fonduri europene, fără să fie unități administrative",
+     "unități administrative cu primar",
+     "noi state",
+     "zone militare"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Corespund nivelului NUTS 2 din UE."
+   },
+   "surse": [
+    "Ministerul Dezvoltării – Regiunile de dezvoltare (Legea nr. 315/2004)",
+    "Eurostat – NUTS: Romania"
+   ]
+  },
+  {
+   "id": "VIII25-10",
+   "nivel": "VIII-S25-organizarea-administrativ-teritoriala",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "etichete",
+   "dificultate": 2,
+   "enunt": "Pune pe hartă regiunile istorice.",
+   "date": {
+    "tinte": [
+     {
+      "id": "tr",
+      "eticheta": "Transilvania",
+      "lat": 46.5,
+      "lon": 24.5
+     },
+     {
+      "id": "mo",
+      "eticheta": "Moldova",
+      "lat": 47,
+      "lon": 27
+     },
+     {
+      "id": "mu",
+      "eticheta": "Muntenia",
+      "lat": 44.6,
+      "lon": 26
+     },
+     {
+      "id": "ol",
+      "eticheta": "Oltenia",
+      "lat": 44.4,
+      "lon": 23.5
+     },
+     {
+      "id": "do",
+      "eticheta": "Dobrogea",
+      "lat": 44.4,
+      "lon": 28.4
+     },
+     {
+      "id": "ba",
+      "eticheta": "Banat",
+      "lat": 45.4,
+      "lon": 21.5
+     }
+    ],
+    "harta": "romania"
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Regiunile istorice ale României."
+   }
+  },
+  {
+   "id": "VIII25-11",
+   "nivel": "VIII-S25-organizarea-administrativ-teritoriala",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "pin",
+   "dificultate": 2,
+   "enunt": "Atinge pe harta României județul Buzău.",
+   "date": {
+    "harta": "romania",
+    "tinta": {
+     "lat": 45.25,
+     "lon": 26.75,
+     "nume": "județul Buzău"
+    },
+    "toleranta": 50
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "În nord-estul Munteniei."
+   }
+  },
+  {
+   "id": "VIII25-12",
+   "nivel": "VIII-S25-organizarea-administrativ-teritoriala",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "pin",
+   "dificultate": 3,
+   "enunt": "Atinge pe harta României Focșani, reședința Vrancei.",
+   "date": {
+    "harta": "romania",
+    "tinta": {
+     "lat": 45.7,
+     "lon": 27.18,
+     "nume": "Focșani"
+    },
+    "toleranta": 30
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Vecin la nord cu Râmnicu Sărat."
+   }
+  },
+  {
+   "id": "VIII25-13",
+   "nivel": "VIII-S25-organizarea-administrativ-teritoriala",
+   "competente": [
+    "VIII-1.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Adevărat sau fals? Regiunile de dezvoltare au primari și consilii proprii, ca județele.",
+   "date": {
+    "variante": [
+     "Fals",
+     "Adevărat"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Fals: nu sunt unități administrative."
+   },
+   "surse": [
+    "Ministerul Dezvoltării – Regiunile de dezvoltare (Legea nr. 315/2004)",
+    "Eurostat – NUTS: Romania"
+   ]
+  },
+  {
+   "id": "VIII25-14",
+   "nivel": "VIII-S25-organizarea-administrativ-teritoriala",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Adevărat sau fals? Râmnicu Sărat e un municipiu din județul Buzău.",
+   "date": {
+    "variante": [
+     "Adevărat",
+     "Fals"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Adevărat."
+   }
+  },
+  {
+   "id": "VIII25-15",
+   "nivel": "VIII-S25-organizarea-administrativ-teritoriala",
+   "competente": [
+    "VIII-1.1"
+   ],
+   "tip": "lacunar",
+   "dificultate": 2,
+   "enunt": "Completează.",
+   "date": {
+    "text": "România are {0} de județe și municipiul București; ele sunt grupate în {1} regiuni de dezvoltare.",
+    "raspunsuri": [
+     "41",
+     "8"
+    ],
+    "distractori": [
+     "27",
+     "6"
+    ]
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Organizarea teritoriului."
+   },
+   "surse": [
+    "INS – Anuarul Statistic al României: organizarea administrativă a teritoriului",
+    "Legea nr. 2/1968 privind organizarea administrativă a teritoriului (cu modificările ulterioare)"
+   ]
+  },
+  {
+   "id": "VIII25-16",
+   "nivel": "VIII-S25-organizarea-administrativ-teritoriala",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "lacunar",
+   "dificultate": 2,
+   "enunt": "Completează.",
+   "date": {
+    "text": "Județul Buzău e în regiunea istorică {0} și în regiunea de dezvoltare {1}.",
+    "raspunsuri": [
+     "Muntenia",
+     "Sud-Est"
+    ],
+    "distractori": [
+     "Moldova",
+     "Centru"
+    ]
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Buzău."
+   },
+   "surse": [
+    "Ministerul Dezvoltării – Regiunile de dezvoltare (Legea nr. 315/2004)",
+    "Eurostat – NUTS: Romania"
+   ]
+  },
+  {
+   "id": "VIII25-17",
+   "nivel": "VIII-S25-organizarea-administrativ-teritoriala",
+   "competente": [
+    "VIII-2.3"
+   ],
+   "tip": "grafic",
+   "dificultate": 3,
+   "enunt": "Graficul arată numărul de unități administrative (INS). Ce fel de unitate e cea mai numeroasă?",
+   "date": {
+    "grafic": {
+     "tip": "bare",
+     "titlu": "Unități administrativ-teritoriale (INS)",
+     "date": [
+      {
+       "eticheta": "județe",
+       "valoare": 41
+      },
+      {
+       "eticheta": "municipii",
+       "valoare": 103
+      },
+      {
+       "eticheta": "orașe",
+       "valoare": 216
+      },
+      {
+       "eticheta": "comune",
+       "valoare": 2862
+      }
+     ],
+     "unitate": "număr",
+     "sursa": "INS – Anuarul Statistic"
+    },
+    "variante": [
+     "comuna",
+     "județul",
+     "municipiul",
+     "orașul"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Peste 2 800 de comune."
+   },
+   "surse": [
+    "INS – Anuarul Statistic al României: organizarea administrativă a teritoriului",
+    "Legea nr. 2/1968 privind organizarea administrativă a teritoriului (cu modificările ulterioare)"
+   ]
+  },
+  {
+   "id": "VIII25-18",
+   "nivel": "VIII-S25-organizarea-administrativ-teritoriala",
+   "competente": [
+    "VIII-1.2"
+   ],
+   "tip": "ordoneaza",
+   "dificultate": 3,
+   "enunt": "Ordonează unitățile de la cea mai mică la cea mai mare.",
+   "date": {
+    "elemente": [
+     "satul",
+     "comuna",
+     "județul",
+     "regiunea de dezvoltare",
+     "țara"
+    ],
+    "criteriu": "De la mic la mare"
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Ierarhia teritorială."
+   }
+  },
+  {
+   "id": "VIII25-19",
+   "nivel": "VIII-S25-organizarea-administrativ-teritoriala",
+   "competente": [
+    "VIII-4.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 3,
+   "enunt": "Compară județul cu regiunea de dezvoltare.",
+   "date": {
+    "variante": [
+     "județul e unitate administrativă, cu instituții proprii; regiunea grupează județe pentru dezvoltare, fără administrație proprie",
+     "sunt identice",
+     "regiunea e mai mică",
+     "județul nu are instituții"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Diferențe de rol."
+   }
+  },
+  {
+   "id": "VIII25-20",
+   "nivel": "VIII-S25-organizarea-administrativ-teritoriala",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "denumeste",
+   "dificultate": 2,
+   "enunt": "Ce reședință de județ, vecină la sud-est cu Buzău, e marcată pe hartă?",
+   "date": {
+    "harta": "romania",
+    "punct": {
+     "lat": 45.27,
+     "lon": 27.96
+    },
+    "variante": [
+     "Brăila",
+     "Galați",
+     "Slobozia",
+     "Focșani"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Brăila e pe Dunăre."
+   }
+  },
+  {
+   "id": "VIII25-21",
+   "nivel": "VIII-S25-organizarea-administrativ-teritoriala",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce județe se învecinează cu județul Buzău?",
+   "date": {
+    "variante": [
+     "Prahova, Brașov, Covasna, Vrancea, Brăila, Ialomița",
+     "Cluj, Bihor",
+     "Dolj, Olt",
+     "Suceava, Botoșani"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Buzău are șase vecini."
+   }
+  },
+  {
+   "id": "VIII25-22",
+   "nivel": "VIII-S25-organizarea-administrativ-teritoriala",
+   "competente": [
+    "VIII-1.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce înseamnă reședință de județ?",
+   "date": {
+    "variante": [
+     "orașul (municipiul) în care se află conducerea județului",
+     "cel mai mic sat",
+     "orice comună",
+     "capitala țării"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Ex.: Buzău pentru județul Buzău."
+   }
+  },
+  {
+   "id": "VIII25-23",
+   "nivel": "VIII-S25-organizarea-administrativ-teritoriala",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce regiune istorică se află între Dunăre și Marea Neagră?",
+   "date": {
+    "variante": [
+     "Dobrogea",
+     "Banatul",
+     "Oltenia",
+     "Crișana"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Județele Constanța și Tulcea."
+   }
+  },
+  {
+   "id": "VIII25-24",
+   "nivel": "VIII-S25-organizarea-administrativ-teritoriala",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce regiune istorică se află la vest de Olt, în sud?",
+   "date": {
+    "variante": [
+     "Oltenia",
+     "Muntenia",
+     "Moldova",
+     "Dobrogea"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Oltul desparte Oltenia de Muntenia."
+   }
+  },
+  {
+   "id": "VIII25-25",
+   "nivel": "VIII-S25-organizarea-administrativ-teritoriala",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce regiune de dezvoltare e cea mai mică ca suprafață?",
+   "date": {
+    "variante": [
+     "București-Ilfov",
+     "Nord-Est",
+     "Sud-Est",
+     "Centru"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Doar capitala și județul Ilfov."
+   },
+   "surse": [
+    "Ministerul Dezvoltării – Regiunile de dezvoltare (Legea nr. 315/2004)",
+    "Eurostat – NUTS: Romania"
+   ]
+  },
+  {
+   "id": "VIII25-26",
+   "nivel": "VIII-S25-organizarea-administrativ-teritoriala",
+   "competente": [
+    "VIII-1.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "La ce servesc fondurile europene pentru regiuni?",
+   "date": {
+    "variante": [
+     "la construirea de drumuri, spitale, școli, rețele de apă",
+     "la cumpărarea de arme",
+     "la nimic",
+     "doar la turism"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Reduc diferențele dintre regiuni."
+   }
+  },
+  {
+   "id": "VIII25-27",
+   "nivel": "VIII-S25-organizarea-administrativ-teritoriala",
+   "competente": [
+    "VIII-2.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 3,
+   "enunt": "De ce Regiunea Nord-Est e considerată mai puțin dezvoltată?",
+   "date": {
+    "variante": [
+     "are venituri mai mici, populație rurală numeroasă și infrastructură mai slabă",
+     "are prea multe fabrici",
+     "e la mare",
+     "e capitala"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Diferențe regionale."
+   }
+  },
+  {
+   "id": "VIII25-28",
+   "nivel": "VIII-S25-organizarea-administrativ-teritoriala",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce râu desparte istoric Muntenia de Moldova, aproape de Buzău?",
+   "date": {
+    "variante": [
+     "Milcovul",
+     "Oltul",
+     "Dâmbovița",
+     "Ialomița"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Focșaniul e pe Milcov."
+   }
+  },
+  {
+   "id": "VIII25-29",
+   "nivel": "VIII-S25-organizarea-administrativ-teritoriala",
+   "competente": [
+    "VIII-1.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce înseamnă „prefect”?",
+   "date": {
+    "variante": [
+     "reprezentantul Guvernului într-un județ",
+     "primarul unui sat",
+     "un profesor",
+     "un deputat european"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Prefectura veghează legalitatea."
+   }
+  },
+  {
+   "id": "VIII25-30",
+   "nivel": "VIII-S25-organizarea-administrativ-teritoriala",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce oraș e reședința județului Ilfov?",
+   "date": {
+    "variante": [
+     "Buftea",
+     "București",
+     "Otopeni",
+     "Voluntari"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Ilfov înconjoară Bucureștiul."
+   }
+  },
+  {
+   "id": "VIII27-01",
+   "nivel": "VIII-S27-aplicatii-practice-studii-caz",
+   "competente": [
+    "VIII-4.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 1,
+   "enunt": "De unde iei date oficiale despre populația județului Buzău?",
+   "date": {
+    "variante": [
+     "de la INS (recensămintele și baza de date TEMPO)",
+     "de pe rețele sociale",
+     "din reclame",
+     "din jocuri"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Datele trebuie să aibă sursă și an."
+   }
+  },
+  {
+   "id": "VIII27-02",
+   "nivel": "VIII-S27-aplicatii-practice-studii-caz",
+   "competente": [
+    "VIII-4.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce grafic e potrivit pentru evoluția populației în timp?",
+   "date": {
+    "variante": [
+     "graficul liniar",
+     "harta politică",
+     "diagrama de structură",
+     "profilul de relief"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Linia arată creșterea sau scăderea."
+   }
+  },
+  {
+   "id": "VIII27-03",
+   "nivel": "VIII-S27-aplicatii-practice-studii-caz",
+   "competente": [
+    "VIII-4.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce grafic e potrivit pentru structura pe vârste?",
+   "date": {
+    "variante": [
+     "piramida vârstelor",
+     "graficul liniar al temperaturii",
+     "harta fizică",
+     "profilul geologic"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Arată câți oameni sunt în fiecare grupă de vârstă, pe sexe."
+   }
+  },
+  {
+   "id": "VIII27-04",
+   "nivel": "VIII-S27-aplicatii-practice-studii-caz",
+   "competente": [
+    "VIII-4.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 3,
+   "enunt": "O piramidă a vârstelor are baza îngustă și vârful lat. Ce înseamnă?",
+   "date": {
+    "variante": [
+     "se nasc puțini copii și sunt mulți vârstnici",
+     "se nasc mulți copii",
+     "populația e foarte tânără",
+     "nu sunt vârstnici"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Populație îmbătrânită."
+   }
+  }
+ ]
+}

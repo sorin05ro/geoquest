@@ -1,0 +1,88 @@
+{
+ "clasa": 5,
+ "fisiere": [
+  {
+   "fisier": "teste.json",
+   "niveluri": [
+    "V-T0"
+   ],
+   "boss": [
+    "V-T0",
+    "V-T1",
+    "V-T2",
+    "V-T3",
+    "V-T4",
+    "V-Tf"
+   ]
+  },
+  {
+   "fisier": "u1-univers.json",
+   "niveluri": [
+    "V-S02-universul-sistemul-solar-aspecte",
+    "V-S03-terra-planeta-sistemului-solar",
+    "V-S04-aplicatie-practica-calatorie-virtuala"
+   ],
+   "boss": []
+  },
+  {
+   "fisier": "u2-miscare.json",
+   "niveluri": [
+    "V-S05-globul-geografic-harta-coordonate",
+    "V-S06-miscarile-pamantului-consecintele",
+    "V-S08-orientarea-spatiul-terestru-elemente",
+    "V-S09-aplicatii-practice-masurarea-timpului"
+   ],
+   "boss": []
+  },
+  {
+   "fisier": "u3-litosfera.json",
+   "niveluri": [
+    "V-S10-caracteristici-generale-importanta",
+    "V-S11-structura-interna-terrei",
+    "V-S12-relieful-continente-bazine-oceanice",
+    "V-S13-vulcanii-cutremurele",
+    "V-S16-aplicatii-practice-relieful-orizontului"
+   ],
+   "boss": []
+  },
+  {
+   "fisier": "u4-atmosfera.json",
+   "niveluri": [
+    "V-S17-caracteristici-generale-importanta",
+    "V-S18-elemente-fenomene-meteorologice",
+    "V-S19-vremea-clima",
+    "V-S20-zonele-climatice-terrei-influenta",
+    "V-S22-aplicatii-practice-clima-vremea"
+   ],
+   "boss": []
+  },
+  {
+   "fisier": "u5-hidrosfera.json",
+   "niveluri": [
+    "V-S23-caracteristici-generale-importanta",
+    "V-S24-oceanul-planetar-componente-localizare",
+    "V-S25-apele-continentale",
+    "V-S26-ghetarii",
+    "V-S27-aplicatii-practice-apele-din"
+   ],
+   "boss": []
+  },
+  {
+   "fisier": "u6-biosfera.json",
+   "niveluri": [
+    "V-S28-biosfera-caracteristici-generale-importanta",
+    "V-S28-plantele-animalele-repartitia-geografica",
+    "V-S28-solul-resursa-vietii",
+    "V-S30-aplicatie-practica-protectia-plantelor"
+   ],
+   "boss": []
+  },
+  {
+   "fisier": "u7-zone-naturale.json",
+   "niveluri": [
+    "V-S31-diversitatea-peisajelor-terestre-naturale"
+   ],
+   "boss": []
+  }
+ ]
+}

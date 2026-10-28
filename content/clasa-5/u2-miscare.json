@@ -1,0 +1,2396 @@
+{
+ "clasa": 5,
+ "unitate": "Terra – o planetă în mișcare",
+ "niveluri": [
+  {
+   "id": "V-S05-globul-geografic-harta-coordonate",
+   "tip": "nivel",
+   "titlu": "Globul geografic și harta. Coordonate geografice",
+   "descopera": {
+    "intrebare": "Cum poți spune unui prieten din altă țară exact unde te afli, fără adresă?"
+   },
+   "invata": [
+    {
+     "titlu": "Globul și harta",
+     "text": "Globul geografic e un model micșorat al Pământului, cu forma lui sferică. Harta e o reprezentare micșorată și plană a unui teritoriu, văzut de sus.\nOrice hartă are: titlu, legendă (explică semnele convenționale), scară de proporție și orientare (nordul, de obicei sus)."
+    },
+    {
+     "titlu": "Rețeaua de paralele și meridiane",
+     "text": "Paralelele sunt cercuri imaginare paralele cu Ecuatorul. Meridianele sunt semicercuri care unesc cei doi poli. Meridianul de origine (0°) trece prin Greenwich, lângă Londra.\nLatitudinea arată cât de departe e un loc de Ecuator, spre nord sau spre sud (0°–90°). Longitudinea arată cât de departe e un loc de meridianul de origine, spre est sau spre vest (0°–180°). Împreună sunt coordonatele geografice."
+    },
+    {
+     "titlu": "Scara de proporție",
+     "text": "Scara arată de câte ori a fost micșorat terenul. La scara 1:100 000, 1 cm pe hartă înseamnă 100 000 cm = 1 km în realitate.\nScara poate fi numerică (1:100 000) sau grafică (o riglă desenată pe hartă)."
+    }
+   ],
+   "stiaiCa": "Un loc de pe Ecuator, la longitudinea 0°, se află în Golful Guineei, în Oceanul Atlantic. Uneori e numit în glumă „Insula Nimănui”.",
+   "referintaProfesor": "Manual Art Klett, clasa a V-a (manuale.edu.ro), lecția „Globul geografic și harta. Coordonate geografice”"
+  },
+  {
+   "id": "V-S06-miscarile-pamantului-consecintele",
+   "tip": "nivel",
+   "titlu": "Mișcările Pământului și consecințele lor",
+   "descopera": {
+    "intrebare": "De ce e zi în România când în America e încă noapte? Și de ce avem iarnă și vară?"
+   },
+   "invata": [
+    {
+     "titlu": "Rotația",
+     "text": "Pământul se rotește în jurul axei sale, de la vest spre est, în aproximativ 24 de ore.\nConsecințe: alternanța zilei cu noaptea; mișcarea aparentă a Soarelui pe cer (răsare la est, apune la vest); orele diferite în locuri diferite. Pământul e împărțit în 24 de fusuri orare, fiecare de câte 15° longitudine (o oră)."
+    },
+    {
+     "titlu": "Revoluția",
+     "text": "Pământul se rotește în jurul Soarelui în aproximativ 365 de zile și 6 ore. La fiecare 4 ani, cele 4 sferturi de zi formează o zi în plus: anul bisect are 366 de zile (29 februarie).\nAxa Pământului e înclinată (aproximativ 23,5°). De aceea, în timpul anului, razele Soarelui cad diferit pe cele două emisfere: așa apar anotimpurile."
+    },
+    {
+     "titlu": "Solstiții și echinocții",
+     "text": "Solstițiul de vară (în jurul lui 21 iunie): cea mai lungă zi din emisfera nordică. Solstițiul de iarnă (în jurul lui 21–22 decembrie): cea mai scurtă zi.\nEchinocțiile (în jurul lui 20–21 martie și 22–23 septembrie): ziua e egală cu noaptea peste tot pe Pământ."
+    }
+   ],
+   "stiaiCa": "La Polul Nord, vara, Soarele nu apune deloc timp de câteva luni (ziua polară), iar iarna nu răsare (noaptea polară).",
+   "referintaProfesor": "Manual Art Klett, clasa a V-a (manuale.edu.ro), lecția „Mișcările Pământului și consecințele lor”"
+  },
+  {
+   "id": "V-S08-orientarea-spatiul-terestru-elemente",
+   "tip": "nivel",
+   "titlu": "Orientarea în spațiul terestru",
+   "descopera": {
+    "intrebare": "Te-ai rătăcit într-o pădure, fără telefon. E prânz și e senin. Cum afli în ce parte e sudul?",
+    "schema": "busola"
+   },
+   "invata": [
+    {
+     "titlu": "Punctele cardinale",
+     "schema": "busola",
+     "text": "Ne orientăm după patru puncte cardinale: nord (N), sud (S), est (E) și vest (V).\nÎntre ele sunt punctele intermediare: nord-est (NE), sud-est (SE), sud-vest (SV) și nord-vest (NV). Pe hărți, nordul este de obicei sus."
+    },
+    {
+     "titlu": "Cum ne orientăm",
+     "text": "După Soare: răsare în partea de est și apune în partea de vest. La prânz, în România, Soarele e spre sud, iar umbrele arată spre nord.\nNoaptea, Steaua Polară arată nordul.\nCu instrumente: busola are un ac magnetic care se îndreaptă spre nord. Sistemul GPS din telefon îți află poziția folosind semnale de la sateliți."
+    }
+   ],
+   "stiaiCa": "Steaua Polară pare să stea pe loc toată noaptea, în timp ce celelalte stele se rotesc în jurul ei. De aceea marinarii o foloseau ca reper.",
+   "referintaProfesor": "Manual Art Klett, clasa a V-a (manuale.edu.ro), lecția „Orientarea în spațiul terestru”"
+  },
+  {
+   "id": "V-S09-aplicatii-practice-masurarea-timpului",
+   "tip": "expeditie",
+   "titlu": "Expediție: timpul și orizontul local",
+   "descopera": {
+    "intrebare": "Cât durează o zi, o lună, un an? Și ce vezi spre fiecare punct cardinal din curtea școlii?"
+   },
+   "invata": [
+    {
+     "titlu": "Ce faci în expediție",
+     "text": "Măsori timpul, te orientezi în jurul școlii și desenezi o schiță simplă de hartă. Rezultatele intră în Jurnalul exploratorului."
+    }
+   ],
+   "pasi": [
+    {
+     "titlu": "1. Calendarul",
+     "text": "Ziua vine din mișcarea Pământului în jurul axei sale. Anul vine din mișcarea Pământului în jurul Soarelui.",
+     "itemi": [
+      "V9-01",
+      "V9-02",
+      "V9-03"
+     ]
+    },
+    {
+     "titlu": "2. Orientarea în curtea școlii",
+     "text": "Ieși în curte cu clasa. Găsește partea în care răsare Soarele: acolo e estul. Întoarce-te cu fața spre nord.",
+     "jurnal": {
+      "cerinta": "Scrie ce vezi spre nord, spre sud, spre est și spre vest (clădiri, copaci, dealuri, drumuri)."
+     }
+    },
+    {
+     "titlu": "3. Schița drumului spre școală",
+     "text": "Desenează pe o foaie drumul de acasă la școală. Pune săgeata nordului și o legendă cu cel puțin 3 semne (de exemplu: casă, copac, intersecție). Nu scrie adresa ta.",
+     "jurnal": {
+      "cerinta": "Spune în 2–3 propoziții ce semne ai pus în legendă și ce ai văzut pe drum.",
+      "foto": true
+     }
+    }
+   ],
+   "referintaProfesor": "Manual Art Klett, clasa a V-a (manuale.edu.ro), lecția „Aplicații practice: Măsurarea timpului; Orizontul local”"
+  }
+ ],
+ "itemi": [
+  {
+   "id": "V5-01",
+   "nivel": "V-S05-globul-geografic-harta-coordonate",
+   "competente": [
+    "V-1.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 1,
+   "enunt": "Ce este globul geografic?",
+   "date": {
+    "variante": [
+     "un model micșorat al Pământului, de formă sferică",
+     "o hartă a orașului",
+     "un instrument de orientare",
+     "o fotografie din satelit"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Globul păstrează forma sferică a Pământului."
+   }
+  },
+  {
+   "id": "V5-02",
+   "nivel": "V-S05-globul-geografic-harta-coordonate",
+   "competente": [
+    "V-1.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 1,
+   "enunt": "Ce este harta?",
+   "date": {
+    "variante": [
+     "o reprezentare micșorată și plană a unui teritoriu, văzut de sus",
+     "o fotografie făcută de pe stradă",
+     "un model sferic",
+     "un tabel cu date"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Harta e plană și micșorată; globul e sferic."
+   }
+  },
+  {
+   "id": "V5-03",
+   "nivel": "V-S05-globul-geografic-harta-coordonate",
+   "competente": [
+    "V-1.1",
+    "V-2.3"
+   ],
+   "tip": "asociaza",
+   "dificultate": 1,
+   "enunt": "Asociază elementul hărții cu rolul lui.",
+   "date": {
+    "perechi": [
+     [
+      "titlul",
+      "spune ce arată harta"
+     ],
+     [
+      "legenda",
+      "explică semnele convenționale"
+     ],
+     [
+      "scara",
+      "arată de câte ori e micșorat terenul"
+     ],
+     [
+      "săgeata nordului",
+      "arată orientarea"
+     ]
+    ]
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Titlu, legendă, scară, orientare: elementele obligatorii ale hărții."
+   }
+  },
+  {
+   "id": "V5-04",
+   "nivel": "V-S05-globul-geografic-harta-coordonate",
+   "competente": [
+    "V-1.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 1,
+   "enunt": "Ce sunt paralelele?",
+   "date": {
+    "variante": [
+     "cercuri imaginare paralele cu Ecuatorul",
+     "semicercuri de la un pol la altul",
+     "râuri",
+     "granițe între țări"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Paralelele sunt paralele cu Ecuatorul; meridianele unesc polii."
+   }
+  },
+  {
+   "id": "V5-05",
+   "nivel": "V-S05-globul-geografic-harta-coordonate",
+   "competente": [
+    "V-1.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 1,
+   "enunt": "Ce sunt meridianele?",
+   "date": {
+    "variante": [
+     "semicercuri imaginare care unesc Polul Nord cu Polul Sud",
+     "cercuri paralele cu Ecuatorul",
+     "linii de-a lungul țărmurilor",
+     "drumuri pe hartă"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Meridianele merg de la un pol la altul."
+   }
+  },
+  {
+   "id": "V5-06",
+   "nivel": "V-S05-globul-geografic-harta-coordonate",
+   "competente": [
+    "V-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Prin ce localitate trece meridianul de origine (0°)?",
+   "date": {
+    "variante": [
+     "Greenwich, lângă Londra",
+     "Paris",
+     "București",
+     "Roma"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Meridianul de origine trece prin observatorul de la Greenwich."
+   }
+  },
+  {
+   "id": "V5-07",
+   "nivel": "V-S05-globul-geografic-harta-coordonate",
+   "competente": [
+    "V-1.1",
+    "V-2.1"
+   ],
+   "tip": "lacunar",
+   "dificultate": 2,
+   "enunt": "Completează.",
+   "date": {
+    "text": "Latitudinea se măsoară de la {0} spre nord sau spre sud, iar longitudinea de la meridianul de {1} spre est sau spre vest.",
+    "raspunsuri": [
+     "Ecuator",
+     "origine"
+    ],
+    "distractori": [
+     "Polul Nord",
+     "schimbare"
+    ]
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Latitudinea pornește de la Ecuator, longitudinea de la meridianul de 0°."
+   }
+  },
+  {
+   "id": "V5-08",
+   "nivel": "V-S05-globul-geografic-harta-coordonate",
+   "competente": [
+    "V-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Între ce valori poate fi latitudinea?",
+   "date": {
+    "variante": [
+     "0° și 90° (nordică sau sudică)",
+     "0° și 180°",
+     "0° și 360°",
+     "0° și 45°"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Latitudinea maximă e 90°, la poli."
+   }
+  },
+  {
+   "id": "V5-09",
+   "nivel": "V-S05-globul-geografic-harta-coordonate",
+   "competente": [
+    "V-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Între ce valori poate fi longitudinea?",
+   "date": {
+    "variante": [
+     "0° și 180° (estică sau vestică)",
+     "0° și 90°",
+     "0° și 360°",
+     "0° și 60°"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Longitudinea merge până la 180° spre est sau spre vest."
+   }
+  },
+  {
+   "id": "V5-10",
+   "nivel": "V-S05-globul-geografic-harta-coordonate",
+   "competente": [
+    "V-2.1"
+   ],
+   "tip": "pin",
+   "dificultate": 2,
+   "enunt": "Atinge punctul cu coordonatele 0° latitudine, 0° longitudine.",
+   "date": {
+    "harta": "lume",
+    "tinta": {
+     "lat": 0,
+     "lon": 0,
+     "nume": "0°, 0° (Golful Guineei)"
+    },
+    "toleranta": 700
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Punctul 0°, 0° e la intersecția Ecuatorului cu meridianul de origine, în Golful Guineei."
+   },
+   "indiciu": "Caută unde se întâlnește Ecuatorul cu meridianul care trece prin Londra."
+  },
+  {
+   "id": "V5-11",
+   "nivel": "V-S05-globul-geografic-harta-coordonate",
+   "competente": [
+    "V-2.1"
+   ],
+   "tip": "pin",
+   "dificultate": 3,
+   "enunt": "Atinge punctul cu coordonatele 45° latitudine nordică, 25° longitudine estică.",
+   "date": {
+    "harta": "lume",
+    "tinta": {
+     "lat": 45,
+     "lon": 25,
+     "nume": "45° N, 25° E (România)"
+    },
+    "toleranta": 500
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Punctul 45° N, 25° E se află în România: paralela de 45° și meridianul de 25° trec prin țara noastră."
+   }
+  },
+  {
+   "id": "V5-12",
+   "nivel": "V-S05-globul-geografic-harta-coordonate",
+   "competente": [
+    "V-2.1"
+   ],
+   "tip": "pin",
+   "dificultate": 2,
+   "enunt": "Atinge pe hartă Greenwich (Londra), prin care trece meridianul de origine.",
+   "date": {
+    "harta": "lume",
+    "tinta": {
+     "lat": 51.48,
+     "lon": 0,
+     "nume": "Greenwich"
+    },
+    "toleranta": 500
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Greenwich e în sud-estul Angliei, lângă Londra."
+   }
+  },
+  {
+   "id": "V5-13",
+   "nivel": "V-S05-globul-geografic-harta-coordonate",
+   "competente": [
+    "V-2.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 1,
+   "enunt": "Ce arată scara de proporție?",
+   "date": {
+    "variante": [
+     "de câte ori a fost micșorat terenul pe hartă",
+     "înălțimea munților",
+     "temperatura",
+     "direcția nordului"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Scara arată raportul dintre distanța de pe hartă și cea reală."
+   }
+  },
+  {
+   "id": "V5-14",
+   "nivel": "V-S05-globul-geografic-harta-coordonate",
+   "competente": [
+    "V-2.2",
+    "V-3.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "La scara 1:100 000, cât înseamnă în realitate 1 cm de pe hartă?",
+   "date": {
+    "variante": [
+     "1 km",
+     "100 m",
+     "10 km",
+     "100 km"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "100 000 cm = 1 000 m = 1 km."
+   },
+   "indiciu": "Transformă 100 000 cm în metri, apoi în kilometri."
+  },
+  {
+   "id": "V5-15",
+   "nivel": "V-S05-globul-geografic-harta-coordonate",
+   "competente": [
+    "V-2.2",
+    "V-3.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "La scara 1:100 000, două sate sunt la 5 cm pe hartă. Ce distanță e între ele în realitate?",
+   "date": {
+    "variante": [
+     "5 km",
+     "500 m",
+     "50 km",
+     "0,5 km"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "1 cm = 1 km, deci 5 cm = 5 km."
+   }
+  },
+  {
+   "id": "V5-16",
+   "nivel": "V-S05-globul-geografic-harta-coordonate",
+   "competente": [
+    "V-2.2",
+    "V-3.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 3,
+   "enunt": "La scara 1:50 000, distanța pe hartă e 4 cm. Cât e în realitate?",
+   "date": {
+    "variante": [
+     "2 km",
+     "20 km",
+     "200 m",
+     "4 km"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "1 cm = 50 000 cm = 500 m; 4 × 500 m = 2 000 m = 2 km."
+   }
+  },
+  {
+   "id": "V5-17",
+   "nivel": "V-S05-globul-geografic-harta-coordonate",
+   "competente": [
+    "V-2.2",
+    "V-3.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 3,
+   "enunt": "Două orașe sunt la 30 km. Pe o hartă la scara 1:1 000 000, la ce distanță apar?",
+   "date": {
+    "variante": [
+     "3 cm",
+     "30 cm",
+     "0,3 cm",
+     "300 cm"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "1 cm = 1 000 000 cm = 10 km; 30 km : 10 km = 3 cm."
+   }
+  },
+  {
+   "id": "V5-18",
+   "nivel": "V-S05-globul-geografic-harta-coordonate",
+   "competente": [
+    "V-2.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce hartă are scara cea mai mare (arată cele mai multe detalii)?",
+   "date": {
+    "variante": [
+     "harta orașului, la scara 1:10 000",
+     "harta lumii, la scara 1:50 000 000",
+     "harta Europei, la scara 1:10 000 000",
+     "harta României, la scara 1:1 000 000"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Cu cât numărul de după „1:” e mai mic, cu atât scara e mai mare și harta mai detaliată."
+   }
+  },
+  {
+   "id": "V5-19",
+   "nivel": "V-S05-globul-geografic-harta-coordonate",
+   "competente": [
+    "V-2.3"
+   ],
+   "tip": "asociaza",
+   "dificultate": 2,
+   "enunt": "Asociază tipul de hartă cu ce arată.",
+   "date": {
+    "perechi": [
+     [
+      "harta fizică",
+      "relieful și apele"
+     ],
+     [
+      "harta politică",
+      "statele și granițele"
+     ],
+     [
+      "harta climatică",
+      "temperaturile și precipitațiile"
+     ],
+     [
+      "harta turistică",
+      "obiectivele de vizitat"
+     ]
+    ]
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Fiecare hartă tematică arată un singur tip de informație principală."
+   }
+  },
+  {
+   "id": "V5-20",
+   "nivel": "V-S05-globul-geografic-harta-coordonate",
+   "competente": [
+    "V-2.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 1,
+   "enunt": "Pe harta fizică, ce culoare arată de obicei câmpiile?",
+   "date": {
+    "variante": [
+     "verde",
+     "maro închis",
+     "alb",
+     "roșu"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Verdele arată zonele joase; galbenul și maroul, zonele tot mai înalte; albastrul, apele."
+   }
+  },
+  {
+   "id": "V5-21",
+   "nivel": "V-S05-globul-geografic-harta-coordonate",
+   "competente": [
+    "V-2.3"
+   ],
+   "tip": "ordoneaza",
+   "dificultate": 2,
+   "enunt": "Ordonează culorile hărții fizice de la zonele cele mai joase la cele mai înalte.",
+   "date": {
+    "elemente": [
+     "verde",
+     "galben",
+     "maro deschis",
+     "maro închis"
+    ],
+    "criteriu": "De la jos la sus"
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Verde (câmpii), galben (dealuri, podișuri), maro (munți), tot mai închis cu altitudinea."
+   }
+  },
+  {
+   "id": "V5-22",
+   "nivel": "V-S05-globul-geografic-harta-coordonate",
+   "competente": [
+    "V-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce paralelă importantă trece prin România?",
+   "date": {
+    "variante": [
+     "paralela de 45° N",
+     "Ecuatorul",
+     "Tropicul Racului",
+     "Cercul Polar de Nord"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Paralela de 45° N trece prin România, la jumătatea distanței dintre Ecuator și Polul Nord."
+   }
+  },
+  {
+   "id": "V5-23",
+   "nivel": "V-S05-globul-geografic-harta-coordonate",
+   "competente": [
+    "V-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 3,
+   "enunt": "Un loc are latitudinea 0°. Unde se află?",
+   "date": {
+    "variante": [
+     "pe Ecuator",
+     "la Polul Nord",
+     "pe meridianul Greenwich",
+     "la Tropicul Racului"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Latitudinea 0° înseamnă Ecuatorul."
+   }
+  },
+  {
+   "id": "V5-24",
+   "nivel": "V-S05-globul-geografic-harta-coordonate",
+   "competente": [
+    "V-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 3,
+   "enunt": "Un loc are latitudinea 90° N. Unde se află?",
+   "date": {
+    "variante": [
+     "la Polul Nord",
+     "pe Ecuator",
+     "la Greenwich",
+     "în România"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "90° N e latitudinea maximă: Polul Nord."
+   }
+  },
+  {
+   "id": "V5-25",
+   "nivel": "V-S05-globul-geografic-harta-coordonate",
+   "competente": [
+    "V-1.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 1,
+   "enunt": "Adevărat sau fals? Globul păstrează forma Pământului mai bine decât harta.",
+   "date": {
+    "variante": [
+     "Adevărat",
+     "Fals"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Adevărat: globul e sferic, ca Pământul; harta e plană și deformează."
+   }
+  },
+  {
+   "id": "V5-26",
+   "nivel": "V-S05-globul-geografic-harta-coordonate",
+   "competente": [
+    "V-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Adevărat sau fals? Toate meridianele au aceeași lungime.",
+   "date": {
+    "variante": [
+     "Adevărat",
+     "Fals"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Adevărat: toate merg de la un pol la altul."
+   }
+  },
+  {
+   "id": "V5-27",
+   "nivel": "V-S05-globul-geografic-harta-coordonate",
+   "competente": [
+    "V-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Adevărat sau fals? Toate paralelele au aceeași lungime.",
+   "date": {
+    "variante": [
+     "Fals",
+     "Adevărat"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Fals: cea mai lungă e Ecuatorul; spre poli paralelele se micșorează."
+   }
+  },
+  {
+   "id": "V5-28",
+   "nivel": "V-S05-globul-geografic-harta-coordonate",
+   "competente": [
+    "V-4.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Vrei să găsești un loc cu GPS-ul. Ce îți arată telefonul?",
+   "date": {
+    "variante": [
+     "coordonatele geografice ale locului",
+     "doar numele străzii",
+     "temperatura",
+     "scara hărții"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "GPS-ul calculează latitudinea și longitudinea."
+   }
+  },
+  {
+   "id": "V5-29",
+   "nivel": "V-S05-globul-geografic-harta-coordonate",
+   "competente": [
+    "V-2.2",
+    "V-3.1"
+   ],
+   "tip": "lacunar",
+   "dificultate": 3,
+   "enunt": "Completează.",
+   "date": {
+    "text": "Pe o hartă la scara 1:200 000, 1 cm reprezintă {0} km, iar 3 cm reprezintă {1} km.",
+    "raspunsuri": [
+     "2",
+     "6"
+    ],
+    "distractori": [
+     "20",
+     "60"
+    ]
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "1 cm = 200 000 cm = 2 km; 3 cm = 6 km."
+   }
+  },
+  {
+   "id": "V5-30",
+   "nivel": "V-S05-globul-geografic-harta-coordonate",
+   "competente": [
+    "V-2.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 1,
+   "enunt": "Ce culoare au mările și oceanele pe hartă?",
+   "date": {
+    "variante": [
+     "albastru",
+     "verde",
+     "maro",
+     "galben"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Apele se reprezintă cu albastru."
+   }
+  },
+  {
+   "id": "V6-01",
+   "nivel": "V-S06-miscarile-pamantului-consecintele",
+   "competente": [
+    "V-1.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 1,
+   "enunt": "În jurul a ce se rotește Pământul în mișcarea de rotație?",
+   "date": {
+    "variante": [
+     "în jurul axei sale",
+     "în jurul Soarelui",
+     "în jurul Lunii",
+     "în jurul lui Jupiter"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Rotația e în jurul axei; revoluția, în jurul Soarelui."
+   }
+  },
+  {
+   "id": "V6-02",
+   "nivel": "V-S06-miscarile-pamantului-consecintele",
+   "competente": [
+    "V-3.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 1,
+   "enunt": "Cât durează, aproximativ, o rotație completă a Pământului?",
+   "date": {
+    "variante": [
+     "24 de ore",
+     "365 de zile",
+     "o lună",
+     "o săptămână"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "O rotație durează aproximativ o zi, 24 de ore."
+   },
+   "surse": [
+    "NASA – Earth Fact Sheet (nssdc.gsfc.nasa.gov)",
+    "Wikipedia – Axial tilt / Earth's rotation"
+   ]
+  },
+  {
+   "id": "V6-03",
+   "nivel": "V-S06-miscarile-pamantului-consecintele",
+   "competente": [
+    "V-3.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 1,
+   "enunt": "Cât durează o revoluție a Pământului în jurul Soarelui?",
+   "date": {
+    "variante": [
+     "aproximativ 365 de zile și 6 ore",
+     "24 de ore",
+     "30 de zile",
+     "100 de zile"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "O revoluție durează un an: aproximativ 365 de zile și 6 ore."
+   },
+   "surse": [
+    "NASA – Earth Fact Sheet (nssdc.gsfc.nasa.gov)",
+    "Wikipedia – Axial tilt / Earth's rotation"
+   ]
+  },
+  {
+   "id": "V6-04",
+   "nivel": "V-S06-miscarile-pamantului-consecintele",
+   "competente": [
+    "V-3.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 1,
+   "enunt": "Ce produce alternanța zilei cu noaptea?",
+   "date": {
+    "variante": [
+     "rotația Pământului",
+     "revoluția Pământului",
+     "mișcarea Lunii",
+     "norii"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Rotația face ca fiecare loc să fie pe rând luminat și în umbră."
+   }
+  },
+  {
+   "id": "V6-05",
+   "nivel": "V-S06-miscarile-pamantului-consecintele",
+   "competente": [
+    "V-3.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce produce succesiunea anotimpurilor?",
+   "date": {
+    "variante": [
+     "revoluția Pământului și înclinarea axei",
+     "rotația Pământului",
+     "distanța față de Lună",
+     "vânturile"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Datorită axei înclinate, în timpul revoluției razele cad diferit pe emisfere."
+   }
+  },
+  {
+   "id": "V6-06",
+   "nivel": "V-S06-miscarile-pamantului-consecintele",
+   "competente": [
+    "V-1.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "În ce sens se rotește Pământul?",
+   "date": {
+    "variante": [
+     "de la vest spre est",
+     "de la est spre vest",
+     "de la nord spre sud",
+     "de la sud spre nord"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Pământul se rotește de la vest la est; de aceea Soarele pare că răsare la est."
+   }
+  },
+  {
+   "id": "V6-07",
+   "nivel": "V-S06-miscarile-pamantului-consecintele",
+   "competente": [
+    "V-3.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "De ce pare că Soarele răsare la est?",
+   "date": {
+    "variante": [
+     "Pământul se rotește de la vest spre est",
+     "Soarele se mișcă în jurul Pământului",
+     "estul e mai cald",
+     "Luna împinge Soarele"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Mișcarea Soarelui pe cer e aparentă: de fapt, se rotește Pământul."
+   }
+  },
+  {
+   "id": "V6-08",
+   "nivel": "V-S06-miscarile-pamantului-consecintele",
+   "competente": [
+    "V-3.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Câte fusuri orare are Pământul?",
+   "date": {
+    "variante": [
+     "24",
+     "12",
+     "360",
+     "7"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "24 de fusuri, câte unul pentru fiecare oră a zilei."
+   }
+  },
+  {
+   "id": "V6-09",
+   "nivel": "V-S06-miscarile-pamantului-consecintele",
+   "competente": [
+    "V-3.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 3,
+   "enunt": "Câte grade de longitudine are un fus orar?",
+   "date": {
+    "variante": [
+     "15°",
+     "1°",
+     "24°",
+     "30°"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "360° : 24 de ore = 15° pe oră."
+   },
+   "indiciu": "Împarte 360° la 24."
+  },
+  {
+   "id": "V6-10",
+   "nivel": "V-S06-miscarile-pamantului-consecintele",
+   "competente": [
+    "V-3.1",
+    "V-4.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 3,
+   "enunt": "La București e ora 12:00. Într-un loc aflat cu două fusuri orare mai la vest, cât e ora?",
+   "date": {
+    "variante": [
+     "10:00",
+     "14:00",
+     "12:00",
+     "11:00"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Spre vest ora scade: cu două fusuri mai la vest e cu 2 ore mai devreme."
+   }
+  },
+  {
+   "id": "V6-11",
+   "nivel": "V-S06-miscarile-pamantului-consecintele",
+   "competente": [
+    "V-3.1",
+    "V-4.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 3,
+   "enunt": "La Londra e ora 10:00. La București, cu două fusuri mai la est, cât e ora?",
+   "date": {
+    "variante": [
+     "12:00",
+     "8:00",
+     "10:00",
+     "11:00"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Spre est ora crește: +2 ore."
+   }
+  },
+  {
+   "id": "V6-12",
+   "nivel": "V-S06-miscarile-pamantului-consecintele",
+   "competente": [
+    "V-3.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Câte zile are un an bisect?",
+   "date": {
+    "variante": [
+     "366",
+     "365",
+     "364",
+     "360"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Anul bisect are 366 de zile, cu 29 februarie."
+   }
+  },
+  {
+   "id": "V6-13",
+   "nivel": "V-S06-miscarile-pamantului-consecintele",
+   "competente": [
+    "V-3.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "De ce avem an bisect la fiecare 4 ani?",
+   "date": {
+    "variante": [
+     "cele 6 ore în plus din fiecare an se adună într-o zi întreagă",
+     "Pământul se oprește o zi",
+     "Luna întârzie",
+     "așa a hotărât fiecare țară"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "4 × 6 ore = 24 de ore = o zi în plus."
+   }
+  },
+  {
+   "id": "V6-14",
+   "nivel": "V-S06-miscarile-pamantului-consecintele",
+   "competente": [
+    "V-3.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Cu cât e înclinată, aproximativ, axa Pământului?",
+   "date": {
+    "variante": [
+     "23,5°",
+     "90°",
+     "45°",
+     "0°"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Axa e înclinată cu aproximativ 23,5° (23,44°)."
+   },
+   "surse": [
+    "NASA – Earth Fact Sheet (nssdc.gsfc.nasa.gov)",
+    "Wikipedia – Axial tilt / Earth's rotation"
+   ]
+  },
+  {
+   "id": "V6-15",
+   "nivel": "V-S06-miscarile-pamantului-consecintele",
+   "competente": [
+    "V-1.1"
+   ],
+   "tip": "asociaza",
+   "dificultate": 2,
+   "enunt": "Asociază data (aproximativă) cu momentul anului, în emisfera nordică.",
+   "date": {
+    "perechi": [
+     [
+      "21 iunie",
+      "solstițiul de vară"
+     ],
+     [
+      "21–22 decembrie",
+      "solstițiul de iarnă"
+     ],
+     [
+      "20–21 martie",
+      "echinocțiul de primăvară"
+     ],
+     [
+      "22–23 septembrie",
+      "echinocțiul de toamnă"
+     ]
+    ]
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Solstițiile: iunie și decembrie. Echinocțiile: martie și septembrie."
+   }
+  },
+  {
+   "id": "V6-16",
+   "nivel": "V-S06-miscarile-pamantului-consecintele",
+   "competente": [
+    "V-1.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce se întâmplă la echinocțiu?",
+   "date": {
+    "variante": [
+     "ziua e egală cu noaptea peste tot pe Pământ",
+     "e cea mai lungă zi",
+     "e cea mai lungă noapte",
+     "Soarele nu răsare"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "La echinocțiu, ziua și noaptea au câte 12 ore."
+   }
+  },
+  {
+   "id": "V6-17",
+   "nivel": "V-S06-miscarile-pamantului-consecintele",
+   "competente": [
+    "V-1.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Când e cea mai lungă zi a anului în România?",
+   "date": {
+    "variante": [
+     "în jurul lui 21 iunie (solstițiul de vară)",
+     "în jurul lui 21 decembrie",
+     "pe 1 ianuarie",
+     "pe 1 martie"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "La solstițiul de vară ziua e cea mai lungă în emisfera nordică."
+   }
+  },
+  {
+   "id": "V6-18",
+   "nivel": "V-S06-miscarile-pamantului-consecintele",
+   "competente": [
+    "V-3.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 3,
+   "enunt": "Când e vară în România, ce anotimp e în Australia?",
+   "date": {
+    "variante": [
+     "iarnă",
+     "tot vară",
+     "primăvară",
+     "toamnă"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Emisferele au anotimpuri opuse: Australia e în emisfera sudică."
+   }
+  },
+  {
+   "id": "V6-19",
+   "nivel": "V-S06-miscarile-pamantului-consecintele",
+   "competente": [
+    "V-1.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Cum se numește perioada de luni de zile în care Soarele nu apune, la poli?",
+   "date": {
+    "variante": [
+     "ziua polară",
+     "noaptea polară",
+     "echinocțiul",
+     "eclipsa"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Ziua polară: Soarele nu apune; noaptea polară: Soarele nu răsare."
+   }
+  },
+  {
+   "id": "V6-20",
+   "nivel": "V-S06-miscarile-pamantului-consecintele",
+   "competente": [
+    "V-1.2"
+   ],
+   "tip": "ordoneaza",
+   "dificultate": 2,
+   "enunt": "Ordonează anotimpurile, începând cu primăvara.",
+   "date": {
+    "elemente": [
+     "primăvara",
+     "vara",
+     "toamna",
+     "iarna"
+    ],
+    "criteriu": "Ordinea din an"
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Primăvara, vara, toamna, iarna."
+   }
+  },
+  {
+   "id": "V6-21",
+   "nivel": "V-S06-miscarile-pamantului-consecintele",
+   "competente": [
+    "V-1.2",
+    "V-2.3"
+   ],
+   "tip": "ordoneaza",
+   "dificultate": 3,
+   "enunt": "Ordonează momentele anului, începând cu luna martie.",
+   "date": {
+    "elemente": [
+     "echinocțiul de primăvară",
+     "solstițiul de vară",
+     "echinocțiul de toamnă",
+     "solstițiul de iarnă"
+    ],
+    "criteriu": "În ordinea calendarului"
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Martie, iunie, septembrie, decembrie."
+   }
+  },
+  {
+   "id": "V6-22",
+   "nivel": "V-S06-miscarile-pamantului-consecintele",
+   "competente": [
+    "V-1.1"
+   ],
+   "tip": "lacunar",
+   "dificultate": 2,
+   "enunt": "Completează.",
+   "date": {
+    "text": "Pământul se rotește în jurul {0} sale în aproximativ 24 de ore și în jurul {1} în aproximativ un an.",
+    "raspunsuri": [
+     "axei",
+     "Soarelui"
+    ],
+    "distractori": [
+     "Lunii",
+     "Ecuatorului"
+    ]
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Rotația: în jurul axei. Revoluția: în jurul Soarelui."
+   }
+  },
+  {
+   "id": "V6-23",
+   "nivel": "V-S06-miscarile-pamantului-consecintele",
+   "competente": [
+    "V-3.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 1,
+   "enunt": "Adevărat sau fals? Când în România e zi, pe partea opusă a Pământului e noapte.",
+   "date": {
+    "variante": [
+     "Adevărat",
+     "Fals"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Adevărat: jumătate din Pământ e luminată, cealaltă e în umbră."
+   }
+  },
+  {
+   "id": "V6-24",
+   "nivel": "V-S06-miscarile-pamantului-consecintele",
+   "competente": [
+    "V-3.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Adevărat sau fals? Anotimpurile apar pentru că Pământul se apropie și se depărtează mult de Soare.",
+   "date": {
+    "variante": [
+     "Fals",
+     "Adevărat"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Fals: anotimpurile apar din cauza înclinării axei, nu a distanței."
+   }
+  },
+  {
+   "id": "V6-25",
+   "nivel": "V-S06-miscarile-pamantului-consecintele",
+   "competente": [
+    "V-1.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce fus orar are România iarna (ora de iarnă)?",
+   "date": {
+    "variante": [
+     "UTC+2 (cu 2 ore înaintea Londrei)",
+     "UTC+0",
+     "UTC−2",
+     "UTC+5"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "România are ora Europei de Est: UTC+2 iarna, UTC+3 vara."
+   }
+  },
+  {
+   "id": "V6-26",
+   "nivel": "V-S06-miscarile-pamantului-consecintele",
+   "competente": [
+    "V-3.2"
+   ],
+   "tip": "asociaza",
+   "dificultate": 3,
+   "enunt": "Asociază mișcarea cu consecința ei.",
+   "date": {
+    "perechi": [
+     [
+      "rotația",
+      "ziua și noaptea"
+     ],
+     [
+      "revoluția și înclinarea axei",
+      "anotimpurile"
+     ],
+     [
+      "rotația, de la vest la est",
+      "Soarele răsare la est"
+     ],
+     [
+      "diferența de longitudine",
+      "ore diferite în locuri diferite"
+     ]
+    ]
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Rotația: zi/noapte și mișcarea aparentă a Soarelui. Revoluția: anotimpurile."
+   }
+  },
+  {
+   "id": "V6-27",
+   "nivel": "V-S06-miscarile-pamantului-consecintele",
+   "competente": [
+    "V-3.2",
+    "V-4.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 3,
+   "enunt": "De ce zborul de la București la New York „câștigă” ore pe ceas?",
+   "date": {
+    "variante": [
+     "zbori spre vest, spre fusuri orare cu ora mai mică",
+     "avionul zboară mai repede decât timpul",
+     "ceasul se strică în avion",
+     "la New York e alt an"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Spre vest, fiecare fus orar are cu o oră mai puțin."
+   }
+  },
+  {
+   "id": "V6-28",
+   "nivel": "V-S06-miscarile-pamantului-consecintele",
+   "competente": [
+    "V-3.1"
+   ],
+   "tip": "lacunar",
+   "dificultate": 3,
+   "enunt": "Completează.",
+   "date": {
+    "text": "Un fus orar are {0} grade de longitudine, iar diferența dintre două fusuri vecine este de o {1}.",
+    "raspunsuri": [
+     "15",
+     "oră"
+    ],
+    "distractori": [
+     "24",
+     "zi"
+    ]
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "360° : 24 = 15° pe oră."
+   }
+  },
+  {
+   "id": "V6-29",
+   "nivel": "V-S06-miscarile-pamantului-consecintele",
+   "competente": [
+    "V-1.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 1,
+   "enunt": "Cum se numește mișcarea Pământului în jurul Soarelui?",
+   "date": {
+    "variante": [
+     "revoluție",
+     "rotație",
+     "eclipsă",
+     "maree"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Revoluția e mișcarea pe orbită, în jurul Soarelui."
+   }
+  },
+  {
+   "id": "V6-30",
+   "nivel": "V-S06-miscarile-pamantului-consecintele",
+   "competente": [
+    "V-3.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "La Ecuator, cum variază lungimea zilei de-a lungul anului?",
+   "date": {
+    "variante": [
+     "rămâne aproape egală cu noaptea tot anul",
+     "vara e zi tot timpul",
+     "iarna e noapte tot timpul",
+     "se schimbă foarte mult"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "La Ecuator ziua și noaptea au aproape 12 ore tot anul."
+   }
+  },
+  {
+   "id": "V8-01",
+   "nivel": "V-S08-orientarea-spatiul-terestru-elemente",
+   "competente": [
+    "V-1.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 1,
+   "enunt": "Care sunt cele patru puncte cardinale?",
+   "date": {
+    "variante": [
+     "nord, sud, est, vest",
+     "sus, jos, stânga, dreapta",
+     "nord-est, sud-est, sud-vest, nord-vest",
+     "înainte, înapoi, stânga, dreapta"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Nord, sud, est și vest sunt punctele cardinale.",
+    "gresit": "Punctele cardinale sunt nord, sud, est și vest. Cele cu cratimă (nord-est...) sunt intermediare."
+   }
+  },
+  {
+   "id": "V8-02",
+   "nivel": "V-S08-orientarea-spatiul-terestru-elemente",
+   "competente": [
+    "V-1.1",
+    "V-2.1"
+   ],
+   "tip": "etichete",
+   "dificultate": 1,
+   "enunt": "Pune punctele cardinale pe roza vânturilor.",
+   "date": {
+    "tinte": [
+     {
+      "id": "N",
+      "eticheta": "Nord"
+     },
+     {
+      "id": "E",
+      "eticheta": "Est"
+     },
+     {
+      "id": "S",
+      "eticheta": "Sud"
+     },
+     {
+      "id": "V",
+      "eticheta": "Vest"
+     }
+    ],
+    "schema": "busola"
+   },
+   "feedback": {
+    "corect": "Exact: nordul sus, sudul jos, estul la dreapta, vestul la stânga.",
+    "gresit": "Nordul e sus. Dacă privești spre nord, estul e la dreapta și vestul la stânga."
+   },
+   "indiciu": "Nordul e aproape mereu sus pe hartă."
+  },
+  {
+   "id": "V8-03",
+   "nivel": "V-S08-orientarea-spatiul-terestru-elemente",
+   "competente": [
+    "V-2.1"
+   ],
+   "tip": "etichete",
+   "dificultate": 2,
+   "enunt": "Pune punctele intermediare pe roza vânturilor.",
+   "date": {
+    "tinte": [
+     {
+      "id": "NE",
+      "eticheta": "Nord-est"
+     },
+     {
+      "id": "SE",
+      "eticheta": "Sud-est"
+     },
+     {
+      "id": "SV",
+      "eticheta": "Sud-vest"
+     },
+     {
+      "id": "NV",
+      "eticheta": "Nord-vest"
+     }
+    ],
+    "schema": "busola"
+   },
+   "feedback": {
+    "corect": "Bravo! Punctul intermediar stă între cele două puncte cardinale din numele lui.",
+    "gresit": "Nord-estul e între nord și est; sud-vestul, între sud și vest."
+   },
+   "indiciu": "Citește numele: „nord-est” înseamnă între nord și est."
+  },
+  {
+   "id": "V8-04",
+   "nivel": "V-S08-orientarea-spatiul-terestru-elemente",
+   "competente": [
+    "V-1.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 1,
+   "enunt": "Spre ce punct cardinal se îndreaptă acul magnetic al busolei?",
+   "date": {
+    "variante": [
+     "spre nord",
+     "spre sud",
+     "spre est",
+     "spre locul unde stai tu"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Acul busolei e atras spre nordul magnetic.",
+    "gresit": "Capătul colorat al acului busolei arată spre nord."
+   }
+  },
+  {
+   "id": "V8-05",
+   "nivel": "V-S08-orientarea-spatiul-terestru-elemente",
+   "competente": [
+    "V-1.1"
+   ],
+   "tip": "lacunar",
+   "dificultate": 1,
+   "enunt": "Completează propozițiile.",
+   "date": {
+    "text": "Soarele răsare în partea de {0} și apune în partea de {1}.",
+    "raspunsuri": [
+     "est",
+     "vest"
+    ],
+    "distractori": [
+     "nord",
+     "sud"
+    ]
+   },
+   "feedback": {
+    "corect": "Corect: răsare la est, apune la vest.",
+    "gresit": "Soarele răsare în partea de est și apune în partea de vest."
+   }
+  },
+  {
+   "id": "V8-06",
+   "nivel": "V-S08-orientarea-spatiul-terestru-elemente",
+   "competente": [
+    "V-2.1",
+    "V-4.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Este ora prânzului, în România. Spre ce punct cardinal arată umbra unui băț înfipt în pământ?",
+   "date": {
+    "variante": [
+     "spre nord",
+     "spre sud",
+     "spre est",
+     "spre vest"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "La prânz Soarele e spre sud, deci umbra cade spre nord.",
+    "gresit": "La prânz, în România, Soarele e spre sud. Umbra cade în partea opusă: spre nord."
+   },
+   "indiciu": "Umbra cade mereu în partea opusă Soarelui."
+  },
+  {
+   "id": "V8-07",
+   "nivel": "V-S08-orientarea-spatiul-terestru-elemente",
+   "competente": [
+    "V-1.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Noaptea, ce stea te ajută să găsești nordul?",
+   "date": {
+    "variante": [
+     "Steaua Polară",
+     "Soarele",
+     "Luna",
+     "orice stea strălucitoare"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Steaua Polară arată nordul.",
+    "gresit": "Steaua Polară, din constelația Carul Mic, arată direcția nord."
+   }
+  },
+  {
+   "id": "V8-08",
+   "nivel": "V-S08-orientarea-spatiul-terestru-elemente",
+   "competente": [
+    "V-2.1",
+    "V-4.3"
+   ],
+   "tip": "ordoneaza",
+   "dificultate": 2,
+   "enunt": "Ordonează pașii pentru orientarea cu busola.",
+   "date": {
+    "elemente": [
+     "Ții busola orizontal, departe de obiecte de fier",
+     "Aștepți să se oprească acul",
+     "Rotești busola până când capătul colorat al acului ajunge în dreptul literei N",
+     "Citești direcția în care vrei să mergi"
+    ],
+    "criteriu": "Ordinea pașilor"
+   },
+   "feedback": {
+    "corect": "Perfect! Așa se folosește busola.",
+    "gresit": "Întâi ții busola orizontal și aștepți acul, apoi potrivești N cu acul și abia la final citești direcția."
+   }
+  },
+  {
+   "id": "V8-09",
+   "nivel": "V-S08-orientarea-spatiul-terestru-elemente",
+   "competente": [
+    "V-1.1",
+    "V-2.1"
+   ],
+   "tip": "asociaza",
+   "dificultate": 2,
+   "enunt": "Asociază fiecare instrument cu ce face.",
+   "date": {
+    "perechi": [
+     [
+      "Busola",
+      "arată direcția nord"
+     ],
+     [
+      "GPS-ul",
+      "îți află poziția cu ajutorul sateliților"
+     ],
+     [
+      "Harta",
+      "reprezintă micșorat un teritoriu"
+     ],
+     [
+      "Roza vânturilor",
+      "arată punctele cardinale pe hartă"
+     ]
+    ]
+   },
+   "feedback": {
+    "corect": "Toate perechile sunt corecte.",
+    "gresit": "Busola arată nordul; GPS-ul îți află poziția; harta e un desen micșorat al unui teritoriu; roza vânturilor arată direcțiile."
+   }
+  },
+  {
+   "id": "V8-10",
+   "nivel": "V-S08-orientarea-spatiul-terestru-elemente",
+   "competente": [
+    "V-2.1",
+    "V-4.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 3,
+   "enunt": "Mergi spre est. Te întorci la stânga. Spre ce punct cardinal mergi acum?",
+   "date": {
+    "variante": [
+     "nord",
+     "sud",
+     "vest",
+     "sud-est"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da: cu fața spre est, stânga ta e nordul.",
+    "gresit": "Cu fața spre est, ai nordul la stânga și sudul la dreapta."
+   },
+   "indiciu": "Desenează o cruce cu N sus și pune-te pe ea cu fața spre E."
+  },
+  {
+   "id": "V8-11",
+   "nivel": "V-S08-orientarea-spatiul-terestru-elemente",
+   "competente": [
+    "V-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 1,
+   "enunt": "Stai cu fața spre nord. Ce punct cardinal ai în dreapta?",
+   "date": {
+    "variante": [
+     "est",
+     "vest",
+     "sud",
+     "nord-vest"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect, estul e la dreapta.",
+    "gresit": "Cu fața spre nord, estul e la dreapta, vestul la stânga și sudul în spate."
+   }
+  },
+  {
+   "id": "V8-12",
+   "nivel": "V-S08-orientarea-spatiul-terestru-elemente",
+   "competente": [
+    "V-2.1"
+   ],
+   "tip": "pin",
+   "dificultate": 2,
+   "enunt": "Atinge pe hartă Polul Nord.",
+   "date": {
+    "harta": "lume",
+    "tinta": {
+     "lat": 89.5,
+     "lon": 0,
+     "nume": "Polul Nord"
+    },
+    "toleranta": 1200
+   },
+   "feedback": {
+    "corect": "Corect. Polul Nord e punctul cel mai nordic al Pământului, sus pe hartă.",
+    "gresit": "Polul Nord e în marginea de sus a hărții lumii, în mijlocul Oceanului Arctic."
+   },
+   "indiciu": "Caută marginea de sus a hărții."
+  },
+  {
+   "id": "V8-13",
+   "nivel": "V-S08-orientarea-spatiul-terestru-elemente",
+   "competente": [
+    "V-2.1"
+   ],
+   "tip": "pin",
+   "dificultate": 2,
+   "enunt": "Atinge pe hartă Polul Sud.",
+   "date": {
+    "harta": "lume",
+    "tinta": {
+     "lat": -89.5,
+     "lon": 0,
+     "nume": "Polul Sud"
+    },
+    "toleranta": 1200
+   },
+   "feedback": {
+    "corect": "Corect. Polul Sud e în mijlocul Antarcticii.",
+    "gresit": "Polul Sud e în marginea de jos a hărții, în Antarctica."
+   }
+  },
+  {
+   "id": "V8-14",
+   "nivel": "V-S08-orientarea-spatiul-terestru-elemente",
+   "competente": [
+    "V-1.1",
+    "V-2.1"
+   ],
+   "tip": "lacunar",
+   "dificultate": 2,
+   "enunt": "Completează.",
+   "date": {
+    "text": "Pe hărți, nordul este de obicei {0}. Direcția dintre nord și vest se numește {1}.",
+    "raspunsuri": [
+     "sus",
+     "nord-vest"
+    ],
+    "distractori": [
+     "jos",
+     "nord-est"
+    ]
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Nordul e sus pe hartă, iar între nord și vest e nord-vestul."
+   }
+  },
+  {
+   "id": "V8-15",
+   "nivel": "V-S08-orientarea-spatiul-terestru-elemente",
+   "competente": [
+    "V-1.2",
+    "V-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce folosește GPS-ul din telefon ca să afle unde ești?",
+   "date": {
+    "variante": [
+     "semnale de la sateliți",
+     "acul magnetic",
+     "poziția Soarelui",
+     "Steaua Polară"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, GPS-ul primește semnale de la mai mulți sateliți.",
+    "gresit": "GPS-ul calculează poziția din semnalele trimise de sateliți. Busola, nu GPS-ul, are ac magnetic."
+   }
+  },
+  {
+   "id": "V8-16",
+   "nivel": "V-S08-orientarea-spatiul-terestru-elemente",
+   "competente": [
+    "V-1.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 1,
+   "enunt": "Ce arată punctul cardinal opus nordului?",
+   "date": {
+    "variante": [
+     "sudul",
+     "estul",
+     "vestul",
+     "nord-estul"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Nordul și sudul sunt opuse; la fel estul și vestul."
+   }
+  },
+  {
+   "id": "V8-17",
+   "nivel": "V-S08-orientarea-spatiul-terestru-elemente",
+   "competente": [
+    "V-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Stai cu fața spre est. Ce ai în spate?",
+   "date": {
+    "variante": [
+     "vestul",
+     "nordul",
+     "sudul",
+     "estul"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Estul și vestul sunt opuse."
+   }
+  },
+  {
+   "id": "V8-18",
+   "nivel": "V-S08-orientarea-spatiul-terestru-elemente",
+   "competente": [
+    "V-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Stai cu fața spre sud. Ce ai la stânga?",
+   "date": {
+    "variante": [
+     "estul",
+     "vestul",
+     "nordul",
+     "sudul"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Cu fața spre sud, estul e la stânga și vestul la dreapta."
+   },
+   "indiciu": "Imaginează-ți că te întorci cu spatele la nord."
+  },
+  {
+   "id": "V8-19",
+   "nivel": "V-S08-orientarea-spatiul-terestru-elemente",
+   "competente": [
+    "V-1.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce direcție arată umbra ta dimineața, la răsărit?",
+   "date": {
+    "variante": [
+     "spre vest",
+     "spre est",
+     "spre nord",
+     "spre sud"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Dimineața Soarele e la est, deci umbra cade spre vest."
+   }
+  },
+  {
+   "id": "V8-20",
+   "nivel": "V-S08-orientarea-spatiul-terestru-elemente",
+   "competente": [
+    "V-1.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce direcție arată umbra ta seara, la apus?",
+   "date": {
+    "variante": [
+     "spre est",
+     "spre vest",
+     "spre nord",
+     "spre sud"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Seara Soarele e la vest, deci umbra cade spre est."
+   }
+  },
+  {
+   "id": "V8-21",
+   "nivel": "V-S08-orientarea-spatiul-terestru-elemente",
+   "competente": [
+    "V-2.1"
+   ],
+   "tip": "denumeste",
+   "dificultate": 2,
+   "enunt": "Ce punct cardinal e evidențiat pe roza vânturilor?",
+   "date": {
+    "schema": "busola",
+    "evidentiat": "E",
+    "variante": [
+     "est",
+     "vest",
+     "nord",
+     "sud-est"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Punctul evidențiat e la dreapta nordului: estul."
+   }
+  },
+  {
+   "id": "V8-22",
+   "nivel": "V-S08-orientarea-spatiul-terestru-elemente",
+   "competente": [
+    "V-2.1"
+   ],
+   "tip": "denumeste",
+   "dificultate": 2,
+   "enunt": "Ce punct intermediar e evidențiat pe roza vânturilor?",
+   "date": {
+    "schema": "busola",
+    "evidentiat": "SV",
+    "variante": [
+     "sud-vest",
+     "sud-est",
+     "nord-vest",
+     "nord-est"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Între sud și vest e sud-vestul."
+   }
+  },
+  {
+   "id": "V8-23",
+   "nivel": "V-S08-orientarea-spatiul-terestru-elemente",
+   "competente": [
+    "V-1.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "În ce constelație se află Steaua Polară?",
+   "date": {
+    "variante": [
+     "Ursa Mică (Carul Mic)",
+     "Orion",
+     "Casiopeea",
+     "Leul"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Steaua Polară e la capătul „oiștii” Carului Mic."
+   }
+  },
+  {
+   "id": "V8-24",
+   "nivel": "V-S08-orientarea-spatiul-terestru-elemente",
+   "competente": [
+    "V-4.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 3,
+   "enunt": "Te-ai rătăcit noaptea, cerul e senin. Cum găsești Steaua Polară?",
+   "date": {
+    "variante": [
+     "prelungești de 5 ori latura din spate a Carului Mare",
+     "cauți cea mai roșie stea",
+     "te uiți spre sud",
+     "cauți Luna"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Cele două stele din spatele Carului Mare arată spre Steaua Polară."
+   }
+  },
+  {
+   "id": "V8-25",
+   "nivel": "V-S08-orientarea-spatiul-terestru-elemente",
+   "competente": [
+    "V-2.1"
+   ],
+   "tip": "ordoneaza",
+   "dificultate": 2,
+   "enunt": "Ordonează direcțiile în sensul acelor de ceasornic, începând cu nordul.",
+   "date": {
+    "elemente": [
+     "nord",
+     "est",
+     "sud",
+     "vest"
+    ],
+    "criteriu": "În sensul acelor de ceasornic"
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Nord, est, sud, vest."
+   }
+  },
+  {
+   "id": "V8-26",
+   "nivel": "V-S08-orientarea-spatiul-terestru-elemente",
+   "competente": [
+    "V-2.1"
+   ],
+   "tip": "ordoneaza",
+   "dificultate": 3,
+   "enunt": "Ordonează direcțiile intermediare în sensul acelor de ceasornic, începând cu nord-estul.",
+   "date": {
+    "elemente": [
+     "nord-est",
+     "sud-est",
+     "sud-vest",
+     "nord-vest"
+    ],
+    "criteriu": "În sensul acelor de ceasornic"
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "NE, SE, SV, NV."
+   }
+  },
+  {
+   "id": "V8-27",
+   "nivel": "V-S08-orientarea-spatiul-terestru-elemente",
+   "competente": [
+    "V-1.1"
+   ],
+   "tip": "lacunar",
+   "dificultate": 2,
+   "enunt": "Completează.",
+   "date": {
+    "text": "Busola are un ac {0}, al cărui capăt colorat arată spre {1}.",
+    "raspunsuri": [
+     "magnetic",
+     "nord"
+    ],
+    "distractori": [
+     "de lemn",
+     "sud"
+    ]
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Acul magnetic se orientează spre nord."
+   }
+  },
+  {
+   "id": "V8-28",
+   "nivel": "V-S08-orientarea-spatiul-terestru-elemente",
+   "competente": [
+    "V-4.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce poate strica funcționarea unei busole?",
+   "date": {
+    "variante": [
+     "obiectele de fier sau magneții din apropiere",
+     "lumina Soarelui",
+     "vântul",
+     "ploaia"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Fierul și magneții atrag acul și dau o direcție greșită."
+   }
+  },
+  {
+   "id": "V8-29",
+   "nivel": "V-S08-orientarea-spatiul-terestru-elemente",
+   "competente": [
+    "V-1.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Adevărat sau fals? Soarele răsare exact la est în fiecare zi a anului.",
+   "date": {
+    "variante": [
+     "Fals",
+     "Adevărat"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Fals: exact la est răsare doar la echinocții; vara răsare spre nord-est, iarna spre sud-est."
+   }
+  },
+  {
+   "id": "V8-30",
+   "nivel": "V-S08-orientarea-spatiul-terestru-elemente",
+   "competente": [
+    "V-1.1",
+    "V-2.1"
+   ],
+   "tip": "asociaza",
+   "dificultate": 2,
+   "enunt": "Asociază mijlocul de orientare cu momentul în care îl folosești.",
+   "date": {
+    "perechi": [
+     [
+      "Soarele",
+      "ziua, pe cer senin"
+     ],
+     [
+      "Steaua Polară",
+      "noaptea, pe cer senin"
+     ],
+     [
+      "busola",
+      "oricând, departe de fier"
+     ],
+     [
+      "GPS-ul",
+      "cu telefon și semnal de la sateliți"
+     ]
+    ]
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Fiecare mijloc are condițiile lui."
+   }
+  },
+  {
+   "id": "V9-01",
+   "nivel": "V-S09-aplicatii-practice-masurarea-timpului",
+   "competente": [
+    "V-4.2"
+   ],
+   "tip": "ordoneaza",
+   "dificultate": 1,
+   "enunt": "Ordonează unitățile de timp de la cea mai scurtă la cea mai lungă.",
+   "date": {
+    "elemente": [
+     "ziua",
+     "săptămâna",
+     "luna",
+     "anotimpul",
+     "anul"
+    ],
+    "criteriu": "De la scurt la lung"
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Ordinea e: zi, săptămână, lună, anotimp, an."
+   }
+  },
+  {
+   "id": "V9-02",
+   "nivel": "V-S09-aplicatii-practice-masurarea-timpului",
+   "competente": [
+    "V-3.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 1,
+   "enunt": "Câte zile are un an obișnuit (care nu e bisect)?",
+   "date": {
+    "variante": [
+     "365",
+     "366",
+     "360",
+     "364"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect: 365 de zile.",
+    "gresit": "Un an obișnuit are 365 de zile; anul bisect are 366, cu 29 februarie."
+   }
+  },
+  {
+   "id": "V9-03",
+   "nivel": "V-S09-aplicatii-practice-masurarea-timpului",
+   "competente": [
+    "V-1.2",
+    "V-3.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce mișcare a Pământului dă alternanța zi–noapte?",
+   "date": {
+    "variante": [
+     "mișcarea de rotație, în jurul axei",
+     "mișcarea de revoluție, în jurul Soarelui",
+     "mișcarea Lunii în jurul Pământului",
+     "mișcarea Soarelui în jurul Pământului"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, rotația în jurul axei produce ziua și noaptea.",
+    "gresit": "Ziua și noaptea vin din rotația Pământului în jurul axei. Revoluția în jurul Soarelui dă anul și anotimpurile."
+   }
+  }
+ ]
+}

@@ -1,0 +1,3316 @@
+{
+ "clasa": 7,
+ "unitate": "Australia și Oceania. Antarctica",
+ "niveluri": [
+  {
+   "id": "VII-S30-australia-oceania-caracterizare-geografica",
+   "tip": "nivel",
+   "titlu": "Australia și Oceania – caracterizare geografică",
+   "descopera": {
+    "intrebare": "Poate o țară să fie și continent?"
+   },
+   "invata": [
+    {
+     "titlu": "Australia – un continent-țară",
+     "text": "Australia e cel mai mic continent (aproximativ 7,7 milioane km²) și singurul ocupat în întregime de un singur stat: Commonwealth of Australia. Se află în emisferele sudică și estică, între Oceanul Indian (vest) și Oceanul Pacific (est).\nE străbătută de Tropicul Capricornului. Țărmuri: Golful Carpentaria, Peninsula Cape York, insula Tasmania la sud."
+    },
+    {
+     "titlu": "Oceania",
+     "text": "Oceania cuprinde mii de insule din Oceanul Pacific, grupate în trei regiuni: Melanezia („insulele negre”: Noua Guinee, Fiji, Insulele Solomon), Micronezia („insulele mici”: Guam, Insulele Marshall) și Polinezia („multe insule”: Hawaii, Noua Zeelandă, Samoa, Tahiti, Insula Paștelui).\nÎmpreună, Australia și Oceania sunt adesea studiate ca un singur continent, numit și Oceania."
+    },
+    {
+     "titlu": "Izolare",
+     "text": "Australia și Oceania sunt foarte departe de celelalte continente. Această izolare explică plantele și animalele unice și faptul că au fost printre ultimele regiuni descoperite de europeni."
+    }
+   ],
+   "stiaiCa": "Numele „Australia” vine din latinescul „Terra Australis”, adică „Pământul de Sud”.",
+   "referintaProfesor": "Manual Art Klett, clasa a VII-a, ediția 2024 (manuale.edu.ro), lecția „Australia și Oceania – caracterizare geografică”"
+  },
+  {
+   "id": "VII-S30-australia-caracterizare-geografica-generala",
+   "tip": "nivel",
+   "titlu": "Australia – caracterizare geografică generală",
+   "descopera": {
+    "intrebare": "De ce cei mai mulți australieni locuiesc pe țărm?"
+   },
+   "invata": [
+    {
+     "titlu": "Relieful",
+     "text": "Australia e cel mai jos și mai plat continent locuit. În vest: Podișul Australiei de Vest (vechi, deșertic); în centru: câmpii joase și Lacul Eyre (Kati Thanda), cel mai jos punct, la aproximativ 15 m sub nivelul mării; în est: Marea Cumpănă a Apelor (Great Dividing Range), cu vârful Kosciuszko (2 228 m).\nUluru, un monolit uriaș de gresie din centrul Australiei, e un loc sfânt pentru aborigeni."
+    },
+    {
+     "titlu": "Clima și apele",
+     "text": "Australia e cel mai uscat continent locuit: aproape o treime din suprafață e deșert. Clima e tropicală în nord, deșertică în centru și vest, mediteraneeană în sud-vest și sud, temperată în sud-est.\nRâuri puține: Murray și Darling formează cel mai mare sistem hidrografic. Multe râuri seacă vara (creek-uri). Marele Bazin Artezian are apă subterană folosită în ferme."
+    },
+    {
+     "titlu": "Populația și economia",
+     "text": "Australia are aproximativ 27 de milioane de locuitori, după ABS, concentrați pe țărmurile de est și sud-est: Sydney, Melbourne, Brisbane, Adelaide, Perth. Capitala e Canberra.\nPrimii locuitori sunt aborigenii, prezenți de zeci de mii de ani. Economie: minereuri (fier, cărbune, aur, bauxită, litiu), creșterea oilor (lână) și vitelor, grâu, turism."
+    }
+   ],
+   "stiaiCa": "Australia are mai multe oi decât oameni: de câteva ori mai multe.",
+   "referintaProfesor": "Manual Art Klett, clasa a VII-a, ediția 2024 (manuale.edu.ro), lecția „Australia – caracterizare geografică generală”"
+  },
+  {
+   "id": "VII-S31-oceania-particularitati-geografice",
+   "tip": "nivel",
+   "titlu": "Oceania – particularități geografice",
+   "descopera": {
+    "intrebare": "Cum se formează o insulă de corali?"
+   },
+   "invata": [
+    {
+     "titlu": "Tipuri de insule",
+     "text": "Insule continentale: bucăți desprinse din continente, mari și cu relief variat (Noua Guinee, Noua Zeelandă, Tasmania).\nInsule vulcanice: formate de vulcani ieșiți din ocean (Hawaii, Samoa, Tahiti).\nInsule coraliere (atoli): inele de recif de corali în jurul unei lagune, foarte joase (Tuvalu, Kiribati, Insulele Marshall). Ele se formează în jurul unui vulcan care s-a scufundat încet."
+    },
+    {
+     "titlu": "Noua Zeelandă și Papua Noua Guinee",
+     "text": "Noua Zeelandă are două insule mari, cu munți înalți (Alpii Sudici, vârful Aoraki/Mount Cook), vulcani, gheizere și fiorduri. Primii locuitori au fost maorii.\nPapua Noua Guinee are munți înalți, păduri tropicale și peste 800 de limbi – una dintre cele mai mari diversități lingvistice."
+    },
+    {
+     "titlu": "Hawaii și Pacificul",
+     "text": "Mauna Kea, în Hawaii, are 4 207 m deasupra mării, dar măsurat de la baza lui de pe fundul oceanului depășește 10 000 m – mai mult decât Everest.\nStatele insulare mici sunt amenințate de creșterea nivelului mării."
+    }
+   ],
+   "stiaiCa": "Recifele de corali sunt construite de animale minuscule, polipii de corali, care își fac schelete de calcar.",
+   "referintaProfesor": "Manual Art Klett, clasa a VII-a, ediția 2024 (manuale.edu.ro), lecția „Oceania – particularități geografice”"
+  },
+  {
+   "id": "VII-S31-antarctica-elemente-identitate-geografica",
+   "tip": "nivel",
+   "titlu": "Antarctica – elemente de identitate geografică",
+   "descopera": {
+    "intrebare": "Al cui e continentul de gheață?"
+   },
+   "invata": [
+    {
+     "titlu": "Continentul alb",
+     "text": "Antarctica e continentul din jurul Polului Sud, cu aproximativ 14 milioane km², aproape în întregime acoperit de o calotă de gheață groasă în medie de aproape 2 km. Aici se află aproximativ 90 % din gheața Pământului și aproape 70 % din apa dulce.\nE scăldată de Oceanul de Sud (Antarctic), format din apele sudice ale Atlanticului, Pacificului și Indianului."
+    },
+    {
+     "titlu": "Cel mai rece, uscat și vânturos",
+     "text": "La stația rusă Vostok s-a măsurat −89,2 °C, pe 21 iulie 1983, cea mai scăzută temperatură înregistrată pe Pământ. Interiorul primește foarte puține precipitații – de aceea Antarctica e considerată cel mai mare deșert.\nCel mai înalt vârf: Masivul Vinson (4 892 m). Există și vulcani, ca Erebus."
+    },
+    {
+     "titlu": "Viață și cooperare",
+     "text": "Pe țărmuri și în ocean trăiesc pinguini, foci, balene, păsări marine; la baza lanțului trofic e krillul.\nAntarctica nu aparține nimănui: Tratatul Antarctic (semnat în 1959) o rezervă păcii și cercetării științifice. Aici lucrează doar cercetători, în stații. România are stația Law-Racoviță, în colaborare cu Australia; Emil Racoviță a participat la expediția „Belgica” (1897–1899)."
+    }
+   ],
+   "stiaiCa": "Pinguinul imperial, cel mai mare pinguin, clocește ouăle iarna, pe gheață: masculii le țin pe labe luni întregi, la temperaturi de −40 °C.",
+   "referintaProfesor": "Manual Art Klett, clasa a VII-a, ediția 2024 (manuale.edu.ro), lecția „Antarctica – elemente de identitate geografică”"
+  },
+  {
+   "id": "VII-S32-studiu-caz-unicitatea-biogeografica",
+   "tip": "expeditie",
+   "titlu": "Expediție: animalele unice ale Australiei",
+   "descopera": {
+    "intrebare": "De ce cangurul și ornitorincul trăiesc doar în Australia?"
+   },
+   "invata": [
+    {
+     "titlu": "Ce faci în expediție",
+     "text": "Urmezi pașii, rezolvi sarcinile și notezi în Jurnalul exploratorului ce ai descoperit."
+    }
+   ],
+   "referintaProfesor": "Manual Art Klett, clasa a VII-a, ediția 2024 (manuale.edu.ro), lecția „Studiu de caz: Unicitatea biogeografică australiană”",
+   "pasi": [
+    {
+     "titlu": "1. Fișa animalelor",
+     "text": "Alege 3 animale australiene unice și fă pentru fiecare o fișă: unde trăiește, ce mănâncă, de ce e special.",
+     "itemi": [
+      "VII32-01",
+      "VII32-02"
+     ],
+     "jurnal": {
+      "cerinta": "Scrie fișele celor 3 animale."
+     }
+    },
+    {
+     "titlu": "2. Specii invazive",
+     "text": "Află ce s-a întâmplat cu iepurii, broasca-țestoasă de trestie (cane toad) sau pisicile sălbatice în Australia.",
+     "itemi": [
+      "VII32-03",
+      "VII32-04"
+     ],
+     "jurnal": {
+      "cerinta": "Scrie ce specie invazivă ai ales și ce probleme a produs."
+     }
+    },
+    {
+     "titlu": "3. Marea Barieră de Corali",
+     "text": "Caută informații despre Marea Barieră de Corali: cât de lungă e, ce trăiește acolo, ce o amenință. Folosește site-ul UNESCO sau al Autorității Parcului Marin.",
+     "itemi": [
+      "VII32-05"
+     ],
+     "jurnal": {
+      "cerinta": "Notează 3 informații și sursa."
+     }
+    },
+    {
+     "titlu": "4. Posterul",
+     "text": "Realizează un poster „Australia – un continent unic”, cu harta, animalele alese și o soluție pentru protecția lor.",
+     "jurnal": {
+      "cerinta": "Fotografiază posterul.",
+      "foto": true
+     }
+    }
+   ]
+  }
+ ],
+ "itemi": [
+  {
+   "id": "VII30a-01",
+   "nivel": "VII-S30-australia-oceania-caracterizare-geografica",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 1,
+   "enunt": "Care e cel mai mic continent?",
+   "date": {
+    "variante": [
+     "Australia",
+     "Europa",
+     "Antarctica",
+     "America de Sud"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Australia are aproximativ 7,7 milioane km²."
+   },
+   "surse": [
+    "Geoscience Australia – Area of Australia / Australia's size",
+    "Encyclopaedia Britannica – Australia"
+   ]
+  },
+  {
+   "id": "VII30a-02",
+   "nivel": "VII-S30-australia-oceania-caracterizare-geografica",
+   "competente": [
+    "VII-1.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "De ce Australia e numită „continent-țară”?",
+   "date": {
+    "variante": [
+     "pentru că întregul continent e ocupat de un singur stat",
+     "pentru că are multe țări mici",
+     "pentru că e o insulă mică",
+     "pentru că nu are capitală"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Commonwealth of Australia."
+   }
+  },
+  {
+   "id": "VII30a-03",
+   "nivel": "VII-S30-australia-oceania-caracterizare-geografica",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "În ce emisfere se află Australia?",
+   "date": {
+    "variante": [
+     "sudică și estică",
+     "nordică și vestică",
+     "nordică și estică",
+     "sudică și vestică"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "E la sud de Ecuator și la est de meridianul de 0°."
+   }
+  },
+  {
+   "id": "VII30a-04",
+   "nivel": "VII-S30-australia-oceania-caracterizare-geografica",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce tropic străbate Australia?",
+   "date": {
+    "variante": [
+     "Tropicul Capricornului",
+     "Tropicul Racului",
+     "Cercul Polar de Sud",
+     "Ecuatorul"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Tropicul Capricornului trece prin centrul Australiei."
+   }
+  },
+  {
+   "id": "VII30a-05",
+   "nivel": "VII-S30-australia-oceania-caracterizare-geografica",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "etichete",
+   "dificultate": 2,
+   "enunt": "Pune pe hartă oceanele din jurul Australiei.",
+   "date": {
+    "tinte": [
+     {
+      "id": "ind",
+      "eticheta": "Oceanul Indian",
+      "lat": -25,
+      "lon": 95
+     },
+     {
+      "id": "pac",
+      "eticheta": "Oceanul Pacific",
+      "lat": -20,
+      "lon": 170
+     }
+    ],
+    "harta": "lume"
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Indian la vest, Pacific la est."
+   }
+  },
+  {
+   "id": "VII30a-06",
+   "nivel": "VII-S30-australia-oceania-caracterizare-geografica",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "asociaza",
+   "dificultate": 2,
+   "enunt": "Asociază regiunea Oceaniei cu înțelesul numelui.",
+   "date": {
+    "perechi": [
+     [
+      "Melanezia",
+      "insulele negre"
+     ],
+     [
+      "Micronezia",
+      "insulele mici"
+     ],
+     [
+      "Polinezia",
+      "multe insule"
+     ]
+    ]
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Numele vin din greacă."
+   }
+  },
+  {
+   "id": "VII30a-07",
+   "nivel": "VII-S30-australia-oceania-caracterizare-geografica",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "asociaza",
+   "dificultate": 2,
+   "enunt": "Asociază insula sau arhipelagul cu regiunea Oceaniei.",
+   "date": {
+    "perechi": [
+     [
+      "Noua Guinee",
+      "Melanezia"
+     ],
+     [
+      "Guam",
+      "Micronezia"
+     ],
+     [
+      "Hawaii",
+      "Polinezia – nordul triunghiului"
+     ],
+     [
+      "Noua Zeelandă",
+      "Polinezia – sud-vestul triunghiului"
+     ]
+    ]
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Cele trei regiuni."
+   }
+  },
+  {
+   "id": "VII30a-08",
+   "nivel": "VII-S30-australia-oceania-caracterizare-geografica",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "pin",
+   "dificultate": 2,
+   "enunt": "Atinge pe hartă Tasmania.",
+   "date": {
+    "harta": "lume",
+    "tinta": {
+     "lat": -42,
+     "lon": 146.6,
+     "nume": "Tasmania"
+    },
+    "toleranta": 400
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Tasmania e la sud de Australia."
+   }
+  },
+  {
+   "id": "VII30a-09",
+   "nivel": "VII-S30-australia-oceania-caracterizare-geografica",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "pin",
+   "dificultate": 2,
+   "enunt": "Atinge pe hartă Noua Guinee.",
+   "date": {
+    "harta": "lume",
+    "tinta": {
+     "lat": -6,
+     "lon": 143,
+     "nume": "Noua Guinee"
+    },
+    "toleranta": 600
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Noua Guinee e la nord de Australia."
+   }
+  },
+  {
+   "id": "VII30a-10",
+   "nivel": "VII-S30-australia-oceania-caracterizare-geografica",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "pin",
+   "dificultate": 2,
+   "enunt": "Atinge pe hartă Noua Zeelandă.",
+   "date": {
+    "harta": "lume",
+    "tinta": {
+     "lat": -41,
+     "lon": 174,
+     "nume": "Noua Zeelandă"
+    },
+    "toleranta": 600
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Noua Zeelandă e la sud-est de Australia."
+   }
+  },
+  {
+   "id": "VII30a-11",
+   "nivel": "VII-S30-australia-oceania-caracterizare-geografica",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "pin",
+   "dificultate": 3,
+   "enunt": "Atinge pe hartă Hawaii.",
+   "date": {
+    "harta": "lume",
+    "tinta": {
+     "lat": 20.5,
+     "lon": -157,
+     "nume": "Hawaii"
+    },
+    "toleranta": 500
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Hawaii e în mijlocul Pacificului de Nord."
+   }
+  },
+  {
+   "id": "VII30a-12",
+   "nivel": "VII-S30-australia-oceania-caracterizare-geografica",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "pin",
+   "dificultate": 3,
+   "enunt": "Atinge pe hartă Insula Paștelui.",
+   "date": {
+    "harta": "lume",
+    "tinta": {
+     "lat": -27.1,
+     "lon": -109.4,
+     "nume": "Insula Paștelui"
+    },
+    "toleranta": 500
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Insula Paștelui aparține statului Chile."
+   }
+  },
+  {
+   "id": "VII30a-13",
+   "nivel": "VII-S30-australia-oceania-caracterizare-geografica",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce insulă e cea mai mare din Oceania?",
+   "date": {
+    "variante": [
+     "Noua Guinee",
+     "Tasmania",
+     "Hawaii",
+     "Fiji"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "A doua insulă ca mărime din lume, după Groenlanda."
+   }
+  },
+  {
+   "id": "VII30a-14",
+   "nivel": "VII-S30-australia-oceania-caracterizare-geografica",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce golf mare pătrunde în nordul Australiei?",
+   "date": {
+    "variante": [
+     "Golful Carpentaria",
+     "Golful Mexic",
+     "Golful Persic",
+     "Golful Guineei"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "La est de el e Peninsula Cape York."
+   }
+  },
+  {
+   "id": "VII30a-15",
+   "nivel": "VII-S30-australia-oceania-caracterizare-geografica",
+   "competente": [
+    "VII-1.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce explică plantele și animalele unice ale Australiei?",
+   "date": {
+    "variante": [
+     "izolarea îndelungată de celelalte continente",
+     "clima polară",
+     "vulcanii activi",
+     "apropierea de Europa"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Speciile au evoluat separat milioane de ani."
+   }
+  },
+  {
+   "id": "VII30a-16",
+   "nivel": "VII-S30-australia-oceania-caracterizare-geografica",
+   "competente": [
+    "VII-1.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Adevărat sau fals? Australia e ocupată de mai multe state.",
+   "date": {
+    "variante": [
+     "Fals",
+     "Adevărat"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Fals: de un singur stat."
+   }
+  },
+  {
+   "id": "VII30a-17",
+   "nivel": "VII-S30-australia-oceania-caracterizare-geografica",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Adevărat sau fals? Hawaii fac parte din Polinezia.",
+   "date": {
+    "variante": [
+     "Adevărat",
+     "Fals"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Adevărat: Hawaii sunt statul cu numărul 50 al SUA."
+   }
+  },
+  {
+   "id": "VII30a-18",
+   "nivel": "VII-S30-australia-oceania-caracterizare-geografica",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "lacunar",
+   "dificultate": 2,
+   "enunt": "Completează.",
+   "date": {
+    "text": "Australia e scăldată de Oceanul {0} la vest și de Oceanul {1} la est.",
+    "raspunsuri": [
+     "Indian",
+     "Pacific"
+    ],
+    "distractori": [
+     "Atlantic",
+     "Arctic"
+    ]
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Indian și Pacific."
+   }
+  },
+  {
+   "id": "VII30a-19",
+   "nivel": "VII-S30-australia-oceania-caracterizare-geografica",
+   "competente": [
+    "VII-1.1"
+   ],
+   "tip": "lacunar",
+   "dificultate": 2,
+   "enunt": "Completează.",
+   "date": {
+    "text": "Cea mai mare insulă din Oceania este {0}; insula de la sudul Australiei este {1}.",
+    "raspunsuri": [
+     "Noua Guinee",
+     "Tasmania"
+    ],
+    "distractori": [
+     "Fiji",
+     "Madagascar"
+    ]
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Noua Guinee, Tasmania."
+   }
+  },
+  {
+   "id": "VII30a-20",
+   "nivel": "VII-S30-australia-oceania-caracterizare-geografica",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "denumeste",
+   "dificultate": 2,
+   "enunt": "Ce peninsulă din nordul Australiei e marcată pe hartă?",
+   "date": {
+    "harta": "lume",
+    "punct": {
+     "lat": -13,
+     "lon": 142.8
+    },
+    "variante": [
+     "Cape York",
+     "Arnhem Land",
+     "Malacca",
+     "Kamciatka"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Cape York e cel mai nordic punct al Australiei."
+   }
+  },
+  {
+   "id": "VII30a-21",
+   "nivel": "VII-S30-australia-oceania-caracterizare-geografica",
+   "competente": [
+    "VII-2.2",
+    "VII-3.1",
+    "VII-4.2"
+   ],
+   "tip": "ordoneaza",
+   "dificultate": 3,
+   "enunt": "Ordonează locurile de la vest la est.",
+   "date": {
+    "elemente": [
+     "Perth",
+     "Australia centrală (Uluru)",
+     "Sydney",
+     "Noua Zeelandă",
+     "Tahiti"
+    ],
+    "criteriu": "De la vest la est"
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "De la Oceanul Indian spre Pacificul central."
+   }
+  },
+  {
+   "id": "VII30a-22",
+   "nivel": "VII-S30-australia-oceania-caracterizare-geografica",
+   "competente": [
+    "VII-2.3",
+    "VII-4.1"
+   ],
+   "tip": "grafic",
+   "dificultate": 3,
+   "enunt": "Graficul compară suprafețele (milioane km², rotunjit). De câte ori e mai mare Antarctica decât Australia?",
+   "date": {
+    "grafic": {
+     "tip": "bare",
+     "titlu": "Suprafața (milioane km², rotunjit)",
+     "date": [
+      {
+       "eticheta": "Antarctica",
+       "valoare": 14
+      },
+      {
+       "eticheta": "Europa",
+       "valoare": 10
+      },
+      {
+       "eticheta": "Australia",
+       "valoare": 7.7
+      }
+     ],
+     "unitate": "milioane km²",
+     "sursa": "Encyclopaedia Britannica; Geoscience Australia"
+    },
+    "variante": [
+     "de aproape 2 ori",
+     "de 10 ori",
+     "la fel",
+     "de 2 ori mai mică"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "14 : 7,7 ≈ 1,8."
+   },
+   "surse": [
+    "Geoscience Australia – Area of Australia / Australia's size",
+    "Encyclopaedia Britannica – Australia"
+   ]
+  },
+  {
+   "id": "VII30a-23",
+   "nivel": "VII-S30-australia-oceania-caracterizare-geografica",
+   "competente": [
+    "VII-1.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce înseamnă „Terra Australis”?",
+   "date": {
+    "variante": [
+     "Pământul de Sud",
+     "Pământul de Est",
+     "Insula Mare",
+     "Țara Caldă"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Așa se numea în hărțile vechi un continent sudic imaginat."
+   }
+  },
+  {
+   "id": "VII30a-24",
+   "nivel": "VII-S30-australia-oceania-caracterizare-geografica",
+   "competente": [
+    "VII-4.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 3,
+   "enunt": "Compară Australia cu Groenlanda.",
+   "date": {
+    "variante": [
+     "Australia e considerată continent; Groenlanda e insulă, deși ambele sunt mari mase de uscat înconjurate de apă",
+     "Groenlanda e continent",
+     "Australia e insulă",
+     "sunt identice"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Australia e mult mai mare."
+   }
+  },
+  {
+   "id": "VII30a-25",
+   "nivel": "VII-S30-australia-oceania-caracterizare-geografica",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce strâmtoare desparte Australia de Noua Guinee?",
+   "date": {
+    "variante": [
+     "Strâmtoarea Torres",
+     "Strâmtoarea Bass",
+     "Strâmtoarea Bering",
+     "Strâmtoarea Drake"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Strâmtoarea Bass desparte Australia de Tasmania."
+   }
+  },
+  {
+   "id": "VII30a-26",
+   "nivel": "VII-S30-australia-oceania-caracterizare-geografica",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce strâmtoare desparte Australia de Tasmania?",
+   "date": {
+    "variante": [
+     "Strâmtoarea Bass",
+     "Strâmtoarea Torres",
+     "Strâmtoarea Malacca",
+     "Strâmtoarea Gibraltar"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Bass e la sud de Melbourne."
+   }
+  },
+  {
+   "id": "VII30a-27",
+   "nivel": "VII-S30-australia-oceania-caracterizare-geografica",
+   "competente": [
+    "VII-1.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Cine a cartografiat coasta de est a Australiei, în 1770?",
+   "date": {
+    "variante": [
+     "James Cook",
+     "Cristofor Columb",
+     "Vasco da Gama",
+     "Amundsen"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Cook a revendicat-o pentru Marea Britanie."
+   }
+  },
+  {
+   "id": "VII30a-28",
+   "nivel": "VII-S30-australia-oceania-caracterizare-geografica",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce linie importantă trece prin Pacific, unde se schimbă data calendaristică?",
+   "date": {
+    "variante": [
+     "linia de schimbare a datei (aproape de meridianul de 180°)",
+     "Ecuatorul",
+     "meridianul de 0°",
+     "Tropicul Racului"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Când treci linia, sari o zi sau o repeți."
+   }
+  },
+  {
+   "id": "VII30a-29",
+   "nivel": "VII-S30-australia-oceania-caracterizare-geografica",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce stat insular din Melanezia e cunoscut pentru rugby și plaje?",
+   "date": {
+    "variante": [
+     "Fiji",
+     "Hawaii",
+     "Tasmania",
+     "Japonia"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Fiji are peste 300 de insule."
+   }
+  },
+  {
+   "id": "VII30a-30",
+   "nivel": "VII-S30-australia-oceania-caracterizare-geografica",
+   "competente": [
+    "VII-2.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 3,
+   "enunt": "De ce Polinezia se întinde pe o suprafață oceanică uriașă, dar are puțin uscat?",
+   "date": {
+    "variante": [
+     "e formată din insule mici, foarte îndepărtate între ele",
+     "e un continent",
+     "e un deșert",
+     "e acoperită de gheață"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Triunghiul Polinezian: Hawaii – Noua Zeelandă – Insula Paștelui."
+   }
+  },
+  {
+   "id": "VII30b-01",
+   "nivel": "VII-S30-australia-caracterizare-geografica-generala",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 1,
+   "enunt": "Care e cel mai înalt vârf al Australiei?",
+   "date": {
+    "variante": [
+     "Kosciuszko (2 228 m)",
+     "Uluru",
+     "Everest",
+     "Mauna Kea"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Kosciuszko e în Alpii Australieni."
+   },
+   "surse": [
+    "Geoscience Australia – Highest Mountains (Mount Kosciuszko 2 228 m)",
+    "Encyclopaedia Britannica – Mount Kosciuszko"
+   ]
+  },
+  {
+   "id": "VII30b-02",
+   "nivel": "VII-S30-australia-caracterizare-geografica-generala",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Care e cel mai jos punct al Australiei?",
+   "date": {
+    "variante": [
+     "Lacul Eyre (Kati Thanda), la aproximativ 15 m sub nivelul mării",
+     "Marea Moartă",
+     "Valea Morții",
+     "Uluru"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Lacul Eyre se umple cu apă doar rar."
+   },
+   "surse": [
+    "Geoscience Australia – Landforms: Lake Eyre (Kati Thanda), −15 m",
+    "Encyclopaedia Britannica – Lake Eyre"
+   ]
+  },
+  {
+   "id": "VII30b-03",
+   "nivel": "VII-S30-australia-caracterizare-geografica-generala",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce este Uluru?",
+   "date": {
+    "variante": [
+     "un monolit uriaș de gresie, loc sfânt pentru aborigeni",
+     "un vulcan activ",
+     "un lac",
+     "un oraș"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Uluru e în centrul Australiei."
+   },
+   "surse": [
+    "UNESCO World Heritage Centre – Uluṟu-Kata Tjuṯa National Park",
+    "Parks Australia – Uluṟu-Kata Tjuṯa"
+   ]
+  },
+  {
+   "id": "VII30b-04",
+   "nivel": "VII-S30-australia-caracterizare-geografica-generala",
+   "competente": [
+    "VII-2.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "De ce Australia e cel mai uscat continent locuit?",
+   "date": {
+    "variante": [
+     "o mare parte se află în zona tropicală de presiune ridicată, unde aerul coboară și e uscat",
+     "pentru că e la pol",
+     "pentru că plouă tot anul",
+     "pentru că are ghețari"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Aproape o treime e deșert."
+   }
+  },
+  {
+   "id": "VII30b-05",
+   "nivel": "VII-S30-australia-caracterizare-geografica-generala",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce râuri formează cel mai mare sistem hidrografic al Australiei?",
+   "date": {
+    "variante": [
+     "Murray și Darling",
+     "Nil și Congo",
+     "Amazon și Orinoco",
+     "Gange și Indus"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Bazinul Murray–Darling e o zonă agricolă importantă."
+   }
+  },
+  {
+   "id": "VII30b-06",
+   "nivel": "VII-S30-australia-caracterizare-geografica-generala",
+   "competente": [
+    "VII-2.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce este Marele Bazin Artezian?",
+   "date": {
+    "variante": [
+     "o uriașă rezervă de apă subterană folosită în ferme",
+     "un deșert",
+     "un lac sărat",
+     "un munte"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Apa iese singură la suprafață prin foraje."
+   }
+  },
+  {
+   "id": "VII30b-07",
+   "nivel": "VII-S30-australia-caracterizare-geografica-generala",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Care e capitala Australiei?",
+   "date": {
+    "variante": [
+     "Canberra",
+     "Sydney",
+     "Melbourne",
+     "Perth"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Canberra a fost construită ca un compromis între Sydney și Melbourne."
+   }
+  },
+  {
+   "id": "VII30b-08",
+   "nivel": "VII-S30-australia-caracterizare-geografica-generala",
+   "competente": [
+    "VII-3.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Câți locuitori are Australia, aproximativ?",
+   "date": {
+    "variante": [
+     "27 de milioane",
+     "2,7 milioane",
+     "270 de milioane",
+     "2,7 miliarde"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "După Biroul Australian de Statistică."
+   },
+   "surse": [
+    "Australian Bureau of Statistics (ABS) – National, state and territory population",
+    "ONU (UN DESA) – World Population Prospects 2024"
+   ]
+  },
+  {
+   "id": "VII30b-09",
+   "nivel": "VII-S30-australia-caracterizare-geografica-generala",
+   "competente": [
+    "VII-2.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Unde trăiesc cei mai mulți australieni?",
+   "date": {
+    "variante": [
+     "pe țărmurile de est și sud-est",
+     "în deșertul central",
+     "în nordul tropical",
+     "pe Uluru"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Acolo clima e mai blândă și există apă."
+   }
+  },
+  {
+   "id": "VII30b-10",
+   "nivel": "VII-S30-australia-caracterizare-geografica-generala",
+   "competente": [
+    "VII-3.3"
+   ],
+   "tip": "asociaza",
+   "dificultate": 2,
+   "enunt": "Asociază orașul cu poziția lui.",
+   "date": {
+    "perechi": [
+     [
+      "Sydney",
+      "sud-est, pe Pacific"
+     ],
+     [
+      "Perth",
+      "sud-vest, pe Oceanul Indian"
+     ],
+     [
+      "Darwin",
+      "nord, în zona tropicală"
+     ],
+     [
+      "Canberra",
+      "sud-est, capitala"
+     ]
+    ]
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Orașele Australiei."
+   }
+  },
+  {
+   "id": "VII30b-11",
+   "nivel": "VII-S30-australia-caracterizare-geografica-generala",
+   "competente": [
+    "VII-3.2"
+   ],
+   "tip": "asociaza",
+   "dificultate": 2,
+   "enunt": "Asociază climatul cu regiunea Australiei.",
+   "date": {
+    "perechi": [
+     [
+      "tropical",
+      "nord"
+     ],
+     [
+      "deșertic",
+      "centru și vest"
+     ],
+     [
+      "mediteranean",
+      "sud-vest"
+     ],
+     [
+      "temperat",
+      "sud-est și Tasmania"
+     ]
+    ]
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Climatele Australiei."
+   }
+  },
+  {
+   "id": "VII30b-12",
+   "nivel": "VII-S30-australia-caracterizare-geografica-generala",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "pin",
+   "dificultate": 2,
+   "enunt": "Atinge pe hartă Uluru.",
+   "date": {
+    "harta": "lume",
+    "tinta": {
+     "lat": -25.34,
+     "lon": 131.04,
+     "nume": "Uluru"
+    },
+    "toleranta": 400
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Uluru e în centrul Australiei."
+   },
+   "surse": [
+    "UNESCO World Heritage Centre – Uluṟu-Kata Tjuṯa National Park",
+    "Parks Australia – Uluṟu-Kata Tjuṯa"
+   ]
+  },
+  {
+   "id": "VII30b-13",
+   "nivel": "VII-S30-australia-caracterizare-geografica-generala",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "pin",
+   "dificultate": 2,
+   "enunt": "Atinge pe hartă Sydney.",
+   "date": {
+    "harta": "lume",
+    "tinta": {
+     "lat": -33.87,
+     "lon": 151.21,
+     "nume": "Sydney"
+    },
+    "toleranta": 300
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Sydney e cel mai mare oraș al Australiei."
+   }
+  },
+  {
+   "id": "VII30b-14",
+   "nivel": "VII-S30-australia-caracterizare-geografica-generala",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "pin",
+   "dificultate": 3,
+   "enunt": "Atinge pe hartă Perth.",
+   "date": {
+    "harta": "lume",
+    "tinta": {
+     "lat": -31.95,
+     "lon": 115.86,
+     "nume": "Perth"
+    },
+    "toleranta": 300
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Perth e pe coasta de vest."
+   }
+  },
+  {
+   "id": "VII30b-15",
+   "nivel": "VII-S30-australia-caracterizare-geografica-generala",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "pin",
+   "dificultate": 3,
+   "enunt": "Atinge pe hartă Lacul Eyre.",
+   "date": {
+    "harta": "lume",
+    "tinta": {
+     "lat": -28.4,
+     "lon": 137.3,
+     "nume": "Lacul Eyre"
+    },
+    "toleranta": 400
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Lacul Eyre e în Australia de Sud."
+   },
+   "surse": [
+    "Geoscience Australia – Landforms: Lake Eyre (Kati Thanda), −15 m",
+    "Encyclopaedia Britannica – Lake Eyre"
+   ]
+  },
+  {
+   "id": "VII30b-16",
+   "nivel": "VII-S30-australia-caracterizare-geografica-generala",
+   "competente": [
+    "VII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Cine sunt aborigenii?",
+   "date": {
+    "variante": [
+     "primii locuitori ai Australiei, prezenți de zeci de mii de ani",
+     "coloniști englezi",
+     "turiști",
+     "imigranți recenți din Asia"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Au una dintre cele mai vechi culturi continue din lume."
+   }
+  },
+  {
+   "id": "VII30b-17",
+   "nivel": "VII-S30-australia-caracterizare-geografica-generala",
+   "competente": [
+    "VII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce animal crescut în Australia dă lână?",
+   "date": {
+    "variante": [
+     "oaia (rasa merinos)",
+     "cangurul",
+     "koala",
+     "emu"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Australia e un mare producător de lână."
+   }
+  },
+  {
+   "id": "VII30b-18",
+   "nivel": "VII-S30-australia-caracterizare-geografica-generala",
+   "competente": [
+    "VII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce minereuri exportă mult Australia?",
+   "date": {
+    "variante": [
+     "fier, cărbune, aur, bauxită, litiu",
+     "cafea",
+     "cacao",
+     "banane"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Mineritul e foarte important."
+   }
+  },
+  {
+   "id": "VII30b-19",
+   "nivel": "VII-S30-australia-caracterizare-geografica-generala",
+   "competente": [
+    "VII-2.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Adevărat sau fals? Australia e un continent foarte muntos și înalt.",
+   "date": {
+    "variante": [
+     "Fals",
+     "Adevărat"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Fals: e cel mai jos și mai plat continent locuit."
+   }
+  },
+  {
+   "id": "VII30b-20",
+   "nivel": "VII-S30-australia-caracterizare-geografica-generala",
+   "competente": [
+    "VII-2.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Adevărat sau fals? Multe râuri din Australia seacă în perioadele uscate.",
+   "date": {
+    "variante": [
+     "Adevărat",
+     "Fals"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Adevărat: se numesc creek-uri."
+   }
+  },
+  {
+   "id": "VII30b-21",
+   "nivel": "VII-S30-australia-caracterizare-geografica-generala",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "lacunar",
+   "dificultate": 2,
+   "enunt": "Completează.",
+   "date": {
+    "text": "Capitala Australiei este {0}, iar cel mai mare oraș este {1}.",
+    "raspunsuri": [
+     "Canberra",
+     "Sydney"
+    ],
+    "distractori": [
+     "Perth",
+     "Darwin"
+    ]
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Canberra, Sydney."
+   }
+  },
+  {
+   "id": "VII30b-22",
+   "nivel": "VII-S30-australia-caracterizare-geografica-generala",
+   "competente": [
+    "VII-2.2"
+   ],
+   "tip": "lacunar",
+   "dificultate": 2,
+   "enunt": "Completează.",
+   "date": {
+    "text": "Lanțul muntos din estul Australiei se numește Marea Cumpănă a {0}; cel mai înalt vârf este {1}.",
+    "raspunsuri": [
+     "Apelor",
+     "Kosciuszko"
+    ],
+    "distractori": [
+     "Munților",
+     "Uluru"
+    ]
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Great Dividing Range."
+   }
+  },
+  {
+   "id": "VII30b-23",
+   "nivel": "VII-S30-australia-caracterizare-geografica-generala",
+   "competente": [
+    "VII-2.3",
+    "VII-4.1"
+   ],
+   "tip": "grafic",
+   "dificultate": 3,
+   "enunt": "Diagrama arată precipitațiile anuale în trei orașe australiene (valori aproximative). Unde plouă cel mai puțin?",
+   "date": {
+    "grafic": {
+     "tip": "bare",
+     "titlu": "Precipitații anuale (valori aproximative)",
+     "date": [
+      {
+       "eticheta": "Darwin (nord)",
+       "valoare": 1700
+      },
+      {
+       "eticheta": "Sydney (est)",
+       "valoare": 1200
+      },
+      {
+       "eticheta": "Alice Springs (centru)",
+       "valoare": 290
+      }
+     ],
+     "unitate": "l/m²",
+     "sursa": "Bureau of Meteorology (Australia) – climate statistics"
+    },
+    "variante": [
+     "la Alice Springs, în centru",
+     "la Darwin",
+     "la Sydney",
+     "egal"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Centrul e deșertic."
+   },
+   "surse": [
+    "Bureau of Meteorology (bom.gov.au) – Climate statistics for Australian locations",
+    "Encyclopaedia Britannica – Alice Springs"
+   ]
+  },
+  {
+   "id": "VII30b-24",
+   "nivel": "VII-S30-australia-caracterizare-geografica-generala",
+   "competente": [
+    "VII-4.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 3,
+   "enunt": "De ce în Australia oamenii trăiesc pe țărm, iar în Egipt pe valea unui fluviu?",
+   "date": {
+    "variante": [
+     "în ambele cazuri oamenii se adună unde găsesc apă și climă potrivită",
+     "în Australia e interzis în interior",
+     "Egiptul nu are țărm",
+     "fără motiv"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Apa decide răspândirea populației."
+   }
+  },
+  {
+   "id": "VII30b-25",
+   "nivel": "VII-S30-australia-caracterizare-geografica-generala",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "denumeste",
+   "dificultate": 2,
+   "enunt": "Ce oraș australian, al doilea ca mărime, e marcat pe hartă?",
+   "date": {
+    "harta": "lume",
+    "punct": {
+     "lat": -37.81,
+     "lon": 144.96
+    },
+    "variante": [
+     "Melbourne",
+     "Adelaide",
+     "Brisbane",
+     "Hobart"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Melbourne e în sud-est."
+   }
+  },
+  {
+   "id": "VII30b-26",
+   "nivel": "VII-S30-australia-caracterizare-geografica-generala",
+   "competente": [
+    "VII-4.4"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce fenomene extreme lovesc des Australia?",
+   "date": {
+    "variante": [
+     "seceta și incendiile de vegetație",
+     "avalanșele",
+     "viscolul polar",
+     "erupțiile vulcanice zilnice"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Incendiile din 2019–2020 au fost devastatoare."
+   }
+  },
+  {
+   "id": "VII30b-27",
+   "nivel": "VII-S30-australia-caracterizare-geografica-generala",
+   "competente": [
+    "VII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce clădire din Sydney e în patrimoniul UNESCO?",
+   "date": {
+    "variante": [
+     "Opera din Sydney",
+     "Turnul Eiffel",
+     "Colosseumul",
+     "Big Ben"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Opera are acoperișul în formă de pânze."
+   }
+  },
+  {
+   "id": "VII30b-28",
+   "nivel": "VII-S30-australia-caracterizare-geografica-generala",
+   "competente": [
+    "VII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce limbă oficială are Australia?",
+   "date": {
+    "variante": [
+     "engleza",
+     "franceza",
+     "spaniola",
+     "germana"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Australia a fost colonie britanică."
+   }
+  },
+  {
+   "id": "VII30b-29",
+   "nivel": "VII-S30-australia-caracterizare-geografica-generala",
+   "competente": [
+    "VII-3.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 3,
+   "enunt": "De ce Australia e importantă pentru mașinile electrice?",
+   "date": {
+    "variante": [
+     "e unul dintre cei mai mari producători de litiu, folosit în baterii",
+     "produce benzină",
+     "are cele mai multe fabrici de mașini",
+     "nu are importanță"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Litiul e un metal-cheie al tranziției energetice."
+   }
+  },
+  {
+   "id": "VII30b-30",
+   "nivel": "VII-S30-australia-caracterizare-geografica-generala",
+   "competente": [
+    "VII-2.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce înseamnă „outback”?",
+   "date": {
+    "variante": [
+     "interiorul vast, uscat și slab populat al Australiei",
+     "un cartier din Sydney",
+     "o plajă",
+     "un munte"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Outback-ul acoperă cea mai mare parte a continentului."
+   }
+  },
+  {
+   "id": "VII31a-01",
+   "nivel": "VII-S31-oceania-particularitati-geografice",
+   "competente": [
+    "VII-1.1"
+   ],
+   "tip": "asociaza",
+   "dificultate": 1,
+   "enunt": "Asociază tipul de insulă cu exemplul.",
+   "date": {
+    "perechi": [
+     [
+      "continentală",
+      "Noua Guinee"
+     ],
+     [
+      "vulcanică",
+      "Hawaii"
+     ],
+     [
+      "coralieră (atol)",
+      "Tuvalu"
+     ],
+     [
+      "continentală, cu fiorduri",
+      "Noua Zeelandă"
+     ]
+    ]
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Tipuri de insule."
+   }
+  },
+  {
+   "id": "VII31a-02",
+   "nivel": "VII-S31-oceania-particularitati-geografice",
+   "competente": [
+    "VII-1.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 1,
+   "enunt": "Ce este un atol?",
+   "date": {
+    "variante": [
+     "un inel de recif de corali în jurul unei lagune",
+     "un vulcan activ",
+     "un ghețar",
+     "un fluviu"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Atolii sunt foarte joși."
+   }
+  },
+  {
+   "id": "VII31a-03",
+   "nivel": "VII-S31-oceania-particularitati-geografice",
+   "competente": [
+    "VII-1.2",
+    "VII-3.1",
+    "VII-4.2"
+   ],
+   "tip": "ordoneaza",
+   "dificultate": 3,
+   "enunt": "Ordonează cum se formează un atol.",
+   "date": {
+    "elemente": [
+     "un vulcan iese din ocean și formează o insulă",
+     "coralii cresc pe țărmul insulei",
+     "vulcanul se scufundă încet",
+     "recifele cresc în sus",
+     "rămâne un inel de corali în jurul unei lagune"
+    ],
+    "criteriu": "Formarea atolului"
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Explicația lui Charles Darwin."
+   }
+  },
+  {
+   "id": "VII31a-04",
+   "nivel": "VII-S31-oceania-particularitati-geografice",
+   "competente": [
+    "VII-1.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 1,
+   "enunt": "Cine construiește recifele de corali?",
+   "date": {
+    "variante": [
+     "polipii de corali, animale mici cu schelet de calcar",
+     "peștii",
+     "vulcanii",
+     "oamenii"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Recifele cresc foarte încet."
+   }
+  },
+  {
+   "id": "VII31a-05",
+   "nivel": "VII-S31-oceania-particularitati-geografice",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Cine au fost primii locuitori ai Noii Zeelande?",
+   "date": {
+    "variante": [
+     "maorii",
+     "aborigenii",
+     "inuiții",
+     "incașii"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Maorii au sosit cu canoe, din Polinezia."
+   }
+  },
+  {
+   "id": "VII31a-06",
+   "nivel": "VII-S31-oceania-particularitati-geografice",
+   "competente": [
+    "VII-2.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce fenomene geotermale sunt frecvente în Noua Zeelandă?",
+   "date": {
+    "variante": [
+     "gheizere și izvoare termale",
+     "tornade",
+     "taifunuri",
+     "furtuni de nisip"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Rotorua e cunoscută pentru gheizere."
+   }
+  },
+  {
+   "id": "VII31a-07",
+   "nivel": "VII-S31-oceania-particularitati-geografice",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Care e cel mai înalt vârf al Noii Zeelande?",
+   "date": {
+    "variante": [
+     "Aoraki/Mount Cook",
+     "Mauna Kea",
+     "Kosciuszko",
+     "Uluru"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Aoraki e în Alpii Sudici."
+   }
+  },
+  {
+   "id": "VII31a-08",
+   "nivel": "VII-S31-oceania-particularitati-geografice",
+   "competente": [
+    "VII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce țară are peste 800 de limbi?",
+   "date": {
+    "variante": [
+     "Papua Noua Guinee",
+     "Noua Zeelandă",
+     "Australia",
+     "Fiji"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Una dintre cele mai mari diversități lingvistice din lume."
+   }
+  },
+  {
+   "id": "VII31a-09",
+   "nivel": "VII-S31-oceania-particularitati-geografice",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce vulcan din Hawaii depășește 10 000 m măsurat de la baza de pe fundul oceanului?",
+   "date": {
+    "variante": [
+     "Mauna Kea",
+     "Fuji",
+     "Etna",
+     "Kilimanjaro"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Are 4 207 m deasupra mării."
+   },
+   "surse": [
+    "U.S. Geological Survey – Mauna Kea",
+    "Encyclopaedia Britannica – Mauna Kea"
+   ]
+  },
+  {
+   "id": "VII31a-10",
+   "nivel": "VII-S31-oceania-particularitati-geografice",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "pin",
+   "dificultate": 2,
+   "enunt": "Atinge pe hartă Papua Noua Guinee.",
+   "date": {
+    "harta": "lume",
+    "tinta": {
+     "lat": -6.5,
+     "lon": 145,
+     "nume": "Papua Noua Guinee"
+    },
+    "toleranta": 500
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Ocupă estul insulei Noua Guinee."
+   }
+  },
+  {
+   "id": "VII31a-11",
+   "nivel": "VII-S31-oceania-particularitati-geografice",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "pin",
+   "dificultate": 2,
+   "enunt": "Atinge pe hartă Tahiti.",
+   "date": {
+    "harta": "lume",
+    "tinta": {
+     "lat": -17.65,
+     "lon": -149.4,
+     "nume": "Tahiti"
+    },
+    "toleranta": 500
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Tahiti e în Polinezia Franceză."
+   }
+  },
+  {
+   "id": "VII31a-12",
+   "nivel": "VII-S31-oceania-particularitati-geografice",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "pin",
+   "dificultate": 3,
+   "enunt": "Atinge pe hartă Tuvalu, un stat format din atoli.",
+   "date": {
+    "harta": "lume",
+    "tinta": {
+     "lat": -8.5,
+     "lon": 179.2,
+     "nume": "Tuvalu"
+    },
+    "toleranta": 600
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Tuvalu e în Pacificul central."
+   }
+  },
+  {
+   "id": "VII31a-13",
+   "nivel": "VII-S31-oceania-particularitati-geografice",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "pin",
+   "dificultate": 3,
+   "enunt": "Atinge pe hartă Fiji.",
+   "date": {
+    "harta": "lume",
+    "tinta": {
+     "lat": -17.8,
+     "lon": 178,
+     "nume": "Fiji"
+    },
+    "toleranta": 500
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Fiji e în Melanezia."
+   }
+  },
+  {
+   "id": "VII31a-14",
+   "nivel": "VII-S31-oceania-particularitati-geografice",
+   "competente": [
+    "VII-4.4"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "De ce statele formate din atoli sunt în pericol?",
+   "date": {
+    "variante": [
+     "sunt foarte joase, iar nivelul mării crește",
+     "sunt prea înalte",
+     "au prea mulți vulcani",
+     "sunt acoperite de gheață"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Tuvalu, Kiribati, Maldive sunt amenințate."
+   }
+  },
+  {
+   "id": "VII31a-15",
+   "nivel": "VII-S31-oceania-particularitati-geografice",
+   "competente": [
+    "VII-1.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Adevărat sau fals? Atolii sunt insule foarte înalte, cu munți.",
+   "date": {
+    "variante": [
+     "Fals",
+     "Adevărat"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Fals: sunt foarte joși, de câțiva metri."
+   }
+  },
+  {
+   "id": "VII31a-16",
+   "nivel": "VII-S31-oceania-particularitati-geografice",
+   "competente": [
+    "VII-2.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Adevărat sau fals? Noua Zeelandă are și vulcani, și ghețari, și fiorduri.",
+   "date": {
+    "variante": [
+     "Adevărat",
+     "Fals"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Adevărat: relief foarte variat."
+   }
+  },
+  {
+   "id": "VII31a-17",
+   "nivel": "VII-S31-oceania-particularitati-geografice",
+   "competente": [
+    "VII-1.1"
+   ],
+   "tip": "lacunar",
+   "dificultate": 2,
+   "enunt": "Completează.",
+   "date": {
+    "text": "Inelul de corali din jurul unei lagune se numește {0}; insulele Hawaii sunt de origine {1}.",
+    "raspunsuri": [
+     "atol",
+     "vulcanică"
+    ],
+    "distractori": [
+     "fiord",
+     "glaciară"
+    ]
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Atol, vulcanică."
+   }
+  },
+  {
+   "id": "VII31a-18",
+   "nivel": "VII-S31-oceania-particularitati-geografice",
+   "competente": [
+    "VII-3.3"
+   ],
+   "tip": "lacunar",
+   "dificultate": 2,
+   "enunt": "Completează.",
+   "date": {
+    "text": "Primii locuitori ai Noii Zeelande sunt {0}; capitala Noii Zeelande este {1}.",
+    "raspunsuri": [
+     "maorii",
+     "Wellington"
+    ],
+    "distractori": [
+     "aborigenii",
+     "Auckland"
+    ]
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Maori, Wellington."
+   }
+  },
+  {
+   "id": "VII31a-19",
+   "nivel": "VII-S31-oceania-particularitati-geografice",
+   "competente": [
+    "VII-2.3",
+    "VII-4.1"
+   ],
+   "tip": "grafic",
+   "dificultate": 3,
+   "enunt": "Graficul arată altitudinea maximă a trei state insulare imaginare. Care e cel mai amenințat de creșterea nivelului mării?",
+   "date": {
+    "grafic": {
+     "tip": "bare",
+     "titlu": "Altitudinea maximă (state imaginare)",
+     "date": [
+      {
+       "eticheta": "insula A",
+       "valoare": 4
+      },
+      {
+       "eticheta": "insula B",
+       "valoare": 1200
+      },
+      {
+       "eticheta": "insula C",
+       "valoare": 2500
+      }
+     ],
+     "unitate": "m"
+    },
+    "variante": [
+     "insula A",
+     "insula B",
+     "insula C",
+     "niciuna"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Doar 4 m deasupra mării."
+   }
+  },
+  {
+   "id": "VII31a-20",
+   "nivel": "VII-S31-oceania-particularitati-geografice",
+   "competente": [
+    "VII-4.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 3,
+   "enunt": "Compară Hawaii cu Tuvalu.",
+   "date": {
+    "variante": [
+     "Hawaii sunt insule vulcanice înalte; Tuvalu e format din atoli foarte joși",
+     "sunt identice",
+     "Tuvalu e mai înalt",
+     "Hawaii sunt atoli"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Origini diferite."
+   }
+  },
+  {
+   "id": "VII31a-21",
+   "nivel": "VII-S31-oceania-particularitati-geografice",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "denumeste",
+   "dificultate": 2,
+   "enunt": "Ce stat insular, cu două insule mari, e marcat pe hartă?",
+   "date": {
+    "harta": "lume",
+    "punct": {
+     "lat": -41,
+     "lon": 174
+    },
+    "variante": [
+     "Noua Zeelandă",
+     "Tasmania",
+     "Fiji",
+     "Samoa"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Insula de Nord și Insula de Sud."
+   }
+  },
+  {
+   "id": "VII31a-22",
+   "nivel": "VII-S31-oceania-particularitati-geografice",
+   "competente": [
+    "VII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce statui uriașe de piatră se află pe Insula Paștelui?",
+   "date": {
+    "variante": [
+     "statuile moai",
+     "piramidele",
+     "sfinxul",
+     "Statuia Libertății"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Au fost sculptate de populația rapa nui."
+   }
+  },
+  {
+   "id": "VII31a-23",
+   "nivel": "VII-S31-oceania-particularitati-geografice",
+   "competente": [
+    "VII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce înseamnă „haka”?",
+   "date": {
+    "variante": [
+     "un dans ritual maori, cunoscut din rugby",
+     "o insulă",
+     "un vulcan",
+     "o pasăre"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Echipa All Blacks îl execută înainte de meciuri."
+   }
+  },
+  {
+   "id": "VII31a-24",
+   "nivel": "VII-S31-oceania-particularitati-geografice",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce oraș e cel mai mare din Noua Zeelandă?",
+   "date": {
+    "variante": [
+     "Auckland",
+     "Wellington",
+     "Sydney",
+     "Suva"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Capitala e Wellington."
+   }
+  },
+  {
+   "id": "VII31a-25",
+   "nivel": "VII-S31-oceania-particularitati-geografice",
+   "competente": [
+    "VII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce resursă e importantă pentru economia multor insule din Pacific?",
+   "date": {
+    "variante": [
+     "pescuitul și turismul",
+     "mineritul de cărbune",
+     "industria oțelului",
+     "petrolul din abundență"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Plajele și recifele atrag turiști."
+   }
+  },
+  {
+   "id": "VII31a-26",
+   "nivel": "VII-S31-oceania-particularitati-geografice",
+   "competente": [
+    "VII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce animal crescut în Noua Zeelandă e foarte numeros?",
+   "date": {
+    "variante": [
+     "oaia",
+     "cămila",
+     "bizonul",
+     "lama"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Noua Zeelandă exportă lână și carne de miel."
+   }
+  },
+  {
+   "id": "VII31a-27",
+   "nivel": "VII-S31-oceania-particularitati-geografice",
+   "competente": [
+    "VII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce pasăre fără zbor e simbolul Noii Zeelande?",
+   "date": {
+    "variante": [
+     "kiwi",
+     "emu",
+     "struțul",
+     "pinguinul imperial"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Neozeelandezii sunt numiți și „kiwi”."
+   }
+  },
+  {
+   "id": "VII31a-28",
+   "nivel": "VII-S31-oceania-particularitati-geografice",
+   "competente": [
+    "VII-2.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 3,
+   "enunt": "De ce în Noua Zeelandă se produc cutremure?",
+   "date": {
+    "variante": [
+     "se află la granița dintre placa australiană și placa pacifică",
+     "e pe un atol",
+     "e în mijlocul unei plăci stabile",
+     "e la pol"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Ca Japonia, e în Cercul de Foc."
+   }
+  },
+  {
+   "id": "VII31a-29",
+   "nivel": "VII-S31-oceania-particularitati-geografice",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Din ce stat face parte Hawaii?",
+   "date": {
+    "variante": [
+     "SUA",
+     "Australia",
+     "Japonia",
+     "Noua Zeelandă"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Hawaii e al 50-lea stat al SUA, din 1959."
+   }
+  },
+  {
+   "id": "VII31a-30",
+   "nivel": "VII-S31-oceania-particularitati-geografice",
+   "competente": [
+    "VII-4.4"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce poate face lumea pentru statele insulare amenințate?",
+   "date": {
+    "variante": [
+     "reducerea emisiilor de gaze cu efect de seră și ajutor pentru adaptare",
+     "nimic",
+     "creșterea poluării",
+     "mutarea oceanului"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Încetinirea încălzirii climei e esențială."
+   }
+  },
+  {
+   "id": "VII31b-01",
+   "nivel": "VII-S31-antarctica-elemente-identitate-geografica",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 1,
+   "enunt": "Ce continent se află în jurul Polului Sud?",
+   "date": {
+    "variante": [
+     "Antarctica",
+     "Australia",
+     "America de Sud",
+     "Africa"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Antarctica e continentul de gheață."
+   }
+  },
+  {
+   "id": "VII31b-02",
+   "nivel": "VII-S31-antarctica-elemente-identitate-geografica",
+   "competente": [
+    "VII-3.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce parte din gheața Pământului se află în Antarctica?",
+   "date": {
+    "variante": [
+     "aproximativ 90 %",
+     "aproximativ 10 %",
+     "aproximativ 50 %",
+     "toată"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Calota antarctică e cea mai mare masă de gheață."
+   },
+   "surse": [
+    "British Antarctic Survey – Antarctica fact file",
+    "National Snow and Ice Data Center (NSIDC) – Quick facts on ice sheets"
+   ]
+  },
+  {
+   "id": "VII31b-03",
+   "nivel": "VII-S31-antarctica-elemente-identitate-geografica",
+   "competente": [
+    "VII-3.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce grosime medie are calota de gheață a Antarcticii?",
+   "date": {
+    "variante": [
+     "aproape 2 km",
+     "2 m",
+     "20 m",
+     "20 km"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "În unele locuri depășește 4 km."
+   },
+   "surse": [
+    "British Antarctic Survey – Antarctica fact file",
+    "National Snow and Ice Data Center (NSIDC) – Quick facts on ice sheets"
+   ]
+  },
+  {
+   "id": "VII31b-04",
+   "nivel": "VII-S31-antarctica-elemente-identitate-geografica",
+   "competente": [
+    "VII-4.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Unde s-a măsurat cea mai scăzută temperatură de pe Pământ?",
+   "date": {
+    "variante": [
+     "la stația Vostok, în Antarctica (−89,2 °C)",
+     "la Oimiakon (−67 °C)",
+     "la Polul Nord",
+     "pe Everest"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Pe 21 iulie 1983."
+   },
+   "surse": [
+    "WMO – World Weather and Climate Extremes Archive",
+    "NOAA NCEI – Global extremes"
+   ]
+  },
+  {
+   "id": "VII31b-05",
+   "nivel": "VII-S31-antarctica-elemente-identitate-geografica",
+   "competente": [
+    "VII-1.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "De ce Antarctica e considerată cel mai mare deșert?",
+   "date": {
+    "variante": [
+     "pentru că interiorul primește foarte puține precipitații",
+     "pentru că e plină de nisip",
+     "pentru că e foarte caldă",
+     "pentru că nu are gheață"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Deșert înseamnă puține precipitații, nu neapărat căldură."
+   }
+  },
+  {
+   "id": "VII31b-06",
+   "nivel": "VII-S31-antarctica-elemente-identitate-geografica",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Care e cel mai înalt vârf din Antarctica?",
+   "date": {
+    "variante": [
+     "Masivul Vinson (4 892 m)",
+     "Erebus",
+     "Everest",
+     "Aconcagua"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Vinson e în Munții Ellsworth."
+   },
+   "surse": [
+    "Encyclopaedia Britannica – Vinson Massif",
+    "Wikipedia – Vinson Massif"
+   ]
+  },
+  {
+   "id": "VII31b-07",
+   "nivel": "VII-S31-antarctica-elemente-identitate-geografica",
+   "competente": [
+    "VII-3.4"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce prevede Tratatul Antarctic?",
+   "date": {
+    "variante": [
+     "Antarctica e rezervată păcii și cercetării științifice",
+     "Antarctica aparține unei singure țări",
+     "e permisă exploatarea minieră liberă",
+     "e o bază militară"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Semnat în 1959."
+   },
+   "surse": [
+    "Secretariatul Tratatului Antarctic (ats.aq) – The Antarctic Treaty",
+    "Encyclopaedia Britannica – Antarctic Treaty"
+   ]
+  },
+  {
+   "id": "VII31b-08",
+   "nivel": "VII-S31-antarctica-elemente-identitate-geografica",
+   "competente": [
+    "VII-3.4"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce stație de cercetare are România în Antarctica?",
+   "date": {
+    "variante": [
+     "Law-Racoviță, în colaborare cu Australia",
+     "Vostok",
+     "McMurdo",
+     "Amundsen–Scott"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Poartă numele lui Emil Racoviță."
+   }
+  },
+  {
+   "id": "VII31b-09",
+   "nivel": "VII-S31-antarctica-elemente-identitate-geografica",
+   "competente": [
+    "VII-3.4"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "La ce expediție a participat Emil Racoviță?",
+   "date": {
+    "variante": [
+     "expediția belgiană „Belgica” (1897–1899)",
+     "expediția lui Amundsen",
+     "expediția lui Scott",
+     "Apollo 11"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Prima expediție care a iernat în Antarctica."
+   },
+   "surse": [
+    "Institutul de Speologie „Emil Racoviță” – biografie",
+    "Wikipedia – Belgian Antarctic Expedition"
+   ]
+  },
+  {
+   "id": "VII31b-10",
+   "nivel": "VII-S31-antarctica-elemente-identitate-geografica",
+   "competente": [
+    "VII-3.3"
+   ],
+   "tip": "asociaza",
+   "dificultate": 2,
+   "enunt": "Asociază viețuitoarea cu rolul ei.",
+   "date": {
+    "perechi": [
+     [
+      "krillul",
+      "hrana de bază pentru multe animale"
+     ],
+     [
+      "pinguinul imperial",
+      "pasăre care nu zboară, clocește pe gheață"
+     ],
+     [
+      "balena albastră",
+      "cel mai mare animal, se hrănește cu krill"
+     ],
+     [
+      "foca Weddell",
+      "mamifer care trăiește sub gheață"
+     ]
+    ]
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Viața din Antarctica."
+   }
+  },
+  {
+   "id": "VII31b-11",
+   "nivel": "VII-S31-antarctica-elemente-identitate-geografica",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce ocean înconjoară Antarctica?",
+   "date": {
+    "variante": [
+     "Oceanul de Sud (Antarctic)",
+     "Oceanul Arctic",
+     "Oceanul Indian de Nord",
+     "Marea Mediterană"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "E format din apele sudice ale celorlalte oceane."
+   }
+  },
+  {
+   "id": "VII31b-12",
+   "nivel": "VII-S31-antarctica-elemente-identitate-geografica",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "pin",
+   "dificultate": 2,
+   "enunt": "Atinge pe hartă Antarctica.",
+   "date": {
+    "harta": "lume",
+    "tinta": {
+     "lat": -80,
+     "lon": 30,
+     "nume": "Antarctica"
+    },
+    "toleranta": 1500
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Antarctica e în jurul Polului Sud."
+   }
+  },
+  {
+   "id": "VII31b-13",
+   "nivel": "VII-S31-antarctica-elemente-identitate-geografica",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "pin",
+   "dificultate": 3,
+   "enunt": "Atinge pe hartă Peninsula Antarctică, cea mai apropiată de America de Sud.",
+   "date": {
+    "harta": "lume",
+    "tinta": {
+     "lat": -68,
+     "lon": -64,
+     "nume": "Peninsula Antarctică"
+    },
+    "toleranta": 700
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Peninsula se îndreaptă spre Țara de Foc."
+   }
+  },
+  {
+   "id": "VII31b-14",
+   "nivel": "VII-S31-antarctica-elemente-identitate-geografica",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "pin",
+   "dificultate": 3,
+   "enunt": "Atinge pe hartă zona stației Vostok, unde s-a măsurat −89,2 °C.",
+   "date": {
+    "harta": "lume",
+    "tinta": {
+     "lat": -78.46,
+     "lon": 106.84,
+     "nume": "Vostok"
+    },
+    "toleranta": 700
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Vostok e în interiorul Antarcticii de Est."
+   },
+   "surse": [
+    "WMO – World Weather and Climate Extremes Archive",
+    "NOAA NCEI – Global extremes"
+   ]
+  },
+  {
+   "id": "VII31b-15",
+   "nivel": "VII-S31-antarctica-elemente-identitate-geografica",
+   "competente": [
+    "VII-1.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Cine a ajuns primul la Polul Sud?",
+   "date": {
+    "variante": [
+     "Roald Amundsen, în 1911",
+     "Robert Scott, în 1912",
+     "Emil Racoviță, în 1898",
+     "James Cook, în 1770"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Expediția lui Scott a ajuns la o lună după."
+   }
+  },
+  {
+   "id": "VII31b-16",
+   "nivel": "VII-S31-antarctica-elemente-identitate-geografica",
+   "competente": [
+    "VII-3.4"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Adevărat sau fals? Antarctica aparține unei singure țări.",
+   "date": {
+    "variante": [
+     "Fals",
+     "Adevărat"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Fals: Tratatul Antarctic suspendă revendicările teritoriale."
+   },
+   "surse": [
+    "Secretariatul Tratatului Antarctic (ats.aq) – The Antarctic Treaty",
+    "Encyclopaedia Britannica – Antarctic Treaty"
+   ]
+  },
+  {
+   "id": "VII31b-17",
+   "nivel": "VII-S31-antarctica-elemente-identitate-geografica",
+   "competente": [
+    "VII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Adevărat sau fals? În Antarctica trăiesc urși polari.",
+   "date": {
+    "variante": [
+     "Fals",
+     "Adevărat"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Fals: urșii polari trăiesc în Arctica; în Antarctica sunt pinguini."
+   }
+  },
+  {
+   "id": "VII31b-18",
+   "nivel": "VII-S31-antarctica-elemente-identitate-geografica",
+   "competente": [
+    "VII-1.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Adevărat sau fals? Antarctica are cea mai mare rezervă de apă dulce de pe Pământ, sub formă de gheață.",
+   "date": {
+    "variante": [
+     "Adevărat",
+     "Fals"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Adevărat: aproape 70 % din apa dulce."
+   },
+   "surse": [
+    "British Antarctic Survey – Antarctica fact file",
+    "National Snow and Ice Data Center (NSIDC) – Quick facts on ice sheets"
+   ]
+  },
+  {
+   "id": "VII31b-19",
+   "nivel": "VII-S31-antarctica-elemente-identitate-geografica",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "lacunar",
+   "dificultate": 2,
+   "enunt": "Completează.",
+   "date": {
+    "text": "Cea mai scăzută temperatură, −89,2 °C, s-a măsurat la stația {0}; cel mai înalt vârf al Antarcticii este Masivul {1}.",
+    "raspunsuri": [
+     "Vostok",
+     "Vinson"
+    ],
+    "distractori": [
+     "McMurdo",
+     "Erebus"
+    ]
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Vostok, Vinson."
+   },
+   "surse": [
+    "WMO – World Weather and Climate Extremes Archive",
+    "NOAA NCEI – Global extremes"
+   ]
+  },
+  {
+   "id": "VII31b-20",
+   "nivel": "VII-S31-antarctica-elemente-identitate-geografica",
+   "competente": [
+    "VII-3.4"
+   ],
+   "tip": "lacunar",
+   "dificultate": 2,
+   "enunt": "Completează.",
+   "date": {
+    "text": "Tratatul {0} a fost semnat în anul {1}.",
+    "raspunsuri": [
+     "Antarctic",
+     "1959"
+    ],
+    "distractori": [
+     "Arctic",
+     "1911"
+    ]
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Tratatul Antarctic, 1959."
+   },
+   "surse": [
+    "Secretariatul Tratatului Antarctic (ats.aq) – The Antarctic Treaty",
+    "Encyclopaedia Britannica – Antarctic Treaty"
+   ]
+  },
+  {
+   "id": "VII31b-21",
+   "nivel": "VII-S31-antarctica-elemente-identitate-geografica",
+   "competente": [
+    "VII-2.3",
+    "VII-4.1"
+   ],
+   "tip": "grafic",
+   "dificultate": 3,
+   "enunt": "Graficul compară temperaturile minime record în trei locuri. Cu câte grade e mai rece recordul de la Vostok decât cel din România (Bod)?",
+   "date": {
+    "grafic": {
+     "tip": "bare",
+     "titlu": "Temperaturi minime record",
+     "date": [
+      {
+       "eticheta": "Vostok (Antarctica)",
+       "valoare": -89.2
+      },
+      {
+       "eticheta": "Oimiakon/Verhoiansk (Siberia)",
+       "valoare": -67.8
+      },
+      {
+       "eticheta": "Bod (România)",
+       "valoare": -38.5
+      }
+     ],
+     "unitate": "°C",
+     "sursa": "WMO; ANM"
+    },
+    "variante": [
+     "cu 50,7 grade",
+     "cu 38,5 grade",
+     "cu 127,7 grade",
+     "cu 21,4 grade"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "−38,5 − (−89,2) = 50,7."
+   },
+   "surse": [
+    "WMO – World Weather and Climate Extremes Archive",
+    "NOAA NCEI – Global extremes"
+   ]
+  },
+  {
+   "id": "VII31b-22",
+   "nivel": "VII-S31-antarctica-elemente-identitate-geografica",
+   "competente": [
+    "VII-4.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 3,
+   "enunt": "Compară Antarctica cu Arctica.",
+   "date": {
+    "variante": [
+     "Antarctica e un continent acoperit de gheață; Arctica e un ocean înghețat înconjurat de continente",
+     "sunt amândouă continente",
+     "Arctica e un continent",
+     "sunt identice"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Diferență fundamentală."
+   }
+  },
+  {
+   "id": "VII31b-23",
+   "nivel": "VII-S31-antarctica-elemente-identitate-geografica",
+   "competente": [
+    "VII-4.4"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "De ce e important ca gheața Antarcticii să nu se topească?",
+   "date": {
+    "variante": [
+     "topirea ei ar crește mult nivelul oceanului planetar",
+     "ar face Pământul mai rece",
+     "ar crea noi deșerturi doar în Antarctica",
+     "nu ar avea niciun efect"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Calota conține o cantitate uriașă de apă."
+   }
+  },
+  {
+   "id": "VII31b-24",
+   "nivel": "VII-S31-antarctica-elemente-identitate-geografica",
+   "competente": [
+    "VII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce studiază cercetătorii în Antarctica?",
+   "date": {
+    "variante": [
+     "clima trecutului din gheață, viața în condiții extreme, stratul de ozon, meteoriții",
+     "doar pinguinii",
+     "nimic",
+     "turismul de masă"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Carotele de gheață arată clima de acum sute de mii de ani."
+   }
+  },
+  {
+   "id": "VII31b-25",
+   "nivel": "VII-S31-antarctica-elemente-identitate-geografica",
+   "competente": [
+    "VII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce s-a descoperit deasupra Antarcticii în anii '80?",
+   "date": {
+    "variante": [
+     "„gaura” din stratul de ozon",
+     "un nou continent",
+     "o pădure tropicală",
+     "un vulcan activ în Australia"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Protocolul de la Montreal (1987) a interzis multe dintre substanțele care o produceau."
+   }
+  },
+  {
+   "id": "VII31b-26",
+   "nivel": "VII-S31-antarctica-elemente-identitate-geografica",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce vulcan activ se află în Antarctica?",
+   "date": {
+    "variante": [
+     "Erebus",
+     "Etna",
+     "Fuji",
+     "Kilimanjaro"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Erebus are un lac de lavă."
+   }
+  },
+  {
+   "id": "VII31b-27",
+   "nivel": "VII-S31-antarctica-elemente-identitate-geografica",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "denumeste",
+   "dificultate": 2,
+   "enunt": "Ce peninsulă a Antarcticii, cu multe stații de cercetare, e marcată pe hartă?",
+   "date": {
+    "harta": "lume",
+    "punct": {
+     "lat": -68,
+     "lon": -64
+    },
+    "variante": [
+     "Peninsula Antarctică",
+     "Țara de Foc",
+     "Tasmania",
+     "Capul Horn"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "E cea mai „caldă” parte a Antarcticii."
+   }
+  },
+  {
+   "id": "VII31b-28",
+   "nivel": "VII-S31-antarctica-elemente-identitate-geografica",
+   "competente": [
+    "VII-4.4"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce reguli au turiștii care vizitează Antarctica?",
+   "date": {
+    "variante": [
+     "nu lasă deșeuri, nu ating animalele și păstrează distanța față de ele",
+     "pot vâna foci",
+     "pot lua ouă de pinguin",
+     "pot construi case"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Mediul antarctic e foarte fragil."
+   }
+  },
+  {
+   "id": "VII31b-29",
+   "nivel": "VII-S31-antarctica-elemente-identitate-geografica",
+   "competente": [
+    "VII-1.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 3,
+   "enunt": "De ce în Antarctica există zile și nopți polare?",
+   "date": {
+    "variante": [
+     "pentru că e dincolo de Cercul Polar de Sud, iar axa Pământului e înclinată",
+     "pentru că e lângă Ecuator",
+     "pentru că Luna o acoperă",
+     "fără motiv"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Vara Soarele nu apune, iarna nu răsare."
+   }
+  },
+  {
+   "id": "VII31b-30",
+   "nivel": "VII-S31-antarctica-elemente-identitate-geografica",
+   "competente": [
+    "VII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Cum se numesc blocurile de gheață plate desprinse din platformele de gheață antarctice?",
+   "date": {
+    "variante": [
+     "aisberguri tabulare",
+     "morene",
+     "dune",
+     "fiorduri"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Unele au sute de kilometri pătrați."
+   }
+  },
+  {
+   "id": "VII32-01",
+   "nivel": "VII-S32-studiu-caz-unicitatea-biogeografica",
+   "competente": [
+    "VII-4.1"
+   ],
+   "tip": "asociaza",
+   "dificultate": 1,
+   "enunt": "Asociază animalul cu ce îl face unic.",
+   "date": {
+    "perechi": [
+     [
+      "cangurul",
+      "marsupial: puiul crește în marsupiu"
+     ],
+     [
+      "ornitorincul",
+      "mamifer care depune ouă"
+     ],
+     [
+      "koala",
+      "se hrănește aproape doar cu frunze de eucalipt"
+     ],
+     [
+      "emu",
+      "pasăre mare care nu zboară"
+     ]
+    ]
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Fauna unică a Australiei."
+   }
+  },
+  {
+   "id": "VII32-02",
+   "nivel": "VII-S32-studiu-caz-unicitatea-biogeografica",
+   "competente": [
+    "VII-4.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce sunt marsupialele?",
+   "date": {
+    "variante": [
+     "mamifere ai căror pui cresc într-o pungă (marsupiu)",
+     "păsări care nu zboară",
+     "pești de recif",
+     "insecte"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Cangurul, koala, vombatul."
+   }
+  },
+  {
+   "id": "VII32-03",
+   "nivel": "VII-S32-studiu-caz-unicitatea-biogeografica",
+   "competente": [
+    "VII-4.4"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "De ce Australia are animale care nu există altundeva?",
+   "date": {
+    "variante": [
+     "s-a desprins de celelalte continente acum zeci de milioane de ani, iar speciile au evoluat izolat",
+     "pentru că e cea mai rece",
+     "pentru că a fost populată recent",
+     "pentru că animalele au fost aduse de oameni"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Izolarea geografică."
+   }
+  },
+  {
+   "id": "VII32-04",
+   "nivel": "VII-S32-studiu-caz-unicitatea-biogeografica",
+   "competente": [
+    "VII-4.4"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce problemă au produs iepurii aduși în Australia de europeni?",
+   "date": {
+    "variante": [
+     "s-au înmulțit enorm și au distrus vegetația",
+     "au dispărut imediat",
+     "au ajutat agricultura",
+     "au mâncat cangurii"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Speciile invazive dăunează celor locale."
+   }
+  },
+  {
+   "id": "VII32-05",
+   "nivel": "VII-S32-studiu-caz-unicitatea-biogeografica",
+   "competente": [
+    "VII-4.4"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce amenință Marea Barieră de Corali?",
+   "date": {
+    "variante": [
+     "încălzirea apei, care produce albirea coralilor",
+     "răcirea apei",
+     "prea mulți pești",
+     "zăpada"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Marea Barieră e în patrimoniul UNESCO."
+   },
+   "surse": [
+    "UNESCO World Heritage Centre – Great Barrier Reef",
+    "Great Barrier Reef Marine Park Authority (gbrmpa.gov.au)"
+   ]
+  }
+ ]
+}

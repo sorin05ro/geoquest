@@ -1,0 +1,478 @@
+{
+ "clasa": 7,
+ "unitate": "Teste: Busola de start, Boss-uri, Marea Expediție",
+ "niveluri": [
+  {
+   "id": "VII-T0",
+   "tip": "nivel",
+   "titlu": "Busola de start",
+   "descopera": {
+    "intrebare": "Ce îți amintești de anul trecut?"
+   },
+   "invata": [
+    {
+     "titlu": "Busola de start",
+     "text": "Câteva întrebări din ce ai învățat anul trecut. Nu primești notă: rezultatul alege cât de grele vor fi exercițiile tale la început."
+    }
+   ]
+  }
+ ],
+ "itemi": [
+  {
+   "id": "VIIT0-01",
+   "nivel": "VII-T0",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 1,
+   "enunt": "Care este capitala Franței?",
+   "date": {
+    "variante": [
+     "Paris",
+     "Lyon",
+     "Bruxelles",
+     "Roma"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Capitala Franței e Parisul."
+   }
+  },
+  {
+   "id": "VIIT0-02",
+   "nivel": "VII-T0",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "pin",
+   "dificultate": 2,
+   "enunt": "Atinge pe hartă Munții Alpi.",
+   "date": {
+    "harta": "lume",
+    "tinta": {
+     "lat": 46.5,
+     "lon": 10,
+     "nume": "Munții Alpi"
+    },
+    "toleranta": 600
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Alpii sunt în centrul Europei (Franța, Italia, Elveția, Austria)."
+   }
+  },
+  {
+   "id": "VIIT0-03",
+   "nivel": "VII-T0",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce fluviu trece prin mai multe capitale europene, printre care Viena, Budapesta și Belgrad?",
+   "date": {
+    "variante": [
+     "Dunărea",
+     "Rinul",
+     "Volga",
+     "Sena"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Dunărea trece prin Viena, Bratislava, Budapesta și Belgrad."
+   }
+  },
+  {
+   "id": "VIIT0-04",
+   "nivel": "VII-T0",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Care este cel mai lung fluviu din Europa?",
+   "date": {
+    "variante": [
+     "Volga",
+     "Dunărea",
+     "Rinul",
+     "Nistrul"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Volga, din Rusia, e cel mai lung fluviu european."
+   }
+  },
+  {
+   "id": "VIIT0-05",
+   "nivel": "VII-T0",
+   "competente": [
+    "VII-1.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 1,
+   "enunt": "Ce înseamnă UE?",
+   "date": {
+    "variante": [
+     "Uniunea Europeană",
+     "Unitatea Economică",
+     "Uniunea Estică",
+     "Universitatea Europeană"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "UE = Uniunea Europeană, din care face parte și România."
+   }
+  },
+  {
+   "id": "VIIT0-06",
+   "nivel": "VII-T0",
+   "competente": [
+    "VII-1.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce este densitatea populației?",
+   "date": {
+    "variante": [
+     "numărul de locuitori pe un kilometru pătrat",
+     "numărul de orașe dintr-o țară",
+     "numărul de copii dintr-o familie",
+     "înălțimea clădirilor"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Densitatea = locuitori / km²."
+   }
+  },
+  {
+   "id": "VIIT0-07",
+   "nivel": "VII-T0",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce peninsulă cuprinde Spania și Portugalia?",
+   "date": {
+    "variante": [
+     "Peninsula Iberică",
+     "Peninsula Italică",
+     "Peninsula Scandinavă",
+     "Peninsula Balcanică"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Spania și Portugalia sunt în Peninsula Iberică."
+   }
+  },
+  {
+   "id": "VIIT0-08",
+   "nivel": "VII-T0",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "pin",
+   "dificultate": 2,
+   "enunt": "Atinge pe hartă Peninsula Scandinavă.",
+   "date": {
+    "harta": "lume",
+    "tinta": {
+     "lat": 63,
+     "lon": 15,
+     "nume": "Peninsula Scandinavă"
+    },
+    "toleranta": 700
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Peninsula Scandinavă e în nordul Europei (Norvegia, Suedia)."
+   }
+  },
+  {
+   "id": "VIIT0-09",
+   "nivel": "VII-T0",
+   "competente": [
+    "VII-1.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce sunt resursele naturale regenerabile?",
+   "date": {
+    "variante": [
+     "resurse care se refac, ca energia Soarelui, vântul, apa",
+     "resurse care se termină, ca petrolul",
+     "fabricile",
+     "orașele"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Regenerabile: Soare, vânt, apă. Neregenerabile: petrol, cărbune, gaze."
+   }
+  },
+  {
+   "id": "VIIT0-10",
+   "nivel": "VII-T0",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce mare desparte Europa de Africa?",
+   "date": {
+    "variante": [
+     "Marea Mediterană",
+     "Marea Nordului",
+     "Marea Baltică",
+     "Marea Neagră"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Mediterana e între sudul Europei și nordul Africii."
+   }
+  },
+  {
+   "id": "VIIT0-11",
+   "nivel": "VII-T0",
+   "competente": [
+    "VII-1.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Care sector al economiei cuprinde comerțul, transporturile și turismul?",
+   "date": {
+    "variante": [
+     "serviciile",
+     "agricultura",
+     "industria",
+     "mineritul"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Comerțul, transporturile, turismul, educația, sănătatea sunt servicii."
+   }
+  },
+  {
+   "id": "VIIT0-12",
+   "nivel": "VII-T0",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 1,
+   "enunt": "Care este capitala Italiei?",
+   "date": {
+    "variante": [
+     "Roma",
+     "Milano",
+     "Veneția",
+     "Napoli"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Capitala Italiei e Roma."
+   }
+  },
+  {
+   "id": "VIIT0-13",
+   "nivel": "VII-T0",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce munți separă Europa de Asia, în Rusia?",
+   "date": {
+    "variante": [
+     "Munții Ural",
+     "Munții Carpați",
+     "Munții Alpi",
+     "Munții Pirinei"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Limita convențională dintre Europa și Asia trece pe Munții Ural."
+   }
+  },
+  {
+   "id": "VIIT0-14",
+   "nivel": "VII-T0",
+   "competente": [
+    "VII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce zonă de vegetație acoperă nordul Rusiei și al Scandinaviei, cu păduri de conifere?",
+   "date": {
+    "variante": [
+     "taigaua",
+     "stepa",
+     "savana",
+     "pădurea ecuatorială"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Taigaua e pădurea de conifere a zonei reci-temperate."
+   }
+  },
+  {
+   "id": "VIIT0-15",
+   "nivel": "VII-T0",
+   "competente": [
+    "VII-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 1,
+   "enunt": "Care este capitala Germaniei?",
+   "date": {
+    "variante": [
+     "Berlin",
+     "München",
+     "Hamburg",
+     "Viena"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Capitala Germaniei e Berlinul."
+   }
+  }
+ ],
+ "boss": [
+  {
+   "id": "VII-T0",
+   "test": "T0",
+   "titlu": "Busola de start",
+   "saptamana": 1,
+   "niveluri": [
+    "VII-T0"
+   ]
+  },
+  {
+   "id": "VII-T1",
+   "test": "T1",
+   "titlu": "Boss T₁: Asia",
+   "saptamana": 6,
+   "niveluri": [
+    "VII-S02-caracterizare-geografica-pozitia-geografica",
+    "VII-S03-relieful-caracteristici-generale-unitati",
+    "VII-S04-hidrografia-caracteristici-generale-fluvii",
+    "VII-S05-diferentieri-climatice-musonii",
+    "VII-S06-contraste-biogeografice"
+   ]
+  },
+  {
+   "id": "VII-T2",
+   "test": "T2",
+   "titlu": "Boss T₂: Asia",
+   "saptamana": 12,
+   "niveluri": [
+    "VII-S07-aplicatii-practice-studii-caz",
+    "VII-S08-elemente-diversitate-umana-diversitate",
+    "VII-S09-harta-politica-marile-aglomerari",
+    "VII-S10-resursele-naturale",
+    "VII-S11-activitatile-economice-contraste-economice",
+    "VII-S12-asia-lumea-contemporana"
+   ]
+  },
+  {
+   "id": "VII-T3",
+   "test": "T3",
+   "titlu": "Boss T₃: Africa",
+   "saptamana": 21,
+   "niveluri": [
+    "VII-S13-caracterizare-geografica-pozitia-geografica",
+    "VII-S13-relieful-africii-caracteristici-generale",
+    "VII-S16-hidrografia-clima-biogeografia-caracteristici",
+    "VII-S17-specificul-demografic",
+    "VII-S19-harta-politica-marile-orase",
+    "VII-S20-studii-caz-problemele-africii"
+   ]
+  },
+  {
+   "id": "VII-T4",
+   "test": "T4",
+   "titlu": "Boss T₄: America de Nord și America de Sud",
+   "saptamana": 27,
+   "niveluri": [
+    "VII-S22-aplicatii-practice-studii-caz",
+    "VII-S23-caracterizare-geografica-pozitia-geografica",
+    "VII-S23-relieful-caracteristici-generale-sistemul",
+    "VII-S24-hidrografia-caracteristici-generale-fluvii",
+    "VII-S24-diferentieri-climatice-biogeografice",
+    "VII-S25-elemente-diversitate-umana-etnica",
+    "VII-S26-harta-politica-contraste-teritoriale",
+    "VII-S26-forme-aglomerare-urbana",
+    "VII-S27-diferentieri-economice-regionale"
+   ]
+  },
+  {
+   "id": "VII-Tf",
+   "test": "Tf",
+   "titlu": "Marea Expediție: toată lumea ta",
+   "saptamana": 36,
+   "niveluri": [
+    "VII-S02-caracterizare-geografica-pozitia-geografica",
+    "VII-S03-relieful-caracteristici-generale-unitati",
+    "VII-S04-hidrografia-caracteristici-generale-fluvii",
+    "VII-S05-diferentieri-climatice-musonii",
+    "VII-S06-contraste-biogeografice",
+    "VII-S07-aplicatii-practice-studii-caz",
+    "VII-S08-elemente-diversitate-umana-diversitate",
+    "VII-S09-harta-politica-marile-aglomerari",
+    "VII-S10-resursele-naturale",
+    "VII-S11-activitatile-economice-contraste-economice",
+    "VII-S12-asia-lumea-contemporana",
+    "VII-S13-caracterizare-geografica-pozitia-geografica",
+    "VII-S13-relieful-africii-caracteristici-generale",
+    "VII-S16-hidrografia-clima-biogeografia-caracteristici",
+    "VII-S17-specificul-demografic",
+    "VII-S19-harta-politica-marile-orase",
+    "VII-S20-studii-caz-problemele-africii",
+    "VII-S22-aplicatii-practice-studii-caz",
+    "VII-S23-caracterizare-geografica-pozitia-geografica",
+    "VII-S23-relieful-caracteristici-generale-sistemul",
+    "VII-S24-hidrografia-caracteristici-generale-fluvii",
+    "VII-S24-diferentieri-climatice-biogeografice",
+    "VII-S25-elemente-diversitate-umana-etnica",
+    "VII-S26-harta-politica-contraste-teritoriale",
+    "VII-S26-forme-aglomerare-urbana",
+    "VII-S27-diferentieri-economice-regionale",
+    "VII-S28-aplicatii-practice-studii-caz",
+    "VII-S30-australia-oceania-caracterizare-geografica",
+    "VII-S30-australia-caracterizare-geografica-generala",
+    "VII-S31-oceania-particularitati-geografice",
+    "VII-S31-antarctica-elemente-identitate-geografica",
+    "VII-S32-studiu-caz-unicitatea-biogeografica",
+    "VII-S33-componentele-mediului-inconjurator-relatiile",
+    "VII-S34-degradarea-mediului-inconjurator-problema"
+   ]
+  }
+ ]
+}

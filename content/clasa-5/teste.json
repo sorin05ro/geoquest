@@ -1,0 +1,467 @@
+{
+ "clasa": 5,
+ "unitate": "Teste: Busola de start, Boss-uri, Marea Expediție",
+ "niveluri": [
+  {
+   "id": "V-T0",
+   "tip": "nivel",
+   "titlu": "Busola de start",
+   "descopera": {
+    "intrebare": "Ce îți amintești de anul trecut?"
+   },
+   "invata": [
+    {
+     "titlu": "Busola de start",
+     "text": "Câteva întrebări din ce ai învățat anul trecut. Nu primești notă: rezultatul alege cât de grele vor fi exercițiile tale la început."
+    }
+   ]
+  }
+ ],
+ "itemi": [
+  {
+   "id": "VT0-01",
+   "nivel": "V-T0",
+   "competente": [
+    "V-1.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 1,
+   "enunt": "Care este capitala României?",
+   "date": {
+    "variante": [
+     "București",
+     "Cluj-Napoca",
+     "Iași",
+     "Buzău"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Capitala României e Bucureștiul."
+   }
+  },
+  {
+   "id": "VT0-02",
+   "nivel": "V-T0",
+   "competente": [
+    "V-2.1"
+   ],
+   "tip": "pin",
+   "dificultate": 1,
+   "enunt": "Atinge pe hartă Bucureștiul.",
+   "date": {
+    "harta": "romania",
+    "tinta": {
+     "lat": 44.43,
+     "lon": 26.1,
+     "nume": "București"
+    },
+    "toleranta": 40
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Bucureștiul e în sudul țării, în Câmpia Română."
+   }
+  },
+  {
+   "id": "VT0-03",
+   "nivel": "V-T0",
+   "competente": [
+    "V-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 1,
+   "enunt": "Ce mare scaldă țărmul de est al României?",
+   "date": {
+    "variante": [
+     "Marea Neagră",
+     "Marea Mediterană",
+     "Marea Baltică",
+     "Marea Roșie"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "La est, România are ieșire la Marea Neagră."
+   }
+  },
+  {
+   "id": "VT0-04",
+   "nivel": "V-T0",
+   "competente": [
+    "V-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 1,
+   "enunt": "Ce fluviu formează o mare parte din granița de sud a României?",
+   "date": {
+    "variante": [
+     "Dunărea",
+     "Mureșul",
+     "Oltul",
+     "Prutul"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Dunărea curge în sudul țării, pe granița cu Serbia și Bulgaria."
+   }
+  },
+  {
+   "id": "VT0-05",
+   "nivel": "V-T0",
+   "competente": [
+    "V-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce munți străbat România ca un arc?",
+   "date": {
+    "variante": [
+     "Carpații",
+     "Alpii",
+     "Himalaya",
+     "Balcanii"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Carpații formează un arc prin mijlocul țării."
+   }
+  },
+  {
+   "id": "VT0-06",
+   "nivel": "V-T0",
+   "competente": [
+    "V-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 1,
+   "enunt": "Pe ce continent se află România?",
+   "date": {
+    "variante": [
+     "Europa",
+     "Asia",
+     "Africa",
+     "America de Nord"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "România e în sud-estul Europei Centrale."
+   }
+  },
+  {
+   "id": "VT0-07",
+   "nivel": "V-T0",
+   "competente": [
+    "V-1.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "În ce județ se află orașul nostru, Râmnicu Sărat?",
+   "date": {
+    "variante": [
+     "Buzău",
+     "Vrancea",
+     "Brăila",
+     "Prahova"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Râmnicu Sărat e în județul Buzău."
+   }
+  },
+  {
+   "id": "VT0-08",
+   "nivel": "V-T0",
+   "competente": [
+    "V-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce unitate de relief se află acolo unde Dunărea se varsă în Marea Neagră?",
+   "date": {
+    "variante": [
+     "Delta Dunării",
+     "Câmpia de Vest",
+     "Munții Apuseni",
+     "Podișul Moldovei"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Delta Dunării e la vărsarea fluviului în mare."
+   }
+  },
+  {
+   "id": "VT0-09",
+   "nivel": "V-T0",
+   "competente": [
+    "V-4.2"
+   ],
+   "tip": "ordoneaza",
+   "dificultate": 1,
+   "enunt": "Ordonează formele de relief de la cea mai înaltă la cea mai joasă.",
+   "date": {
+    "elemente": [
+     "munții",
+     "dealurile",
+     "câmpiile"
+    ],
+    "criteriu": "De la înalt la jos"
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Munții sunt cei mai înalți, câmpiile cele mai joase."
+   }
+  },
+  {
+   "id": "VT0-10",
+   "nivel": "V-T0",
+   "competente": [
+    "V-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Cu ce țară se învecinează România la sud, peste Dunăre?",
+   "date": {
+    "variante": [
+     "Bulgaria",
+     "Ungaria",
+     "Ucraina",
+     "Republica Moldova"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "La sud, peste Dunăre, e Bulgaria."
+   }
+  },
+  {
+   "id": "VT0-11",
+   "nivel": "V-T0",
+   "competente": [
+    "V-1.1"
+   ],
+   "tip": "lacunar",
+   "dificultate": 1,
+   "enunt": "Completează.",
+   "date": {
+    "text": "Soarele răsare la {0} și apune la {1}.",
+    "raspunsuri": [
+     "est",
+     "vest"
+    ],
+    "distractori": [
+     "nord",
+     "sud"
+    ]
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Soarele răsare în partea de est și apune în partea de vest."
+   }
+  },
+  {
+   "id": "VT0-12",
+   "nivel": "V-T0",
+   "competente": [
+    "V-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce râu formează granița cu Republica Moldova?",
+   "date": {
+    "variante": [
+     "Prutul",
+     "Siretul",
+     "Oltul",
+     "Jiul"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Prutul curge pe granița de est, cu Republica Moldova."
+   }
+  },
+  {
+   "id": "VT0-13",
+   "nivel": "V-T0",
+   "competente": [
+    "V-2.1"
+   ],
+   "tip": "pin",
+   "dificultate": 2,
+   "enunt": "Atinge pe hartă Marea Neagră.",
+   "date": {
+    "harta": "romania",
+    "tinta": {
+     "lat": 44.0,
+     "lon": 30.0,
+     "nume": "Marea Neagră"
+    },
+    "toleranta": 120
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Marea Neagră e în estul țării, la est de Dobrogea."
+   }
+  },
+  {
+   "id": "VT0-14",
+   "nivel": "V-T0",
+   "competente": [
+    "V-1.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 1,
+   "enunt": "Cum se numește desenul micșorat al unui teritoriu, văzut de sus?",
+   "date": {
+    "variante": [
+     "harta",
+     "fotografia",
+     "globul",
+     "busola"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Harta reprezintă micșorat un teritoriu, văzut de sus."
+   }
+  },
+  {
+   "id": "VT0-15",
+   "nivel": "V-T0",
+   "competente": [
+    "V-1.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce anotimp urmează după iarnă?",
+   "date": {
+    "variante": [
+     "primăvara",
+     "vara",
+     "toamna",
+     "iarna"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Ordinea anotimpurilor: primăvara, vara, toamna, iarna."
+   }
+  }
+ ],
+ "boss": [
+  {
+   "id": "V-T0",
+   "test": "T0",
+   "titlu": "Busola de start",
+   "saptamana": 1,
+   "niveluri": [
+    "V-T0"
+   ]
+  },
+  {
+   "id": "V-T1",
+   "test": "T1",
+   "titlu": "Boss T₁: Terra – o planetă în mișcare",
+   "saptamana": 7,
+   "niveluri": [
+    "V-S02-universul-sistemul-solar-aspecte",
+    "V-S03-terra-planeta-sistemului-solar",
+    "V-S04-aplicatie-practica-calatorie-virtuala",
+    "V-S05-globul-geografic-harta-coordonate",
+    "V-S06-miscarile-pamantului-consecintele"
+   ]
+  },
+  {
+   "id": "V-T2",
+   "test": "T2",
+   "titlu": "Boss T₂: Terra – o planetă în transformare Geosferele Terrei Litosfera",
+   "saptamana": 13,
+   "niveluri": [
+    "V-S08-orientarea-spatiul-terestru-elemente",
+    "V-S09-aplicatii-practice-masurarea-timpului",
+    "V-S10-caracteristici-generale-importanta",
+    "V-S11-structura-interna-terrei",
+    "V-S12-relieful-continente-bazine-oceanice",
+    "V-S13-vulcanii-cutremurele"
+   ]
+  },
+  {
+   "id": "V-T3",
+   "test": "T3",
+   "titlu": "Boss T₃: Atmosfera",
+   "saptamana": 21,
+   "niveluri": [
+    "V-S16-aplicatii-practice-relieful-orizontului",
+    "V-S17-caracteristici-generale-importanta",
+    "V-S18-elemente-fenomene-meteorologice",
+    "V-S19-vremea-clima",
+    "V-S20-zonele-climatice-terrei-influenta"
+   ]
+  },
+  {
+   "id": "V-T4",
+   "test": "T4",
+   "titlu": "Boss T₄: Hidrosfera",
+   "saptamana": 26,
+   "niveluri": [
+    "V-S22-aplicatii-practice-clima-vremea",
+    "V-S23-caracteristici-generale-importanta",
+    "V-S24-oceanul-planetar-componente-localizare",
+    "V-S25-apele-continentale",
+    "V-S26-ghetarii"
+   ]
+  },
+  {
+   "id": "V-Tf",
+   "test": "Tf",
+   "titlu": "Marea Expediție: toată lumea ta",
+   "saptamana": 36,
+   "niveluri": [
+    "V-S02-universul-sistemul-solar-aspecte",
+    "V-S03-terra-planeta-sistemului-solar",
+    "V-S04-aplicatie-practica-calatorie-virtuala",
+    "V-S05-globul-geografic-harta-coordonate",
+    "V-S06-miscarile-pamantului-consecintele",
+    "V-S08-orientarea-spatiul-terestru-elemente",
+    "V-S09-aplicatii-practice-masurarea-timpului",
+    "V-S10-caracteristici-generale-importanta",
+    "V-S11-structura-interna-terrei",
+    "V-S12-relieful-continente-bazine-oceanice",
+    "V-S13-vulcanii-cutremurele",
+    "V-S16-aplicatii-practice-relieful-orizontului",
+    "V-S17-caracteristici-generale-importanta",
+    "V-S18-elemente-fenomene-meteorologice",
+    "V-S19-vremea-clima",
+    "V-S20-zonele-climatice-terrei-influenta",
+    "V-S22-aplicatii-practice-clima-vremea",
+    "V-S23-caracteristici-generale-importanta",
+    "V-S24-oceanul-planetar-componente-localizare",
+    "V-S25-apele-continentale",
+    "V-S26-ghetarii",
+    "V-S27-aplicatii-practice-apele-din",
+    "V-S28-biosfera-caracteristici-generale-importanta",
+    "V-S28-plantele-animalele-repartitia-geografica",
+    "V-S28-solul-resursa-vietii",
+    "V-S30-aplicatie-practica-protectia-plantelor",
+    "V-S31-diversitatea-peisajelor-terestre-naturale"
+   ]
+  }
+ ]
+}

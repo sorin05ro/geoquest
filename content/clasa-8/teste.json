@@ -1,0 +1,500 @@
+{
+ "clasa": 8,
+ "unitate": "Teste: Busola de start, Boss-uri, Marea Expediție",
+ "niveluri": [
+  {
+   "id": "VIII-T0",
+   "tip": "nivel",
+   "titlu": "Busola de start",
+   "descopera": {
+    "intrebare": "Ce îți amintești de anul trecut?"
+   },
+   "invata": [
+    {
+     "titlu": "Busola de start",
+     "text": "Câteva întrebări din ce ai învățat anul trecut. Nu primești notă: rezultatul alege cât de grele vor fi exercițiile tale la început."
+    }
+   ]
+  }
+ ],
+ "itemi": [
+  {
+   "id": "VIIIT0-01",
+   "nivel": "VIII-T0",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "pin",
+   "dificultate": 1,
+   "enunt": "Atinge pe hartă Munții Himalaya.",
+   "date": {
+    "harta": "lume",
+    "tinta": {
+     "lat": 28,
+     "lon": 85,
+     "nume": "Munții Himalaya"
+    },
+    "toleranta": 900
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Himalaya e în Asia, la nord de India."
+   }
+  },
+  {
+   "id": "VIIIT0-02",
+   "nivel": "VIII-T0",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 1,
+   "enunt": "Pe ce continent se află deșertul Sahara?",
+   "date": {
+    "variante": [
+     "Africa",
+     "Asia",
+     "Australia",
+     "America de Sud"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Sahara e în nordul Africii."
+   }
+  },
+  {
+   "id": "VIIIT0-03",
+   "nivel": "VIII-T0",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce fluviu are cel mai mare debit din lume și curge prin pădurea ecuatorială din America de Sud?",
+   "date": {
+    "variante": [
+     "Amazonul",
+     "Nilul",
+     "Mississippi",
+     "Gangele"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Amazonul are cel mai mare debit din lume."
+   }
+  },
+  {
+   "id": "VIIIT0-04",
+   "nivel": "VIII-T0",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce munți străbat vestul Americii de Sud, de la nord la sud?",
+   "date": {
+    "variante": [
+     "Munții Anzi",
+     "Munții Stâncoși",
+     "Munții Atlas",
+     "Munții Ural"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Anzii sunt partea sudică a sistemului cordiliero-andin."
+   }
+  },
+  {
+   "id": "VIIIT0-05",
+   "nivel": "VIII-T0",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "pin",
+   "dificultate": 2,
+   "enunt": "Atinge pe hartă Australia.",
+   "date": {
+    "harta": "lume",
+    "tinta": {
+     "lat": -25,
+     "lon": 134,
+     "nume": "Australia"
+    },
+    "toleranta": 1200
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Australia e în emisfera sudică, între Oceanul Indian și Pacific."
+   }
+  },
+  {
+   "id": "VIIIT0-06",
+   "nivel": "VIII-T0",
+   "competente": [
+    "VIII-1.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 1,
+   "enunt": "Ce sunt musonii?",
+   "date": {
+    "variante": [
+     "vânturi care își schimbă direcția de la vară la iarnă și aduc ploi abundente vara",
+     "vulcani",
+     "râuri subterane",
+     "deșerturi"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Musonii sunt specifici sudului și estului Asiei."
+   }
+  },
+  {
+   "id": "VIIIT0-07",
+   "nivel": "VIII-T0",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce fluviu traversează Egiptul și se varsă în Marea Mediterană?",
+   "date": {
+    "variante": [
+     "Nilul",
+     "Congo",
+     "Niger",
+     "Zambezi"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Nilul curge prin Egipt și formează o deltă la Mediterana."
+   }
+  },
+  {
+   "id": "VIIIT0-08",
+   "nivel": "VIII-T0",
+   "competente": [
+    "VIII-1.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Care este cel mai populat continent?",
+   "date": {
+    "variante": [
+     "Asia",
+     "Africa",
+     "Europa",
+     "America de Nord"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Asia are mai mult de jumătate din populația lumii."
+   }
+  },
+  {
+   "id": "VIIIT0-09",
+   "nivel": "VIII-T0",
+   "competente": [
+    "VIII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce animal e simbolul unicității faunei australiene?",
+   "date": {
+    "variante": [
+     "cangurul",
+     "elefantul",
+     "tigrul",
+     "ursul polar"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Marsupialele, ca cangurul și koala, trăiesc mai ales în Australia."
+   }
+  },
+  {
+   "id": "VIIIT0-10",
+   "nivel": "VIII-T0",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 1,
+   "enunt": "Pe ce continent se află Polul Sud?",
+   "date": {
+    "variante": [
+     "Antarctica",
+     "Australia",
+     "America de Sud",
+     "Africa"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Polul Sud e în mijlocul Antarcticii."
+   }
+  },
+  {
+   "id": "VIIIT0-11",
+   "nivel": "VIII-T0",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce strâmtoare desparte Asia de America de Nord?",
+   "date": {
+    "variante": [
+     "Strâmtoarea Bering",
+     "Strâmtoarea Gibraltar",
+     "Canalul Suez",
+     "Canalul Panama"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Strâmtoarea Bering e între Rusia (Asia) și Alaska (America de Nord)."
+   }
+  },
+  {
+   "id": "VIIIT0-12",
+   "nivel": "VIII-T0",
+   "competente": [
+    "VIII-1.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce este riftul african?",
+   "date": {
+    "variante": [
+     "un șir de fracturi ale scoarței în estul Africii, cu lacuri și vulcani",
+     "un deșert",
+     "un fluviu",
+     "o pădure"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Riftul est-african e o zonă în care scoarța se rupe, cu lacuri adânci și vulcani."
+   }
+  },
+  {
+   "id": "VIIIT0-13",
+   "nivel": "VIII-T0",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce canal leagă Oceanul Atlantic de Oceanul Pacific prin America Centrală?",
+   "date": {
+    "variante": [
+     "Canalul Panama",
+     "Canalul Suez",
+     "Canalul Dunăre–Marea Neagră",
+     "Canalul Mânecii"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Canalul Panama scurtează drumul navelor dintre Atlantic și Pacific."
+   }
+  },
+  {
+   "id": "VIIIT0-14",
+   "nivel": "VIII-T0",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 1,
+   "enunt": "Care este capitala Japoniei?",
+   "date": {
+    "variante": [
+     "Tokyo",
+     "Beijing",
+     "Seul",
+     "Osaka"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Capitala Japoniei e Tokyo."
+   }
+  },
+  {
+   "id": "VIIIT0-15",
+   "nivel": "VIII-T0",
+   "competente": [
+    "VIII-4.4"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce problemă de mediu afectează pădurea amazoniană?",
+   "date": {
+    "variante": [
+     "defrișarea",
+     "înghețul",
+     "cutremurele",
+     "aisbergurile"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Defrișările reduc pădurea amazoniană și biodiversitatea."
+   }
+  }
+ ],
+ "boss": [
+  {
+   "id": "VIII-T0",
+   "test": "T0",
+   "titlu": "Busola de start",
+   "saptamana": 1,
+   "niveluri": [
+    "VIII-T0"
+   ]
+  },
+  {
+   "id": "VIII-T1",
+   "test": "T1",
+   "titlu": "Boss T₁: Relieful României",
+   "saptamana": 7,
+   "niveluri": [
+    "VIII-S01-pozitia-geografica-elemente-definitorii",
+    "VIII-S02-romania-tara-carpatica-dunareana",
+    "VIII-S03-relieful-caracteristici-generale",
+    "VIII-S04-unitatile-majore-relief-carpatii",
+    "VIII-S06-subcarpatii-podisul-getic-podisul"
+   ]
+  },
+  {
+   "id": "VIII-T2",
+   "test": "T2",
+   "titlu": "Boss T₂: Relieful României",
+   "saptamana": 11,
+   "niveluri": [
+    "VIII-S08-podisul-moldovei-podisul-dobrogei",
+    "VIII-S09-campia-vest-dealurile-vest",
+    "VIII-S10-campia-romana",
+    "VIII-S11-delta-dunarii-platforma-continentala"
+   ]
+  },
+  {
+   "id": "VIII-T3",
+   "test": "T3",
+   "titlu": "Boss T₃: Clima, apele, vegetația, fauna și solurile",
+   "saptamana": 19,
+   "niveluri": [
+    "VIII-S12-aplicatii-practice-studii-caz",
+    "VIII-S13-clima-factorii-genetici",
+    "VIII-S13-elementele-climatice",
+    "VIII-S16-particularitatile-climatice-regionale-etaje",
+    "VIII-S16-apele-dunarea",
+    "VIII-S17-raurile-interioare",
+    "VIII-S18-lacurile-apele-subterane",
+    "VIII-S19-marea-neagra"
+   ]
+  },
+  {
+   "id": "VIII-T4",
+   "test": "T4",
+   "titlu": "Boss T₄: Populația, așezările omenești și organizarea administrativ-teritorială",
+   "saptamana": 26,
+   "niveluri": [
+    "VIII-S20-vegetatia-fauna-solurile-aplicatii",
+    "VIII-S21-populatia-elemente-structuri-demografice",
+    "VIII-S22-asezarile-rurale-evolutie-diferentieri",
+    "VIII-S23-asezarile-urbane-evolutie-caracteristici",
+    "VIII-S24-caracterizarea-geografica-orasului-bucuresti",
+    "VIII-S25-organizarea-administrativ-teritoriala"
+   ]
+  },
+  {
+   "id": "VIII-T5",
+   "test": "T5",
+   "titlu": "Boss T₅: Activitățile economice",
+   "saptamana": 32,
+   "niveluri": [
+    "VIII-S27-aplicatii-practice-studii-caz",
+    "VIII-S28-agricultura-fondul-funciar-agricol",
+    "VIII-S28-regiunile-agricole-elemente-specifice",
+    "VIII-S28-valorificarea-produselor-agricole-traditie",
+    "VIII-S30-resursele-naturale-industria",
+    "VIII-S30-industria-energetica-energiei-electrice",
+    "VIII-S30-industria-constructiilor-masini",
+    "VIII-S31-serviciile-caile-comunicatie-transporturile",
+    "VIII-S31-comertul",
+    "VIII-S32-turismul-potential-valorificare-economica"
+   ]
+  },
+  {
+   "id": "VIII-Tf",
+   "test": "Tf",
+   "titlu": "Marea Expediție: toată lumea ta",
+   "saptamana": 35,
+   "niveluri": [
+    "VIII-S01-pozitia-geografica-elemente-definitorii",
+    "VIII-S02-romania-tara-carpatica-dunareana",
+    "VIII-S03-relieful-caracteristici-generale",
+    "VIII-S04-unitatile-majore-relief-carpatii",
+    "VIII-S06-subcarpatii-podisul-getic-podisul",
+    "VIII-S08-podisul-moldovei-podisul-dobrogei",
+    "VIII-S09-campia-vest-dealurile-vest",
+    "VIII-S10-campia-romana",
+    "VIII-S11-delta-dunarii-platforma-continentala",
+    "VIII-S12-aplicatii-practice-studii-caz",
+    "VIII-S13-clima-factorii-genetici",
+    "VIII-S13-elementele-climatice",
+    "VIII-S16-particularitatile-climatice-regionale-etaje",
+    "VIII-S16-apele-dunarea",
+    "VIII-S17-raurile-interioare",
+    "VIII-S18-lacurile-apele-subterane",
+    "VIII-S19-marea-neagra",
+    "VIII-S20-vegetatia-fauna-solurile-aplicatii",
+    "VIII-S21-populatia-elemente-structuri-demografice",
+    "VIII-S22-asezarile-rurale-evolutie-diferentieri",
+    "VIII-S23-asezarile-urbane-evolutie-caracteristici",
+    "VIII-S24-caracterizarea-geografica-orasului-bucuresti",
+    "VIII-S25-organizarea-administrativ-teritoriala",
+    "VIII-S27-aplicatii-practice-studii-caz",
+    "VIII-S28-agricultura-fondul-funciar-agricol",
+    "VIII-S28-regiunile-agricole-elemente-specifice",
+    "VIII-S28-valorificarea-produselor-agricole-traditie",
+    "VIII-S30-resursele-naturale-industria",
+    "VIII-S30-industria-energetica-energiei-electrice",
+    "VIII-S30-industria-constructiilor-masini",
+    "VIII-S31-serviciile-caile-comunicatie-transporturile",
+    "VIII-S31-comertul",
+    "VIII-S32-turismul-potential-valorificare-economica",
+    "VIII-S33-aplicatii-practice-studii-caz",
+    "VIII-S34-diferentieri-regionale",
+    "VIII-S34-regiunile-geografice-baze-naturale",
+    "VIII-S34-aplicatii-practice-studii-caz",
+    "VIII-S35-calitatea-mediului-inconjurator-romania",
+    "VIII-S35-resurse-populatie-elemente-dezvoltarii",
+    "VIII-S35-valorile-naturale-culturale-romaniei",
+    "VIII-S35-romania-ca-membru-onu"
+   ]
+  }
+ ]
+}

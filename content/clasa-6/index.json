@@ -1,0 +1,67 @@
+{
+ "clasa": 6,
+ "fisiere": [
+  {
+   "fisier": "teste.json",
+   "niveluri": [
+    "VI-T0"
+   ],
+   "boss": [
+    "VI-T0",
+    "VI-T1",
+    "VI-T2",
+    "VI-T3",
+    "VI-T4",
+    "VI-Tf"
+   ]
+  },
+  {
+   "fisier": "u1-cunoastere.json",
+   "niveluri": [
+    "VI-S02-repere-cunoasterii-terrei-marile",
+    "VI-S03-continente-tari-reprezentari-cartografice",
+    "VI-S05-aplicatii-practice-exercitii-apreciere"
+   ],
+   "boss": []
+  },
+  {
+   "fisier": "u2-antroposfera.json",
+   "niveluri": [
+    "VI-S06-populatia-terrei-evolutia-numerica",
+    "VI-S07-asezarile-omenesti-forme-locuire",
+    "VI-S08-resursele-naturale-valorificarea-acestora",
+    "VI-S09-domeniile-activitatilor-economice-terra",
+    "VI-S10-efectele-activitatilor-umane-asupra",
+    "VI-S12-aplicatii-practice-analiza-interpretarea"
+   ],
+   "boss": []
+  },
+  {
+   "fisier": "u3-europa.json",
+   "niveluri": [
+    "VI-S13-mediul-natural-ca-suport",
+    "VI-S16-pozitia-geografica-tarmurile-golfuri",
+    "VI-S17-caracteristici-generale-reliefului-unitati",
+    "VI-S18-hidrografia",
+    "VI-S19-diferentieri-climatice-biogeografice",
+    "VI-S21-oameni-locuri-harta-politica",
+    "VI-S22-raspandirea-geografica-populatiei-elemente",
+    "VI-S23-mari-orase-europene",
+    "VI-S24-economia-resursele-naturale-valorificarea",
+    "VI-S25-activitatile-economice-agricultura-industria",
+    "VI-S27-aplicatii-practice-studii-caz",
+    "VI-S28-caracterizarea-geografica-state-cel",
+    "VI-S30-caracterizarea-geografica-state-continuare"
+   ],
+   "boss": []
+  },
+  {
+   "fisier": "u4-europa-contemporana.json",
+   "niveluri": [
+    "VI-S32-valori-culturale-umane-europene",
+    "VI-S33-calitatea-vietii-europa"
+   ],
+   "boss": []
+  }
+ ]
+}

@@ -1,0 +1,1610 @@
+{
+ "clasa": 6,
+ "unitate": "Europa în lumea contemporană",
+ "niveluri": [
+  {
+   "id": "VI-S32-valori-culturale-umane-europene",
+   "tip": "nivel",
+   "titlu": "Valori culturale și umane europene",
+   "descopera": {
+    "intrebare": "Ce ne leagă pe noi, europenii, dincolo de granițe?"
+   },
+   "invata": [
+    {
+     "titlu": "Valori comune",
+     "text": "Europenii împărtășesc valori precum demnitatea umană, libertatea, democrația, egalitatea, statul de drept și respectarea drepturilor omului. Aceste valori sunt scrise și în tratatele Uniunii Europene.\nMotto-ul UE este „Unită în diversitate”: țările își păstrează limbile și tradițiile, dar colaborează."
+    },
+    {
+     "titlu": "Patrimoniul cultural",
+     "text": "Europa are un patrimoniu foarte bogat: monumente antice (Acropole, Colosseum), catedrale gotice, castele, orașe istorice, muzee celebre (Luvru, Prado, Ermitaj).\nRomânia are în patrimoniul mondial UNESCO, printre altele: Delta Dunării, bisericile pictate din nordul Moldovei, bisericile de lemn din Maramureș, satele cu biserici fortificate din Transilvania, centrul istoric al Sighișoarei, Mănăstirea Horezu, cetățile dacice din Munții Orăștiei, peisajul minier de la Roșia Montană."
+    },
+    {
+     "titlu": "Simboluri și oameni",
+     "text": "Simbolurile UE: drapelul albastru cu 12 stele aurii, imnul „Oda bucuriei” (din Simfonia a IX-a de Beethoven), Ziua Europei pe 9 mai, moneda euro.\nEuropa a dat lumii mari artiști, savanți și scriitori. Printre români: George Enescu (muzică), Constantin Brâncuși (sculptură), Mihai Eminescu (poezie), Henri Coandă (aviație)."
+    }
+   ],
+   "stiaiCa": "Cele 12 stele de pe drapelul Uniunii Europene nu reprezintă numărul de state: cifra 12 e un simbol al perfecțiunii și al unității.",
+   "referintaProfesor": "Manual Art Klett, clasa a VI-a (manuale.edu.ro), lecția „Valori culturale și umane europene”"
+  },
+  {
+   "id": "VI-S33-calitatea-vietii-europa",
+   "tip": "nivel",
+   "titlu": "Calitatea vieții în Europa",
+   "descopera": {
+    "intrebare": "Ce face ca oamenii să trăiască bine într-o țară?"
+   },
+   "invata": [
+    {
+     "titlu": "Ce înseamnă calitatea vieții",
+     "text": "Calitatea vieții arată cât de bine trăiesc oamenii: veniturile, locuința, sănătatea, educația, mediul curat, siguranța, timpul liber și relațiile cu ceilalți.\nONU măsoară dezvoltarea țărilor prin Indicele Dezvoltării Umane (IDU), care combină speranța de viață, educația și venitul. Multe țări europene au un IDU foarte ridicat."
+    },
+    {
+     "titlu": "Diferențe în Europa",
+     "text": "În general, nordul și vestul Europei (Norvegia, Elveția, Danemarca, Țările de Jos, Islanda) au venituri mari, servicii publice bune și mediu curat. În estul și sud-estul Europei veniturile sunt mai mici, dar cresc.\nȘi în interiorul unei țări există diferențe între orașele mari și zonele rurale."
+    },
+    {
+     "titlu": "Factori și soluții",
+     "text": "Calitatea vieții crește prin: educație pentru toți, spitale bune, transport public, aer și apă curate, spații verzi, locuri de muncă.\nFiecare dintre noi contribuie: prin respect, implicare în comunitate și grijă pentru mediu."
+    }
+   ],
+   "stiaiCa": "Speranța de viață la naștere în țările Uniunii Europene trece de 80 de ani, după Eurostat; e una dintre cele mai mari din lume.",
+   "referintaProfesor": "Manual Art Klett, clasa a VI-a (manuale.edu.ro), lecția „Calitatea vieții în Europa”"
+  }
+ ],
+ "itemi": [
+  {
+   "id": "VI32-01",
+   "nivel": "VI-S32-valori-culturale-umane-europene",
+   "competente": [
+    "VI-1.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 1,
+   "enunt": "Care e motto-ul Uniunii Europene?",
+   "date": {
+    "variante": [
+     "„Unită în diversitate”",
+     "„Toți la fel”",
+     "„Fiecare pentru el”",
+     "„O singură limbă”"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Diversitatea e respectată în UE."
+   }
+  },
+  {
+   "id": "VI32-02",
+   "nivel": "VI-S32-valori-culturale-umane-europene",
+   "competente": [
+    "VI-1.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Câte stele are drapelul Uniunii Europene?",
+   "date": {
+    "variante": [
+     "12",
+     "27",
+     "50",
+     "7"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Numărul 12 simbolizează unitatea, nu numărul de state."
+   },
+   "surse": [
+    "Uniunea Europeană – Țările UE (european-union.europa.eu)",
+    "Consiliul UE – statele membre"
+   ]
+  },
+  {
+   "id": "VI32-03",
+   "nivel": "VI-S32-valori-culturale-umane-europene",
+   "competente": [
+    "VI-1.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce imn are Uniunea Europeană?",
+   "date": {
+    "variante": [
+     "„Oda bucuriei”, din Simfonia a IX-a de Beethoven",
+     "„Deșteaptă-te, române!”",
+     "„La Marseillaise”",
+     "un cântec pop"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Imnul european nu are versuri oficiale."
+   },
+   "surse": [
+    "Uniunea Europeană – Țările UE (european-union.europa.eu)",
+    "Consiliul UE – statele membre"
+   ]
+  },
+  {
+   "id": "VI32-04",
+   "nivel": "VI-S32-valori-culturale-umane-europene",
+   "competente": [
+    "VI-1.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Când se sărbătorește Ziua Europei?",
+   "date": {
+    "variante": [
+     "pe 9 mai",
+     "pe 1 decembrie",
+     "pe 1 iunie",
+     "pe 25 decembrie"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Pe 9 mai 1950 a fost propusă cooperarea care a dus la UE."
+   },
+   "surse": [
+    "Uniunea Europeană – Țările UE (european-union.europa.eu)",
+    "Consiliul UE – statele membre"
+   ]
+  },
+  {
+   "id": "VI32-05",
+   "nivel": "VI-S32-valori-culturale-umane-europene",
+   "competente": [
+    "VI-3.4"
+   ],
+   "tip": "asociaza",
+   "dificultate": 2,
+   "enunt": "Asociază monumentul UNESCO din România cu regiunea.",
+   "date": {
+    "perechi": [
+     [
+      "bisericile pictate",
+      "nordul Moldovei (Bucovina)"
+     ],
+     [
+      "bisericile de lemn",
+      "Maramureș"
+     ],
+     [
+      "cetățile dacice",
+      "Munții Orăștiei"
+     ],
+     [
+      "centrul istoric medieval",
+      "Sighișoara"
+     ]
+    ]
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Patrimoniul UNESCO al României."
+   },
+   "surse": [
+    "UNESCO World Heritage Centre – lista patrimoniului mondial (whc.unesco.org)",
+    "Ministerul Culturii – Monumente UNESCO din România"
+   ]
+  },
+  {
+   "id": "VI32-06",
+   "nivel": "VI-S32-valori-culturale-umane-europene",
+   "competente": [
+    "VI-3.4"
+   ],
+   "tip": "asociaza",
+   "dificultate": 2,
+   "enunt": "Asociază personalitatea română cu domeniul.",
+   "date": {
+    "perechi": [
+     [
+      "George Enescu",
+      "muzică"
+     ],
+     [
+      "Constantin Brâncuși",
+      "sculptură"
+     ],
+     [
+      "Mihai Eminescu",
+      "poezie"
+     ],
+     [
+      "Henri Coandă",
+      "aviație"
+     ]
+    ]
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Români care au contribuit la cultura europeană."
+   }
+  },
+  {
+   "id": "VI32-07",
+   "nivel": "VI-S32-valori-culturale-umane-europene",
+   "competente": [
+    "VI-3.4"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce rezervație naturală din România e în patrimoniul UNESCO?",
+   "date": {
+    "variante": [
+     "Delta Dunării",
+     "Lacul Snagov",
+     "Parcul Herăstrău",
+     "Muntele Tâmpa"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Delta Dunării e patrimoniu natural mondial din 1991."
+   },
+   "surse": [
+    "UNESCO World Heritage Centre – lista patrimoniului mondial (whc.unesco.org)",
+    "Ministerul Culturii – Monumente UNESCO din România"
+   ]
+  },
+  {
+   "id": "VI32-08",
+   "nivel": "VI-S32-valori-culturale-umane-europene",
+   "competente": [
+    "VI-3.4"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce mănăstire din Bucovina e cunoscută pentru „albastrul de Voroneț”?",
+   "date": {
+    "variante": [
+     "Mănăstirea Voroneț",
+     "Mănăstirea Horezu",
+     "Mănăstirea Curtea de Argeș",
+     "Mănăstirea Cozia"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Voroneț face parte din bisericile pictate din Moldova."
+   },
+   "surse": [
+    "UNESCO World Heritage Centre – lista patrimoniului mondial (whc.unesco.org)",
+    "Ministerul Culturii – Monumente UNESCO din România"
+   ]
+  },
+  {
+   "id": "VI32-09",
+   "nivel": "VI-S32-valori-culturale-umane-europene",
+   "competente": [
+    "VI-3.4"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce sculptor român a creat „Coloana fără sfârșit” de la Târgu Jiu?",
+   "date": {
+    "variante": [
+     "Constantin Brâncuși",
+     "George Enescu",
+     "Nicolae Grigorescu",
+     "Ion Creangă"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Ansamblul de la Târgu Jiu include și „Masa tăcerii” și „Poarta sărutului”."
+   }
+  },
+  {
+   "id": "VI32-10",
+   "nivel": "VI-S32-valori-culturale-umane-europene",
+   "competente": [
+    "VI-1.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce valori împărtășesc statele Uniunii Europene?",
+   "date": {
+    "variante": [
+     "democrația, libertatea, egalitatea, respectarea drepturilor omului",
+     "conducerea de către un singur om",
+     "o singură religie obligatorie",
+     "interzicerea călătoriilor"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Aceste valori sunt înscrise în tratatele UE."
+   },
+   "surse": [
+    "Uniunea Europeană – Țările UE (european-union.europa.eu)",
+    "Consiliul UE – statele membre"
+   ]
+  },
+  {
+   "id": "VI32-11",
+   "nivel": "VI-S32-valori-culturale-umane-europene",
+   "competente": [
+    "VI-4.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce înseamnă patrimoniu cultural?",
+   "date": {
+    "variante": [
+     "monumentele, tradițiile, operele de artă moștenite de la înaintași și păstrate pentru viitor",
+     "banii unei țări",
+     "fabricile noi",
+     "drumurile de azi"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Patrimoniul ne arată istoria și identitatea."
+   }
+  },
+  {
+   "id": "VI32-12",
+   "nivel": "VI-S32-valori-culturale-umane-europene",
+   "competente": [
+    "VI-4.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce înseamnă patrimoniu imaterial?",
+   "date": {
+    "variante": [
+     "tradiții, obiceiuri, muzică, dansuri, meșteșuguri transmise din generație în generație",
+     "clădiri vechi",
+     "munți și râuri",
+     "bani"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Exemple din România: Călușul, doina, colindatul în ceată bărbătească, ceramica de Horezu."
+   }
+  },
+  {
+   "id": "VI32-13",
+   "nivel": "VI-S32-valori-culturale-umane-europene",
+   "competente": [
+    "VI-3.4"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce dans tradițional românesc e în patrimoniul imaterial UNESCO?",
+   "date": {
+    "variante": [
+     "Călușul",
+     "Tango",
+     "Flamenco",
+     "Valsul vienez"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Ritualul Călușului a fost înscris în 2005 (inițial ca Capodoperă)."
+   },
+   "surse": [
+    "UNESCO World Heritage Centre – lista patrimoniului mondial (whc.unesco.org)",
+    "Ministerul Culturii – Monumente UNESCO din România"
+   ]
+  },
+  {
+   "id": "VI32-14",
+   "nivel": "VI-S32-valori-culturale-umane-europene",
+   "competente": [
+    "VI-3.4"
+   ],
+   "tip": "pin",
+   "dificultate": 2,
+   "enunt": "Atinge pe harta României Sighișoara, cetate medievală din patrimoniul UNESCO.",
+   "date": {
+    "harta": "romania",
+    "tinta": {
+     "lat": 46.22,
+     "lon": 24.79,
+     "nume": "Sighișoara"
+    },
+    "toleranta": 40
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Sighișoara e în județul Mureș, pe Târnava Mare."
+   },
+   "surse": [
+    "UNESCO World Heritage Centre – lista patrimoniului mondial (whc.unesco.org)",
+    "Ministerul Culturii – Monumente UNESCO din România"
+   ]
+  },
+  {
+   "id": "VI32-15",
+   "nivel": "VI-S32-valori-culturale-umane-europene",
+   "competente": [
+    "VI-3.4"
+   ],
+   "tip": "pin",
+   "dificultate": 3,
+   "enunt": "Atinge pe harta României Maramureșul, cu bisericile de lemn din patrimoniul UNESCO.",
+   "date": {
+    "harta": "romania",
+    "tinta": {
+     "lat": 47.7,
+     "lon": 24,
+     "nume": "Maramureș"
+    },
+    "toleranta": 60
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Maramureșul e în nordul României."
+   },
+   "surse": [
+    "UNESCO World Heritage Centre – lista patrimoniului mondial (whc.unesco.org)",
+    "Ministerul Culturii – Monumente UNESCO din România"
+   ]
+  },
+  {
+   "id": "VI32-16",
+   "nivel": "VI-S32-valori-culturale-umane-europene",
+   "competente": [
+    "VI-1.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Adevărat sau fals? Statele UE trebuie să renunțe la limbile și tradițiile lor.",
+   "date": {
+    "variante": [
+     "Fals",
+     "Adevărat"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Fals: UE are 24 de limbi oficiale și respectă tradițiile fiecărei țări."
+   }
+  },
+  {
+   "id": "VI32-17",
+   "nivel": "VI-S32-valori-culturale-umane-europene",
+   "competente": [
+    "VI-3.4"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Adevărat sau fals? Bisericile pictate din nordul Moldovei sunt în patrimoniul mondial UNESCO.",
+   "date": {
+    "variante": [
+     "Adevărat",
+     "Fals"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Adevărat: au fost înscrise în 1993."
+   },
+   "surse": [
+    "UNESCO World Heritage Centre – lista patrimoniului mondial (whc.unesco.org)",
+    "Ministerul Culturii – Monumente UNESCO din România"
+   ]
+  },
+  {
+   "id": "VI32-18",
+   "nivel": "VI-S32-valori-culturale-umane-europene",
+   "competente": [
+    "VI-1.2"
+   ],
+   "tip": "lacunar",
+   "dificultate": 2,
+   "enunt": "Completează.",
+   "date": {
+    "text": "Ziua Europei se sărbătorește pe {0}; drapelul UE are {1} stele aurii.",
+    "raspunsuri": [
+     "9 mai",
+     "12"
+    ],
+    "distractori": [
+     "1 decembrie",
+     "27"
+    ]
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "9 mai, 12 stele."
+   },
+   "surse": [
+    "Uniunea Europeană – Țările UE (european-union.europa.eu)",
+    "Consiliul UE – statele membre"
+   ]
+  },
+  {
+   "id": "VI32-19",
+   "nivel": "VI-S32-valori-culturale-umane-europene",
+   "competente": [
+    "VI-3.4"
+   ],
+   "tip": "lacunar",
+   "dificultate": 2,
+   "enunt": "Completează.",
+   "date": {
+    "text": "„Coloana fără sfârșit” a fost realizată de {0}, iar „Rapsodiile române” de {1}.",
+    "raspunsuri": [
+     "Brâncuși",
+     "Enescu"
+    ],
+    "distractori": [
+     "Eminescu",
+     "Coandă"
+    ]
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Brâncuși și Enescu."
+   }
+  },
+  {
+   "id": "VI32-20",
+   "nivel": "VI-S32-valori-culturale-umane-europene",
+   "competente": [
+    "VI-3.4"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce oraș european are muzeul Prado?",
+   "date": {
+    "variante": [
+     "Madrid",
+     "Paris",
+     "Londra",
+     "Berlin"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Prado e unul dintre cele mai mari muzee de artă."
+   }
+  },
+  {
+   "id": "VI32-21",
+   "nivel": "VI-S32-valori-culturale-umane-europene",
+   "competente": [
+    "VI-3.4"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce monument antic simbolizează Atena?",
+   "date": {
+    "variante": [
+     "Acropole, cu Partenonul",
+     "Colosseumul",
+     "Turnul din Pisa",
+     "Big Ben"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Atena e considerată leagănul democrației."
+   }
+  },
+  {
+   "id": "VI32-22",
+   "nivel": "VI-S32-valori-culturale-umane-europene",
+   "competente": [
+    "VI-1.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 3,
+   "enunt": "De ce Grecia antică e numită „leagănul democrației”?",
+   "date": {
+    "variante": [
+     "pentru că în Atena cetățenii votau deciziile importante",
+     "pentru că avea cei mai mulți regi",
+     "pentru că a inventat euro",
+     "pentru că avea cele mai mari armate"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Democrație = conducerea poporului."
+   }
+  },
+  {
+   "id": "VI32-23",
+   "nivel": "VI-S32-valori-culturale-umane-europene",
+   "competente": [
+    "VI-4.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce poți face pentru a păstra patrimoniul local?",
+   "date": {
+    "variante": [
+     "vizitezi cu respect monumentele, nu scrii pe ziduri, înveți despre tradiții",
+     "iei pietre de la monumente",
+     "scrii pe pereți",
+     "arunci gunoaie lângă ele"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Patrimoniul se păstrează prin respect."
+   }
+  },
+  {
+   "id": "VI32-24",
+   "nivel": "VI-S32-valori-culturale-umane-europene",
+   "competente": [
+    "VI-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Câte limbi oficiale are Uniunea Europeană?",
+   "date": {
+    "variante": [
+     "24",
+     "1",
+     "27",
+     "100"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Toate documentele oficiale importante se traduc."
+   },
+   "surse": [
+    "Uniunea Europeană – Țările UE (european-union.europa.eu)",
+    "Consiliul UE – statele membre"
+   ]
+  },
+  {
+   "id": "VI32-25",
+   "nivel": "VI-S32-valori-culturale-umane-europene",
+   "competente": [
+    "VI-4.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce program european le permite elevilor și studenților să studieze în alte țări?",
+   "date": {
+    "variante": [
+     "Erasmus+",
+     "Schengen",
+     "Euro",
+     "Apollo"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Erasmus+ finanțează schimburi de elevi, studenți și profesori."
+   },
+   "surse": [
+    "Comisia Europeană – Erasmus+ (erasmus-plus.ec.europa.eu)",
+    "Agenția Națională pentru Programe Comunitare (ANPCDEFP) – Erasmus+"
+   ]
+  },
+  {
+   "id": "VI32-26",
+   "nivel": "VI-S32-valori-culturale-umane-europene",
+   "competente": [
+    "VI-1.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce înseamnă spațiul Schengen?",
+   "date": {
+    "variante": [
+     "un grup de țări europene între care oamenii circulă fără controale la granițe",
+     "o monedă",
+     "un munte",
+     "un program de televiziune"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "România face parte integral din spațiul Schengen din 2025."
+   },
+   "surse": [
+    "Consiliul UE, decizia din 12.12.2024 – ridicarea controalelor la frontierele terestre cu România și Bulgaria",
+    "Comisia Europeană – Schengen Area"
+   ]
+  },
+  {
+   "id": "VI32-27",
+   "nivel": "VI-S32-valori-culturale-umane-europene",
+   "competente": [
+    "VI-2.3",
+    "VI-4.1"
+   ],
+   "tip": "grafic",
+   "dificultate": 3,
+   "enunt": "Graficul arată numărul de vizitatori la trei muzee imaginare într-un an. Care e cel mai vizitat?",
+   "date": {
+    "grafic": {
+     "tip": "bare",
+     "titlu": "Vizitatori într-un an (muzee imaginare)",
+     "date": [
+      {
+       "eticheta": "muzeul A",
+       "valoare": 8
+      },
+      {
+       "eticheta": "muzeul B",
+       "valoare": 3
+      },
+      {
+       "eticheta": "muzeul C",
+       "valoare": 5
+      }
+     ],
+     "unitate": "milioane"
+    },
+    "variante": [
+     "muzeul A",
+     "muzeul B",
+     "muzeul C",
+     "sunt egale"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "8 milioane de vizitatori la muzeul A."
+   }
+  },
+  {
+   "id": "VI32-28",
+   "nivel": "VI-S32-valori-culturale-umane-europene",
+   "competente": [
+    "VI-3.4"
+   ],
+   "tip": "alegere",
+   "dificultate": 3,
+   "enunt": "Ce leagă peisajul minier de la Roșia Montană de istoria Europei?",
+   "date": {
+    "variante": [
+     "galerii romane de aur, de aproape 2 000 de ani, unice în lume",
+     "un vulcan activ",
+     "o centrală nucleară",
+     "o stațiune de schi"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "A fost înscris în patrimoniul UNESCO în 2021."
+   },
+   "surse": [
+    "UNESCO World Heritage Centre – lista patrimoniului mondial (whc.unesco.org)",
+    "Ministerul Culturii – Monumente UNESCO din România"
+   ]
+  },
+  {
+   "id": "VI32-29",
+   "nivel": "VI-S32-valori-culturale-umane-europene",
+   "competente": [
+    "VI-3.4"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce ceramică tradițională românească e în patrimoniul imaterial UNESCO?",
+   "date": {
+    "variante": [
+     "ceramica de Horezu",
+     "porțelanul de Meissen",
+     "faianța olandeză",
+     "sticla de Murano"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Meșteșugul ceramicii de Horezu a fost înscris în 2012."
+   },
+   "surse": [
+    "UNESCO World Heritage Centre – lista patrimoniului mondial (whc.unesco.org)",
+    "Ministerul Culturii – Monumente UNESCO din România"
+   ]
+  },
+  {
+   "id": "VI32-30",
+   "nivel": "VI-S32-valori-culturale-umane-europene",
+   "competente": [
+    "VI-1.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Cum se numește instituția UE aleasă direct de cetățeni?",
+   "date": {
+    "variante": [
+     "Parlamentul European",
+     "Banca Mondială",
+     "ONU",
+     "NATO"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Alegerile europene au loc o dată la 5 ani."
+   },
+   "surse": [
+    "Uniunea Europeană – Țările UE (european-union.europa.eu)",
+    "Consiliul UE – statele membre"
+   ]
+  },
+  {
+   "id": "VI33-01",
+   "nivel": "VI-S33-calitatea-vietii-europa",
+   "competente": [
+    "VI-1.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 1,
+   "enunt": "Ce înseamnă calitatea vieții?",
+   "date": {
+    "variante": [
+     "cât de bine trăiesc oamenii: sănătate, educație, venit, mediu, siguranță",
+     "cât de mare e o țară",
+     "câți munți are",
+     "câte mașini are fiecare om"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Calitatea vieții are mai multe componente."
+   }
+  },
+  {
+   "id": "VI33-02",
+   "nivel": "VI-S33-calitatea-vietii-europa",
+   "competente": [
+    "VI-1.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce combină Indicele Dezvoltării Umane (IDU)?",
+   "date": {
+    "variante": [
+     "speranța de viață, educația și venitul",
+     "suprafața și relieful",
+     "numărul de orașe",
+     "înălțimea munților"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "IDU e calculat de ONU (UNDP)."
+   },
+   "surse": [
+    "UNDP – Human Development Report 2025",
+    "Wikipedia – List of countries by Human Development Index"
+   ]
+  },
+  {
+   "id": "VI33-03",
+   "nivel": "VI-S33-calitatea-vietii-europa",
+   "competente": [
+    "VI-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce țări europene au de obicei cel mai mare IDU?",
+   "date": {
+    "variante": [
+     "Norvegia, Elveția, Islanda, Danemarca",
+     "Belarus, Moldova",
+     "Albania, Kosovo",
+     "Ucraina, Georgia"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Țările nordice și Elveția au IDU foarte ridicat."
+   },
+   "surse": [
+    "UNDP – Human Development Report 2025",
+    "Wikipedia – List of countries by Human Development Index"
+   ]
+  },
+  {
+   "id": "VI33-04",
+   "nivel": "VI-S33-calitatea-vietii-europa",
+   "competente": [
+    "VI-1.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce este speranța de viață?",
+   "date": {
+    "variante": [
+     "numărul mediu de ani pe care se așteaptă să-i trăiască un om",
+     "vârsta de pensionare",
+     "vârsta la care începe școala",
+     "numărul de copii dintr-o familie"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Speranța de viață crește cu sănătatea și condițiile de trai."
+   }
+  },
+  {
+   "id": "VI33-05",
+   "nivel": "VI-S33-calitatea-vietii-europa",
+   "competente": [
+    "VI-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Cât e, aproximativ, speranța de viață în Uniunea Europeană?",
+   "date": {
+    "variante": [
+     "peste 80 de ani",
+     "40 de ani",
+     "60 de ani",
+     "120 de ani"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "După Eurostat, speranța de viață în UE e de aproximativ 81 de ani."
+   },
+   "surse": [
+    "Eurostat – Mortality and life expectancy statistics",
+    "OMS – Life expectancy at birth"
+   ]
+  },
+  {
+   "id": "VI33-06",
+   "nivel": "VI-S33-calitatea-vietii-europa",
+   "competente": [
+    "VI-3.3"
+   ],
+   "tip": "asociaza",
+   "dificultate": 2,
+   "enunt": "Asociază factorul cu efectul asupra calității vieții.",
+   "date": {
+    "perechi": [
+     [
+      "spitale bune",
+      "oameni mai sănătoși"
+     ],
+     [
+      "școli bune",
+      "locuri de muncă mai bune"
+     ],
+     [
+      "aer curat",
+      "mai puține boli respiratorii"
+     ],
+     [
+      "transport public",
+      "mai puțin trafic și poluare"
+     ]
+    ]
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Fiecare factor contează."
+   }
+  },
+  {
+   "id": "VI33-07",
+   "nivel": "VI-S33-calitatea-vietii-europa",
+   "competente": [
+    "VI-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce poate scădea calitatea vieții într-un oraș mare?",
+   "date": {
+    "variante": [
+     "poluarea, traficul și prețul mare al locuințelor",
+     "parcurile",
+     "bibliotecile",
+     "pistele de biciclete"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Orașele mari au avantaje, dar și probleme."
+   }
+  },
+  {
+   "id": "VI33-08",
+   "nivel": "VI-S33-calitatea-vietii-europa",
+   "competente": [
+    "VI-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "De ce în zonele rurale calitatea vieții poate fi mai scăzută?",
+   "date": {
+    "variante": [
+     "pentru că sunt mai puține servicii: spitale, școli, transport, locuri de muncă",
+     "pentru că aerul e mai poluat",
+     "pentru că e prea mult trafic",
+     "pentru că sunt prea multe muzee"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Dar satele au aer curat și liniște."
+   }
+  },
+  {
+   "id": "VI33-09",
+   "nivel": "VI-S33-calitatea-vietii-europa",
+   "competente": [
+    "VI-4.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Compară viața la sat cu cea la oraș.",
+   "date": {
+    "variante": [
+     "la oraș sunt mai multe servicii; la sat e aer mai curat și mai multă liniște",
+     "la sat sunt mai multe spitale",
+     "la oraș e mai liniște",
+     "sunt identice"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Fiecare are avantaje și dezavantaje."
+   }
+  },
+  {
+   "id": "VI33-10",
+   "nivel": "VI-S33-calitatea-vietii-europa",
+   "competente": [
+    "VI-3.3"
+   ],
+   "tip": "pin",
+   "dificultate": 2,
+   "enunt": "Atinge pe hartă Norvegia, una dintre țările cu cel mai mare IDU.",
+   "date": {
+    "harta": "lume",
+    "tinta": {
+     "lat": 62,
+     "lon": 9,
+     "nume": "Norvegia"
+    },
+    "toleranta": 500
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Norvegia e în nordul Europei."
+   },
+   "surse": [
+    "UNDP – Human Development Report 2025",
+    "Wikipedia – List of countries by Human Development Index"
+   ]
+  },
+  {
+   "id": "VI33-11",
+   "nivel": "VI-S33-calitatea-vietii-europa",
+   "competente": [
+    "VI-3.3"
+   ],
+   "tip": "pin",
+   "dificultate": 3,
+   "enunt": "Atinge pe hartă Elveția.",
+   "date": {
+    "harta": "lume",
+    "tinta": {
+     "lat": 46.8,
+     "lon": 8.2,
+     "nume": "Elveția"
+    },
+    "toleranta": 200
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Elveția e în Alpi."
+   }
+  },
+  {
+   "id": "VI33-12",
+   "nivel": "VI-S33-calitatea-vietii-europa",
+   "competente": [
+    "VI-1.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Adevărat sau fals? Calitatea vieții depinde doar de bani.",
+   "date": {
+    "variante": [
+     "Fals",
+     "Adevărat"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Fals: contează și sănătatea, educația, mediul, siguranța, relațiile."
+   }
+  },
+  {
+   "id": "VI33-13",
+   "nivel": "VI-S33-calitatea-vietii-europa",
+   "competente": [
+    "VI-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Adevărat sau fals? Există diferențe de calitate a vieții și în interiorul aceleiași țări.",
+   "date": {
+    "variante": [
+     "Adevărat",
+     "Fals"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Adevărat: de exemplu, între orașele mari și satele izolate."
+   }
+  },
+  {
+   "id": "VI33-14",
+   "nivel": "VI-S33-calitatea-vietii-europa",
+   "competente": [
+    "VI-1.2"
+   ],
+   "tip": "lacunar",
+   "dificultate": 2,
+   "enunt": "Completează.",
+   "date": {
+    "text": "Indicele Dezvoltării Umane combină speranța de {0}, educația și {1}.",
+    "raspunsuri": [
+     "viață",
+     "venitul"
+    ],
+    "distractori": [
+     "vacanță",
+     "relieful"
+    ]
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Viață și venit."
+   },
+   "surse": [
+    "UNDP – Human Development Report 2025",
+    "Wikipedia – List of countries by Human Development Index"
+   ]
+  },
+  {
+   "id": "VI33-15",
+   "nivel": "VI-S33-calitatea-vietii-europa",
+   "competente": [
+    "VI-3.3"
+   ],
+   "tip": "lacunar",
+   "dificultate": 2,
+   "enunt": "Completează.",
+   "date": {
+    "text": "Parcurile și grădinile din oraș se numesc spații {0}; ele fac aerul mai {1}.",
+    "raspunsuri": [
+     "verzi",
+     "curat"
+    ],
+    "distractori": [
+     "gri",
+     "poluat"
+    ]
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Spații verzi."
+   }
+  },
+  {
+   "id": "VI33-16",
+   "nivel": "VI-S33-calitatea-vietii-europa",
+   "competente": [
+    "VI-2.3",
+    "VI-4.1"
+   ],
+   "tip": "grafic",
+   "dificultate": 3,
+   "enunt": "Graficul arată speranța de viață în trei țări imaginare. Unde oamenii trăiesc, în medie, cel mai mult?",
+   "date": {
+    "grafic": {
+     "tip": "bare",
+     "titlu": "Speranța de viață (țări imaginare)",
+     "date": [
+      {
+       "eticheta": "țara A",
+       "valoare": 76
+      },
+      {
+       "eticheta": "țara B",
+       "valoare": 83
+      },
+      {
+       "eticheta": "țara C",
+       "valoare": 79
+      }
+     ],
+     "unitate": "ani"
+    },
+    "variante": [
+     "în țara B",
+     "în țara A",
+     "în țara C",
+     "egal"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "83 de ani în țara B."
+   }
+  },
+  {
+   "id": "VI33-17",
+   "nivel": "VI-S33-calitatea-vietii-europa",
+   "competente": [
+    "VI-4.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Cum poate o școală să îmbunătățească calitatea vieții elevilor?",
+   "date": {
+    "variante": [
+     "spații verzi, sport, mese sănătoase, ateliere și o atmosferă de respect",
+     "mai puține pauze",
+     "fără ferestre",
+     "fără bibliotecă"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Școala e o parte importantă a vieții."
+   }
+  },
+  {
+   "id": "VI33-18",
+   "nivel": "VI-S33-calitatea-vietii-europa",
+   "competente": [
+    "VI-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce înseamnă siguranța într-o comunitate?",
+   "date": {
+    "variante": [
+     "oamenii se pot plimba liniștiți, fără să se teamă de violență sau accidente",
+     "să nu ieși niciodată din casă",
+     "să nu ai vecini",
+     "să ai cât mai multe garduri"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Siguranța e o parte a calității vieții."
+   }
+  },
+  {
+   "id": "VI33-19",
+   "nivel": "VI-S33-calitatea-vietii-europa",
+   "competente": [
+    "VI-3.4"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce înseamnă accesibilitatea clădirilor?",
+   "date": {
+    "variante": [
+     "clădirile pot fi folosite de toți, inclusiv de persoanele în scaun rulant",
+     "clădirile sunt foarte înalte",
+     "clădirile nu au uși",
+     "clădirile sunt doar pentru turiști"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Rampele, liftul și ușile largi ajută pe toată lumea."
+   }
+  },
+  {
+   "id": "VI33-20",
+   "nivel": "VI-S33-calitatea-vietii-europa",
+   "competente": [
+    "VI-1.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 3,
+   "enunt": "De ce mulți tineri din Europa de Est lucrează în Europa de Vest?",
+   "date": {
+    "variante": [
+     "pentru salarii mai mari și alte oportunități",
+     "pentru că în est nu există școli",
+     "pentru că în vest e mai cald",
+     "pentru că e obligatoriu"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Migrația pentru muncă e frecventă în UE."
+   }
+  },
+  {
+   "id": "VI33-21",
+   "nivel": "VI-S33-calitatea-vietii-europa",
+   "competente": [
+    "VI-4.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 3,
+   "enunt": "Ce poate face o comunitate ca tinerii să rămână acasă?",
+   "date": {
+    "variante": [
+     "locuri de muncă, școli bune, spații de joacă și sport, internet rapid",
+     "închiderea școlilor",
+     "tăierea parcurilor",
+     "mai puține autobuze"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Comunitățile atractive își păstrează tinerii."
+   }
+  },
+  {
+   "id": "VI33-22",
+   "nivel": "VI-S33-calitatea-vietii-europa",
+   "competente": [
+    "VI-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce rol au voluntarii într-o comunitate?",
+   "date": {
+    "variante": [
+     "ajută gratuit la acțiuni utile: ecologizări, sprijin pentru vârstnici, evenimente",
+     "primesc salarii mari",
+     "nu au niciun rol",
+     "închid parcurile"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Voluntariatul crește calitatea vieții tuturor."
+   }
+  },
+  {
+   "id": "VI33-23",
+   "nivel": "VI-S33-calitatea-vietii-europa",
+   "competente": [
+    "VI-4.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce înseamnă un oraș „verde”?",
+   "date": {
+    "variante": [
+     "un oraș cu parcuri, transport curat, reciclare și clădiri care economisesc energie",
+     "un oraș vopsit în verde",
+     "un oraș fără copaci",
+     "un oraș plin de mașini"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Orașele verzi sunt mai sănătoase."
+   }
+  },
+  {
+   "id": "VI33-24",
+   "nivel": "VI-S33-calitatea-vietii-europa",
+   "competente": [
+    "VI-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce serviciu public e esențial pentru sănătate?",
+   "date": {
+    "variante": [
+     "sistemul de sănătate (spitale, medici de familie, vaccinare)",
+     "cinematograful",
+     "magazinul de jucării",
+     "parcarea"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Sănătatea e o componentă de bază a calității vieții."
+   }
+  },
+  {
+   "id": "VI33-25",
+   "nivel": "VI-S33-calitatea-vietii-europa",
+   "competente": [
+    "VI-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 3,
+   "enunt": "De ce educația crește calitatea vieții?",
+   "date": {
+    "variante": [
+     "oamenii educați găsesc mai ușor locuri de muncă bune și iau decizii mai informate",
+     "nu are legătură",
+     "scade veniturile",
+     "face oamenii mai puțin sănătoși"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Educația deschide oportunități."
+   }
+  },
+  {
+   "id": "VI33-26",
+   "nivel": "VI-S33-calitatea-vietii-europa",
+   "competente": [
+    "VI-3.3"
+   ],
+   "tip": "denumeste",
+   "dificultate": 2,
+   "enunt": "Ce țară nordică, cu calitate ridicată a vieții, e marcată pe hartă?",
+   "date": {
+    "harta": "lume",
+    "punct": {
+     "lat": 56,
+     "lon": 10
+    },
+    "variante": [
+     "Danemarca",
+     "Germania",
+     "Polonia",
+     "Țările de Jos"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Danemarca e pe Peninsula Iutlanda și pe insule."
+   }
+  },
+  {
+   "id": "VI33-27",
+   "nivel": "VI-S33-calitatea-vietii-europa",
+   "competente": [
+    "VI-4.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce poți face tu pentru calitatea vieții în cartierul tău?",
+   "date": {
+    "variante": [
+     "păstrezi curățenia, respecți vecinii, participi la acțiuni comunitare",
+     "faci zgomot noaptea",
+     "arunci gunoaie",
+     "strici băncile din parc"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Fiecare contribuie."
+   }
+  },
+  {
+   "id": "VI33-28",
+   "nivel": "VI-S33-calitatea-vietii-europa",
+   "competente": [
+    "VI-1.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 3,
+   "enunt": "Ce înseamnă „egalitate de șanse”?",
+   "date": {
+    "variante": [
+     "toți copiii au acces la educație și servicii, indiferent de unde provin",
+     "toți au aceleași note",
+     "toți locuiesc în același oraș",
+     "toți au aceeași meserie"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Egalitatea de șanse reduce diferențele."
+   }
+  },
+  {
+   "id": "VI33-29",
+   "nivel": "VI-S33-calitatea-vietii-europa",
+   "competente": [
+    "VI-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce înseamnă „speranță de viață mare”?",
+   "date": {
+    "variante": [
+     "oamenii trăiesc mult, de obicei datorită sănătății și condițiilor bune",
+     "oamenii speră să călătorească",
+     "se nasc mulți copii",
+     "oamenii se mută des"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Speranța de viață e un indicator al calității vieții."
+   }
+  },
+  {
+   "id": "VI33-30",
+   "nivel": "VI-S33-calitatea-vietii-europa",
+   "competente": [
+    "VI-3.4"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce instituție UE sprijină regiunile mai puțin dezvoltate prin fonduri?",
+   "date": {
+    "variante": [
+     "Uniunea Europeană, prin fondurile europene",
+     "FIFA",
+     "NASA",
+     "UNESCO"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Fondurile europene construiesc drumuri, școli, spitale."
+   },
+   "surse": [
+    "Uniunea Europeană – Țările UE (european-union.europa.eu)",
+    "Consiliul UE – statele membre"
+   ]
+  }
+ ]
+}

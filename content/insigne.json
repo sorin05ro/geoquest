@@ -1,0 +1,143 @@
+{
+ "insigne": [
+  {
+   "id": "busola-de-aur",
+   "nume": "Busola de aur",
+   "clasa": 5,
+   "competenta": "V-2.1",
+   "icon": "🧭",
+   "descriere": "Te orientezi după punctele cardinale, Soare și busolă: 3 stele la „Orientarea în spațiul terestru”.",
+   "conditie": {
+    "niveluri": [
+     "V-S08-orientarea-spatiul-terestru-elemente"
+    ],
+    "steleMinime": 3
+   }
+  },
+  {
+   "id": "geolog",
+   "nume": "Geolog",
+   "clasa": 5,
+   "competenta": "V-1.2",
+   "icon": "🪨",
+   "descriere": "Descrii straturile Pământului: 3 stele la „Structura internă a Terrei”.",
+   "conditie": {
+    "niveluri": [
+     "V-S11-structura-interna-terrei"
+    ],
+    "steleMinime": 3
+   }
+  },
+  {
+   "id": "seismolog",
+   "nume": "Seismolog",
+   "clasa": 5,
+   "competenta": "V-4.3",
+   "icon": "🌋",
+   "descriere": "Știi cum să te porți la cutremur: 2 stele la „Vulcanii și cutremurele” și expediția despre relieful orizontului local.",
+   "conditie": {
+    "niveluri": [
+     "V-S13-vulcanii-cutremurele"
+    ],
+    "steleMinime": 2,
+    "expeditii": [
+     "V-S16-aplicatii-practice-relieful-orizontului"
+    ]
+   }
+  },
+  {
+   "id": "cartograful-reliefului",
+   "nume": "Cartograful reliefului",
+   "clasa": 5,
+   "competenta": "V-2.3",
+   "icon": "🗺️",
+   "descriere": "Citești profilul fundului oceanic și harta continentelor: 3 stele la „Relieful”.",
+   "conditie": {
+    "niveluri": [
+     "V-S12-relieful-continente-bazine-oceanice"
+    ],
+    "steleMinime": 3
+   }
+  },
+  {
+   "id": "invingatorul-litosferei",
+   "nume": "Învingătorul Litosferei",
+   "clasa": 5,
+   "competenta": "V-1.1",
+   "icon": "⚔️",
+   "descriere": "Ai învins Boss-ul T₂ cu cel puțin 50 %.",
+   "conditie": {
+    "boss": "V-T2",
+    "scorBoss": 0.5
+   }
+  },
+  {
+   "id": "podisuri-est",
+   "nume": "Cunoscătorul podișurilor",
+   "clasa": 8,
+   "competenta": "VIII-2.1",
+   "icon": "🏞️",
+   "descriere": "Localizezi subunitățile Podișului Moldovei și ale Dobrogei: 3 stele la nivelul lor.",
+   "conditie": {
+    "niveluri": [
+     "VIII-S08-podisul-moldovei-podisul-dobrogei"
+    ],
+    "steleMinime": 3
+   }
+  },
+  {
+   "id": "campiile-romaniei",
+   "nume": "Stăpânul câmpiilor",
+   "clasa": 8,
+   "competenta": "VIII-4.3",
+   "icon": "🌾",
+   "descriere": "Compari Câmpia de Vest cu Câmpia Română: 2 stele la amândouă nivelurile.",
+   "conditie": {
+    "niveluri": [
+     "VIII-S09-campia-vest-dealurile-vest",
+     "VIII-S10-campia-romana"
+    ],
+    "steleMinime": 2
+   }
+  },
+  {
+   "id": "gardianul-deltei",
+   "nume": "Gardianul Deltei",
+   "clasa": 8,
+   "competenta": "VIII-3.4",
+   "icon": "🦢",
+   "descriere": "Explici de ce Delta Dunării e patrimoniu natural: 3 stele la nivelul Deltei.",
+   "conditie": {
+    "niveluri": [
+     "VIII-S11-delta-dunarii-platforma-continentala"
+    ],
+    "steleMinime": 3
+   }
+  },
+  {
+   "id": "seismolog-ro",
+   "nume": "Seismolog",
+   "clasa": 8,
+   "competenta": "VIII-4.4",
+   "icon": "📈",
+   "descriere": "Ai încheiat expediția despre profile, relieful județului și riscurile din orizontul local.",
+   "conditie": {
+    "expeditii": [
+     "VIII-S12-aplicatii-practice-studii-caz"
+    ]
+   }
+  },
+  {
+   "id": "invingatorul-reliefului",
+   "nume": "Învingătorul reliefului",
+   "clasa": 8,
+   "competenta": "VIII-2.1",
+   "icon": "⚔️",
+   "descriere": "Ai învins Boss-ul T₂ cu cel puțin 50 %.",
+   "conditie": {
+    "boss": "VIII-T2",
+    "scorBoss": 0.5
+   }
+  }
+ ]
+}

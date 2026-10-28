@@ -1,0 +1,3163 @@
+{
+ "clasa": 8,
+ "unitate": "Caracteristici ale mediului înconjurător. România în Europa și în lume",
+ "niveluri": [
+  {
+   "id": "VIII-S35-calitatea-mediului-inconjurator-romania",
+   "tip": "nivel",
+   "titlu": "Calitatea mediului înconjurător în România",
+   "descopera": {
+    "intrebare": "Cât de curat e aerul, apa și solul din jurul tău?"
+   },
+   "invata": [
+    {
+     "titlu": "Probleme de mediu",
+     "text": "Poluarea aerului – în marile orașe (trafic, încălzire) și lângă zone industriale. Poluarea apei – din ape uzate netratate, deșeuri pe malurile râurilor. Degradarea solului – eroziune, alunecări, salinizare, poluare cu reziduuri.\nDefrișările ilegale, depozitarea necontrolată a deșeurilor, braconajul și pierderea biodiversității sunt și ele probleme."
+    },
+    {
+     "titlu": "Evoluții recente",
+     "text": "După 1990 și mai ales după aderarea la UE (2007), multe fabrici poluante s-au închis sau s-au modernizat, s-au construit stații de epurare și depozite ecologice, a crescut colectarea selectivă.\nRomânia are aproape un sfert din teritoriu în rețeaua europeană de arii protejate Natura 2000 și păduri virgine printre ultimele din Europa."
+    },
+    {
+     "titlu": "Ce putem face",
+     "text": "Colectare selectivă și reciclare, economie de energie și apă, transport public și bicicletă, plantarea de copaci, participarea la ecologizări, respectarea regulilor în ariile protejate."
+    }
+   ],
+   "stiaiCa": "Pădurile seculare de fag din Carpații României fac parte din patrimoniul mondial UNESCO, alături de păduri din alte 17 țări europene.",
+   "referintaProfesor": "Manual Art Klett, clasa a VIII-a, ediția 2025 (manuale.edu.ro), lecția „Calitatea mediului înconjurător în România. Evoluții recente”"
+  },
+  {
+   "id": "VIII-S35-resurse-populatie-elemente-dezvoltarii",
+   "tip": "nivel",
+   "titlu": "Resurse, populație și elemente ale dezvoltării sustenabile",
+   "descopera": {
+    "intrebare": "Cum poate România să se dezvolte fără să-și distrugă resursele?"
+   },
+   "invata": [
+    {
+     "titlu": "Dezvoltare sustenabilă",
+     "text": "Dezvoltarea sustenabilă (durabilă) înseamnă să satisfacem nevoile de azi fără să compromitem posibilitatea generațiilor viitoare de a-și satisface nevoile lor. Are trei piloni: economic, social și de mediu.\nONU a adoptat în 2015 Agenda 2030, cu 17 Obiective de Dezvoltare Durabilă: fără sărăcie, educație de calitate, energie curată, orașe durabile, acțiune climatică etc."
+    },
+    {
+     "titlu": "România: resurse și populație",
+     "text": "Resurse: soluri fertile, păduri, ape, petrol și gaze, energie hidro, eoliană și solară, peisaje pentru turism. Provocări: scăderea și îmbătrânirea populației, emigrarea tinerilor, diferențele dintre regiuni, dependența de unele importuri."
+    },
+    {
+     "titlu": "Soluții",
+     "text": "Educație și inovare, energie regenerabilă, agricultură modernă și ecologică, turism durabil, infrastructură, păstrarea tinerilor în țară, folosirea responsabilă a fondurilor europene."
+    }
+   ],
+   "stiaiCa": "Expresia „dezvoltare durabilă” a fost definită în Raportul Brundtland al ONU, publicat în 1987, cu titlul „Viitorul nostru comun”.",
+   "referintaProfesor": "Manual Art Klett, clasa a VIII-a, ediția 2025 (manuale.edu.ro), lecția „Resurse, populație și elemente ale dezvoltării sustenabile”"
+  },
+  {
+   "id": "VIII-S35-valorile-naturale-culturale-romaniei",
+   "tip": "nivel",
+   "titlu": "Valorile naturale și culturale ale României",
+   "descopera": {
+    "intrebare": "Ce comori ale României sunt recunoscute de toată lumea?"
+   },
+   "invata": [
+    {
+     "titlu": "Patrimoniul natural",
+     "text": "Delta Dunării (patrimoniu mondial UNESCO și Rezervație a Biosferei), pădurile seculare de fag din Carpați (UNESCO), parcuri naționale (Retezat, Piatra Craiului, Rodnei, Cheile Bicazului–Hășmaș, Ceahlău, Domogled–Valea Cernei și altele), geoparcurile UNESCO (Hațeg, Ținutul Buzăului).\nPeșteri, chei, lacuri glaciare, vulcani noroioși, fauna de carnivore mari."
+    },
+    {
+     "titlu": "Patrimoniul cultural",
+     "text": "Situri UNESCO: bisericile pictate din nordul Moldovei, bisericile de lemn din Maramureș, satele cu biserici fortificate din Transilvania, centrul istoric al Sighișoarei, Mănăstirea Horezu, cetățile dacice din Munții Orăștiei, peisajul minier de la Roșia Montană, frontierele Imperiului Roman în Dacia.\nPatrimoniu imaterial: Călușul, doina, colindatul în ceată bărbătească, ceramica de Horezu, mărțișorul, tehnicile tradiționale de țesut."
+    },
+    {
+     "titlu": "Personalități",
+     "text": "Mihai Eminescu, Ion Creangă, George Enescu, Constantin Brâncuși, Nicolae Grigorescu, Emil Racoviță, Henri Coandă, Traian Vuia, Aurel Vlaicu, Ana Aslan, Nadia Comăneci."
+    }
+   ],
+   "stiaiCa": "Mărțișorul a fost înscris în patrimoniul imaterial UNESCO în 2017, împreună cu Bulgaria, Republica Moldova și Macedonia de Nord.",
+   "referintaProfesor": "Manual Art Klett, clasa a VIII-a, ediția 2025 (manuale.edu.ro), lecția „Valorile naturale și culturale ale României”"
+  },
+  {
+   "id": "VIII-S35-romania-ca-membru-onu",
+   "tip": "nivel",
+   "titlu": "România ca membru ONU, NATO și UE",
+   "descopera": {
+    "intrebare": "Ce înseamnă pentru tine că România e membră a Uniunii Europene?"
+   },
+   "invata": [
+    {
+     "titlu": "ONU și NATO",
+     "text": "România e membră a Organizației Națiunilor Unite (ONU) din 14 decembrie 1955. ONU urmărește pacea, drepturile omului și dezvoltarea. România participă la misiuni ONU de menținere a păcii.\nRomânia e membră a Alianței Nord-Atlantice (NATO) din 29 martie 2004: o alianță de apărare colectivă („unul pentru toți, toți pentru unul”)."
+    },
+    {
+     "titlu": "Uniunea Europeană",
+     "text": "România e membră a Uniunii Europene din 1 ianuarie 2007. Cetățenii români pot circula, munci și studia liber în statele UE. România primește fonduri europene pentru drumuri, școli, spitale, agricultură.\nDin 2024 (aerian și maritim) și din 1 ianuarie 2025 (terestru), România face parte complet din spațiul Schengen, fără controale la frontierele interne. România nu a adoptat încă moneda euro."
+    },
+    {
+     "titlu": "Alte organizații",
+     "text": "România face parte și din Consiliul Europei, OSCE, Organizația Mondială a Comerțului, Organizația Internațională a Francofoniei, Organizația Cooperării Economice a Mării Negre (cu sediul la Istanbul) și altele."
+    }
+   ],
+   "stiaiCa": "Românii pot folosi cardul european de sănătate și pot studia cu programul Erasmus+ în orice stat al Uniunii Europene.",
+   "referintaProfesor": "Manual Art Klett, clasa a VIII-a, ediția 2025 (manuale.edu.ro), lecția „România ca membru ONU, NATO și UE”"
+  }
+ ],
+ "itemi": [
+  {
+   "id": "VIII35a-01",
+   "nivel": "VIII-S35-calitatea-mediului-inconjurator-romania",
+   "competente": [
+    "VIII-3.2"
+   ],
+   "tip": "asociaza",
+   "dificultate": 2,
+   "enunt": "Asociază problema de mediu cu o cauză.",
+   "date": {
+    "perechi": [
+     [
+      "poluarea aerului în orașe",
+      "traficul și încălzirea"
+     ],
+     [
+      "poluarea râurilor",
+      "ape uzate netratate"
+     ],
+     [
+      "eroziunea solului",
+      "defrișarea pantelor"
+     ],
+     [
+      "pierderea biodiversității",
+      "braconajul și distrugerea habitatelor"
+     ]
+    ]
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Probleme și cauze."
+   }
+  },
+  {
+   "id": "VIII35a-02",
+   "nivel": "VIII-S35-calitatea-mediului-inconjurator-romania",
+   "competente": [
+    "VIII-4.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 1,
+   "enunt": "Ce înseamnă colectarea selectivă?",
+   "date": {
+    "variante": [
+     "separarea deșeurilor pe categorii: hârtie, plastic și metal, sticlă, resturi organice",
+     "arderea deșeurilor",
+     "aruncarea tuturor la un loc",
+     "îngroparea lor în curte"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Permite reciclarea."
+   }
+  },
+  {
+   "id": "VIII35a-03",
+   "nivel": "VIII-S35-calitatea-mediului-inconjurator-romania",
+   "competente": [
+    "VIII-3.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce parte din teritoriul României e în rețeaua Natura 2000?",
+   "date": {
+    "variante": [
+     "aproape un sfert",
+     "aproape nimic",
+     "toată țara",
+     "jumătate exact"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Situri pentru specii și habitate."
+   },
+   "surse": [
+    "Agenția Europeană de Mediu (EEA) – Natura 2000 barometer",
+    "Ministerul Mediului – Rețeaua Natura 2000 în România"
+   ]
+  },
+  {
+   "id": "VIII35a-04",
+   "nivel": "VIII-S35-calitatea-mediului-inconjurator-romania",
+   "competente": [
+    "VIII-3.4"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce păduri din România sunt în patrimoniul mondial UNESCO?",
+   "date": {
+    "variante": [
+     "pădurile seculare (virgine) de fag din Carpați",
+     "pădurile de molid plantate",
+     "parcurile din orașe",
+     "pădurile tropicale"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Înscrise în 2017."
+   },
+   "surse": [
+    "Comisia Europeană – Primary and old-growth forests in the EU",
+    "UNESCO – Ancient and Primeval Beech Forests of the Carpathians and Other Regions of Europe"
+   ]
+  },
+  {
+   "id": "VIII35a-05",
+   "nivel": "VIII-S35-calitatea-mediului-inconjurator-romania",
+   "competente": [
+    "VIII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce s-a schimbat după aderarea la UE în protecția mediului?",
+   "date": {
+    "variante": [
+     "s-au construit stații de epurare, depozite ecologice și a crescut reciclarea",
+     "s-au deschis mai multe fabrici poluante",
+     "s-a interzis reciclarea",
+     "nimic"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Legislația europeană de mediu."
+   }
+  },
+  {
+   "id": "VIII35a-06",
+   "nivel": "VIII-S35-calitatea-mediului-inconjurator-romania",
+   "competente": [
+    "VIII-3.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "De unde vine poluarea aerului în București?",
+   "date": {
+    "variante": [
+     "mai ales din trafic, încălzire și construcții",
+     "din vulcani",
+     "din Marea Neagră",
+     "din ghețari"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Particule fine și noxe."
+   }
+  },
+  {
+   "id": "VIII35a-07",
+   "nivel": "VIII-S35-calitatea-mediului-inconjurator-romania",
+   "competente": [
+    "VIII-4.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce sunt tăierile ilegale de pădure?",
+   "date": {
+    "variante": [
+     "tăierea copacilor fără autorizație",
+     "plantarea de copaci",
+     "curățenia pădurii",
+     "vânătoarea autorizată"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Afectează solul, apele și animalele."
+   }
+  },
+  {
+   "id": "VIII35a-08",
+   "nivel": "VIII-S35-calitatea-mediului-inconjurator-romania",
+   "competente": [
+    "VIII-3.4"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce carnivore mari, rare în restul Europei, mai trăiesc în număr mare în Carpații României?",
+   "date": {
+    "variante": [
+     "ursul, lupul și râsul",
+     "leul și tigrul",
+     "ursul polar",
+     "jaguarul"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Indicator al pădurilor sănătoase."
+   },
+   "surse": [
+    "Comisia Europeană (DG Mediu) – Large Carnivores in the EU: România",
+    "WWF România – Carnivore mari"
+   ]
+  },
+  {
+   "id": "VIII35a-09",
+   "nivel": "VIII-S35-calitatea-mediului-inconjurator-romania",
+   "competente": [
+    "VIII-2.2"
+   ],
+   "tip": "pin",
+   "dificultate": 2,
+   "enunt": "Atinge pe harta României Parcul Național Retezat.",
+   "date": {
+    "harta": "romania",
+    "tinta": {
+     "lat": 45.37,
+     "lon": 22.85,
+     "nume": "Retezat"
+    },
+    "toleranta": 40
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Primul parc național (1935)."
+   },
+   "surse": [
+    "Parcul Național Retezat (retezat.ro) – istoric: primul parc național (1935)",
+    "Wikipedia (ro) – Parcul Național Retezat"
+   ]
+  },
+  {
+   "id": "VIII35a-10",
+   "nivel": "VIII-S35-calitatea-mediului-inconjurator-romania",
+   "competente": [
+    "VIII-2.2"
+   ],
+   "tip": "pin",
+   "dificultate": 3,
+   "enunt": "Atinge pe harta României Munții Făgăraș, cu păduri virgine importante.",
+   "date": {
+    "harta": "romania",
+    "tinta": {
+     "lat": 45.6,
+     "lon": 24.7,
+     "nume": "Făgăraș"
+    },
+    "toleranta": 50
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "În Carpații Meridionali."
+   }
+  },
+  {
+   "id": "VIII35a-11",
+   "nivel": "VIII-S35-calitatea-mediului-inconjurator-romania",
+   "competente": [
+    "VIII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Adevărat sau fals? Calitatea mediului în România nu s-a schimbat deloc după 1990.",
+   "date": {
+    "variante": [
+     "Fals",
+     "Adevărat"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Fals: multe surse de poluare au scăzut, dar există încă probleme."
+   }
+  },
+  {
+   "id": "VIII35a-12",
+   "nivel": "VIII-S35-calitatea-mediului-inconjurator-romania",
+   "competente": [
+    "VIII-4.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Adevărat sau fals? Reciclarea reduce cantitatea de deșeuri depozitate.",
+   "date": {
+    "variante": [
+     "Adevărat",
+     "Fals"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Adevărat."
+   }
+  },
+  {
+   "id": "VIII35a-13",
+   "nivel": "VIII-S35-calitatea-mediului-inconjurator-romania",
+   "competente": [
+    "VIII-4.3"
+   ],
+   "tip": "lacunar",
+   "dificultate": 2,
+   "enunt": "Completează.",
+   "date": {
+    "text": "Separarea deșeurilor se numește colectare {0}; rețeaua europeană de arii protejate se numește Natura {1}.",
+    "raspunsuri": [
+     "selectivă",
+     "2000"
+    ],
+    "distractori": [
+     "comună",
+     "2007"
+    ]
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Protecția mediului."
+   },
+   "surse": [
+    "Agenția Europeană de Mediu (EEA) – Natura 2000 barometer",
+    "Ministerul Mediului – Rețeaua Natura 2000 în România"
+   ]
+  },
+  {
+   "id": "VIII35a-14",
+   "nivel": "VIII-S35-calitatea-mediului-inconjurator-romania",
+   "competente": [
+    "VIII-3.4"
+   ],
+   "tip": "lacunar",
+   "dificultate": 2,
+   "enunt": "Completează.",
+   "date": {
+    "text": "Primul parc național al României este {0}, înființat în anul {1}.",
+    "raspunsuri": [
+     "Retezat",
+     "1935"
+    ],
+    "distractori": [
+     "Bucegi",
+     "1990"
+    ]
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Arii protejate."
+   },
+   "surse": [
+    "Parcul Național Retezat (retezat.ro) – istoric: primul parc național (1935)",
+    "Wikipedia (ro) – Parcul Național Retezat"
+   ]
+  },
+  {
+   "id": "VIII35a-15",
+   "nivel": "VIII-S35-calitatea-mediului-inconjurator-romania",
+   "competente": [
+    "VIII-2.2"
+   ],
+   "tip": "grafic",
+   "dificultate": 3,
+   "enunt": "Graficul arată rata de reciclare într-un oraș imaginar. Ce tendință observi?",
+   "date": {
+    "grafic": {
+     "tip": "profil",
+     "titlu": "Rata de reciclare a deșeurilor (oraș imaginar)",
+     "date": [
+      {
+       "eticheta": "2015",
+       "valoare": 8
+      },
+      {
+       "eticheta": "2018",
+       "valoare": 13
+      },
+      {
+       "eticheta": "2021",
+       "valoare": 20
+      },
+      {
+       "eticheta": "2024",
+       "valoare": 28
+      }
+     ],
+     "unitate": "%"
+    },
+    "variante": [
+     "reciclarea crește, dar e încă mică",
+     "reciclarea scade",
+     "toate deșeurile sunt reciclate",
+     "nu se schimbă"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Mai e mult de făcut."
+   }
+  },
+  {
+   "id": "VIII35a-16",
+   "nivel": "VIII-S35-calitatea-mediului-inconjurator-romania",
+   "competente": [
+    "VIII-4.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 3,
+   "enunt": "Compară calitatea aerului dintr-un oraș mare cu cea dintr-un sat de munte.",
+   "date": {
+    "variante": [
+     "în orașul mare aerul e mai poluat din cauza traficului; la munte aerul e mai curat",
+     "sunt identice",
+     "satul e mai poluat",
+     "orașul nu are poluare"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Surse diferite de poluare."
+   }
+  },
+  {
+   "id": "VIII35a-17",
+   "nivel": "VIII-S35-calitatea-mediului-inconjurator-romania",
+   "competente": [
+    "VIII-2.2"
+   ],
+   "tip": "denumeste",
+   "dificultate": 2,
+   "enunt": "Ce rezervație a biosferei, amenințată de poluare și braconaj, e marcată pe hartă?",
+   "date": {
+    "harta": "romania",
+    "punct": {
+     "lat": 45.1,
+     "lon": 29.3
+    },
+    "variante": [
+     "Delta Dunării",
+     "Parcul Retezat",
+     "Munții Apuseni",
+     "Bucegi"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Patrimoniu UNESCO."
+   }
+  },
+  {
+   "id": "VIII35a-18",
+   "nivel": "VIII-S35-calitatea-mediului-inconjurator-romania",
+   "competente": [
+    "VIII-4.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce poți face ca elev pentru calitatea mediului?",
+   "date": {
+    "variante": [
+     "reciclezi, participi la ecologizări, economisești apă și energie",
+     "arunci deșeuri pe stradă",
+     "lași apa să curgă",
+     "arzi plasticul"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Gesturi zilnice."
+   }
+  },
+  {
+   "id": "VIII35a-19",
+   "nivel": "VIII-S35-calitatea-mediului-inconjurator-romania",
+   "competente": [
+    "VIII-3.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "De ce gropile de gunoi neecologice sunt periculoase?",
+   "date": {
+    "variante": [
+     "poluează solul și apele subterane și emit gaze",
+     "îmbogățesc solul",
+     "sunt locuri de joacă",
+     "nu au efecte"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Au fost închise multe după 2007."
+   }
+  },
+  {
+   "id": "VIII35a-20",
+   "nivel": "VIII-S35-calitatea-mediului-inconjurator-romania",
+   "competente": [
+    "VIII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce sunt stațiile de epurare?",
+   "date": {
+    "variante": [
+     "instalații care curăță apele uzate înainte de a ajunge în râuri",
+     "fabrici de apă minerală",
+     "hidrocentrale",
+     "fântâni"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Protejează râurile."
+   }
+  },
+  {
+   "id": "VIII35a-21",
+   "nivel": "VIII-S35-calitatea-mediului-inconjurator-romania",
+   "competente": [
+    "VIII-4.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce înseamnă „amprentă ecologică”?",
+   "date": {
+    "variante": [
+     "cât consumă o persoană din resursele naturii",
+     "o urmă de animal",
+     "un tip de hartă",
+     "o rocă"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Cu cât e mai mică, cu atât mai bine."
+   }
+  },
+  {
+   "id": "VIII35a-22",
+   "nivel": "VIII-S35-calitatea-mediului-inconjurator-romania",
+   "competente": [
+    "VIII-3.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce problemă a apărut în zonele miniere închise?",
+   "date": {
+    "variante": [
+     "halde de steril și ape acide care poluează solul și râurile",
+     "mai mulți turiști",
+     "aer mai curat imediat",
+     "nicio problemă"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Ecologizarea fostelor mine e necesară."
+   }
+  },
+  {
+   "id": "VIII35a-23",
+   "nivel": "VIII-S35-calitatea-mediului-inconjurator-romania",
+   "competente": [
+    "VIII-4.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce înseamnă un sit Natura 2000?",
+   "date": {
+    "variante": [
+     "un loc protejat pentru specii și habitate importante la nivel european",
+     "o zonă industrială",
+     "un nou oraș",
+     "o autostradă"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Activitățile sunt reglementate."
+   }
+  },
+  {
+   "id": "VIII35a-24",
+   "nivel": "VIII-S35-calitatea-mediului-inconjurator-romania",
+   "competente": [
+    "VIII-4.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 3,
+   "enunt": "Ce legătură există între defrișări și inundații în Subcarpații Buzăului?",
+   "date": {
+    "variante": [
+     "fără păduri, apa curge repede la vale, produce viituri și alunecări",
+     "nicio legătură",
+     "defrișările opresc inundațiile",
+     "pădurile produc inundații"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Pădurea reține apa."
+   }
+  },
+  {
+   "id": "VIII35a-25",
+   "nivel": "VIII-S35-calitatea-mediului-inconjurator-romania",
+   "competente": [
+    "VIII-3.4"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce instituție anunță calitatea aerului în timp real în România?",
+   "date": {
+    "variante": [
+     "rețeaua națională de monitorizare a calității aerului (calitateaer.ro)",
+     "ANM pentru cutremure",
+     "Poliția",
+     "Banca Națională"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Stații de măsurare în orașe."
+   }
+  },
+  {
+   "id": "VIII35a-26",
+   "nivel": "VIII-S35-calitatea-mediului-inconjurator-romania",
+   "competente": [
+    "VIII-4.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Cum ajută bicicleta calitatea mediului?",
+   "date": {
+    "variante": [
+     "nu poluează și reduce traficul",
+     "poluează mult",
+     "consumă benzină",
+     "nu are niciun efect"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Piste de biciclete în orașe."
+   }
+  },
+  {
+   "id": "VIII35a-27",
+   "nivel": "VIII-S35-calitatea-mediului-inconjurator-romania",
+   "competente": [
+    "VIII-3.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce poluant afectează solul din agricultura intensivă?",
+   "date": {
+    "variante": [
+     "pesticidele și îngrășămintele în exces",
+     "humusul",
+     "râmele",
+     "frunzele căzute"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Se recomandă folosirea cu măsură."
+   }
+  },
+  {
+   "id": "VIII35a-28",
+   "nivel": "VIII-S35-calitatea-mediului-inconjurator-romania",
+   "competente": [
+    "VIII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce plantă invazivă, care produce alergii, e răspândită în sudul și vestul României?",
+   "date": {
+    "variante": [
+     "ambrozia",
+     "floarea de colț",
+     "bujorul de munte",
+     "laleaua pestriță"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Legea obligă la distrugerea ei."
+   }
+  },
+  {
+   "id": "VIII35a-29",
+   "nivel": "VIII-S35-calitatea-mediului-inconjurator-romania",
+   "competente": [
+    "VIII-4.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 3,
+   "enunt": "Ce înseamnă un mediu „de calitate” pentru o comunitate?",
+   "date": {
+    "variante": [
+     "aer și apă curate, deșeuri gestionate, spații verzi, natură protejată",
+     "multe fabrici fără filtre",
+     "trafic intens",
+     "fără parcuri"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Mediul influențează sănătatea."
+   }
+  },
+  {
+   "id": "VIII35a-30",
+   "nivel": "VIII-S35-calitatea-mediului-inconjurator-romania",
+   "competente": [
+    "VIII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce tip de container folosești pentru sticlele de sticlă?",
+   "date": {
+    "variante": [
+     "verde",
+     "galben",
+     "albastru",
+     "roșu"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Galben – plastic și metal; albastru – hârtie."
+   }
+  },
+  {
+   "id": "VIII35b-01",
+   "nivel": "VIII-S35-resurse-populatie-elemente-dezvoltarii",
+   "competente": [
+    "VIII-1.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 1,
+   "enunt": "Ce înseamnă dezvoltare sustenabilă?",
+   "date": {
+    "variante": [
+     "dezvoltare care satisface nevoile de azi fără să compromită viitorul",
+     "dezvoltare cât mai rapidă cu orice preț",
+     "oprirea dezvoltării",
+     "exploatarea totală a resurselor"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Definiția Brundtland (1987)."
+   }
+  },
+  {
+   "id": "VIII35b-02",
+   "nivel": "VIII-S35-resurse-populatie-elemente-dezvoltarii",
+   "competente": [
+    "VIII-3.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Câte Obiective de Dezvoltare Durabilă are Agenda 2030 a ONU?",
+   "date": {
+    "variante": [
+     "17",
+     "3",
+     "27",
+     "100"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Adoptate în 2015."
+   },
+   "surse": [
+    "ONU – Agenda 2030 și cele 17 Obiective de Dezvoltare Durabilă (sdgs.un.org)",
+    "Departamentul pentru Dezvoltare Durabilă (Guvernul României)"
+   ]
+  },
+  {
+   "id": "VIII35b-03",
+   "nivel": "VIII-S35-resurse-populatie-elemente-dezvoltarii",
+   "competente": [
+    "VIII-3.2"
+   ],
+   "tip": "asociaza",
+   "dificultate": 2,
+   "enunt": "Asociază pilonul dezvoltării durabile cu un exemplu.",
+   "date": {
+    "perechi": [
+     [
+      "economic",
+      "locuri de muncă și firme"
+     ],
+     [
+      "social",
+      "educație și sănătate pentru toți"
+     ],
+     [
+      "de mediu",
+      "aer și apă curate, natură protejată"
+     ]
+    ]
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Cei trei piloni."
+   }
+  },
+  {
+   "id": "VIII35b-04",
+   "nivel": "VIII-S35-resurse-populatie-elemente-dezvoltarii",
+   "competente": [
+    "VIII-3.3"
+   ],
+   "tip": "asociaza",
+   "dificultate": 2,
+   "enunt": "Asociază resursa României cu o folosire durabilă.",
+   "date": {
+    "perechi": [
+     [
+      "pădurea",
+      "tăiere controlată și replantare"
+     ],
+     [
+      "vântul din Dobrogea",
+      "parcuri eoliene"
+     ],
+     [
+      "solul fertil",
+      "rotația culturilor"
+     ],
+     [
+      "peisajele montane",
+      "ecoturism"
+     ]
+    ]
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Folosirea durabilă."
+   }
+  },
+  {
+   "id": "VIII35b-05",
+   "nivel": "VIII-S35-resurse-populatie-elemente-dezvoltarii",
+   "competente": [
+    "VIII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce provocare demografică are România?",
+   "date": {
+    "variante": [
+     "scăderea și îmbătrânirea populației",
+     "creșterea foarte rapidă a populației",
+     "prea mulți copii",
+     "nicio provocare"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Spor natural negativ și emigrare."
+   }
+  },
+  {
+   "id": "VIII35b-06",
+   "nivel": "VIII-S35-resurse-populatie-elemente-dezvoltarii",
+   "competente": [
+    "VIII-4.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce poate face o țară pentru a-și păstra tinerii?",
+   "date": {
+    "variante": [
+     "locuri de muncă bine plătite, educație, locuințe, servicii publice bune",
+     "închiderea universităților",
+     "salarii mai mici",
+     "nimic"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Atractivitate."
+   }
+  },
+  {
+   "id": "VIII35b-07",
+   "nivel": "VIII-S35-resurse-populatie-elemente-dezvoltarii",
+   "competente": [
+    "VIII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce sursă de energie e cea mai durabilă dintre acestea?",
+   "date": {
+    "variante": [
+     "energia solară",
+     "cărbunele",
+     "petrolul",
+     "lemnul tăiat fără replantare"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Regenerabilă și curată."
+   }
+  },
+  {
+   "id": "VIII35b-08",
+   "nivel": "VIII-S35-resurse-populatie-elemente-dezvoltarii",
+   "competente": [
+    "VIII-3.4"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "În ce an a fost publicat Raportul Brundtland, care a definit dezvoltarea durabilă?",
+   "date": {
+    "variante": [
+     "1987",
+     "1945",
+     "2007",
+     "2015"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "„Viitorul nostru comun”."
+   }
+  },
+  {
+   "id": "VIII35b-09",
+   "nivel": "VIII-S35-resurse-populatie-elemente-dezvoltarii",
+   "competente": [
+    "VIII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce obiectiv ODD se referă la clima Pământului?",
+   "date": {
+    "variante": [
+     "„Acțiune climatică” (obiectivul 13)",
+     "„Viața acvatică” (14)",
+     "„Parteneriate” (17)",
+     "„Fără foamete” (2)"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Reducerea emisiilor și adaptarea."
+   },
+   "surse": [
+    "ONU – Agenda 2030 și cele 17 Obiective de Dezvoltare Durabilă (sdgs.un.org)",
+    "Departamentul pentru Dezvoltare Durabilă (Guvernul României)"
+   ]
+  },
+  {
+   "id": "VIII35b-10",
+   "nivel": "VIII-S35-resurse-populatie-elemente-dezvoltarii",
+   "competente": [
+    "VIII-2.2"
+   ],
+   "tip": "pin",
+   "dificultate": 2,
+   "enunt": "Atinge pe harta României Dobrogea, unde energia vântului e valorificată durabil.",
+   "date": {
+    "harta": "romania",
+    "tinta": {
+     "lat": 44.5,
+     "lon": 28.4,
+     "nume": "Dobrogea"
+    },
+    "toleranta": 70
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Parcuri eoliene."
+   }
+  },
+  {
+   "id": "VIII35b-11",
+   "nivel": "VIII-S35-resurse-populatie-elemente-dezvoltarii",
+   "competente": [
+    "VIII-2.2"
+   ],
+   "tip": "pin",
+   "dificultate": 3,
+   "enunt": "Atinge pe harta României Regiunea Nord-Est (Iași), cu cea mai tânără populație din țară.",
+   "date": {
+    "harta": "romania",
+    "tinta": {
+     "lat": 47.16,
+     "lon": 27.59,
+     "nume": "Iași / Nord-Est"
+    },
+    "toleranta": 80
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Natalitate ceva mai ridicată decât media."
+   }
+  },
+  {
+   "id": "VIII35b-12",
+   "nivel": "VIII-S35-resurse-populatie-elemente-dezvoltarii",
+   "competente": [
+    "VIII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Adevărat sau fals? Dezvoltarea durabilă ține cont doar de economie.",
+   "date": {
+    "variante": [
+     "Fals",
+     "Adevărat"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Fals: ține cont de economie, societate și mediu."
+   }
+  },
+  {
+   "id": "VIII35b-13",
+   "nivel": "VIII-S35-resurse-populatie-elemente-dezvoltarii",
+   "competente": [
+    "VIII-4.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Adevărat sau fals? Educația e un factor important al dezvoltării durabile.",
+   "date": {
+    "variante": [
+     "Adevărat",
+     "Fals"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Adevărat: ODD 4 – educație de calitate."
+   },
+   "surse": [
+    "ONU – Agenda 2030 și cele 17 Obiective de Dezvoltare Durabilă (sdgs.un.org)",
+    "Departamentul pentru Dezvoltare Durabilă (Guvernul României)"
+   ]
+  },
+  {
+   "id": "VIII35b-14",
+   "nivel": "VIII-S35-resurse-populatie-elemente-dezvoltarii",
+   "competente": [
+    "VIII-1.1"
+   ],
+   "tip": "lacunar",
+   "dificultate": 2,
+   "enunt": "Completează.",
+   "date": {
+    "text": "Agenda {0} a ONU are {1} Obiective de Dezvoltare Durabilă.",
+    "raspunsuri": [
+     "2030",
+     "17"
+    ],
+    "distractori": [
+     "2007",
+     "27"
+    ]
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Agenda ONU."
+   },
+   "surse": [
+    "ONU – Agenda 2030 și cele 17 Obiective de Dezvoltare Durabilă (sdgs.un.org)",
+    "Departamentul pentru Dezvoltare Durabilă (Guvernul României)"
+   ]
+  },
+  {
+   "id": "VIII35b-15",
+   "nivel": "VIII-S35-resurse-populatie-elemente-dezvoltarii",
+   "competente": [
+    "VIII-3.2"
+   ],
+   "tip": "lacunar",
+   "dificultate": 2,
+   "enunt": "Completează.",
+   "date": {
+    "text": "Pilonii dezvoltării durabile sunt economic, {0} și de {1}.",
+    "raspunsuri": [
+     "social",
+     "mediu"
+    ],
+    "distractori": [
+     "militar",
+     "turism"
+    ]
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Trei piloni."
+   }
+  },
+  {
+   "id": "VIII35b-16",
+   "nivel": "VIII-S35-resurse-populatie-elemente-dezvoltarii",
+   "competente": [
+    "VIII-2.2"
+   ],
+   "tip": "grafic",
+   "dificultate": 3,
+   "enunt": "Graficul arată ponderea energiei regenerabile într-o țară imaginară. Ce tendință observi?",
+   "date": {
+    "grafic": {
+     "tip": "profil",
+     "titlu": "Energie din surse regenerabile în consumul final (țară imaginară)",
+     "date": [
+      {
+       "eticheta": "2005",
+       "valoare": 17
+      },
+      {
+       "eticheta": "2012",
+       "valoare": 22
+      },
+      {
+       "eticheta": "2018",
+       "valoare": 24
+      },
+      {
+       "eticheta": "2024",
+       "valoare": 28
+      }
+     ],
+     "unitate": "%"
+    },
+    "variante": [
+     "ponderea crește treptat",
+     "scade",
+     "rămâne aceeași",
+     "e 100 %"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Tranziția energetică."
+   }
+  },
+  {
+   "id": "VIII35b-17",
+   "nivel": "VIII-S35-resurse-populatie-elemente-dezvoltarii",
+   "competente": [
+    "VIII-4.2"
+   ],
+   "tip": "ordoneaza",
+   "dificultate": 3,
+   "enunt": "Ordonează pașii unui proiect durabil pentru școală.",
+   "date": {
+    "elemente": [
+     "identifici problema (de ex., risipa de energie)",
+     "măsori situația actuală",
+     "propui soluții",
+     "aplici soluțiile",
+     "măsori rezultatele"
+    ],
+    "criteriu": "Etapele proiectului"
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Planifică, aplică, verifică."
+   }
+  },
+  {
+   "id": "VIII35b-18",
+   "nivel": "VIII-S35-resurse-populatie-elemente-dezvoltarii",
+   "competente": [
+    "VIII-4.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 3,
+   "enunt": "Compară o economie bazată pe cărbune cu una bazată pe energie regenerabilă.",
+   "date": {
+    "variante": [
+     "cea pe cărbune poluează și depinde de o resursă care se termină; cea regenerabilă e curată și durabilă",
+     "sunt identice",
+     "cărbunele e regenerabil",
+     "energia regenerabilă poluează mai mult"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Sustenabilitate."
+   }
+  },
+  {
+   "id": "VIII35b-19",
+   "nivel": "VIII-S35-resurse-populatie-elemente-dezvoltarii",
+   "competente": [
+    "VIII-2.2"
+   ],
+   "tip": "denumeste",
+   "dificultate": 2,
+   "enunt": "Ce județ cu orașul nostru, cu resurse variate (agricultură, păduri, turism geologic), e marcat?",
+   "date": {
+    "harta": "romania",
+    "punct": {
+     "lat": 45.25,
+     "lon": 26.75
+    },
+    "variante": [
+     "Buzău",
+     "Brăila",
+     "Vrancea",
+     "Prahova"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Județul Buzău."
+   }
+  },
+  {
+   "id": "VIII35b-20",
+   "nivel": "VIII-S35-resurse-populatie-elemente-dezvoltarii",
+   "competente": [
+    "VIII-4.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce înseamnă „economie circulară”?",
+   "date": {
+    "variante": [
+     "produsele sunt reparate, refolosite și reciclate, nu aruncate",
+     "toate produsele se aruncă după o folosire",
+     "comerțul în cerc",
+     "o economie fără bani"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Deșeurile devin resurse."
+   }
+  },
+  {
+   "id": "VIII35b-21",
+   "nivel": "VIII-S35-resurse-populatie-elemente-dezvoltarii",
+   "competente": [
+    "VIII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce înseamnă „turism durabil”?",
+   "date": {
+    "variante": [
+     "turism care aduce venituri fără să distrugă natura și cultura locală",
+     "turism cu orice preț",
+     "turism doar în orașe",
+     "turism cu multe deșeuri"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Ex.: geoparcul Ținutul Buzăului."
+   }
+  },
+  {
+   "id": "VIII35b-22",
+   "nivel": "VIII-S35-resurse-populatie-elemente-dezvoltarii",
+   "competente": [
+    "VIII-4.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "De ce e importantă egalitatea de șanse între regiuni?",
+   "date": {
+    "variante": [
+     "toți oamenii să aibă acces la educație, sănătate, locuri de muncă",
+     "ca toți să locuiască în capitală",
+     "ca regiunile să dispară",
+     "nu e importantă"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Coeziune."
+   }
+  },
+  {
+   "id": "VIII35b-23",
+   "nivel": "VIII-S35-resurse-populatie-elemente-dezvoltarii",
+   "competente": [
+    "VIII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce resursă a României e importantă pentru agricultura durabilă?",
+   "date": {
+    "variante": [
+     "solurile fertile (cernoziomurile)",
+     "petrolul",
+     "aurul",
+     "sarea"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Trebuie protejate de eroziune."
+   }
+  },
+  {
+   "id": "VIII35b-24",
+   "nivel": "VIII-S35-resurse-populatie-elemente-dezvoltarii",
+   "competente": [
+    "VIII-4.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce poate face un fermier pentru agricultură durabilă?",
+   "date": {
+    "variante": [
+     "rotația culturilor, irigații eficiente, mai puține chimicale",
+     "arde miriștile",
+     "ară în pantă",
+     "taie perdelele forestiere"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Agricultură responsabilă."
+   }
+  },
+  {
+   "id": "VIII35b-25",
+   "nivel": "VIII-S35-resurse-populatie-elemente-dezvoltarii",
+   "competente": [
+    "VIII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce înseamnă „inovare”?",
+   "date": {
+    "variante": [
+     "idei, tehnologii și metode noi care rezolvă probleme",
+     "copierea a ceea ce există",
+     "oprirea cercetării",
+     "închiderea școlilor"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Motor al dezvoltării."
+   }
+  },
+  {
+   "id": "VIII35b-26",
+   "nivel": "VIII-S35-resurse-populatie-elemente-dezvoltarii",
+   "competente": [
+    "VIII-4.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 3,
+   "enunt": "De ce o populație îmbătrânită pune presiune pe economie?",
+   "date": {
+    "variante": [
+     "sunt mai puțini oameni care muncesc și mai mulți pensionari",
+     "sunt mai mulți muncitori",
+     "nu există pensii",
+     "fără motiv"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Raportul dintre activi și pensionari."
+   }
+  },
+  {
+   "id": "VIII35b-27",
+   "nivel": "VIII-S35-resurse-populatie-elemente-dezvoltarii",
+   "competente": [
+    "VIII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce înseamnă „mobilitate durabilă”?",
+   "date": {
+    "variante": [
+     "deplasare cu transport public, tren, bicicletă, mers pe jos, mașini electrice",
+     "mai multe mașini cu benzină",
+     "doar avionul",
+     "nicio deplasare"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Mai puțină poluare."
+   }
+  },
+  {
+   "id": "VIII35b-28",
+   "nivel": "VIII-S35-resurse-populatie-elemente-dezvoltarii",
+   "competente": [
+    "VIII-4.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce ODD privește orașele?",
+   "date": {
+    "variante": [
+     "„Orașe și comunități durabile” (obiectivul 11)",
+     "„Fără sărăcie” (1)",
+     "„Viața terestră” (15)",
+     "„Apă curată” (6)"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Orașe sigure, verzi, incluzive."
+   },
+   "surse": [
+    "ONU – Agenda 2030 și cele 17 Obiective de Dezvoltare Durabilă (sdgs.un.org)",
+    "Departamentul pentru Dezvoltare Durabilă (Guvernul României)"
+   ]
+  },
+  {
+   "id": "VIII35b-29",
+   "nivel": "VIII-S35-resurse-populatie-elemente-dezvoltarii",
+   "competente": [
+    "VIII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce înseamnă reciclarea deșeurilor electronice?",
+   "date": {
+    "variante": [
+     "recuperarea metalelor și a altor materiale din aparatele vechi",
+     "aruncarea lor la gunoi",
+     "arderea lor",
+     "îngroparea lor"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Se predau la puncte de colectare."
+   }
+  },
+  {
+   "id": "VIII35b-30",
+   "nivel": "VIII-S35-resurse-populatie-elemente-dezvoltarii",
+   "competente": [
+    "VIII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce înseamnă ODD 7, „Energie curată și la prețuri accesibile”?",
+   "date": {
+    "variante": [
+     "acces pentru toți la energie modernă, sigură și curată",
+     "interzicerea energiei",
+     "doar energie pe cărbune",
+     "energie doar pentru orașe"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Unul dintre cele 17 obiective."
+   },
+   "surse": [
+    "ONU – Agenda 2030 și cele 17 Obiective de Dezvoltare Durabilă (sdgs.un.org)",
+    "Departamentul pentru Dezvoltare Durabilă (Guvernul României)"
+   ]
+  },
+  {
+   "id": "VIII35c-01",
+   "nivel": "VIII-S35-valorile-naturale-culturale-romaniei",
+   "competente": [
+    "VIII-3.4"
+   ],
+   "tip": "asociaza",
+   "dificultate": 2,
+   "enunt": "Asociază situl UNESCO cu regiunea.",
+   "date": {
+    "perechi": [
+     [
+      "bisericile pictate",
+      "nordul Moldovei"
+     ],
+     [
+      "bisericile de lemn",
+      "Maramureș"
+     ],
+     [
+      "cetățile dacice",
+      "Munții Orăștiei"
+     ],
+     [
+      "Mănăstirea Horezu",
+      "Oltenia (Vâlcea)"
+     ]
+    ]
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Patrimoniu UNESCO."
+   },
+   "surse": [
+    "UNESCO World Heritage Centre – Romania: properties inscribed",
+    "Ministerul Culturii – Monumente UNESCO din România"
+   ]
+  },
+  {
+   "id": "VIII35c-02",
+   "nivel": "VIII-S35-valorile-naturale-culturale-romaniei",
+   "competente": [
+    "VIII-3.4"
+   ],
+   "tip": "asociaza",
+   "dificultate": 2,
+   "enunt": "Asociază personalitatea cu domeniul.",
+   "date": {
+    "perechi": [
+     [
+      "George Enescu",
+      "muzică"
+     ],
+     [
+      "Constantin Brâncuși",
+      "sculptură"
+     ],
+     [
+      "Henri Coandă",
+      "aviație"
+     ],
+     [
+      "Emil Racoviță",
+      "biologie și explorare"
+     ]
+    ]
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Personalități românești."
+   }
+  },
+  {
+   "id": "VIII35c-03",
+   "nivel": "VIII-S35-valorile-naturale-culturale-romaniei",
+   "competente": [
+    "VIII-3.4"
+   ],
+   "tip": "alegere",
+   "dificultate": 1,
+   "enunt": "Ce rezervație naturală e patrimoniu mondial UNESCO?",
+   "date": {
+    "variante": [
+     "Delta Dunării",
+     "Lacul Snagov",
+     "Parcul Cișmigiu",
+     "Muntele Tâmpa"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Din 1991."
+   },
+   "surse": [
+    "UNESCO World Heritage Centre – Romania: properties inscribed",
+    "Ministerul Culturii – Monumente UNESCO din România"
+   ]
+  },
+  {
+   "id": "VIII35c-04",
+   "nivel": "VIII-S35-valorile-naturale-culturale-romaniei",
+   "competente": [
+    "VIII-3.4"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce geoparc UNESCO se află în județul Buzău?",
+   "date": {
+    "variante": [
+     "Geoparcul Ținutul Buzăului",
+     "Geoparcul Hațeg",
+     "Geoparcul Mehedinți",
+     "Delta Dunării"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Recunoscut în 2022."
+   },
+   "surse": [
+    "UNESCO – Global Geoparks: Buzău Land (2022)",
+    "Asociația Ținutul Buzăului (geoparc)"
+   ]
+  },
+  {
+   "id": "VIII35c-05",
+   "nivel": "VIII-S35-valorile-naturale-culturale-romaniei",
+   "competente": [
+    "VIII-3.4"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce geoparc UNESCO e cunoscut pentru dinozaurii pitici?",
+   "date": {
+    "variante": [
+     "Geoparcul Țara Hațegului",
+     "Ținutul Buzăului",
+     "Delta Dunării",
+     "Munții Apuseni"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Fosile de dinozauri pitici."
+   }
+  },
+  {
+   "id": "VIII35c-06",
+   "nivel": "VIII-S35-valorile-naturale-culturale-romaniei",
+   "competente": [
+    "VIII-3.4"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce tradiție de primăvară a României e în patrimoniul imaterial UNESCO?",
+   "date": {
+    "variante": [
+     "mărțișorul",
+     "Halloween",
+     "Anul Nou Chinezesc",
+     "Ziua Recunoștinței"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Înscris în 2017."
+   }
+  },
+  {
+   "id": "VIII35c-07",
+   "nivel": "VIII-S35-valorile-naturale-culturale-romaniei",
+   "competente": [
+    "VIII-3.4"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce dans ritual românesc e în patrimoniul imaterial UNESCO?",
+   "date": {
+    "variante": [
+     "Călușul",
+     "Tango",
+     "Valsul",
+     "Flamenco"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Înscris în 2005 (inițial ca Capodoperă), apoi în lista reprezentativă."
+   }
+  },
+  {
+   "id": "VIII35c-08",
+   "nivel": "VIII-S35-valorile-naturale-culturale-romaniei",
+   "competente": [
+    "VIII-3.4"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce meșteșug din Vâlcea e în patrimoniul imaterial UNESCO?",
+   "date": {
+    "variante": [
+     "ceramica de Horezu",
+     "sticla de Murano",
+     "porțelanul de Meissen",
+     "dantela de Bruges"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Înscris în 2012."
+   }
+  },
+  {
+   "id": "VIII35c-09",
+   "nivel": "VIII-S35-valorile-naturale-culturale-romaniei",
+   "competente": [
+    "VIII-3.4"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce inventator român a descoperit fenomenul aerodinamic care îi poartă numele?",
+   "date": {
+    "variante": [
+     "Henri Coandă („efectul Coandă”)",
+     "Traian Vuia",
+     "Aurel Vlaicu",
+     "Hermann Oberth"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "A construit și avionul Coandă-1910."
+   }
+  },
+  {
+   "id": "VIII35c-10",
+   "nivel": "VIII-S35-valorile-naturale-culturale-romaniei",
+   "competente": [
+    "VIII-3.4"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce pionier român al aviației a zburat în 1906, lângă Paris, cu un aparat care a decolat doar cu mijloace proprii?",
+   "date": {
+    "variante": [
+     "Traian Vuia",
+     "Henri Coandă",
+     "Aurel Vlaicu",
+     "Iuri Gagarin"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Zborul de la Montesson, din 18 martie 1906."
+   }
+  },
+  {
+   "id": "VIII35c-11",
+   "nivel": "VIII-S35-valorile-naturale-culturale-romaniei",
+   "competente": [
+    "VIII-3.4"
+   ],
+   "tip": "pin",
+   "dificultate": 2,
+   "enunt": "Atinge pe harta României Mănăstirea Horezu.",
+   "date": {
+    "harta": "romania",
+    "tinta": {
+     "lat": 45.17,
+     "lon": 24.0,
+     "nume": "Horezu"
+    },
+    "toleranta": 35
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Județul Vâlcea."
+   },
+   "surse": [
+    "UNESCO World Heritage Centre – Romania: properties inscribed",
+    "Ministerul Culturii – Monumente UNESCO din România"
+   ]
+  },
+  {
+   "id": "VIII35c-12",
+   "nivel": "VIII-S35-valorile-naturale-culturale-romaniei",
+   "competente": [
+    "VIII-3.4"
+   ],
+   "tip": "pin",
+   "dificultate": 2,
+   "enunt": "Atinge pe harta României Sarmizegetusa Regia, capitala dacilor.",
+   "date": {
+    "harta": "romania",
+    "tinta": {
+     "lat": 45.62,
+     "lon": 23.31,
+     "nume": "Sarmizegetusa Regia"
+    },
+    "toleranta": 35
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "În Munții Orăștiei."
+   },
+   "surse": [
+    "UNESCO World Heritage Centre – Romania: properties inscribed",
+    "Ministerul Culturii – Monumente UNESCO din România"
+   ]
+  },
+  {
+   "id": "VIII35c-13",
+   "nivel": "VIII-S35-valorile-naturale-culturale-romaniei",
+   "competente": [
+    "VIII-3.4"
+   ],
+   "tip": "pin",
+   "dificultate": 3,
+   "enunt": "Atinge pe harta României Roșia Montană.",
+   "date": {
+    "harta": "romania",
+    "tinta": {
+     "lat": 46.31,
+     "lon": 23.13,
+     "nume": "Roșia Montană"
+    },
+    "toleranta": 35
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "În Munții Apuseni."
+   },
+   "surse": [
+    "UNESCO World Heritage Centre – Romania: properties inscribed",
+    "Ministerul Culturii – Monumente UNESCO din România"
+   ]
+  },
+  {
+   "id": "VIII35c-14",
+   "nivel": "VIII-S35-valorile-naturale-culturale-romaniei",
+   "competente": [
+    "VIII-3.4"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Adevărat sau fals? Bisericile pictate din nordul Moldovei sunt în patrimoniul mondial UNESCO.",
+   "date": {
+    "variante": [
+     "Adevărat",
+     "Fals"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Adevărat, din 1993."
+   },
+   "surse": [
+    "UNESCO World Heritage Centre – Romania: properties inscribed",
+    "Ministerul Culturii – Monumente UNESCO din România"
+   ]
+  },
+  {
+   "id": "VIII35c-15",
+   "nivel": "VIII-S35-valorile-naturale-culturale-romaniei",
+   "competente": [
+    "VIII-3.4"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Adevărat sau fals? România nu are niciun element în patrimoniul imaterial UNESCO.",
+   "date": {
+    "variante": [
+     "Fals",
+     "Adevărat"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Fals: Călușul, doina, ceramica de Horezu, mărțișorul și altele."
+   }
+  },
+  {
+   "id": "VIII35c-16",
+   "nivel": "VIII-S35-valorile-naturale-culturale-romaniei",
+   "competente": [
+    "VIII-3.4"
+   ],
+   "tip": "lacunar",
+   "dificultate": 2,
+   "enunt": "Completează.",
+   "date": {
+    "text": "Capitala dacilor, {0} Regia, e în Munții {1}.",
+    "raspunsuri": [
+     "Sarmizegetusa",
+     "Orăștiei"
+    ],
+    "distractori": [
+     "Apulum",
+     "Apuseni"
+    ]
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Patrimoniu dacic."
+   },
+   "surse": [
+    "UNESCO World Heritage Centre – Romania: properties inscribed",
+    "Ministerul Culturii – Monumente UNESCO din România"
+   ]
+  },
+  {
+   "id": "VIII35c-17",
+   "nivel": "VIII-S35-valorile-naturale-culturale-romaniei",
+   "competente": [
+    "VIII-3.4"
+   ],
+   "tip": "lacunar",
+   "dificultate": 2,
+   "enunt": "Completează.",
+   "date": {
+    "text": "„Coloana fără sfârșit” e opera lui {0}; „Luceafărul” e opera lui {1}.",
+    "raspunsuri": [
+     "Brâncuși",
+     "Eminescu"
+    ],
+    "distractori": [
+     "Enescu",
+     "Creangă"
+    ]
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Valori culturale."
+   }
+  },
+  {
+   "id": "VIII35c-18",
+   "nivel": "VIII-S35-valorile-naturale-culturale-romaniei",
+   "competente": [
+    "VIII-2.2"
+   ],
+   "tip": "grafic",
+   "dificultate": 3,
+   "enunt": "Graficul arată numărul de vizitatori pe an la trei obiective imaginare. Care e cel mai vizitat?",
+   "date": {
+    "grafic": {
+     "tip": "bare",
+     "titlu": "Vizitatori pe an (obiective imaginare)",
+     "date": [
+      {
+       "eticheta": "castelul A",
+       "valoare": 900
+      },
+      {
+       "eticheta": "mănăstirea B",
+       "valoare": 400
+      },
+      {
+       "eticheta": "peștera C",
+       "valoare": 150
+      }
+     ],
+     "unitate": "mii"
+    },
+    "variante": [
+     "castelul A",
+     "mănăstirea B",
+     "peștera C",
+     "egal"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "900 de mii de vizitatori."
+   }
+  },
+  {
+   "id": "VIII35c-19",
+   "nivel": "VIII-S35-valorile-naturale-culturale-romaniei",
+   "competente": [
+    "VIII-3.4"
+   ],
+   "tip": "ordoneaza",
+   "dificultate": 3,
+   "enunt": "Ordonează în timp aceste valori culturale, de la cea mai veche.",
+   "date": {
+    "elemente": [
+     "cetățile dacice (sec. I î.Hr. – I d.Hr.)",
+     "bisericile pictate din Moldova (sec. XV–XVI)",
+     "Castelul Peleș (sec. XIX)",
+     "Palatul Parlamentului (sec. XX)"
+    ],
+    "criteriu": "Cronologic"
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Patrimoniu din epoci diferite."
+   }
+  },
+  {
+   "id": "VIII35c-20",
+   "nivel": "VIII-S35-valorile-naturale-culturale-romaniei",
+   "competente": [
+    "VIII-4.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 3,
+   "enunt": "Compară patrimoniul natural cu cel cultural.",
+   "date": {
+    "variante": [
+     "patrimoniul natural e creat de natură (Delta, păduri); cel cultural e creat de oameni (biserici, cetăți, tradiții)",
+     "sunt identice",
+     "cel natural e creat de oameni",
+     "cel cultural e creat de natură"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Două tipuri de patrimoniu."
+   }
+  },
+  {
+   "id": "VIII35c-21",
+   "nivel": "VIII-S35-valorile-naturale-culturale-romaniei",
+   "competente": [
+    "VIII-3.4"
+   ],
+   "tip": "denumeste",
+   "dificultate": 2,
+   "enunt": "Ce mănăstire pictată din Bucovina, cu „albastrul” celebru, e marcată pe hartă?",
+   "date": {
+    "harta": "romania",
+    "punct": {
+     "lat": 47.52,
+     "lon": 25.86
+    },
+    "variante": [
+     "Voroneț",
+     "Horezu",
+     "Putna",
+     "Curtea de Argeș"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Patrimoniu UNESCO."
+   },
+   "surse": [
+    "UNESCO World Heritage Centre – Romania: properties inscribed",
+    "Ministerul Culturii – Monumente UNESCO din România"
+   ]
+  },
+  {
+   "id": "VIII35c-22",
+   "nivel": "VIII-S35-valorile-naturale-culturale-romaniei",
+   "competente": [
+    "VIII-3.4"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce sportivă română a obținut prima notă 10 din istoria gimnasticii olimpice, în 1976?",
+   "date": {
+    "variante": [
+     "Nadia Comăneci",
+     "Simona Halep",
+     "Gabriela Szabo",
+     "Ivan Patzaichin"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "La Montréal."
+   }
+  },
+  {
+   "id": "VIII35c-23",
+   "nivel": "VIII-S35-valorile-naturale-culturale-romaniei",
+   "competente": [
+    "VIII-3.4"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce medic român a creat primul institut de geriatrie din lume?",
+   "date": {
+    "variante": [
+     "Ana Aslan",
+     "Victor Babeș",
+     "Carol Davila",
+     "Nicolae Paulescu"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "La București, în 1952."
+   }
+  },
+  {
+   "id": "VIII35c-24",
+   "nivel": "VIII-S35-valorile-naturale-culturale-romaniei",
+   "competente": [
+    "VIII-3.4"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce rol are patrimoniul pentru turism?",
+   "date": {
+    "variante": [
+     "atrage vizitatori din țară și din străinătate",
+     "alungă turiștii",
+     "nu are niciun rol",
+     "înlocuiește hotelurile"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Turism cultural."
+   }
+  },
+  {
+   "id": "VIII35c-25",
+   "nivel": "VIII-S35-valorile-naturale-culturale-romaniei",
+   "competente": [
+    "VIII-4.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Cum protejăm patrimoniul cultural?",
+   "date": {
+    "variante": [
+     "restaurăm monumentele, nu le distrugem, învățăm și transmitem tradițiile",
+     "scriem pe ziduri",
+     "luăm pietre ca suvenir",
+     "ignorăm tradițiile"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Responsabilitatea tuturor."
+   }
+  },
+  {
+   "id": "VIII35c-26",
+   "nivel": "VIII-S35-valorile-naturale-culturale-romaniei",
+   "competente": [
+    "VIII-3.4"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce sit UNESCO din 2024 cuprinde castre romane din România?",
+   "date": {
+    "variante": [
+     "Frontierele Imperiului Roman – Dacia",
+     "Pădurile de fag",
+     "Delta Dunării",
+     "Sighișoara"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Limesul dacic."
+   },
+   "surse": [
+    "UNESCO World Heritage Centre – Romania: properties inscribed",
+    "Ministerul Culturii – Monumente UNESCO din România"
+   ]
+  },
+  {
+   "id": "VIII35c-27",
+   "nivel": "VIII-S35-valorile-naturale-culturale-romaniei",
+   "competente": [
+    "VIII-3.4"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce scriitor român a scris „Amintiri din copilărie”?",
+   "date": {
+    "variante": [
+     "Ion Creangă",
+     "Mihai Eminescu",
+     "Ion Luca Caragiale",
+     "George Coșbuc"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Despre copilăria de la Humulești."
+   }
+  },
+  {
+   "id": "VIII35c-28",
+   "nivel": "VIII-S35-valorile-naturale-culturale-romaniei",
+   "competente": [
+    "VIII-3.4"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce oraș al Moldovei a fost capitala lui Ștefan cel Mare?",
+   "date": {
+    "variante": [
+     "Suceava",
+     "Iași",
+     "Bacău",
+     "Botoșani"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Cetatea de Scaun a Sucevei."
+   }
+  },
+  {
+   "id": "VIII35c-29",
+   "nivel": "VIII-S35-valorile-naturale-culturale-romaniei",
+   "competente": [
+    "VIII-3.4"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce valoare naturală rară e în județul Buzău, legată de chihlimbar?",
+   "date": {
+    "variante": [
+     "chihlimbarul de Buzău (romanit), expus la Muzeul de la Colți",
+     "aurul din Apuseni",
+     "sarea din Turda",
+     "marmura din Ruschița"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "O rășină fosilă de milioane de ani."
+   }
+  },
+  {
+   "id": "VIII35c-30",
+   "nivel": "VIII-S35-valorile-naturale-culturale-romaniei",
+   "competente": [
+    "VIII-3.4"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce tradiție a colindatului e în patrimoniul imaterial UNESCO?",
+   "date": {
+    "variante": [
+     "colindatul în ceată bărbătească",
+     "sorcova individuală",
+     "Halloween",
+     "Moș Nicolae"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Înscris în 2013, împreună cu Republica Moldova."
+   }
+  },
+  {
+   "id": "VIII35d-01",
+   "nivel": "VIII-S35-romania-ca-membru-onu",
+   "competente": [
+    "VIII-3.4"
+   ],
+   "tip": "asociaza",
+   "dificultate": 2,
+   "enunt": "Asociază organizația cu anul aderării României.",
+   "date": {
+    "perechi": [
+     [
+      "ONU",
+      "1955"
+     ],
+     [
+      "NATO",
+      "2004"
+     ],
+     [
+      "Uniunea Europeană",
+      "2007"
+     ],
+     [
+      "spațiul Schengen (complet)",
+      "2025"
+     ]
+    ]
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Aderări."
+   },
+   "surse": [
+    "Uniunea Europeană – Țările UE: România (european-union.europa.eu)",
+    "Ministerul Afacerilor Externe – România în UE"
+   ]
+  },
+  {
+   "id": "VIII35d-02",
+   "nivel": "VIII-S35-romania-ca-membru-onu",
+   "competente": [
+    "VIII-3.4"
+   ],
+   "tip": "alegere",
+   "dificultate": 1,
+   "enunt": "De când e România membră a Uniunii Europene?",
+   "date": {
+    "variante": [
+     "1 ianuarie 2007",
+     "1955",
+     "2004",
+     "2025"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Împreună cu Bulgaria."
+   },
+   "surse": [
+    "Uniunea Europeană – Țările UE: România (european-union.europa.eu)",
+    "Ministerul Afacerilor Externe – România în UE"
+   ]
+  },
+  {
+   "id": "VIII35d-03",
+   "nivel": "VIII-S35-romania-ca-membru-onu",
+   "competente": [
+    "VIII-3.4"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "De când e România membră NATO?",
+   "date": {
+    "variante": [
+     "29 martie 2004",
+     "2007",
+     "1990",
+     "1955"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Alianța Nord-Atlantică."
+   },
+   "surse": [
+    "NATO – Member countries (Romania, 29.03.2004)",
+    "Ministerul Afacerilor Externe – România în NATO"
+   ]
+  },
+  {
+   "id": "VIII35d-04",
+   "nivel": "VIII-S35-romania-ca-membru-onu",
+   "competente": [
+    "VIII-3.4"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "De când e România membră ONU?",
+   "date": {
+    "variante": [
+     "14 decembrie 1955",
+     "1918",
+     "2004",
+     "2007"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Organizația Națiunilor Unite."
+   },
+   "surse": [
+    "Organizația Națiunilor Unite – Member States: Romania (14.12.1955)",
+    "Ministerul Afacerilor Externe – România la ONU"
+   ]
+  },
+  {
+   "id": "VIII35d-05",
+   "nivel": "VIII-S35-romania-ca-membru-onu",
+   "competente": [
+    "VIII-3.4"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "De când face România parte complet din spațiul Schengen?",
+   "date": {
+    "variante": [
+     "1 ianuarie 2025",
+     "2007",
+     "2004",
+     "nu face parte"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Din martie 2024 pentru frontierele aeriene și maritime."
+   },
+   "surse": [
+    "Consiliul UE, decizia din 12.12.2024 – ridicarea controalelor la frontierele terestre cu România și Bulgaria",
+    "Comisia Europeană – Schengen Area"
+   ]
+  },
+  {
+   "id": "VIII35d-06",
+   "nivel": "VIII-S35-romania-ca-membru-onu",
+   "competente": [
+    "VIII-1.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce este NATO?",
+   "date": {
+    "variante": [
+     "o alianță de apărare colectivă a unor state din Europa și America de Nord",
+     "o bancă",
+     "o organizație de turism",
+     "un campionat sportiv"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Atacul asupra unui membru e considerat atac asupra tuturor."
+   },
+   "surse": [
+    "NATO – Member countries (Romania, 29.03.2004)",
+    "Ministerul Afacerilor Externe – România în NATO"
+   ]
+  },
+  {
+   "id": "VIII35d-07",
+   "nivel": "VIII-S35-romania-ca-membru-onu",
+   "competente": [
+    "VIII-1.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce urmărește ONU?",
+   "date": {
+    "variante": [
+     "pacea, drepturile omului, dezvoltarea și cooperarea între state",
+     "războiul",
+     "comerțul doar cu arme",
+     "turismul spațial"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Fondată în 1945."
+   },
+   "surse": [
+    "Organizația Națiunilor Unite – Member States: Romania (14.12.1955)",
+    "Ministerul Afacerilor Externe – România la ONU"
+   ]
+  },
+  {
+   "id": "VIII35d-08",
+   "nivel": "VIII-S35-romania-ca-membru-onu",
+   "competente": [
+    "VIII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce drepturi au cetățenii români în Uniunea Europeană?",
+   "date": {
+    "variante": [
+     "pot circula, munci și studia liber în orice stat membru",
+     "nu pot călători",
+     "au nevoie de viză în fiecare țară UE",
+     "nu au niciun drept nou"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Libera circulație."
+   }
+  },
+  {
+   "id": "VIII35d-09",
+   "nivel": "VIII-S35-romania-ca-membru-onu",
+   "competente": [
+    "VIII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce moneda folosește România?",
+   "date": {
+    "variante": [
+     "leul",
+     "euro",
+     "dolarul",
+     "lira"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "România nu a adoptat încă euro."
+   }
+  },
+  {
+   "id": "VIII35d-10",
+   "nivel": "VIII-S35-romania-ca-membru-onu",
+   "competente": [
+    "VIII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce înseamnă spațiul Schengen?",
+   "date": {
+    "variante": [
+     "un grup de state europene fără controale la frontierele dintre ele",
+     "o monedă",
+     "o armată",
+     "un program TV"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Circulație liberă a persoanelor."
+   },
+   "surse": [
+    "Consiliul UE, decizia din 12.12.2024 – ridicarea controalelor la frontierele terestre cu România și Bulgaria",
+    "Comisia Europeană – Schengen Area"
+   ]
+  },
+  {
+   "id": "VIII35d-11",
+   "nivel": "VIII-S35-romania-ca-membru-onu",
+   "competente": [
+    "VIII-3.1"
+   ],
+   "tip": "pin",
+   "dificultate": 2,
+   "enunt": "Atinge pe hartă Bruxelles, unde au sediul multe instituții UE și NATO.",
+   "date": {
+    "harta": "lume",
+    "tinta": {
+     "lat": 50.85,
+     "lon": 4.35,
+     "nume": "Bruxelles"
+    },
+    "toleranta": 300
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Bruxelles e capitala Belgiei."
+   }
+  },
+  {
+   "id": "VIII35d-12",
+   "nivel": "VIII-S35-romania-ca-membru-onu",
+   "competente": [
+    "VIII-3.1"
+   ],
+   "tip": "pin",
+   "dificultate": 3,
+   "enunt": "Atinge pe hartă New York, unde e sediul ONU.",
+   "date": {
+    "harta": "lume",
+    "tinta": {
+     "lat": 40.75,
+     "lon": -73.97,
+     "nume": "New York"
+    },
+    "toleranta": 400
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Sediul ONU e în Manhattan."
+   }
+  },
+  {
+   "id": "VIII35d-13",
+   "nivel": "VIII-S35-romania-ca-membru-onu",
+   "competente": [
+    "VIII-3.4"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Adevărat sau fals? România a aderat la UE înainte de a adera la NATO.",
+   "date": {
+    "variante": [
+     "Fals",
+     "Adevărat"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Fals: NATO în 2004, UE în 2007."
+   },
+   "surse": [
+    "NATO – Member countries (Romania, 29.03.2004)",
+    "Ministerul Afacerilor Externe – România în NATO"
+   ]
+  },
+  {
+   "id": "VIII35d-14",
+   "nivel": "VIII-S35-romania-ca-membru-onu",
+   "competente": [
+    "VIII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Adevărat sau fals? Fondurile europene ajută la construirea de drumuri și școli în România.",
+   "date": {
+    "variante": [
+     "Adevărat",
+     "Fals"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Adevărat."
+   }
+  },
+  {
+   "id": "VIII35d-15",
+   "nivel": "VIII-S35-romania-ca-membru-onu",
+   "competente": [
+    "VIII-3.4"
+   ],
+   "tip": "lacunar",
+   "dificultate": 2,
+   "enunt": "Completează.",
+   "date": {
+    "text": "România e membră NATO din {0} și a Uniunii Europene din {1}.",
+    "raspunsuri": [
+     "2004",
+     "2007"
+    ],
+    "distractori": [
+     "1955",
+     "2025"
+    ]
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Aderări."
+   },
+   "surse": [
+    "Uniunea Europeană – Țările UE: România (european-union.europa.eu)",
+    "Ministerul Afacerilor Externe – România în UE"
+   ]
+  },
+  {
+   "id": "VIII35d-16",
+   "nivel": "VIII-S35-romania-ca-membru-onu",
+   "competente": [
+    "VIII-3.3"
+   ],
+   "tip": "lacunar",
+   "dificultate": 2,
+   "enunt": "Completează.",
+   "date": {
+    "text": "Sediul ONU e la {0}, iar multe instituții ale UE sunt la {1}.",
+    "raspunsuri": [
+     "New York",
+     "Bruxelles"
+    ],
+    "distractori": [
+     "Geneva",
+     "Paris"
+    ]
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Sedii."
+   }
+  },
+  {
+   "id": "VIII35d-17",
+   "nivel": "VIII-S35-romania-ca-membru-onu",
+   "competente": [
+    "VIII-2.2"
+   ],
+   "tip": "grafic",
+   "dificultate": 3,
+   "enunt": "Graficul arată (schematic) fondurile europene primite de o țară imaginară pe perioade. Ce observi?",
+   "date": {
+    "grafic": {
+     "tip": "bare",
+     "titlu": "Fonduri europene alocate (țară imaginară, miliarde euro)",
+     "date": [
+      {
+       "eticheta": "2007–2013",
+       "valoare": 20
+      },
+      {
+       "eticheta": "2014–2020",
+       "valoare": 31
+      },
+      {
+       "eticheta": "2021–2027",
+       "valoare": 46
+      }
+     ],
+     "unitate": "miliarde euro"
+    },
+    "variante": [
+     "fondurile cresc de la o perioadă la alta",
+     "scad",
+     "rămân la fel",
+     "dispar"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Perioadele de programare de 7 ani."
+   }
+  },
+  {
+   "id": "VIII35d-18",
+   "nivel": "VIII-S35-romania-ca-membru-onu",
+   "competente": [
+    "VIII-3.4"
+   ],
+   "tip": "ordoneaza",
+   "dificultate": 3,
+   "enunt": "Ordonează aderările României cronologic.",
+   "date": {
+    "elemente": [
+     "ONU (1955)",
+     "NATO (2004)",
+     "UE (2007)",
+     "Schengen complet (2025)"
+    ],
+    "criteriu": "Cronologic"
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Integrarea euro-atlantică."
+   },
+   "surse": [
+    "Uniunea Europeană – Țările UE: România (european-union.europa.eu)",
+    "Ministerul Afacerilor Externe – România în UE"
+   ]
+  },
+  {
+   "id": "VIII35d-19",
+   "nivel": "VIII-S35-romania-ca-membru-onu",
+   "competente": [
+    "VIII-4.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 3,
+   "enunt": "Compară NATO cu Uniunea Europeană.",
+   "date": {
+    "variante": [
+     "NATO e o alianță militară de apărare; UE e o uniune economică și politică",
+     "sunt identice",
+     "UE e o alianță militară",
+     "NATO e o piață comună"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Roluri diferite."
+   }
+  },
+  {
+   "id": "VIII35d-20",
+   "nivel": "VIII-S35-romania-ca-membru-onu",
+   "competente": [
+    "VIII-3.1"
+   ],
+   "tip": "denumeste",
+   "dificultate": 2,
+   "enunt": "Ce oraș, gazda Parlamentului European, e marcat pe hartă?",
+   "date": {
+    "harta": "lume",
+    "punct": {
+     "lat": 48.58,
+     "lon": 7.75
+    },
+    "variante": [
+     "Strasbourg",
+     "Bruxelles",
+     "Luxemburg",
+     "Paris"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Parlamentul European are sesiuni la Strasbourg."
+   }
+  },
+  {
+   "id": "VIII35d-21",
+   "nivel": "VIII-S35-romania-ca-membru-onu",
+   "competente": [
+    "VIII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce program european permite elevilor și studenților să studieze în altă țară?",
+   "date": {
+    "variante": [
+     "Erasmus+",
+     "Schengen",
+     "Euro",
+     "NATO"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Și profesorilor."
+   }
+  },
+  {
+   "id": "VIII35d-22",
+   "nivel": "VIII-S35-romania-ca-membru-onu",
+   "competente": [
+    "VIII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce organizație reunește statele de la Marea Neagră pentru cooperare economică?",
+   "date": {
+    "variante": [
+     "Organizația Cooperării Economice a Mării Negre",
+     "ASEAN",
+     "Mercosur",
+     "Uniunea Africană"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Sediul la Istanbul."
+   }
+  },
+  {
+   "id": "VIII35d-23",
+   "nivel": "VIII-S35-romania-ca-membru-onu",
+   "competente": [
+    "VIII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "La ce organizație culturală a limbii franceze participă România?",
+   "date": {
+    "variante": [
+     "Organizația Internațională a Francofoniei",
+     "Commonwealth",
+     "Liga Arabă",
+     "OPEC"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Franceza a fost mult învățată în România."
+   }
+  },
+  {
+   "id": "VIII35d-24",
+   "nivel": "VIII-S35-romania-ca-membru-onu",
+   "competente": [
+    "VIII-3.4"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce eveniment din 1989 a deschis drumul României spre NATO și UE?",
+   "date": {
+    "variante": [
+     "Revoluția din decembrie 1989",
+     "Unirea din 1859",
+     "Marea Unire din 1918",
+     "Războiul de Independență din 1877"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Trecerea la democrație."
+   }
+  },
+  {
+   "id": "VIII35d-25",
+   "nivel": "VIII-S35-romania-ca-membru-onu",
+   "competente": [
+    "VIII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Cum poți vota pentru Parlamentul European?",
+   "date": {
+    "variante": [
+     "la alegerile europene, o dată la 5 ani, de la 18 ani",
+     "nu poți vota",
+     "doar în Belgia",
+     "doar online, de la 10 ani"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Cetățenii aleg europarlamentarii."
+   }
+  },
+  {
+   "id": "VIII35d-26",
+   "nivel": "VIII-S35-romania-ca-membru-onu",
+   "competente": [
+    "VIII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce baza militară NATO importantă e în România, lângă Constanța?",
+   "date": {
+    "variante": [
+     "Baza Mihail Kogălniceanu",
+     "Baza Bran",
+     "Baza Sinaia",
+     "Baza Sulina"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Una dintre cele mai mari din regiune."
+   }
+  },
+  {
+   "id": "VIII35d-27",
+   "nivel": "VIII-S35-romania-ca-membru-onu",
+   "competente": [
+    "VIII-4.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 3,
+   "enunt": "De ce poziția României la Marea Neagră e importantă pentru NATO și UE?",
+   "date": {
+    "variante": [
+     "e la granița de est a UE și NATO, la o mare cu importanță strategică",
+     "e în centrul Africii",
+     "nu are importanță",
+     "e la Polul Nord"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Flancul estic."
+   }
+  },
+  {
+   "id": "VIII35d-28",
+   "nivel": "VIII-S35-romania-ca-membru-onu",
+   "competente": [
+    "VIII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce card îți permite tratament medical în alte state UE?",
+   "date": {
+    "variante": [
+     "cardul european de sănătate",
+     "cardul de bibliotecă",
+     "carnetul de note",
+     "buletinul de vot"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Gratuit pentru asigurați."
+   }
+  },
+  {
+   "id": "VIII35d-29",
+   "nivel": "VIII-S35-romania-ca-membru-onu",
+   "competente": [
+    "VIII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce simbol are Uniunea Europeană?",
+   "date": {
+    "variante": [
+     "drapelul albastru cu 12 stele aurii",
+     "drapelul roșu cu o stea",
+     "un vultur",
+     "o cruce verde"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Simbolul unității."
+   }
+  },
+  {
+   "id": "VIII35d-30",
+   "nivel": "VIII-S35-romania-ca-membru-onu",
+   "competente": [
+    "VIII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce înseamnă „integrare europeană” pentru economia României?",
+   "date": {
+    "variante": [
+     "acces la piața unică, investiții, fonduri, reguli comune",
+     "izolare",
+     "taxe vamale mari cu UE",
+     "închiderea fabricilor"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Beneficii economice."
+   }
+  }
+ ]
+}

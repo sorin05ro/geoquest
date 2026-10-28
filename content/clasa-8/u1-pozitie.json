@@ -1,0 +1,1619 @@
+{
+ "clasa": 8,
+ "unitate": "Poziția geografică",
+ "niveluri": [
+  {
+   "id": "VIII-S01-pozitia-geografica-elemente-definitorii",
+   "tip": "nivel",
+   "titlu": "România – poziția geografică. Statele vecine",
+   "descopera": {
+    "intrebare": "Dacă ai explica unui elev din Japonia unde e România, ce ai spune?"
+   },
+   "invata": [
+    {
+     "titlu": "Poziția pe glob și în Europa",
+     "text": "România se află în emisfera nordică și în emisfera estică, la jumătatea distanței dintre Ecuator și Polul Nord: paralela de 45° N trece prin țara noastră. Meridianul de 25° E o străbate și el.\nÎn Europa, România e în partea central-sud-estică, la nord de Peninsula Balcanică, pe cursul inferior al Dunării și la Marea Neagră."
+    },
+    {
+     "titlu": "Suprafață și puncte extreme",
+     "text": "România are 238 397 km², după INS, fiind una dintre țările mijlocii ale Europei.\nPuncte extreme: nord – Horodiștea (județul Botoșani); sud – Zimnicea (județul Teleorman); vest – Beba Veche (județul Timiș); est – Sulina (județul Tulcea)."
+    },
+    {
+     "titlu": "Vecinii",
+     "text": "România se învecinează cu: Ucraina (la nord și la est), Republica Moldova (la est, pe Prut), Bulgaria (la sud, în mare parte pe Dunăre), Serbia (la sud-vest, pe Dunăre) și Ungaria (la vest). La sud-est are ieșire la Marea Neagră.\nGranițele urmează în multe locuri râuri: Prutul, Dunărea, Tisa."
+    }
+   ],
+   "stiaiCa": "Paralela de 45° N trece prin România, chiar prin sudul județului Buzău: suntem la jumătatea drumului dintre Ecuator și Polul Nord.",
+   "referintaProfesor": "Manual Art Klett, clasa a VIII-a, ediția 2025 (manuale.edu.ro), lecția „Poziția geografică. Elemente definitorii și consecințe. Statele vecine”"
+  },
+  {
+   "id": "VIII-S02-romania-tara-carpatica-dunareana",
+   "tip": "nivel",
+   "titlu": "România – țară carpatică, dunăreană, pontică și central-europeană",
+   "descopera": {
+    "intrebare": "Ce trei elemente naturale definesc România?"
+   },
+   "invata": [
+    {
+     "titlu": "Țară carpatică",
+     "text": "Carpații formează „coloana vertebrală” a României: un arc care ocupă aproximativ o treime din suprafață și în jurul căruia se dispun, în trepte, dealurile, podișurile și câmpiile. Peste jumătate din lanțul Carpaților se află pe teritoriul României."
+    },
+    {
+     "titlu": "Țară dunăreană și pontică",
+     "text": "Dunărea curge aproximativ 1 075 km pe teritoriul sau la granița României, cea mai lungă porțiune dintre toate țările străbătute; aici își are și delta. Aproape toate râurile țării ajung în Dunăre.\nPontică înseamnă „de la Marea Neagră” (Pontus Euxinus, la romani). România are un litoral de aproximativ 245 km."
+    },
+    {
+     "titlu": "Țară central-europeană",
+     "text": "Prin poziție, istorie și cultură, România e legată de Europa Centrală; e și la răscruce cu Europa de Est și Europa de Sud-Est (Balcani). E membră a Uniunii Europene din 2007 și a NATO din 2004."
+    }
+   ],
+   "stiaiCa": "Numele antic al Mării Negre era Pontus Euxinus, adică „marea ospitalieră”. De aici vine cuvântul „pontic”.",
+   "referintaProfesor": "Manual Art Klett, clasa a VIII-a, ediția 2025 (manuale.edu.ro), lecția „România – țară carpatică, dunăreană, pontică și central-europeană”"
+  }
+ ],
+ "itemi": [
+  {
+   "id": "VIII1-01",
+   "nivel": "VIII-S01-pozitia-geografica-elemente-definitorii",
+   "competente": [
+    "VIII-1.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 1,
+   "enunt": "În ce emisfere se află România?",
+   "date": {
+    "variante": [
+     "nordică și estică",
+     "sudică și vestică",
+     "nordică și vestică",
+     "sudică și estică"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "La nord de Ecuator, la est de Greenwich."
+   }
+  },
+  {
+   "id": "VIII1-02",
+   "nivel": "VIII-S01-pozitia-geografica-elemente-definitorii",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 1,
+   "enunt": "Ce paralelă importantă trece prin România?",
+   "date": {
+    "variante": [
+     "paralela de 45° N",
+     "Ecuatorul",
+     "Tropicul Racului",
+     "Cercul Polar de Nord"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Suntem la jumătatea distanței Ecuator–Pol."
+   }
+  },
+  {
+   "id": "VIII1-03",
+   "nivel": "VIII-S01-pozitia-geografica-elemente-definitorii",
+   "competente": [
+    "VIII-1.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce suprafață are România?",
+   "date": {
+    "variante": [
+     "238 397 km²",
+     "23 839 km²",
+     "2 383 970 km²",
+     "100 000 km²"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "După INS."
+   },
+   "surse": [
+    "Institutul Național de Statistică (INS) – Anuarul Statistic al României, cap. „Geografie”",
+    "Encyclopaedia Britannica – Romania"
+   ]
+  },
+  {
+   "id": "VIII1-04",
+   "nivel": "VIII-S01-pozitia-geografica-elemente-definitorii",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "asociaza",
+   "dificultate": 2,
+   "enunt": "Asociază punctul extrem cu localitatea.",
+   "date": {
+    "perechi": [
+     [
+      "nord",
+      "Horodiștea"
+     ],
+     [
+      "sud",
+      "Zimnicea"
+     ],
+     [
+      "vest",
+      "Beba Veche"
+     ],
+     [
+      "est",
+      "Sulina"
+     ]
+    ]
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Punctele extreme ale României."
+   },
+   "surse": [
+    "INS – Anuarul Statistic al României: coordonatele punctelor extreme",
+    "Wikipedia (ro) – Puncte extreme ale României"
+   ]
+  },
+  {
+   "id": "VIII1-05",
+   "nivel": "VIII-S01-pozitia-geografica-elemente-definitorii",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "asociaza",
+   "dificultate": 2,
+   "enunt": "Asociază punctul extrem cu județul.",
+   "date": {
+    "perechi": [
+     [
+      "Horodiștea",
+      "Botoșani"
+     ],
+     [
+      "Zimnicea",
+      "Teleorman"
+     ],
+     [
+      "Beba Veche",
+      "Timiș"
+     ],
+     [
+      "Sulina",
+      "Tulcea"
+     ]
+    ]
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Județele punctelor extreme."
+   },
+   "surse": [
+    "INS – Anuarul Statistic al României: coordonatele punctelor extreme",
+    "Wikipedia (ro) – Puncte extreme ale României"
+   ]
+  },
+  {
+   "id": "VIII1-06",
+   "nivel": "VIII-S01-pozitia-geografica-elemente-definitorii",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "etichete",
+   "dificultate": 2,
+   "enunt": "Pune pe hartă punctele extreme ale României.",
+   "date": {
+    "tinte": [
+     {
+      "id": "n",
+      "eticheta": "Horodiștea (N)",
+      "lat": 48.27,
+      "lon": 26.6
+     },
+     {
+      "id": "s",
+      "eticheta": "Zimnicea (S)",
+      "lat": 43.65,
+      "lon": 25.37
+     },
+     {
+      "id": "v",
+      "eticheta": "Beba Veche (V)",
+      "lat": 46.13,
+      "lon": 20.32
+     },
+     {
+      "id": "e",
+      "eticheta": "Sulina (E)",
+      "lat": 45.16,
+      "lon": 29.66
+     }
+    ],
+    "harta": "romania"
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Nord în Botoșani, sud în Teleorman, vest în Timiș, est în Tulcea."
+   },
+   "surse": [
+    "INS – Anuarul Statistic al României: coordonatele punctelor extreme",
+    "Wikipedia (ro) – Puncte extreme ale României"
+   ]
+  },
+  {
+   "id": "VIII1-07",
+   "nivel": "VIII-S01-pozitia-geografica-elemente-definitorii",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 1,
+   "enunt": "Câți vecini are România?",
+   "date": {
+    "variante": [
+     "cinci",
+     "trei",
+     "șapte",
+     "doi"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Ucraina, Republica Moldova, Bulgaria, Serbia, Ungaria."
+   }
+  },
+  {
+   "id": "VIII1-08",
+   "nivel": "VIII-S01-pozitia-geografica-elemente-definitorii",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "asociaza",
+   "dificultate": 2,
+   "enunt": "Asociază vecinul cu poziția lui față de România.",
+   "date": {
+    "perechi": [
+     [
+      "Ucraina",
+      "nord și est"
+     ],
+     [
+      "Republica Moldova",
+      "est"
+     ],
+     [
+      "Bulgaria",
+      "sud"
+     ],
+     [
+      "Ungaria",
+      "vest"
+     ]
+    ]
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Vecinii României."
+   }
+  },
+  {
+   "id": "VIII1-09",
+   "nivel": "VIII-S01-pozitia-geografica-elemente-definitorii",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce râu formează granița cu Republica Moldova?",
+   "date": {
+    "variante": [
+     "Prutul",
+     "Siretul",
+     "Mureșul",
+     "Oltul"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Prutul e graniță pe toată lungimea dintre cele două state."
+   }
+  },
+  {
+   "id": "VIII1-10",
+   "nivel": "VIII-S01-pozitia-geografica-elemente-definitorii",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce fluviu formează cea mai mare parte a graniței cu Bulgaria?",
+   "date": {
+    "variante": [
+     "Dunărea",
+     "Prutul",
+     "Tisa",
+     "Nistrul"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Dunărea desparte Câmpia Română de Podișul Prebalcanic."
+   }
+  },
+  {
+   "id": "VIII1-11",
+   "nivel": "VIII-S01-pozitia-geografica-elemente-definitorii",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce vecin are România la sud-vest, peste Dunăre?",
+   "date": {
+    "variante": [
+     "Serbia",
+     "Ungaria",
+     "Bulgaria",
+     "Ucraina"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "La Porțile de Fier, Dunărea e graniță cu Serbia."
+   }
+  },
+  {
+   "id": "VIII1-12",
+   "nivel": "VIII-S01-pozitia-geografica-elemente-definitorii",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce râu formează o mică porțiune din granița cu Ucraina, în nord?",
+   "date": {
+    "variante": [
+     "Tisa",
+     "Oltul",
+     "Jiul",
+     "Argeșul"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Tisa curge prin Maramureș, la graniță."
+   }
+  },
+  {
+   "id": "VIII1-13",
+   "nivel": "VIII-S01-pozitia-geografica-elemente-definitorii",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Cu ce vecin are România granița doar pe uscat, fără râu mare?",
+   "date": {
+    "variante": [
+     "Ungaria",
+     "Republica Moldova",
+     "Bulgaria",
+     "Serbia"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Granița de vest traversează Câmpia de Vest."
+   }
+  },
+  {
+   "id": "VIII1-14",
+   "nivel": "VIII-S01-pozitia-geografica-elemente-definitorii",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "pin",
+   "dificultate": 2,
+   "enunt": "Atinge pe harta României Horodiștea, punctul extrem nordic.",
+   "date": {
+    "harta": "romania",
+    "tinta": {
+     "lat": 48.27,
+     "lon": 26.6,
+     "nume": "Horodiștea"
+    },
+    "toleranta": 50
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Horodiștea e în nordul județului Botoșani."
+   },
+   "surse": [
+    "INS – Anuarul Statistic al României: coordonatele punctelor extreme",
+    "Wikipedia (ro) – Puncte extreme ale României"
+   ]
+  },
+  {
+   "id": "VIII1-15",
+   "nivel": "VIII-S01-pozitia-geografica-elemente-definitorii",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "pin",
+   "dificultate": 2,
+   "enunt": "Atinge pe harta României Sulina, punctul extrem estic.",
+   "date": {
+    "harta": "romania",
+    "tinta": {
+     "lat": 45.16,
+     "lon": 29.66,
+     "nume": "Sulina"
+    },
+    "toleranta": 40
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Sulina e la vărsarea brațului Sulina în mare."
+   },
+   "surse": [
+    "INS – Anuarul Statistic al României: coordonatele punctelor extreme",
+    "Wikipedia (ro) – Puncte extreme ale României"
+   ]
+  },
+  {
+   "id": "VIII1-16",
+   "nivel": "VIII-S01-pozitia-geografica-elemente-definitorii",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "pin",
+   "dificultate": 3,
+   "enunt": "Atinge pe harta României Beba Veche, punctul extrem vestic.",
+   "date": {
+    "harta": "romania",
+    "tinta": {
+     "lat": 46.13,
+     "lon": 20.32,
+     "nume": "Beba Veche"
+    },
+    "toleranta": 40
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Beba Veche e în vestul județului Timiș, lângă Ungaria și Serbia."
+   },
+   "surse": [
+    "INS – Anuarul Statistic al României: coordonatele punctelor extreme",
+    "Wikipedia (ro) – Puncte extreme ale României"
+   ]
+  },
+  {
+   "id": "VIII1-17",
+   "nivel": "VIII-S01-pozitia-geografica-elemente-definitorii",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "pin",
+   "dificultate": 3,
+   "enunt": "Atinge pe harta României Zimnicea, punctul extrem sudic.",
+   "date": {
+    "harta": "romania",
+    "tinta": {
+     "lat": 43.65,
+     "lon": 25.37,
+     "nume": "Zimnicea"
+    },
+    "toleranta": 40
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Zimnicea e pe Dunăre, în județul Teleorman."
+   },
+   "surse": [
+    "INS – Anuarul Statistic al României: coordonatele punctelor extreme",
+    "Wikipedia (ro) – Puncte extreme ale României"
+   ]
+  },
+  {
+   "id": "VIII1-18",
+   "nivel": "VIII-S01-pozitia-geografica-elemente-definitorii",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "pin",
+   "dificultate": 2,
+   "enunt": "Atinge pe harta României orașul nostru, Râmnicu Sărat, aproape de paralela de 45° N.",
+   "date": {
+    "harta": "romania",
+    "tinta": {
+     "lat": 45.38,
+     "lon": 27.05,
+     "nume": "Râmnicu Sărat"
+    },
+    "toleranta": 35
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Râmnicu Sărat e în nord-estul județului Buzău."
+   }
+  },
+  {
+   "id": "VIII1-19",
+   "nivel": "VIII-S01-pozitia-geografica-elemente-definitorii",
+   "competente": [
+    "VIII-1.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Adevărat sau fals? România are ieșire la Oceanul Atlantic.",
+   "date": {
+    "variante": [
+     "Fals",
+     "Adevărat"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Fals: are ieșire la Marea Neagră, o mare aproape închisă."
+   }
+  },
+  {
+   "id": "VIII1-20",
+   "nivel": "VIII-S01-pozitia-geografica-elemente-definitorii",
+   "competente": [
+    "VIII-1.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Adevărat sau fals? România se află la jumătatea distanței dintre Ecuator și Polul Nord.",
+   "date": {
+    "variante": [
+     "Adevărat",
+     "Fals"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Adevărat: paralela de 45° N o traversează."
+   }
+  },
+  {
+   "id": "VIII1-21",
+   "nivel": "VIII-S01-pozitia-geografica-elemente-definitorii",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "lacunar",
+   "dificultate": 2,
+   "enunt": "Completează.",
+   "date": {
+    "text": "Punctul extrem nordic e {0}, iar cel estic e {1}.",
+    "raspunsuri": [
+     "Horodiștea",
+     "Sulina"
+    ],
+    "distractori": [
+     "Zimnicea",
+     "Beba Veche"
+    ]
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Nord și est."
+   },
+   "surse": [
+    "INS – Anuarul Statistic al României: coordonatele punctelor extreme",
+    "Wikipedia (ro) – Puncte extreme ale României"
+   ]
+  },
+  {
+   "id": "VIII1-22",
+   "nivel": "VIII-S01-pozitia-geografica-elemente-definitorii",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "lacunar",
+   "dificultate": 2,
+   "enunt": "Completează.",
+   "date": {
+    "text": "Granița cu Republica Moldova urmează râul {0}, iar granița cu Bulgaria urmează în mare parte {1}.",
+    "raspunsuri": [
+     "Prut",
+     "Dunărea"
+    ],
+    "distractori": [
+     "Siret",
+     "Tisa"
+    ]
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Prut și Dunăre."
+   }
+  },
+  {
+   "id": "VIII1-23",
+   "nivel": "VIII-S01-pozitia-geografica-elemente-definitorii",
+   "competente": [
+    "VIII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce consecință are poziția la paralela de 45° pentru climă?",
+   "date": {
+    "variante": [
+     "climă temperată, cu patru anotimpuri",
+     "climă ecuatorială",
+     "climă polară",
+     "climă deșertică"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Poziția mijlocie între Ecuator și pol."
+   }
+  },
+  {
+   "id": "VIII1-24",
+   "nivel": "VIII-S01-pozitia-geografica-elemente-definitorii",
+   "competente": [
+    "VIII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce consecință are poziția României față de Oceanul Atlantic?",
+   "date": {
+    "variante": [
+     "influențele oceanice scad de la vest spre est, iar cele continentale cresc",
+     "oceanul încălzește doar Dobrogea",
+     "nu are nicio consecință",
+     "toată țara are climă oceanică"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Vestul e mai umed, estul mai uscat."
+   }
+  },
+  {
+   "id": "VIII1-25",
+   "nivel": "VIII-S01-pozitia-geografica-elemente-definitorii",
+   "competente": [
+    "VIII-2.2"
+   ],
+   "tip": "grafic",
+   "dificultate": 3,
+   "enunt": "Graficul compară suprafața unor țări europene (mii km², valori rotunjite). Unde se situează România?",
+   "date": {
+    "grafic": {
+     "tip": "bare",
+     "titlu": "Suprafața (mii km², valori rotunjite)",
+     "date": [
+      {
+       "eticheta": "Franța",
+       "valoare": 552
+      },
+      {
+       "eticheta": "Polonia",
+       "valoare": 313
+      },
+      {
+       "eticheta": "România",
+       "valoare": 238
+      },
+      {
+       "eticheta": "Ungaria",
+       "valoare": 93
+      },
+      {
+       "eticheta": "Bulgaria",
+       "valoare": 111
+      }
+     ],
+     "unitate": "mii km²",
+     "sursa": "Eurostat / INS"
+    },
+    "variante": [
+     "e o țară de mărime mijlocie: mai mică decât Franța și Polonia, mai mare decât Ungaria și Bulgaria",
+     "e cea mai mare",
+     "e cea mai mică",
+     "e egală cu Franța"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "România are 238 de mii km²."
+   },
+   "surse": [
+    "Institutul Național de Statistică (INS) – Anuarul Statistic al României, cap. „Geografie”",
+    "Encyclopaedia Britannica – Romania"
+   ]
+  },
+  {
+   "id": "VIII1-26",
+   "nivel": "VIII-S01-pozitia-geografica-elemente-definitorii",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "ordoneaza",
+   "dificultate": 3,
+   "enunt": "Ordonează vecinii României în sensul acelor de ceasornic, pornind de la nord.",
+   "date": {
+    "elemente": [
+     "Ucraina (nord)",
+     "Republica Moldova (est)",
+     "Bulgaria (sud)",
+     "Serbia (sud-vest)",
+     "Ungaria (vest)"
+    ],
+    "criteriu": "În sensul acelor de ceasornic"
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Ocolim granița pornind de la nord."
+   }
+  },
+  {
+   "id": "VIII1-27",
+   "nivel": "VIII-S01-pozitia-geografica-elemente-definitorii",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "denumeste",
+   "dificultate": 2,
+   "enunt": "Ce stat vecin e marcat pe hartă, la est de Prut?",
+   "date": {
+    "harta": "lume",
+    "punct": {
+     "lat": 47,
+     "lon": 28.5
+    },
+    "variante": [
+     "Republica Moldova",
+     "Ucraina",
+     "Bulgaria",
+     "Ungaria"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Republica Moldova e între România și Ucraina."
+   }
+  },
+  {
+   "id": "VIII1-28",
+   "nivel": "VIII-S01-pozitia-geografica-elemente-definitorii",
+   "competente": [
+    "VIII-4.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 3,
+   "enunt": "Compară poziția României cu cea a Ungariei.",
+   "date": {
+    "variante": [
+     "România are ieșire la mare și e străbătută de Carpați; Ungaria nu are ieșire la mare și e mai ales câmpie",
+     "Ungaria are ieșire la Marea Neagră",
+     "sunt identice",
+     "România nu are munți"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Poziția influențează economia și clima."
+   }
+  },
+  {
+   "id": "VIII1-29",
+   "nivel": "VIII-S01-pozitia-geografica-elemente-definitorii",
+   "competente": [
+    "VIII-1.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce meridian important trece prin România?",
+   "date": {
+    "variante": [
+     "meridianul de 25° E",
+     "meridianul de 0°",
+     "meridianul de 180°",
+     "meridianul de 90° V"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Trece prin centrul țării, prin Țara Făgărașului."
+   }
+  },
+  {
+   "id": "VIII1-30",
+   "nivel": "VIII-S01-pozitia-geografica-elemente-definitorii",
+   "competente": [
+    "VIII-4.4"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce avantaj aduce ieșirea la Marea Neagră?",
+   "date": {
+    "variante": [
+     "comerț maritim prin portul Constanța, turism, pescuit, resurse din platformă",
+     "nu aduce niciun avantaj",
+     "aduce doar inundații",
+     "oprește comerțul"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Constanța e cel mai mare port de la Marea Neagră."
+   }
+  },
+  {
+   "id": "VIII2-01",
+   "nivel": "VIII-S02-romania-tara-carpatica-dunareana",
+   "competente": [
+    "VIII-1.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 1,
+   "enunt": "De ce România e numită „țară carpatică”?",
+   "date": {
+    "variante": [
+     "pentru că Carpații o străbat ca un arc, în centrul țării",
+     "pentru că are cei mai înalți munți din Europa",
+     "pentru că nu are munți",
+     "pentru că e la mare"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Carpații sunt „coloana vertebrală” a țării."
+   }
+  },
+  {
+   "id": "VIII2-02",
+   "nivel": "VIII-S02-romania-tara-carpatica-dunareana",
+   "competente": [
+    "VIII-1.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 1,
+   "enunt": "Ce înseamnă „țară pontică”?",
+   "date": {
+    "variante": [
+     "țară cu ieșire la Marea Neagră",
+     "țară cu poduri",
+     "țară cu munți",
+     "țară fără apă"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Pontus Euxinus = Marea Neagră."
+   }
+  },
+  {
+   "id": "VIII2-03",
+   "nivel": "VIII-S02-romania-tara-carpatica-dunareana",
+   "competente": [
+    "VIII-1.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "De ce România e numită „țară dunăreană”?",
+   "date": {
+    "variante": [
+     "Dunărea are cea mai lungă porțiune pe teritoriul sau la granița României și aici își are delta",
+     "Dunărea izvorăște din România",
+     "Dunărea trece doar prin București",
+     "Dunărea se varsă în Oceanul Atlantic"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Aproximativ 1 075 km."
+   },
+   "surse": [
+    "ICPDR – Danube Basin facts",
+    "Administrația Fluvială a Dunării de Jos – Dunărea pe teritoriul României"
+   ]
+  },
+  {
+   "id": "VIII2-04",
+   "nivel": "VIII-S02-romania-tara-carpatica-dunareana",
+   "competente": [
+    "VIII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce parte din lanțul Carpaților se află în România?",
+   "date": {
+    "variante": [
+     "peste jumătate",
+     "o zecime",
+     "tot lanțul",
+     "nimic"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Restul e în Slovacia, Polonia, Ucraina, Cehia, Ungaria, Austria, Serbia."
+   }
+  },
+  {
+   "id": "VIII2-05",
+   "nivel": "VIII-S02-romania-tara-carpatica-dunareana",
+   "competente": [
+    "VIII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce lungime are litoralul românesc, aproximativ?",
+   "date": {
+    "variante": [
+     "245 km",
+     "24 km",
+     "2 450 km",
+     "1 075 km"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "De la Sulina la Vama Veche."
+   }
+  },
+  {
+   "id": "VIII2-06",
+   "nivel": "VIII-S02-romania-tara-carpatica-dunareana",
+   "competente": [
+    "VIII-4.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Unde se termină litoralul românesc la sud?",
+   "date": {
+    "variante": [
+     "la Vama Veche, la granița cu Bulgaria",
+     "la Constanța",
+     "la Sulina",
+     "la Mangalia, fără graniță"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "La nord, litoralul pornește de la brațul Chilia."
+   }
+  },
+  {
+   "id": "VIII2-07",
+   "nivel": "VIII-S02-romania-tara-carpatica-dunareana",
+   "competente": [
+    "VIII-1.2"
+   ],
+   "tip": "asociaza",
+   "dificultate": 2,
+   "enunt": "Asociază denumirea cu explicația.",
+   "date": {
+    "perechi": [
+     [
+      "carpatică",
+      "străbătută de arcul Carpaților"
+     ],
+     [
+      "dunăreană",
+      "străbătută de Dunăre, cu delta ei"
+     ],
+     [
+      "pontică",
+      "cu ieșire la Marea Neagră"
+     ],
+     [
+      "central-europeană",
+      "legată de Europa Centrală prin poziție și istorie"
+     ]
+    ]
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Elementele care definesc România."
+   }
+  },
+  {
+   "id": "VIII2-08",
+   "nivel": "VIII-S02-romania-tara-carpatica-dunareana",
+   "competente": [
+    "VIII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "De ce aproape toate râurile României ajung în Dunăre?",
+   "date": {
+    "variante": [
+     "pentru că Dunărea e colectorul principal, în sudul și estul țării, unde relieful e cel mai jos",
+     "pentru că așa au fost săpate de oameni",
+     "pentru că Dunărea e la nord",
+     "nu ajung"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Rețeaua hidrografică e radiară și converge spre Dunăre."
+   }
+  },
+  {
+   "id": "VIII2-09",
+   "nivel": "VIII-S02-romania-tara-carpatica-dunareana",
+   "competente": [
+    "VIII-4.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce dispunere are relieful României în jurul Carpaților?",
+   "date": {
+    "variante": [
+     "în trepte concentrice: munți, apoi dealuri și podișuri, apoi câmpii",
+     "fără nicio ordine",
+     "toți munții la mare",
+     "câmpiile în centru"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Relieful e dispus în amfiteatru."
+   }
+  },
+  {
+   "id": "VIII2-10",
+   "nivel": "VIII-S02-romania-tara-carpatica-dunareana",
+   "competente": [
+    "VIII-1.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Din ce an e România membră a NATO?",
+   "date": {
+    "variante": [
+     "2004",
+     "1990",
+     "2007",
+     "2020"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Iar din UE din 2007."
+   }
+  },
+  {
+   "id": "VIII2-11",
+   "nivel": "VIII-S02-romania-tara-carpatica-dunareana",
+   "competente": [
+    "VIII-1.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Din ce an e România membră a Uniunii Europene?",
+   "date": {
+    "variante": [
+     "2007",
+     "2004",
+     "1918",
+     "2012"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "1 ianuarie 2007."
+   },
+   "surse": [
+    "Uniunea Europeană – Țările UE: România (european-union.europa.eu)",
+    "Ministerul Afacerilor Externe – România în UE"
+   ]
+  },
+  {
+   "id": "VIII2-12",
+   "nivel": "VIII-S02-romania-tara-carpatica-dunareana",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "pin",
+   "dificultate": 2,
+   "enunt": "Atinge pe harta României Delta Dunării.",
+   "date": {
+    "harta": "romania",
+    "tinta": {
+     "lat": 45.1,
+     "lon": 29.3,
+     "nume": "Delta Dunării"
+    },
+    "toleranta": 50
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Delta e în nord-estul Dobrogei."
+   }
+  },
+  {
+   "id": "VIII2-13",
+   "nivel": "VIII-S02-romania-tara-carpatica-dunareana",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "pin",
+   "dificultate": 2,
+   "enunt": "Atinge pe harta României Vama Veche, la capătul sudic al litoralului.",
+   "date": {
+    "harta": "romania",
+    "tinta": {
+     "lat": 43.75,
+     "lon": 28.58,
+     "nume": "Vama Veche"
+    },
+    "toleranta": 40
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "La granița cu Bulgaria."
+   }
+  },
+  {
+   "id": "VIII2-14",
+   "nivel": "VIII-S02-romania-tara-carpatica-dunareana",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "pin",
+   "dificultate": 3,
+   "enunt": "Atinge pe harta României Porțile de Fier, unde Dunărea intră în țară.",
+   "date": {
+    "harta": "romania",
+    "tinta": {
+     "lat": 44.67,
+     "lon": 22.53,
+     "nume": "Porțile de Fier"
+    },
+    "toleranta": 50
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Defileul Dunării, la granița cu Serbia."
+   }
+  },
+  {
+   "id": "VIII2-15",
+   "nivel": "VIII-S02-romania-tara-carpatica-dunareana",
+   "competente": [
+    "VIII-1.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Adevărat sau fals? Dunărea izvorăște din Munții Carpați.",
+   "date": {
+    "variante": [
+     "Fals",
+     "Adevărat"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Fals: izvorăște din Pădurea Neagră, în Germania."
+   }
+  },
+  {
+   "id": "VIII2-16",
+   "nivel": "VIII-S02-romania-tara-carpatica-dunareana",
+   "competente": [
+    "VIII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Adevărat sau fals? Carpații ocupă aproximativ o treime din suprafața României.",
+   "date": {
+    "variante": [
+     "Adevărat",
+     "Fals"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Adevărat."
+   }
+  },
+  {
+   "id": "VIII2-17",
+   "nivel": "VIII-S02-romania-tara-carpatica-dunareana",
+   "competente": [
+    "VIII-1.1"
+   ],
+   "tip": "lacunar",
+   "dificultate": 2,
+   "enunt": "Completează.",
+   "date": {
+    "text": "România e țară {0}, dunăreană și {1}.",
+    "raspunsuri": [
+     "carpatică",
+     "pontică"
+    ],
+    "distractori": [
+     "alpină",
+     "atlantică"
+    ]
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Trei elemente naturale."
+   }
+  },
+  {
+   "id": "VIII2-18",
+   "nivel": "VIII-S02-romania-tara-carpatica-dunareana",
+   "competente": [
+    "VIII-4.2"
+   ],
+   "tip": "lacunar",
+   "dificultate": 2,
+   "enunt": "Completează.",
+   "date": {
+    "text": "Litoralul românesc are aproximativ {0} km, de la Sulina până la {1}.",
+    "raspunsuri": [
+     "245",
+     "Vama Veche"
+    ],
+    "distractori": [
+     "1 075",
+     "Constanța"
+    ]
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Litoralul."
+   }
+  },
+  {
+   "id": "VIII2-19",
+   "nivel": "VIII-S02-romania-tara-carpatica-dunareana",
+   "competente": [
+    "VIII-2.2"
+   ],
+   "tip": "grafic",
+   "dificultate": 3,
+   "enunt": "Graficul arată lungimea Dunării în câteva țări (km, valori aproximative, inclusiv granițele). Unde are cea mai lungă porțiune?",
+   "date": {
+    "grafic": {
+     "tip": "bare",
+     "titlu": "Lungimea Dunării pe teritoriu sau la graniță (aproximativ)",
+     "date": [
+      {
+       "eticheta": "România",
+       "valoare": 1075
+      },
+      {
+       "eticheta": "Serbia",
+       "valoare": 588
+      },
+      {
+       "eticheta": "Ungaria",
+       "valoare": 417
+      },
+      {
+       "eticheta": "Germania",
+       "valoare": 687
+      },
+      {
+       "eticheta": "Austria",
+       "valoare": 350
+      }
+     ],
+     "unitate": "km",
+     "sursa": "ICPDR"
+    },
+    "variante": [
+     "în România",
+     "în Germania",
+     "în Ungaria",
+     "în Austria"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "România are cea mai lungă porțiune."
+   },
+   "surse": [
+    "ICPDR – Danube Basin facts",
+    "Administrația Fluvială a Dunării de Jos – Dunărea pe teritoriul României"
+   ]
+  },
+  {
+   "id": "VIII2-20",
+   "nivel": "VIII-S02-romania-tara-carpatica-dunareana",
+   "competente": [
+    "VIII-4.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 3,
+   "enunt": "Ce înseamnă că România e la „răscruce” între Europa Centrală, de Est și de Sud-Est?",
+   "date": {
+    "variante": [
+     "e la întâlnirea acestor regiuni, cu influențe din toate",
+     "e izolată",
+     "e în Europa de Vest",
+     "e în Asia"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Poziție de legătură."
+   }
+  },
+  {
+   "id": "VIII2-21",
+   "nivel": "VIII-S02-romania-tara-carpatica-dunareana",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "denumeste",
+   "dificultate": 2,
+   "enunt": "Ce munți, „coloana vertebrală” a României, sunt marcați pe hartă?",
+   "date": {
+    "harta": "romania",
+    "punct": {
+     "lat": 45.6,
+     "lon": 24.7
+    },
+    "variante": [
+     "Carpații Meridionali",
+     "Munții Apuseni",
+     "Munții Măcinului",
+     "Carpații Orientali"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Punctul e în Munții Făgăraș."
+   }
+  },
+  {
+   "id": "VIII2-22",
+   "nivel": "VIII-S02-romania-tara-carpatica-dunareana",
+   "competente": [
+    "VIII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce rol au avut Carpații în istoria României?",
+   "date": {
+    "variante": [
+     "au oferit adăpost, păduri, pășuni și au fost un spațiu de legătură între provinciile românești",
+     "au despărțit complet românii",
+     "nu au avut niciun rol",
+     "au fost deșertul țării"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Păstoritul și transhumanța i-au legat pe români."
+   }
+  },
+  {
+   "id": "VIII2-23",
+   "nivel": "VIII-S02-romania-tara-carpatica-dunareana",
+   "competente": [
+    "VIII-1.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce canal leagă Dunărea de portul Constanța?",
+   "date": {
+    "variante": [
+     "Canalul Dunăre–Marea Neagră",
+     "Canalul Suez",
+     "Canalul Bega",
+     "Canalul Panama"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Scurtează drumul spre mare."
+   }
+  },
+  {
+   "id": "VIII2-24",
+   "nivel": "VIII-S02-romania-tara-carpatica-dunareana",
+   "competente": [
+    "VIII-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce înseamnă „Pontus Euxinus”?",
+   "date": {
+    "variante": [
+     "numele antic al Mării Negre",
+     "un munte",
+     "un râu din Banat",
+     "un oraș dacic"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Grecii și romanii îl foloseau."
+   }
+  },
+  {
+   "id": "VIII2-25",
+   "nivel": "VIII-S02-romania-tara-carpatica-dunareana",
+   "competente": [
+    "VIII-4.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce orașe-port românești sunt la Marea Neagră?",
+   "date": {
+    "variante": [
+     "Constanța, Mangalia, Midia",
+     "Galați, Brăila",
+     "Iași, Suceava",
+     "Cluj, Oradea"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Galați și Brăila sunt porturi dunărene."
+   }
+  },
+  {
+   "id": "VIII2-26",
+   "nivel": "VIII-S02-romania-tara-carpatica-dunareana",
+   "competente": [
+    "VIII-4.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce orașe-port românești mari sunt pe Dunăre?",
+   "date": {
+    "variante": [
+     "Galați, Brăila, Tulcea",
+     "Constanța, Mangalia",
+     "Brașov, Sibiu",
+     "Iași, Botoșani"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Pe Dunărea maritimă pot urca nave maritime."
+   }
+  },
+  {
+   "id": "VIII2-27",
+   "nivel": "VIII-S02-romania-tara-carpatica-dunareana",
+   "competente": [
+    "VIII-4.4"
+   ],
+   "tip": "alegere",
+   "dificultate": 3,
+   "enunt": "De ce Dunărea e importantă pentru economia României?",
+   "date": {
+    "variante": [
+     "transport, energie (Porțile de Fier), apă pentru irigații, pescuit, turism",
+     "nu are importanță",
+     "doar pentru înot",
+     "doar pentru inundații"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Dunărea e o axă economică."
+   }
+  },
+  {
+   "id": "VIII2-28",
+   "nivel": "VIII-S02-romania-tara-carpatica-dunareana",
+   "competente": [
+    "VIII-4.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce stat european are cea mai mare parte a Carpaților, după suprafață?",
+   "date": {
+    "variante": [
+     "România",
+     "Polonia",
+     "Slovacia",
+     "Ucraina"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Arcul carpatic românesc e cel mai întins."
+   }
+  },
+  {
+   "id": "VIII2-29",
+   "nivel": "VIII-S02-romania-tara-carpatica-dunareana",
+   "competente": [
+    "VIII-1.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce înseamnă că relieful României e dispus „în amfiteatru”?",
+   "date": {
+    "variante": [
+     "treptele de relief coboară de la munți spre câmpii, ca băncile unui amfiteatru",
+     "că e plat",
+     "că are forma unui cerc perfect",
+     "că e sub mare"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Munți – dealuri și podișuri – câmpii."
+   }
+  },
+  {
+   "id": "VIII2-30",
+   "nivel": "VIII-S02-romania-tara-carpatica-dunareana",
+   "competente": [
+    "VIII-4.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce județ al României are ieșire și la Dunăre, și la Marea Neagră?",
+   "date": {
+    "variante": [
+     "Constanța (și Tulcea)",
+     "Buzău",
+     "Cluj",
+     "Bihor"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Dobrogea e între Dunăre și mare."
+   }
+  }
+ ]
+}

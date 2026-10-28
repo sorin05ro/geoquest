@@ -1,0 +1,621 @@
+{
+ "clasa": 8,
+ "unitate": "Regiuni geografice și dezvoltarea regională",
+ "niveluri": [
+  {
+   "id": "VIII-S34-diferentieri-regionale",
+   "tip": "expeditie",
+   "titlu": "Expediție: diferențieri regionale",
+   "descopera": {
+    "intrebare": "De ce unele regiuni ale României sunt mai dezvoltate decât altele?"
+   },
+   "invata": [
+    {
+     "titlu": "Ce faci în expediție",
+     "text": "Urmezi pașii, rezolvi sarcinile și notezi în Jurnalul exploratorului ce ai descoperit."
+    }
+   ],
+   "referintaProfesor": "Manual Art Klett, clasa a VIII-a, ediția 2025 (manuale.edu.ro), lecția „Diferențieri regionale”",
+   "pasi": [
+    {
+     "titlu": "1. Hărțile regiunilor",
+     "text": "Compară, în atlas, harta regiunilor de dezvoltare cu hărțile de relief, populație și economie.",
+     "itemi": [
+      "VIII34a-01",
+      "VIII34a-02",
+      "VIII34a-03",
+      "VIII34a-04"
+     ],
+     "jurnal": {
+      "cerinta": "Scrie 2 diferențe între Regiunea Vest și Regiunea Nord-Est."
+     }
+    },
+    {
+     "titlu": "2. Cauzele",
+     "text": "Discută în grup: ce factori (poziție, relief, drumuri, orașe mari, istorie) fac o regiune mai dezvoltată?",
+     "itemi": [
+      "VIII34a-05",
+      "VIII34a-06"
+     ],
+     "jurnal": {
+      "cerinta": "Notează 3 factori și un exemplu pentru fiecare."
+     }
+    },
+    {
+     "titlu": "3. Regiunea noastră",
+     "text": "Caracterizează pe scurt Regiunea Sud-Est: județe, relief, orașe mari, activități economice.",
+     "itemi": [
+      "VIII34a-07"
+     ],
+     "jurnal": {
+      "cerinta": "Scrie 5 rânduri despre Regiunea Sud-Est."
+     }
+    }
+   ]
+  },
+  {
+   "id": "VIII-S34-regiunile-geografice-baze-naturale",
+   "tip": "expeditie",
+   "titlu": "Expediție: regiunile geografice ale României",
+   "descopera": {
+    "intrebare": "Cum ai împărți România după natură, nu după județe?"
+   },
+   "invata": [
+    {
+     "titlu": "Ce faci în expediție",
+     "text": "Urmezi pașii, rezolvi sarcinile și notezi în Jurnalul exploratorului ce ai descoperit."
+    }
+   ],
+   "referintaProfesor": "Manual Art Klett, clasa a VIII-a, ediția 2025 (manuale.edu.ro), lecția „Regiunile geografice pe baze naturale”",
+   "pasi": [
+    {
+     "titlu": "1. Harta regiunilor",
+     "text": "Pe harta fizică a României, delimitează cu creionul regiunile geografice mari și dă-le un nume.",
+     "itemi": [
+      "VIII34b-01",
+      "VIII34b-02",
+      "VIII34b-03"
+     ],
+     "jurnal": {
+      "cerinta": "Fotografiază harta.",
+      "foto": true
+     }
+    },
+    {
+     "titlu": "2. Comparația",
+     "text": "Alege două regiuni naturale și compară-le după relief, climă, ape, vegetație și ocupațiile oamenilor.",
+     "itemi": [
+      "VIII34b-04",
+      "VIII34b-05"
+     ],
+     "jurnal": {
+      "cerinta": "Completează un tabel comparativ."
+     }
+    },
+    {
+     "titlu": "3. Județul în regiuni",
+     "text": "Arată pe hartă cum se împarte județul Buzău între munte, deal și câmpie.",
+     "itemi": [
+      "VIII34b-06"
+     ],
+     "jurnal": {
+      "cerinta": "Scrie ce ocupații au oamenii în fiecare treaptă."
+     }
+    }
+   ]
+  },
+  {
+   "id": "VIII-S34-aplicatii-practice-studii-caz",
+   "tip": "expeditie",
+   "titlu": "Expediție: caracterizarea unei regiuni la alegere",
+   "descopera": {
+    "intrebare": "Ce regiune a României ai prezenta colegilor și de ce?"
+   },
+   "invata": [
+    {
+     "titlu": "Ce faci în expediție",
+     "text": "Urmezi pașii, rezolvi sarcinile și notezi în Jurnalul exploratorului ce ai descoperit."
+    }
+   ],
+   "referintaProfesor": "Manual Art Klett, clasa a VIII-a, ediția 2025 (manuale.edu.ro), lecția „Aplicații practice/studii de caz: Caracterizarea geografică a unei regiuni”",
+   "pasi": [
+    {
+     "titlu": "1. Alege regiunea",
+     "text": "Alege o regiune: Maramureș, Bucovina, Țara Bârsei, Delta Dunării, Banat, Oltenia, Dobrogea sau Ținutul Buzăului.",
+     "itemi": [
+      "VIII34c-01"
+     ]
+    },
+    {
+     "titlu": "2. Datele",
+     "text": "Adună informațiile pentru fiecare pas al algoritmului. Pentru cifre, notează sursa și anul.",
+     "itemi": [
+      "VIII34c-02"
+     ],
+     "jurnal": {
+      "cerinta": "Scrie tabelul cu datele și sursele."
+     }
+    },
+    {
+     "titlu": "3. Probleme și soluții",
+     "text": "Identifică o problemă a regiunii și propune o soluție.",
+     "itemi": [
+      "VIII34c-03"
+     ],
+     "jurnal": {
+      "cerinta": "Scrie problema și soluția."
+     }
+    },
+    {
+     "titlu": "4. Prezentarea",
+     "text": "Prezintă regiunea în 3 minute, cu o hartă și 3 imagini (făcute de tine sau cu licență liberă).",
+     "jurnal": {
+      "cerinta": "Fotografiază un diapozitiv al prezentării.",
+      "foto": true
+     }
+    }
+   ]
+  }
+ ],
+ "itemi": [
+  {
+   "id": "VIII34a-01",
+   "nivel": "VIII-S34-diferentieri-regionale",
+   "competente": [
+    "VIII-1.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 1,
+   "enunt": "Ce înseamnă „diferențieri regionale”?",
+   "date": {
+    "variante": [
+     "deosebirile dintre regiuni în ce privește natura, populația și economia",
+     "regiunile sunt identice",
+     "granițele dintre state",
+     "doar diferențe de climă"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Natural, uman, economic."
+   }
+  },
+  {
+   "id": "VIII34a-02",
+   "nivel": "VIII-S34-diferentieri-regionale",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "asociaza",
+   "dificultate": 2,
+   "enunt": "Asociază regiunea de dezvoltare cu un oraș important.",
+   "date": {
+    "perechi": [
+     [
+      "Nord-Est",
+      "Iași"
+     ],
+     [
+      "Sud-Est",
+      "Constanța"
+     ],
+     [
+      "Vest",
+      "Timișoara"
+     ],
+     [
+      "Nord-Vest",
+      "Cluj-Napoca"
+     ]
+    ]
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Regiunile de dezvoltare."
+   },
+   "surse": [
+    "Ministerul Dezvoltării – Regiunile de dezvoltare (Legea nr. 315/2004)",
+    "Eurostat – Regional GDP per capita (NUTS 2)"
+   ]
+  },
+  {
+   "id": "VIII34a-03",
+   "nivel": "VIII-S34-diferentieri-regionale",
+   "competente": [
+    "VIII-4.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce regiune de dezvoltare are cel mai mare PIB pe locuitor?",
+   "date": {
+    "variante": [
+     "București-Ilfov",
+     "Nord-Est",
+     "Sud-Vest Oltenia",
+     "Sud-Muntenia"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Capitala concentrează servicii și investiții."
+   },
+   "surse": [
+    "Ministerul Dezvoltării – Regiunile de dezvoltare (Legea nr. 315/2004)",
+    "Eurostat – Regional GDP per capita (NUTS 2)"
+   ]
+  },
+  {
+   "id": "VIII34a-04",
+   "nivel": "VIII-S34-diferentieri-regionale",
+   "competente": [
+    "VIII-4.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce regiune de dezvoltare are de obicei cel mai mic PIB pe locuitor?",
+   "date": {
+    "variante": [
+     "Nord-Est",
+     "București-Ilfov",
+     "Vest",
+     "Centru"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Multe zone rurale, infrastructură mai slabă."
+   },
+   "surse": [
+    "Ministerul Dezvoltării – Regiunile de dezvoltare (Legea nr. 315/2004)",
+    "Eurostat – Regional GDP per capita (NUTS 2)"
+   ]
+  },
+  {
+   "id": "VIII34a-05",
+   "nivel": "VIII-S34-diferentieri-regionale",
+   "competente": [
+    "VIII-2.3"
+   ],
+   "tip": "grafic",
+   "dificultate": 3,
+   "enunt": "Graficul compară (schematic) PIB-ul pe locuitor în trei regiuni (indice, media națională = 100). Ce observi?",
+   "date": {
+    "grafic": {
+     "tip": "bare",
+     "titlu": "PIB pe locuitor, indice (schematic, media țării = 100)",
+     "date": [
+      {
+       "eticheta": "București-Ilfov",
+       "valoare": 220
+      },
+      {
+       "eticheta": "Vest",
+       "valoare": 100
+      },
+      {
+       "eticheta": "Nord-Est",
+       "valoare": 60
+      }
+     ],
+     "unitate": "indice",
+     "sursa": "Eurostat – Regional GDP (NUTS 2), prelucrare schematică"
+    },
+    "variante": [
+     "diferențe mari între capitală și celelalte regiuni",
+     "toate regiunile sunt egale",
+     "Nord-Est e cea mai bogată",
+     "Vest e cea mai săracă"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Bucureștiul are de aproximativ trei ori PIB-ul pe locuitor al Regiunii Nord-Est."
+   },
+   "surse": [
+    "Ministerul Dezvoltării – Regiunile de dezvoltare (Legea nr. 315/2004)",
+    "Eurostat – Regional GDP per capita (NUTS 2)"
+   ]
+  },
+  {
+   "id": "VIII34a-06",
+   "nivel": "VIII-S34-diferentieri-regionale",
+   "competente": [
+    "VIII-4.4"
+   ],
+   "tip": "alegere",
+   "dificultate": 3,
+   "enunt": "Ce poate reduce diferențele dintre regiuni?",
+   "date": {
+    "variante": [
+     "autostrăzi, investiții, educație, fonduri europene pentru zonele mai puțin dezvoltate",
+     "închiderea școlilor",
+     "mutarea tuturor în capitală",
+     "nimic"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Politica de coeziune a UE."
+   }
+  },
+  {
+   "id": "VIII34a-07",
+   "nivel": "VIII-S34-diferentieri-regionale",
+   "competente": [
+    "VIII-4.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "În ce regiune de dezvoltare se află Râmnicu Sărat?",
+   "date": {
+    "variante": [
+     "Sud-Est",
+     "Nord-Est",
+     "Centru",
+     "Sud-Muntenia"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Județul Buzău e în Regiunea Sud-Est."
+   },
+   "surse": [
+    "Ministerul Dezvoltării – Regiunile de dezvoltare (Legea nr. 315/2004)",
+    "Eurostat – Regional GDP per capita (NUTS 2)"
+   ]
+  },
+  {
+   "id": "VIII34b-01",
+   "nivel": "VIII-S34-regiunile-geografice-baze-naturale",
+   "competente": [
+    "VIII-1.2"
+   ],
+   "tip": "asociaza",
+   "dificultate": 1,
+   "enunt": "Asociază regiunea geografică cu trăsătura ei principală.",
+   "date": {
+    "perechi": [
+     [
+      "Carpații",
+      "munți, păduri, pășuni"
+     ],
+     [
+      "Depresiunea Transilvaniei",
+      "dealuri și podișuri, gaze și sare"
+     ],
+     [
+      "Câmpia Română",
+      "cereale, cernoziom"
+     ],
+     [
+      "Delta Dunării",
+      "ape, stuf, păsări"
+     ]
+    ]
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Regiuni naturale."
+   }
+  },
+  {
+   "id": "VIII34b-02",
+   "nivel": "VIII-S34-regiunile-geografice-baze-naturale",
+   "competente": [
+    "VIII-1.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce criterii se folosesc pentru regiunile pe baze naturale?",
+   "date": {
+    "variante": [
+     "relieful, clima, apele, vegetația și solurile",
+     "numărul de magazine",
+     "partidele politice",
+     "culoarea caselor"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Caracteristicile naturale."
+   }
+  },
+  {
+   "id": "VIII34b-03",
+   "nivel": "VIII-S34-regiunile-geografice-baze-naturale",
+   "competente": [
+    "VIII-2.1"
+   ],
+   "tip": "etichete",
+   "dificultate": 2,
+   "enunt": "Pune pe hartă regiunile geografice.",
+   "date": {
+    "tinte": [
+     {
+      "id": "ca",
+      "eticheta": "Carpații",
+      "lat": 45.6,
+      "lon": 24.7
+     },
+     {
+      "id": "tr",
+      "eticheta": "Depresiunea Transilvaniei",
+      "lat": 46.6,
+      "lon": 24.4
+     },
+     {
+      "id": "cr",
+      "eticheta": "Câmpia Română",
+      "lat": 44.4,
+      "lon": 26
+     },
+     {
+      "id": "dd",
+      "eticheta": "Delta Dunării",
+      "lat": 45.1,
+      "lon": 29.3
+     },
+     {
+      "id": "pm",
+      "eticheta": "Podișul Moldovei",
+      "lat": 47,
+      "lon": 27.3
+     }
+    ],
+    "harta": "romania"
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Unitățile majore."
+   }
+  },
+  {
+   "id": "VIII34b-04",
+   "nivel": "VIII-S34-regiunile-geografice-baze-naturale",
+   "competente": [
+    "VIII-2.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce regiune naturală are cele mai puține precipitații?",
+   "date": {
+    "variante": [
+     "Dobrogea",
+     "Carpații Meridionali",
+     "Maramureșul",
+     "Bucovina"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Sub 400 l/m² pe an în unele zone."
+   }
+  },
+  {
+   "id": "VIII34b-05",
+   "nivel": "VIII-S34-regiunile-geografice-baze-naturale",
+   "competente": [
+    "VIII-4.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 3,
+   "enunt": "Compară regiunea Subcarpaților cu Câmpia Română.",
+   "date": {
+    "variante": [
+     "Subcarpații au dealuri, livezi, vii și alunecări; câmpia are cereale, cernoziom și secetă",
+     "sunt identice",
+     "câmpia are alunecări mai multe",
+     "Subcarpații au deltă"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Diferențe naturale și economice."
+   }
+  },
+  {
+   "id": "VIII34b-06",
+   "nivel": "VIII-S34-regiunile-geografice-baze-naturale",
+   "competente": [
+    "VIII-4.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "În ce regiuni naturale se întinde județul Buzău?",
+   "date": {
+    "variante": [
+     "Carpații de Curbură, Subcarpații de Curbură și Câmpia Română",
+     "doar Delta Dunării",
+     "doar Podișul Moldovei",
+     "Munții Apuseni"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Județul are toate cele trei trepte."
+   }
+  },
+  {
+   "id": "VIII34c-01",
+   "nivel": "VIII-S34-aplicatii-practice-studii-caz",
+   "competente": [
+    "VIII-4.1"
+   ],
+   "tip": "ordoneaza",
+   "dificultate": 1,
+   "enunt": "Ordonează pașii caracterizării unei regiuni.",
+   "date": {
+    "elemente": [
+     "poziția și limitele",
+     "relieful",
+     "clima și apele",
+     "vegetația, fauna, solurile",
+     "populația și așezările",
+     "economia",
+     "probleme și perspective"
+    ],
+    "criteriu": "Algoritmul"
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "De la natural la uman."
+   }
+  },
+  {
+   "id": "VIII34c-02",
+   "nivel": "VIII-S34-aplicatii-practice-studii-caz",
+   "competente": [
+    "VIII-4.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce surse folosești pentru caracterizare?",
+   "date": {
+    "variante": [
+     "atlasul, manualul, INS, site-urile oficiale ale județelor și parcurilor",
+     "comentarii anonime",
+     "reclame",
+     "jocuri video"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Notează sursa fiecărei cifre."
+   }
+  },
+  {
+   "id": "VIII34c-03",
+   "nivel": "VIII-S34-aplicatii-practice-studii-caz",
+   "competente": [
+    "VIII-4.4"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce problemă de mediu are Delta Dunării?",
+   "date": {
+    "variante": [
+     "poluarea apelor și braconajul",
+     "deșertificarea totală",
+     "avalanșele",
+     "vulcanii"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Măsuri: zone strict protejate."
+   }
+  }
+ ]
+}

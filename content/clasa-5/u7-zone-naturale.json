@@ -1,0 +1,814 @@
+{
+ "clasa": 5,
+ "unitate": "Zonele naturale ale Terrei",
+ "niveluri": [
+  {
+   "id": "V-S31-diversitatea-peisajelor-terestre-naturale",
+   "tip": "nivel",
+   "titlu": "Diversitatea peisajelor terestre naturale",
+   "descopera": {
+    "intrebare": "Dacă ai face înconjurul lumii, prin ce peisaje ai trece?"
+   },
+   "invata": [
+    {
+     "titlu": "Ce este un peisaj natural",
+     "text": "Un peisaj natural este o porțiune de pe suprafața Pământului unde relieful, clima, apele, plantele, animalele și solurile se potrivesc între ele și formează un întreg.\nPeisajele naturale se repetă după zonele de climă și se numesc zone naturale."
+    },
+    {
+     "titlu": "Zonele naturale ale zonei calde",
+     "text": "Pădurea ecuatorială: cald și ploios tot anul, vegetație deasă, cu multe etaje.\nSavana: un anotimp ploios și unul secetos; ierburi înalte, copaci rari (baobab, acacia), mari ierbivore.\nDeșertul tropical: foarte puține ploi, zile fierbinți și nopți reci; dune de nisip, oaze."
+    },
+    {
+     "titlu": "Zonele naturale temperate și reci",
+     "text": "Zona mediteraneeană: veri calde și uscate, ierni blânde și ploioase; măslin, viță-de-vie.\nPădurile de foioase și stepa, în zona temperată. Taigaua: păduri întinse de conifere, ierni lungi.\nTundra: ierni foarte lungi, mușchi și licheni. Deșerturile reci: gheață tot anul (Antarctica, Groenlanda)."
+    }
+   ],
+   "stiaiCa": "Unele deșerturi nu sunt fierbinți: Antarctica e considerată cel mai mare deșert de pe Pământ, pentru că primește foarte puține precipitații.",
+   "referintaProfesor": "Manual Art Klett, clasa a V-a (manuale.edu.ro), lecția „Diversitatea peisajelor terestre naturale”"
+  }
+ ],
+ "itemi": [
+  {
+   "id": "V31-01",
+   "nivel": "V-S31-diversitatea-peisajelor-terestre-naturale",
+   "competente": [
+    "V-1.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 1,
+   "enunt": "Ce este un peisaj natural?",
+   "date": {
+    "variante": [
+     "o porțiune de teren unde relieful, clima, apele, plantele, animalele și solul formează un întreg",
+     "o fotografie frumoasă",
+     "un oraș mare",
+     "un parc cu bănci"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Toate componentele se influențează între ele."
+   }
+  },
+  {
+   "id": "V31-02",
+   "nivel": "V-S31-diversitatea-peisajelor-terestre-naturale",
+   "competente": [
+    "V-1.2"
+   ],
+   "tip": "asociaza",
+   "dificultate": 2,
+   "enunt": "Asociază zona naturală cu clima ei.",
+   "date": {
+    "perechi": [
+     [
+      "pădurea ecuatorială",
+      "cald și ploios tot anul"
+     ],
+     [
+      "savana",
+      "un anotimp ploios și unul secetos"
+     ],
+     [
+      "deșertul tropical",
+      "foarte cald și foarte uscat"
+     ],
+     [
+      "tundra",
+      "ierni foarte lungi și reci"
+     ]
+    ]
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Clima decide zona naturală."
+   }
+  },
+  {
+   "id": "V31-03",
+   "nivel": "V-S31-diversitatea-peisajelor-terestre-naturale",
+   "competente": [
+    "V-1.2"
+   ],
+   "tip": "asociaza",
+   "dificultate": 2,
+   "enunt": "Asociază zona naturală cu planta tipică.",
+   "date": {
+    "perechi": [
+     [
+      "pădurea ecuatorială",
+      "liane și copaci uriași"
+     ],
+     [
+      "savana",
+      "baobabul"
+     ],
+     [
+      "zona mediteraneeană",
+      "măslinul"
+     ],
+     [
+      "taigaua",
+      "molidul"
+     ]
+    ]
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Plantele spun ce zonă naturală e."
+   }
+  },
+  {
+   "id": "V31-04",
+   "nivel": "V-S31-diversitatea-peisajelor-terestre-naturale",
+   "competente": [
+    "V-1.2"
+   ],
+   "tip": "asociaza",
+   "dificultate": 2,
+   "enunt": "Asociază zona naturală cu animalul tipic.",
+   "date": {
+    "perechi": [
+     [
+      "savana",
+      "girafa"
+     ],
+     [
+      "deșertul",
+      "cămila"
+     ],
+     [
+      "taigaua",
+      "râsul"
+     ],
+     [
+      "tundra",
+      "renul"
+     ]
+    ]
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Animalele sunt adaptate zonei lor."
+   }
+  },
+  {
+   "id": "V31-05",
+   "nivel": "V-S31-diversitatea-peisajelor-terestre-naturale",
+   "competente": [
+    "V-2.2"
+   ],
+   "tip": "ordoneaza",
+   "dificultate": 3,
+   "enunt": "Ordonează zonele naturale de la Ecuator spre Polul Nord, prin Africa și Europa.",
+   "date": {
+    "elemente": [
+     "pădurea ecuatorială",
+     "savana",
+     "deșertul tropical",
+     "zona mediteraneeană",
+     "pădurea de foioase",
+     "taigaua",
+     "tundra"
+    ],
+    "criteriu": "De la Ecuator spre nord"
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Zonele naturale se succed după latitudine."
+   }
+  },
+  {
+   "id": "V31-06",
+   "nivel": "V-S31-diversitatea-peisajelor-terestre-naturale",
+   "competente": [
+    "V-1.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce zonă naturală are veri calde și uscate și ierni blânde și ploioase?",
+   "date": {
+    "variante": [
+     "zona mediteraneeană",
+     "tundra",
+     "taigaua",
+     "pădurea ecuatorială"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "E clima țărmurilor Mării Mediterane: Italia, Grecia, Spania."
+   }
+  },
+  {
+   "id": "V31-07",
+   "nivel": "V-S31-diversitatea-peisajelor-terestre-naturale",
+   "competente": [
+    "V-1.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "În ce zonă naturală plouă aproape în fiecare zi?",
+   "date": {
+    "variante": [
+     "pădurea ecuatorială",
+     "deșertul",
+     "savana, în anotimpul secetos",
+     "tundra"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Lângă Ecuator, ploile de după-amiază sunt aproape zilnice."
+   }
+  },
+  {
+   "id": "V31-08",
+   "nivel": "V-S31-diversitatea-peisajelor-terestre-naturale",
+   "competente": [
+    "V-1.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce este o oază?",
+   "date": {
+    "variante": [
+     "un loc din deșert cu apă și vegetație",
+     "o dună de nisip",
+     "un vulcan",
+     "un ghețar"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Oazele apar unde apa subterană ajunge la suprafață."
+   }
+  },
+  {
+   "id": "V31-09",
+   "nivel": "V-S31-diversitatea-peisajelor-terestre-naturale",
+   "competente": [
+    "V-1.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce zonă naturală acoperă cea mai mare parte a României?",
+   "date": {
+    "variante": [
+     "zona pădurilor de foioase și a stepei (zona temperată)",
+     "tundra",
+     "savana",
+     "pădurea ecuatorială"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "România e în zona temperată."
+   }
+  },
+  {
+   "id": "V31-10",
+   "nivel": "V-S31-diversitatea-peisajelor-terestre-naturale",
+   "competente": [
+    "V-2.2"
+   ],
+   "tip": "pin",
+   "dificultate": 2,
+   "enunt": "Atinge pe hartă o zonă de pădure ecuatorială: Bazinul Congo.",
+   "date": {
+    "harta": "lume",
+    "tinta": {
+     "lat": -1,
+     "lon": 22,
+     "nume": "Bazinul Congo"
+    },
+    "toleranta": 1200
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Bazinul Congo e pe Ecuator, în Africa."
+   }
+  },
+  {
+   "id": "V31-11",
+   "nivel": "V-S31-diversitatea-peisajelor-terestre-naturale",
+   "competente": [
+    "V-2.2"
+   ],
+   "tip": "pin",
+   "dificultate": 2,
+   "enunt": "Atinge pe hartă o zonă de deșert: Sahara.",
+   "date": {
+    "harta": "lume",
+    "tinta": {
+     "lat": 23,
+     "lon": 12,
+     "nume": "Sahara"
+    },
+    "toleranta": 1500
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Sahara e cel mai mare deșert fierbinte."
+   }
+  },
+  {
+   "id": "V31-12",
+   "nivel": "V-S31-diversitatea-peisajelor-terestre-naturale",
+   "competente": [
+    "V-2.2"
+   ],
+   "tip": "pin",
+   "dificultate": 3,
+   "enunt": "Atinge pe hartă o zonă de tundră: nordul Canadei.",
+   "date": {
+    "harta": "lume",
+    "tinta": {
+     "lat": 68,
+     "lon": -100,
+     "nume": "Nordul Canadei"
+    },
+    "toleranta": 1500
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Tundra se întinde pe țărmurile Oceanului Arctic."
+   }
+  },
+  {
+   "id": "V31-13",
+   "nivel": "V-S31-diversitatea-peisajelor-terestre-naturale",
+   "competente": [
+    "V-2.2"
+   ],
+   "tip": "pin",
+   "dificultate": 3,
+   "enunt": "Atinge pe hartă o zonă mediteraneeană: Grecia.",
+   "date": {
+    "harta": "lume",
+    "tinta": {
+     "lat": 39,
+     "lon": 22,
+     "nume": "Grecia"
+    },
+    "toleranta": 500
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Grecia e pe țărmul Mediteranei."
+   }
+  },
+  {
+   "id": "V31-14",
+   "nivel": "V-S31-diversitatea-peisajelor-terestre-naturale",
+   "competente": [
+    "V-2.2"
+   ],
+   "tip": "etichete",
+   "dificultate": 3,
+   "enunt": "Pune pe hartă etichetele zonelor naturale.",
+   "date": {
+    "tinte": [
+     {
+      "id": "ec",
+      "eticheta": "pădure ecuatorială",
+      "lat": -3,
+      "lon": -60
+     },
+     {
+      "id": "sv",
+      "eticheta": "savană",
+      "lat": -5,
+      "lon": 30
+     },
+     {
+      "id": "ds",
+      "eticheta": "deșert",
+      "lat": 23,
+      "lon": 12
+     },
+     {
+      "id": "tg",
+      "eticheta": "taiga",
+      "lat": 60,
+      "lon": 100
+     }
+    ],
+    "harta": "lume"
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Amazonia – pădure ecuatorială; estul Africii – savană; Sahara – deșert; Siberia – taiga."
+   }
+  },
+  {
+   "id": "V31-15",
+   "nivel": "V-S31-diversitatea-peisajelor-terestre-naturale",
+   "competente": [
+    "V-1.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Adevărat sau fals? Toate deșerturile sunt fierbinți.",
+   "date": {
+    "variante": [
+     "Fals",
+     "Adevărat"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Fals: Antarctica e un deșert rece, cu foarte puține precipitații."
+   }
+  },
+  {
+   "id": "V31-16",
+   "nivel": "V-S31-diversitatea-peisajelor-terestre-naturale",
+   "competente": [
+    "V-1.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Adevărat sau fals? Zonele naturale se repetă în emisfera nordică și în emisfera sudică.",
+   "date": {
+    "variante": [
+     "Adevărat",
+     "Fals"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Adevărat: de o parte și de alta a Ecuatorului apar zone asemănătoare."
+   }
+  },
+  {
+   "id": "V31-17",
+   "nivel": "V-S31-diversitatea-peisajelor-terestre-naturale",
+   "competente": [
+    "V-2.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Adevărat sau fals? Pe munții înalți, zonele naturale se înlocuiesc cu altitudinea, ca niște etaje.",
+   "date": {
+    "variante": [
+     "Adevărat",
+     "Fals"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Adevărat: de la păduri jos la pajiști alpine și stânci sus."
+   }
+  },
+  {
+   "id": "V31-18",
+   "nivel": "V-S31-diversitatea-peisajelor-terestre-naturale",
+   "competente": [
+    "V-1.2"
+   ],
+   "tip": "lacunar",
+   "dificultate": 2,
+   "enunt": "Completează.",
+   "date": {
+    "text": "Zona cu ierburi înalte și copaci rari se numește {0}, iar zona cu păduri de conifere se numește {1}.",
+    "raspunsuri": [
+     "savană",
+     "taiga"
+    ],
+    "distractori": [
+     "tundră",
+     "oază"
+    ]
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Savană și taiga."
+   }
+  },
+  {
+   "id": "V31-19",
+   "nivel": "V-S31-diversitatea-peisajelor-terestre-naturale",
+   "competente": [
+    "V-1.2"
+   ],
+   "tip": "lacunar",
+   "dificultate": 2,
+   "enunt": "Completează.",
+   "date": {
+    "text": "Locul cu apă și palmieri din mijlocul deșertului se numește {0}; dealurile de nisip formate de vânt se numesc {1}.",
+    "raspunsuri": [
+     "oază",
+     "dune"
+    ],
+    "distractori": [
+     "deltă",
+     "morene"
+    ]
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Oaza și dunele sunt tipice deșertului."
+   }
+  },
+  {
+   "id": "V31-20",
+   "nivel": "V-S31-diversitatea-peisajelor-terestre-naturale",
+   "competente": [
+    "V-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 3,
+   "enunt": "Ce activitate economică e tipică zonei mediteraneene?",
+   "date": {
+    "variante": [
+     "cultivarea măslinului și a viței-de-vie și turismul pe litoral",
+     "creșterea renilor",
+     "exploatarea pădurilor de conifere",
+     "pescuitul la copcă"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Clima caldă și însorită atrage turiști."
+   }
+  },
+  {
+   "id": "V31-21",
+   "nivel": "V-S31-diversitatea-peisajelor-terestre-naturale",
+   "competente": [
+    "V-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 3,
+   "enunt": "Cu ce se ocupă tradițional oamenii din tundră?",
+   "date": {
+    "variante": [
+     "cu creșterea renilor, vânatul și pescuitul",
+     "cu cultivarea bananelor",
+     "cu cultivarea măslinului",
+     "cu culesul cacaoei"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Frigul nu permite agricultura obișnuită."
+   }
+  },
+  {
+   "id": "V31-22",
+   "nivel": "V-S31-diversitatea-peisajelor-terestre-naturale",
+   "competente": [
+    "V-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce problemă amenință pădurea ecuatorială?",
+   "date": {
+    "variante": [
+     "tăierea copacilor pentru lemn și terenuri agricole",
+     "prea multă zăpadă",
+     "înghețul",
+     "lipsa ploii"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Defrișările reduc biodiversitatea."
+   }
+  },
+  {
+   "id": "V31-23",
+   "nivel": "V-S31-diversitatea-peisajelor-terestre-naturale",
+   "competente": [
+    "V-2.3"
+   ],
+   "tip": "grafic",
+   "dificultate": 3,
+   "enunt": "Graficul arată precipitațiile anuale în trei zone naturale imaginare. Care e deșertul?",
+   "date": {
+    "grafic": {
+     "tip": "bare",
+     "titlu": "Precipitații anuale (date imaginare)",
+     "date": [
+      {
+       "eticheta": "zona A",
+       "valoare": 2500
+      },
+      {
+       "eticheta": "zona B",
+       "valoare": 60
+      },
+      {
+       "eticheta": "zona C",
+       "valoare": 700
+      }
+     ],
+     "unitate": "l/m²"
+    },
+    "variante": [
+     "zona B",
+     "zona A",
+     "zona C",
+     "niciuna"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Doar 60 l/m² pe an: e un deșert."
+   }
+  },
+  {
+   "id": "V31-24",
+   "nivel": "V-S31-diversitatea-peisajelor-terestre-naturale",
+   "competente": [
+    "V-2.3"
+   ],
+   "tip": "grafic",
+   "dificultate": 3,
+   "enunt": "În același grafic imaginar, care zonă e, probabil, pădurea ecuatorială?",
+   "date": {
+    "grafic": {
+     "tip": "bare",
+     "titlu": "Precipitații anuale (date imaginare)",
+     "date": [
+      {
+       "eticheta": "zona A",
+       "valoare": 2500
+      },
+      {
+       "eticheta": "zona B",
+       "valoare": 60
+      },
+      {
+       "eticheta": "zona C",
+       "valoare": 700
+      }
+     ],
+     "unitate": "l/m²"
+    },
+    "variante": [
+     "zona A",
+     "zona B",
+     "zona C",
+     "niciuna"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "2 500 l/m² pe an: ploi abundente, ca lângă Ecuator."
+   }
+  },
+  {
+   "id": "V31-25",
+   "nivel": "V-S31-diversitatea-peisajelor-terestre-naturale",
+   "competente": [
+    "V-2.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "În ce zonă naturală e Siberia, în cea mai mare parte?",
+   "date": {
+    "variante": [
+     "taiga",
+     "savana",
+     "deșertul tropical",
+     "zona mediteraneeană"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Siberia are întinse păduri de conifere."
+   }
+  },
+  {
+   "id": "V31-26",
+   "nivel": "V-S31-diversitatea-peisajelor-terestre-naturale",
+   "competente": [
+    "V-2.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce zonă naturală domină estul Africii, cu Serengeti?",
+   "date": {
+    "variante": [
+     "savana",
+     "tundra",
+     "taigaua",
+     "pădurea de foioase"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Serengeti e una dintre cele mai cunoscute savane."
+   }
+  },
+  {
+   "id": "V31-27",
+   "nivel": "V-S31-diversitatea-peisajelor-terestre-naturale",
+   "competente": [
+    "V-1.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 3,
+   "enunt": "De ce în deșert nopțile sunt reci, deși zilele sunt fierbinți?",
+   "date": {
+    "variante": [
+     "pentru că aerul uscat și cerul senin lasă căldura să plece repede noaptea",
+     "pentru că bate vânt polar",
+     "pentru că Soarele e mai mic noaptea",
+     "pentru că nisipul se topește"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Fără nori și umezeală, căldura nu e păstrată."
+   }
+  },
+  {
+   "id": "V31-28",
+   "nivel": "V-S31-diversitatea-peisajelor-terestre-naturale",
+   "competente": [
+    "V-4.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 3,
+   "enunt": "Organizezi o „expoziție a zonelor naturale”. Ce pui la standul tundrei?",
+   "date": {
+    "variante": [
+     "fotografii cu reni, mușchi, licheni și zăpadă",
+     "fotografii cu cămile și dune",
+     "fotografii cu lei și baobabi",
+     "fotografii cu măslini"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Fiecare stand arată elementele tipice."
+   }
+  },
+  {
+   "id": "V31-29",
+   "nivel": "V-S31-diversitatea-peisajelor-terestre-naturale",
+   "competente": [
+    "V-4.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Cum ajuți la protejarea peisajelor naturale când mergi în excursie?",
+   "date": {
+    "variante": [
+     "rămâi pe poteci, iei gunoiul cu tine și nu faci zgomot",
+     "faci foc oriunde",
+     "rupi flori",
+     "hrănești animalele sălbatice"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Natura rămâne frumoasă și pentru alții."
+   }
+  },
+  {
+   "id": "V31-30",
+   "nivel": "V-S31-diversitatea-peisajelor-terestre-naturale",
+   "competente": [
+    "V-1.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 3,
+   "enunt": "Ce leagă clima de soluri, plante și animale într-o zonă naturală?",
+   "date": {
+    "variante": [
+     "clima decide ce plante cresc, plantele decid ce animale trăiesc și ce sol se formează",
+     "nimic, sunt independente",
+     "doar relieful decide totul",
+     "animalele decid clima"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Componentele peisajului sunt legate între ele."
+   }
+  }
+ ]
+}

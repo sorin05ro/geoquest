@@ -1,0 +1,45 @@
+{
+ "scoala": "Școala Gimnazială Nr. 6",
+ "localitate": "Râmnicu Sărat",
+ "judet": "Buzău",
+ "profesor": "prof. Negraru Sorin",
+ "clase": [
+  {
+   "clasa": 5,
+   "litere": [
+    "A",
+    "B"
+   ],
+   "manual": "Art Klett (2022)"
+  },
+  {
+   "clasa": 6,
+   "litere": [
+    "A",
+    "B"
+   ],
+   "manual": "Art Klett (2023)"
+  },
+  {
+   "clasa": 7,
+   "litere": [
+    ""
+   ],
+   "manual": "Art Klett (ediția 2024)"
+  },
+  {
+   "clasa": 8,
+   "litere": [
+    "A",
+    "B"
+   ],
+   "manual": "Art Klett (ediția 2025)"
+  }
+ ],
+ "modEvaluareNationala": {
+  "activ": true,
+  "deLaSaptamana": 28
+ },
+ "clasamentIndividual": false,
+ "_nota": "Pentru altă școală (Boldu, Râmnicelu): schimbă numele, clasele și literele, apoi orizont-local.json și calendarul."
+}

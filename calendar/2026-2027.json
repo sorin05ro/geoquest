@@ -1,0 +1,7015 @@
+{
+ "an": "2026-2027",
+ "sursa": "OMEC nr. 3194/09.02.2026; vacanța mobilă: decizia ISJ Buzău",
+ "intervale": [
+  {
+   "nr": 1,
+   "de": "2026-09-07",
+   "pana": "2026-10-23"
+  },
+  {
+   "nr": 2,
+   "de": "2026-11-02",
+   "pana": "2026-12-22"
+  },
+  {
+   "nr": 3,
+   "de": "2027-01-11",
+   "pana": "2027-02-26"
+  },
+  {
+   "nr": 4,
+   "de": "2027-03-08",
+   "pana": "2027-04-23"
+  },
+  {
+   "nr": 5,
+   "de": "2027-05-05",
+   "pana": "2027-06-18"
+  }
+ ],
+ "vacante": [
+  {
+   "nume": "Vacanța de toamnă",
+   "de": "2026-10-24",
+   "pana": "2026-11-01"
+  },
+  {
+   "nume": "Vacanța de iarnă",
+   "de": "2026-12-23",
+   "pana": "2027-01-10"
+  },
+  {
+   "nume": "Vacanța mobilă",
+   "de": "2027-02-27",
+   "pana": "2027-03-07"
+  },
+  {
+   "nume": "Vacanța de primăvară",
+   "de": "2027-04-24",
+   "pana": "2027-05-04"
+  },
+  {
+   "nume": "Vacanța de vară",
+   "de": "2027-06-19",
+   "pana": "2027-09-12"
+  }
+ ],
+ "zileLibere": [
+  {
+   "data": "2026-11-30",
+   "nume": "Sfântul Andrei"
+  },
+  {
+   "data": "2026-12-01",
+   "nume": "Ziua Națională a României"
+  },
+  {
+   "data": "2027-06-01",
+   "nume": "Ziua Copilului"
+  }
+ ],
+ "evenimente": [
+  {
+   "id": "scoala-altfel",
+   "nume": "Școala Altfel – Expediția Polară",
+   "de": "2026-12-16",
+   "pana": "2026-12-22"
+  },
+  {
+   "id": "saptamana-verde",
+   "nume": "Săptămâna verde – Patrula Verde",
+   "de": "2027-04-19",
+   "pana": "2027-04-23"
+  }
+ ],
+ "ultimaZi": {
+  "5": "2027-06-18",
+  "6": "2027-06-18",
+  "7": "2027-06-18",
+  "8": "2027-06-11"
+ },
+ "saptamani": [
+  {
+   "nr": 1,
+   "de": "2026-09-07",
+   "pana": "2026-09-11",
+   "interval": 1,
+   "zileCurs": 5,
+   "zileLibere": []
+  },
+  {
+   "nr": 2,
+   "de": "2026-09-14",
+   "pana": "2026-09-18",
+   "interval": 1,
+   "zileCurs": 5,
+   "zileLibere": []
+  },
+  {
+   "nr": 3,
+   "de": "2026-09-21",
+   "pana": "2026-09-25",
+   "interval": 1,
+   "zileCurs": 5,
+   "zileLibere": []
+  },
+  {
+   "nr": 4,
+   "de": "2026-09-28",
+   "pana": "2026-10-02",
+   "interval": 1,
+   "zileCurs": 5,
+   "zileLibere": []
+  },
+  {
+   "nr": 5,
+   "de": "2026-10-05",
+   "pana": "2026-10-09",
+   "interval": 1,
+   "zileCurs": 5,
+   "zileLibere": []
+  },
+  {
+   "nr": 6,
+   "de": "2026-10-12",
+   "pana": "2026-10-16",
+   "interval": 1,
+   "zileCurs": 5,
+   "zileLibere": []
+  },
+  {
+   "nr": 7,
+   "de": "2026-10-19",
+   "pana": "2026-10-23",
+   "interval": 1,
+   "zileCurs": 5,
+   "zileLibere": []
+  },
+  {
+   "nr": 8,
+   "de": "2026-11-02",
+   "pana": "2026-11-06",
+   "interval": 2,
+   "zileCurs": 5,
+   "zileLibere": []
+  },
+  {
+   "nr": 9,
+   "de": "2026-11-09",
+   "pana": "2026-11-13",
+   "interval": 2,
+   "zileCurs": 5,
+   "zileLibere": []
+  },
+  {
+   "nr": 10,
+   "de": "2026-11-16",
+   "pana": "2026-11-20",
+   "interval": 2,
+   "zileCurs": 5,
+   "zileLibere": []
+  },
+  {
+   "nr": 11,
+   "de": "2026-11-23",
+   "pana": "2026-11-27",
+   "interval": 2,
+   "zileCurs": 5,
+   "zileLibere": []
+  },
+  {
+   "nr": 12,
+   "de": "2026-11-30",
+   "pana": "2026-12-04",
+   "interval": 2,
+   "zileCurs": 3,
+   "zileLibere": [
+    "2026-11-30",
+    "2026-12-01"
+   ]
+  },
+  {
+   "nr": 13,
+   "de": "2026-12-07",
+   "pana": "2026-12-11",
+   "interval": 2,
+   "zileCurs": 5,
+   "zileLibere": []
+  },
+  {
+   "nr": 14,
+   "de": "2026-12-14",
+   "pana": "2026-12-18",
+   "interval": 2,
+   "zileCurs": 5,
+   "zileLibere": []
+  },
+  {
+   "nr": 15,
+   "de": "2026-12-21",
+   "pana": "2026-12-22",
+   "interval": 2,
+   "zileCurs": 2,
+   "zileLibere": []
+  },
+  {
+   "nr": 16,
+   "de": "2027-01-11",
+   "pana": "2027-01-15",
+   "interval": 3,
+   "zileCurs": 5,
+   "zileLibere": []
+  },
+  {
+   "nr": 17,
+   "de": "2027-01-18",
+   "pana": "2027-01-22",
+   "interval": 3,
+   "zileCurs": 5,
+   "zileLibere": []
+  },
+  {
+   "nr": 18,
+   "de": "2027-01-25",
+   "pana": "2027-01-29",
+   "interval": 3,
+   "zileCurs": 5,
+   "zileLibere": []
+  },
+  {
+   "nr": 19,
+   "de": "2027-02-01",
+   "pana": "2027-02-05",
+   "interval": 3,
+   "zileCurs": 5,
+   "zileLibere": []
+  },
+  {
+   "nr": 20,
+   "de": "2027-02-08",
+   "pana": "2027-02-12",
+   "interval": 3,
+   "zileCurs": 5,
+   "zileLibere": []
+  },
+  {
+   "nr": 21,
+   "de": "2027-02-15",
+   "pana": "2027-02-19",
+   "interval": 3,
+   "zileCurs": 5,
+   "zileLibere": []
+  },
+  {
+   "nr": 22,
+   "de": "2027-02-22",
+   "pana": "2027-02-26",
+   "interval": 3,
+   "zileCurs": 5,
+   "zileLibere": []
+  },
+  {
+   "nr": 23,
+   "de": "2027-03-08",
+   "pana": "2027-03-12",
+   "interval": 4,
+   "zileCurs": 5,
+   "zileLibere": []
+  },
+  {
+   "nr": 24,
+   "de": "2027-03-15",
+   "pana": "2027-03-19",
+   "interval": 4,
+   "zileCurs": 5,
+   "zileLibere": []
+  },
+  {
+   "nr": 25,
+   "de": "2027-03-22",
+   "pana": "2027-03-26",
+   "interval": 4,
+   "zileCurs": 5,
+   "zileLibere": []
+  },
+  {
+   "nr": 26,
+   "de": "2027-03-29",
+   "pana": "2027-04-02",
+   "interval": 4,
+   "zileCurs": 5,
+   "zileLibere": []
+  },
+  {
+   "nr": 27,
+   "de": "2027-04-05",
+   "pana": "2027-04-09",
+   "interval": 4,
+   "zileCurs": 5,
+   "zileLibere": []
+  },
+  {
+   "nr": 28,
+   "de": "2027-04-12",
+   "pana": "2027-04-16",
+   "interval": 4,
+   "zileCurs": 5,
+   "zileLibere": []
+  },
+  {
+   "nr": 29,
+   "de": "2027-04-19",
+   "pana": "2027-04-23",
+   "interval": 4,
+   "zileCurs": 5,
+   "zileLibere": []
+  },
+  {
+   "nr": 30,
+   "de": "2027-05-05",
+   "pana": "2027-05-07",
+   "interval": 5,
+   "zileCurs": 3,
+   "zileLibere": []
+  },
+  {
+   "nr": 31,
+   "de": "2027-05-10",
+   "pana": "2027-05-14",
+   "interval": 5,
+   "zileCurs": 5,
+   "zileLibere": []
+  },
+  {
+   "nr": 32,
+   "de": "2027-05-17",
+   "pana": "2027-05-21",
+   "interval": 5,
+   "zileCurs": 5,
+   "zileLibere": []
+  },
+  {
+   "nr": 33,
+   "de": "2027-05-24",
+   "pana": "2027-05-28",
+   "interval": 5,
+   "zileCurs": 5,
+   "zileLibere": []
+  },
+  {
+   "nr": 34,
+   "de": "2027-05-31",
+   "pana": "2027-06-04",
+   "interval": 5,
+   "zileCurs": 4,
+   "zileLibere": [
+    "2027-06-01"
+   ]
+  },
+  {
+   "nr": 35,
+   "de": "2027-06-07",
+   "pana": "2027-06-11",
+   "interval": 5,
+   "zileCurs": 5,
+   "zileLibere": []
+  },
+  {
+   "nr": 36,
+   "de": "2027-06-14",
+   "pana": "2027-06-18",
+   "interval": 5,
+   "zileCurs": 5,
+   "zileLibere": []
+  }
+ ],
+ "planificare": [
+  {
+   "clasa": 5,
+   "saptamana": 1,
+   "interval": 1,
+   "unitate": "Terra – o planetă a Universului",
+   "continuturi": [
+    "Elemente de geografie a României. România în Europa și pe glob (recapitulare)"
+   ],
+   "niveluri": [],
+   "competente": [
+    "V-1.1",
+    "V-1.2",
+    "V-2.1",
+    "V-2.3",
+    "V-3.1",
+    "V-3.2",
+    "V-3.3",
+    "V-4.1",
+    "V-4.2",
+    "V-4.3"
+   ],
+   "ore": 1,
+   "evaluare": [
+    "T0",
+    "EO"
+   ],
+   "tipEveniment": [
+    "busola",
+    "portal"
+   ]
+  },
+  {
+   "clasa": 5,
+   "saptamana": 2,
+   "interval": 1,
+   "unitate": "Terra – o planetă a Universului",
+   "continuturi": [
+    "Universul și Sistemul Solar – aspecte generale"
+   ],
+   "niveluri": [
+    "V-S02-universul-sistemul-solar-aspecte"
+   ],
+   "competente": [
+    "V-1.1",
+    "V-1.2",
+    "V-2.1",
+    "V-2.3",
+    "V-3.1",
+    "V-3.2",
+    "V-3.3",
+    "V-4.1",
+    "V-4.2",
+    "V-4.3"
+   ],
+   "ore": 1,
+   "evaluare": [
+    "T0",
+    "EO"
+   ],
+   "tipEveniment": [
+    "nivel"
+   ]
+  },
+  {
+   "clasa": 5,
+   "saptamana": 3,
+   "interval": 1,
+   "unitate": "Terra – o planetă a Universului",
+   "continuturi": [
+    "Terra - o planetă a Sistemului Solar (formă și dimensiuni)"
+   ],
+   "niveluri": [
+    "V-S03-terra-planeta-sistemului-solar"
+   ],
+   "competente": [
+    "V-1.1",
+    "V-1.2",
+    "V-2.1",
+    "V-2.3",
+    "V-3.1",
+    "V-3.2",
+    "V-3.3",
+    "V-4.1",
+    "V-4.2",
+    "V-4.3"
+   ],
+   "ore": 1,
+   "evaluare": [
+    "T0",
+    "EO"
+   ],
+   "tipEveniment": [
+    "nivel"
+   ]
+  },
+  {
+   "clasa": 5,
+   "saptamana": 4,
+   "interval": 1,
+   "unitate": "Terra – o planetă a Universului",
+   "continuturi": [
+    "Aplicație practică: Călătorie virtuală în Univers"
+   ],
+   "niveluri": [
+    "V-S04-aplicatie-practica-calatorie-virtuala"
+   ],
+   "competente": [
+    "V-4.1",
+    "V-4.2",
+    "V-4.3"
+   ],
+   "ore": 1,
+   "evaluare": [
+    "PP"
+   ],
+   "tipEveniment": [
+    "expeditie"
+   ]
+  },
+  {
+   "clasa": 5,
+   "saptamana": 5,
+   "interval": 1,
+   "unitate": "Terra – o planetă în mișcare",
+   "continuturi": [
+    "Globul geografic și harta. Coordonate geografice"
+   ],
+   "niveluri": [
+    "V-S05-globul-geografic-harta-coordonate"
+   ],
+   "competente": [
+    "V-1.1",
+    "V-1.2",
+    "V-2.1",
+    "V-2.2",
+    "V-2.3",
+    "V-3.1",
+    "V-3.2",
+    "V-4.1",
+    "V-4.2",
+    "V-4.3"
+   ],
+   "ore": 1,
+   "evaluare": [
+    "T1",
+    "P",
+    "AE"
+   ],
+   "tipEveniment": [
+    "nivel"
+   ]
+  },
+  {
+   "clasa": 5,
+   "saptamana": 6,
+   "interval": 1,
+   "unitate": "Terra – o planetă în mișcare",
+   "continuturi": [
+    "Mișcările Pământului și consecințele lor"
+   ],
+   "niveluri": [
+    "V-S06-miscarile-pamantului-consecintele"
+   ],
+   "competente": [
+    "V-1.1",
+    "V-1.2",
+    "V-2.1",
+    "V-2.2",
+    "V-2.3",
+    "V-3.1",
+    "V-3.2",
+    "V-4.1",
+    "V-4.2",
+    "V-4.3"
+   ],
+   "ore": 1,
+   "evaluare": [
+    "T1",
+    "P",
+    "AE"
+   ],
+   "tipEveniment": [
+    "nivel"
+   ]
+  },
+  {
+   "clasa": 5,
+   "saptamana": 7,
+   "interval": 1,
+   "unitate": "Terra – o planetă în mișcare",
+   "continuturi": [],
+   "niveluri": [],
+   "competente": [
+    "V-1.1",
+    "V-1.2",
+    "V-2.1",
+    "V-2.2",
+    "V-2.3",
+    "V-3.1",
+    "V-3.2",
+    "V-4.1",
+    "V-4.2",
+    "V-4.3"
+   ],
+   "ore": 1,
+   "evaluare": [
+    "T1",
+    "P",
+    "AE"
+   ],
+   "tipEveniment": [
+    "boss"
+   ],
+   "test": "T1"
+  },
+  {
+   "clasa": 5,
+   "saptamana": 8,
+   "interval": 2,
+   "unitate": "Terra – o planetă în mișcare",
+   "continuturi": [
+    "Orientarea în spațiul terestru (elemente naturale și instrumente clasice și moderne)"
+   ],
+   "niveluri": [
+    "V-S08-orientarea-spatiul-terestru-elemente"
+   ],
+   "competente": [
+    "V-1.1",
+    "V-1.2",
+    "V-2.1",
+    "V-2.2",
+    "V-2.3",
+    "V-3.1",
+    "V-3.2",
+    "V-4.1",
+    "V-4.2",
+    "V-4.3"
+   ],
+   "ore": 1,
+   "evaluare": [
+    "EO"
+   ],
+   "tipEveniment": [
+    "nivel"
+   ]
+  },
+  {
+   "clasa": 5,
+   "saptamana": 9,
+   "interval": 2,
+   "unitate": "Terra – o planetă în mișcare",
+   "continuturi": [
+    "Aplicații practice: Măsurarea timpului (zi, săptămână, lună, anotimp, an, calendar), Orizontul local – orientare, măsurare și reprezentare, Construirea unor forme simple de reprezentare grafică și cartografică"
+   ],
+   "niveluri": [
+    "V-S09-aplicatii-practice-masurarea-timpului"
+   ],
+   "competente": [
+    "V-4.1",
+    "V-4.2",
+    "V-4.3"
+   ],
+   "ore": 1,
+   "evaluare": [
+    "PP"
+   ],
+   "tipEveniment": [
+    "expeditie"
+   ]
+  },
+  {
+   "clasa": 5,
+   "saptamana": 10,
+   "interval": 2,
+   "unitate": "Terra – o planetă în transformare Geosferele Terrei Litosfera",
+   "continuturi": [
+    "Caracteristici generale și importanță"
+   ],
+   "niveluri": [
+    "V-S10-caracteristici-generale-importanta"
+   ],
+   "competente": [
+    "V-1.1",
+    "V-1.2",
+    "V-2.1",
+    "V-2.2",
+    "V-2.3",
+    "V-3.1",
+    "V-3.2",
+    "V-3.3",
+    "V-4.1",
+    "V-4.3"
+   ],
+   "ore": 1,
+   "evaluare": [
+    "T2",
+    "AE",
+    "C"
+   ],
+   "tipEveniment": [
+    "nivel"
+   ]
+  },
+  {
+   "clasa": 5,
+   "saptamana": 11,
+   "interval": 2,
+   "unitate": "Terra – o planetă în transformare Geosferele Terrei Litosfera",
+   "continuturi": [
+    "Structura internă a Terrei"
+   ],
+   "niveluri": [
+    "V-S11-structura-interna-terrei"
+   ],
+   "competente": [
+    "V-1.1",
+    "V-1.2",
+    "V-2.1",
+    "V-2.2",
+    "V-2.3",
+    "V-3.1",
+    "V-3.2",
+    "V-3.3",
+    "V-4.1",
+    "V-4.3"
+   ],
+   "ore": 1,
+   "evaluare": [
+    "T2",
+    "AE",
+    "C"
+   ],
+   "tipEveniment": [
+    "nivel"
+   ]
+  },
+  {
+   "clasa": 5,
+   "saptamana": 12,
+   "interval": 2,
+   "unitate": "Terra – o planetă în transformare Geosferele Terrei Litosfera",
+   "continuturi": [
+    "Relieful: continente și bazine oceanice; forme majore de relief"
+   ],
+   "niveluri": [
+    "V-S12-relieful-continente-bazine-oceanice"
+   ],
+   "competente": [
+    "V-1.1",
+    "V-1.2",
+    "V-2.1",
+    "V-2.2",
+    "V-2.3",
+    "V-3.1",
+    "V-3.2",
+    "V-3.3",
+    "V-4.1",
+    "V-4.3"
+   ],
+   "ore": 1,
+   "evaluare": [
+    "T2",
+    "AE",
+    "C"
+   ],
+   "tipEveniment": [
+    "nivel"
+   ]
+  },
+  {
+   "clasa": 5,
+   "saptamana": 13,
+   "interval": 2,
+   "unitate": "Terra – o planetă în transformare Geosferele Terrei Litosfera",
+   "continuturi": [
+    "Vulcanii și cutremurele"
+   ],
+   "niveluri": [
+    "V-S13-vulcanii-cutremurele"
+   ],
+   "competente": [
+    "V-1.1",
+    "V-1.2",
+    "V-2.1",
+    "V-2.2",
+    "V-2.3",
+    "V-3.1",
+    "V-3.2",
+    "V-3.3",
+    "V-4.1",
+    "V-4.3"
+   ],
+   "ore": 1,
+   "evaluare": [
+    "T2",
+    "AE",
+    "C"
+   ],
+   "tipEveniment": [
+    "boss"
+   ],
+   "test": "T2"
+  },
+  {
+   "clasa": 5,
+   "saptamana": 14,
+   "interval": 2,
+   "unitate": null,
+   "continuturi": [],
+   "niveluri": [],
+   "competente": [],
+   "ore": 0,
+   "evaluare": [],
+   "tipEveniment": [
+    "eveniment"
+   ],
+   "eveniment": "scoala-altfel"
+  },
+  {
+   "clasa": 5,
+   "saptamana": 15,
+   "interval": 2,
+   "unitate": null,
+   "continuturi": [],
+   "niveluri": [],
+   "competente": [],
+   "ore": 0,
+   "evaluare": [],
+   "tipEveniment": [
+    "eveniment"
+   ],
+   "eveniment": "scoala-altfel"
+  },
+  {
+   "clasa": 5,
+   "saptamana": 16,
+   "interval": 3,
+   "unitate": "Litosfera",
+   "continuturi": [
+    "Aplicații practice: Relieful orizontului local, Reguli de comportare și măsuri de protecție în cazul producerii de fenomene și procese în orizontul local (prăbușiri, alunecări de teren, cutremure etc.)"
+   ],
+   "niveluri": [
+    "V-S16-aplicatii-practice-relieful-orizontului"
+   ],
+   "competente": [
+    "V-4.1",
+    "V-4.3"
+   ],
+   "ore": 1,
+   "evaluare": [
+    "PP"
+   ],
+   "tipEveniment": [
+    "expeditie"
+   ]
+  },
+  {
+   "clasa": 5,
+   "saptamana": 17,
+   "interval": 3,
+   "unitate": "Atmosfera",
+   "continuturi": [
+    "Caracteristici generale și importanță"
+   ],
+   "niveluri": [
+    "V-S17-caracteristici-generale-importanta"
+   ],
+   "competente": [
+    "V-1.1",
+    "V-1.2",
+    "V-2.1",
+    "V-2.2",
+    "V-2.3",
+    "V-3.1",
+    "V-3.2",
+    "V-3.3",
+    "V-4.1",
+    "V-4.2",
+    "V-4.3"
+   ],
+   "ore": 1,
+   "evaluare": [
+    "T3",
+    "IE"
+   ],
+   "tipEveniment": [
+    "nivel"
+   ]
+  },
+  {
+   "clasa": 5,
+   "saptamana": 18,
+   "interval": 3,
+   "unitate": "Atmosfera",
+   "continuturi": [
+    "Elemente și fenomene meteorologice"
+   ],
+   "niveluri": [
+    "V-S18-elemente-fenomene-meteorologice"
+   ],
+   "competente": [
+    "V-1.1",
+    "V-1.2",
+    "V-2.1",
+    "V-2.2",
+    "V-2.3",
+    "V-3.1",
+    "V-3.2",
+    "V-3.3",
+    "V-4.1",
+    "V-4.2",
+    "V-4.3"
+   ],
+   "ore": 1,
+   "evaluare": [
+    "T3",
+    "IE"
+   ],
+   "tipEveniment": [
+    "nivel"
+   ]
+  },
+  {
+   "clasa": 5,
+   "saptamana": 19,
+   "interval": 3,
+   "unitate": "Atmosfera",
+   "continuturi": [
+    "Vremea și clima"
+   ],
+   "niveluri": [
+    "V-S19-vremea-clima"
+   ],
+   "competente": [
+    "V-1.1",
+    "V-1.2",
+    "V-2.1",
+    "V-2.2",
+    "V-2.3",
+    "V-3.1",
+    "V-3.2",
+    "V-3.3",
+    "V-4.1",
+    "V-4.2",
+    "V-4.3"
+   ],
+   "ore": 1,
+   "evaluare": [
+    "T3",
+    "IE"
+   ],
+   "tipEveniment": [
+    "nivel"
+   ]
+  },
+  {
+   "clasa": 5,
+   "saptamana": 20,
+   "interval": 3,
+   "unitate": "Atmosfera",
+   "continuturi": [
+    "Zonele climatice ale Terrei. Influența climei asupra geosferelor"
+   ],
+   "niveluri": [
+    "V-S20-zonele-climatice-terrei-influenta"
+   ],
+   "competente": [
+    "V-1.1",
+    "V-1.2",
+    "V-2.1",
+    "V-2.2",
+    "V-2.3",
+    "V-3.1",
+    "V-3.2",
+    "V-3.3",
+    "V-4.1",
+    "V-4.2",
+    "V-4.3"
+   ],
+   "ore": 1,
+   "evaluare": [
+    "T3",
+    "IE"
+   ],
+   "tipEveniment": [
+    "nivel"
+   ]
+  },
+  {
+   "clasa": 5,
+   "saptamana": 21,
+   "interval": 3,
+   "unitate": "Atmosfera",
+   "continuturi": [],
+   "niveluri": [],
+   "competente": [
+    "V-1.1",
+    "V-1.2",
+    "V-2.1",
+    "V-2.2",
+    "V-2.3",
+    "V-3.1",
+    "V-3.2",
+    "V-3.3",
+    "V-4.1",
+    "V-4.2",
+    "V-4.3"
+   ],
+   "ore": 1,
+   "evaluare": [
+    "T3",
+    "IE"
+   ],
+   "tipEveniment": [
+    "boss"
+   ],
+   "test": "T3"
+  },
+  {
+   "clasa": 5,
+   "saptamana": 22,
+   "interval": 3,
+   "unitate": "Atmosfera",
+   "continuturi": [
+    "Aplicații practice: Clima, vremea și activitatea umană în orizontul local, Modalități de avertizare, reguli de comportare și măsuri de protecție în cazul producerii de fenomene extreme în orizontul local (grindină, polei, furtuni, secetă, caniculă, viscol, tornade etc.)"
+   ],
+   "niveluri": [
+    "V-S22-aplicatii-practice-clima-vremea"
+   ],
+   "competente": [
+    "V-4.1",
+    "V-4.2",
+    "V-4.3"
+   ],
+   "ore": 1,
+   "evaluare": [
+    "PP"
+   ],
+   "tipEveniment": [
+    "expeditie"
+   ]
+  },
+  {
+   "clasa": 5,
+   "saptamana": 23,
+   "interval": 4,
+   "unitate": "Hidrosfera",
+   "continuturi": [
+    "Caracteristici generale și importanță"
+   ],
+   "niveluri": [
+    "V-S23-caracteristici-generale-importanta"
+   ],
+   "competente": [
+    "V-1.1",
+    "V-1.2",
+    "V-2.1",
+    "V-2.2",
+    "V-2.3",
+    "V-3.1",
+    "V-3.2",
+    "V-3.3",
+    "V-4.1",
+    "V-4.3"
+   ],
+   "ore": 1,
+   "evaluare": [
+    "T4",
+    "AE/IE"
+   ],
+   "tipEveniment": [
+    "nivel"
+   ]
+  },
+  {
+   "clasa": 5,
+   "saptamana": 24,
+   "interval": 4,
+   "unitate": "Hidrosfera",
+   "continuturi": [
+    "Oceanul Planetar – componente și localizare. Dinamica apelor oceanice"
+   ],
+   "niveluri": [
+    "V-S24-oceanul-planetar-componente-localizare"
+   ],
+   "competente": [
+    "V-1.1",
+    "V-1.2",
+    "V-2.1",
+    "V-2.2",
+    "V-2.3",
+    "V-3.1",
+    "V-3.2",
+    "V-3.3",
+    "V-4.1",
+    "V-4.3"
+   ],
+   "ore": 1,
+   "evaluare": [
+    "T4",
+    "AE/IE"
+   ],
+   "tipEveniment": [
+    "nivel"
+   ]
+  },
+  {
+   "clasa": 5,
+   "saptamana": 25,
+   "interval": 4,
+   "unitate": "Hidrosfera",
+   "continuturi": [
+    "Apele continentale"
+   ],
+   "niveluri": [
+    "V-S25-apele-continentale"
+   ],
+   "competente": [
+    "V-1.1",
+    "V-1.2",
+    "V-2.1",
+    "V-2.2",
+    "V-2.3",
+    "V-3.1",
+    "V-3.2",
+    "V-3.3",
+    "V-4.1",
+    "V-4.3"
+   ],
+   "ore": 1,
+   "evaluare": [
+    "T4",
+    "AE/IE"
+   ],
+   "tipEveniment": [
+    "nivel"
+   ]
+  },
+  {
+   "clasa": 5,
+   "saptamana": 26,
+   "interval": 4,
+   "unitate": "Hidrosfera",
+   "continuturi": [
+    "Ghețarii"
+   ],
+   "niveluri": [
+    "V-S26-ghetarii"
+   ],
+   "competente": [
+    "V-1.1",
+    "V-1.2",
+    "V-2.1",
+    "V-2.2",
+    "V-2.3",
+    "V-3.1",
+    "V-3.2",
+    "V-3.3",
+    "V-4.1",
+    "V-4.3"
+   ],
+   "ore": 1,
+   "evaluare": [
+    "T4",
+    "AE/IE"
+   ],
+   "tipEveniment": [
+    "boss"
+   ],
+   "test": "T4"
+  },
+  {
+   "clasa": 5,
+   "saptamana": 27,
+   "interval": 4,
+   "unitate": "Hidrosfera",
+   "continuturi": [
+    "Aplicații practice: Apele din orizontul local, Resurse de apă potabilă, Măsuri de protecție a apelor, Modalități de avertizare, reguli de comportare și măsuri de protecție în cazul producerii de fenomene extreme în orizontul local (viitură/revărsare/inundație, pod de gheață etc.)"
+   ],
+   "niveluri": [
+    "V-S27-aplicatii-practice-apele-din"
+   ],
+   "competente": [
+    "V-4.1",
+    "V-4.3"
+   ],
+   "ore": 1,
+   "evaluare": [
+    "PP"
+   ],
+   "tipEveniment": [
+    "expeditie"
+   ]
+  },
+  {
+   "clasa": 5,
+   "saptamana": 28,
+   "interval": 4,
+   "unitate": "Biosfera și solurile",
+   "continuturi": [
+    "Biosfera - Caracteristici generale și importanță",
+    "Plantele și animalele – repartiția lor geografică. Caracteristici generale și importanță",
+    "Solul - resursă a vieții"
+   ],
+   "niveluri": [
+    "V-S28-biosfera-caracteristici-generale-importanta",
+    "V-S28-plantele-animalele-repartitia-geografica",
+    "V-S28-solul-resursa-vietii"
+   ],
+   "competente": [
+    "V-1.1",
+    "V-1.2",
+    "V-2.1",
+    "V-2.3",
+    "V-3.1",
+    "V-3.2",
+    "V-3.3"
+   ],
+   "ore": 1,
+   "evaluare": [
+    "EO"
+   ],
+   "tipEveniment": [
+    "nivel"
+   ]
+  },
+  {
+   "clasa": 5,
+   "saptamana": 29,
+   "interval": 4,
+   "unitate": null,
+   "continuturi": [],
+   "niveluri": [],
+   "competente": [],
+   "ore": 0,
+   "evaluare": [],
+   "tipEveniment": [
+    "eveniment"
+   ],
+   "eveniment": "saptamana-verde"
+  },
+  {
+   "clasa": 5,
+   "saptamana": 30,
+   "interval": 5,
+   "unitate": "Biosfera și solurile",
+   "continuturi": [
+    "Aplicație practică: Protecția plantelor, a animalelor și conservarea solului"
+   ],
+   "niveluri": [
+    "V-S30-aplicatie-practica-protectia-plantelor"
+   ],
+   "competente": [
+    "V-4.1",
+    "V-4.3"
+   ],
+   "ore": 1,
+   "evaluare": [
+    "PP"
+   ],
+   "tipEveniment": [
+    "expeditie"
+   ]
+  },
+  {
+   "clasa": 5,
+   "saptamana": 31,
+   "interval": 5,
+   "unitate": "Zonele naturale ale Terrei",
+   "continuturi": [
+    "Diversitatea peisajelor terestre naturale"
+   ],
+   "niveluri": [
+    "V-S31-diversitatea-peisajelor-terestre-naturale"
+   ],
+   "competente": [
+    "V-1.2",
+    "V-2.2",
+    "V-3.3",
+    "V-4.2",
+    "V-4.3"
+   ],
+   "ore": 1,
+   "evaluare": [
+    "EO",
+    "C"
+   ],
+   "tipEveniment": [
+    "nivel"
+   ]
+  },
+  {
+   "clasa": 5,
+   "saptamana": 32,
+   "interval": 5,
+   "unitate": "Zonele naturale ale Terrei",
+   "continuturi": [],
+   "niveluri": [],
+   "competente": [
+    "V-1.2",
+    "V-2.2",
+    "V-3.3",
+    "V-4.2",
+    "V-4.3"
+   ],
+   "ore": 1,
+   "evaluare": [
+    "EO",
+    "C"
+   ],
+   "tipEveniment": [
+    "continuare"
+   ]
+  },
+  {
+   "clasa": 5,
+   "saptamana": 33,
+   "interval": 5,
+   "unitate": "Terra – elemente de geografie fizică",
+   "continuturi": [],
+   "niveluri": [],
+   "competente": [
+    "V-1.1",
+    "V-1.2",
+    "V-2.1",
+    "V-2.2",
+    "V-2.3",
+    "V-3.1",
+    "V-3.2",
+    "V-3.3",
+    "V-4.1",
+    "V-4.2",
+    "V-4.3"
+   ],
+   "ore": 1,
+   "evaluare": [
+    "C"
+   ],
+   "tipEveniment": [
+    "continuare"
+   ]
+  },
+  {
+   "clasa": 5,
+   "saptamana": 34,
+   "interval": 5,
+   "unitate": "Terra – elemente de geografie fizică",
+   "continuturi": [
+    "Recapitulare pe unități de conținut"
+   ],
+   "niveluri": [],
+   "competente": [
+    "V-1.1",
+    "V-1.2",
+    "V-2.1",
+    "V-2.2",
+    "V-2.3",
+    "V-3.1",
+    "V-3.2",
+    "V-3.3",
+    "V-4.1",
+    "V-4.2",
+    "V-4.3"
+   ],
+   "ore": 1,
+   "evaluare": [
+    "C"
+   ],
+   "tipEveniment": [
+    "recapitulare"
+   ]
+  },
+  {
+   "clasa": 5,
+   "saptamana": 35,
+   "interval": 5,
+   "unitate": "Terra – elemente de geografie fizică",
+   "continuturi": [],
+   "niveluri": [],
+   "competente": [
+    "V-1.1",
+    "V-1.2",
+    "V-2.1",
+    "V-2.2",
+    "V-2.3",
+    "V-3.1",
+    "V-3.2",
+    "V-3.3",
+    "V-4.1",
+    "V-4.2",
+    "V-4.3"
+   ],
+   "ore": 1,
+   "evaluare": [
+    "Tf",
+    "PS"
+   ],
+   "tipEveniment": [
+    "continuare"
+   ]
+  },
+  {
+   "clasa": 5,
+   "saptamana": 36,
+   "interval": 5,
+   "unitate": "Terra – elemente de geografie fizică",
+   "continuturi": [
+    "Recapitulare finală. Sinteză"
+   ],
+   "niveluri": [],
+   "competente": [
+    "V-1.1",
+    "V-1.2",
+    "V-2.1",
+    "V-2.2",
+    "V-2.3",
+    "V-3.1",
+    "V-3.2",
+    "V-3.3",
+    "V-4.1",
+    "V-4.2",
+    "V-4.3"
+   ],
+   "ore": 1,
+   "evaluare": [
+    "Tf",
+    "PS"
+   ],
+   "tipEveniment": [
+    "mare-expeditie"
+   ],
+   "test": "Tf"
+  },
+  {
+   "clasa": 6,
+   "saptamana": 1,
+   "interval": 1,
+   "unitate": "Cunoașterea lumii în care trăim",
+   "continuturi": [
+    "Terra – elemente de geografie fizică (recapitulare)"
+   ],
+   "niveluri": [],
+   "competente": [
+    "VI-1.1",
+    "VI-2.1",
+    "VI-2.2",
+    "VI-2.3",
+    "VI-3.1",
+    "VI-3.2",
+    "VI-3.3",
+    "VI-4.1",
+    "VI-4.2",
+    "VI-4.3"
+   ],
+   "ore": 1,
+   "evaluare": [
+    "T0",
+    "T1",
+    "EO"
+   ],
+   "tipEveniment": [
+    "busola",
+    "portal"
+   ]
+  },
+  {
+   "clasa": 6,
+   "saptamana": 2,
+   "interval": 1,
+   "unitate": "Cunoașterea lumii în care trăim",
+   "continuturi": [
+    "Repere ale cunoașterii Terrei – de la marile descoperiri geografice la explorarea modernă"
+   ],
+   "niveluri": [
+    "VI-S02-repere-cunoasterii-terrei-marile"
+   ],
+   "competente": [
+    "VI-1.1",
+    "VI-2.1",
+    "VI-2.2",
+    "VI-2.3",
+    "VI-3.1",
+    "VI-3.2",
+    "VI-3.3",
+    "VI-4.1",
+    "VI-4.2",
+    "VI-4.3"
+   ],
+   "ore": 1,
+   "evaluare": [
+    "T0",
+    "T1",
+    "EO"
+   ],
+   "tipEveniment": [
+    "nivel"
+   ]
+  },
+  {
+   "clasa": 6,
+   "saptamana": 3,
+   "interval": 1,
+   "unitate": "Cunoașterea lumii în care trăim",
+   "continuturi": [
+    "Continente și țări – reprezentări cartografice. Harta politică a lumii"
+   ],
+   "niveluri": [
+    "VI-S03-continente-tari-reprezentari-cartografice"
+   ],
+   "competente": [
+    "VI-1.1",
+    "VI-2.1",
+    "VI-2.2",
+    "VI-2.3",
+    "VI-3.1",
+    "VI-3.2",
+    "VI-3.3",
+    "VI-4.1",
+    "VI-4.2",
+    "VI-4.3"
+   ],
+   "ore": 1,
+   "evaluare": [
+    "T0",
+    "T1",
+    "EO"
+   ],
+   "tipEveniment": [
+    "nivel"
+   ]
+  },
+  {
+   "clasa": 6,
+   "saptamana": 4,
+   "interval": 1,
+   "unitate": "Cunoașterea lumii în care trăim",
+   "continuturi": [],
+   "niveluri": [],
+   "competente": [
+    "VI-1.1",
+    "VI-2.1",
+    "VI-2.2",
+    "VI-2.3",
+    "VI-3.1",
+    "VI-3.2",
+    "VI-3.3",
+    "VI-4.1",
+    "VI-4.2",
+    "VI-4.3"
+   ],
+   "ore": 1,
+   "evaluare": [
+    "T0",
+    "T1",
+    "EO"
+   ],
+   "tipEveniment": [
+    "boss"
+   ],
+   "test": "T1"
+  },
+  {
+   "clasa": 6,
+   "saptamana": 5,
+   "interval": 1,
+   "unitate": "Cunoașterea lumii în care trăim",
+   "continuturi": [
+    "Aplicații practice: Exerciții de apreciere a distanțelor și suprafețelor pe suporturi cartografice clasice și/sau digitale"
+   ],
+   "niveluri": [
+    "VI-S05-aplicatii-practice-exercitii-apreciere"
+   ],
+   "competente": [
+    "VI-4.1",
+    "VI-4.2",
+    "VI-4.3"
+   ],
+   "ore": 1,
+   "evaluare": [
+    "PP"
+   ],
+   "tipEveniment": [
+    "expeditie"
+   ]
+  },
+  {
+   "clasa": 6,
+   "saptamana": 6,
+   "interval": 1,
+   "unitate": "Antroposfera - omul și activitățile umane",
+   "continuturi": [
+    "Populația Terrei: evoluția numerică, răspândirea geografică, diversitatea umană, mobilitatea teritorială"
+   ],
+   "niveluri": [
+    "VI-S06-populatia-terrei-evolutia-numerica"
+   ],
+   "competente": [
+    "VI-1.1",
+    "VI-1.2",
+    "VI-2.1",
+    "VI-2.2",
+    "VI-2.3",
+    "VI-3.1",
+    "VI-3.2",
+    "VI-3.3",
+    "VI-3.4",
+    "VI-4.1",
+    "VI-4.2",
+    "VI-4.3"
+   ],
+   "ore": 1,
+   "evaluare": [
+    "EO",
+    "AE/IE"
+   ],
+   "tipEveniment": [
+    "nivel"
+   ]
+  },
+  {
+   "clasa": 6,
+   "saptamana": 7,
+   "interval": 1,
+   "unitate": "Antroposfera - omul și activitățile umane",
+   "continuturi": [
+    "Așezările omenești – forme de locuire și diferențieri teritoriale"
+   ],
+   "niveluri": [
+    "VI-S07-asezarile-omenesti-forme-locuire"
+   ],
+   "competente": [
+    "VI-1.1",
+    "VI-1.2",
+    "VI-2.1",
+    "VI-2.2",
+    "VI-2.3",
+    "VI-3.1",
+    "VI-3.2",
+    "VI-3.3",
+    "VI-3.4",
+    "VI-4.1",
+    "VI-4.2",
+    "VI-4.3"
+   ],
+   "ore": 1,
+   "evaluare": [
+    "EO",
+    "AE/IE"
+   ],
+   "tipEveniment": [
+    "nivel"
+   ]
+  },
+  {
+   "clasa": 6,
+   "saptamana": 8,
+   "interval": 2,
+   "unitate": "Antroposfera - omul și activitățile umane",
+   "continuturi": [
+    "Resursele naturale și valorificarea acestora"
+   ],
+   "niveluri": [
+    "VI-S08-resursele-naturale-valorificarea-acestora"
+   ],
+   "competente": [
+    "VI-1.1",
+    "VI-1.2",
+    "VI-2.1",
+    "VI-2.2",
+    "VI-2.3",
+    "VI-3.1",
+    "VI-3.2",
+    "VI-3.3",
+    "VI-3.4",
+    "VI-4.1",
+    "VI-4.2",
+    "VI-4.3"
+   ],
+   "ore": 1,
+   "evaluare": [
+    "T2",
+    "EO",
+    "C"
+   ],
+   "tipEveniment": [
+    "nivel"
+   ]
+  },
+  {
+   "clasa": 6,
+   "saptamana": 9,
+   "interval": 2,
+   "unitate": "Antroposfera - omul și activitățile umane",
+   "continuturi": [
+    "Domeniile activităților economice pe Terra: agricultura, industria, serviciile (caracteristici generale)"
+   ],
+   "niveluri": [
+    "VI-S09-domeniile-activitatilor-economice-terra"
+   ],
+   "competente": [
+    "VI-1.1",
+    "VI-1.2",
+    "VI-2.1",
+    "VI-2.2",
+    "VI-2.3",
+    "VI-3.1",
+    "VI-3.2",
+    "VI-3.3",
+    "VI-3.4",
+    "VI-4.1",
+    "VI-4.2",
+    "VI-4.3"
+   ],
+   "ore": 1,
+   "evaluare": [
+    "T2",
+    "EO",
+    "C"
+   ],
+   "tipEveniment": [
+    "nivel"
+   ]
+  },
+  {
+   "clasa": 6,
+   "saptamana": 10,
+   "interval": 2,
+   "unitate": "Antroposfera - omul și activitățile umane",
+   "continuturi": [
+    "Efectele activităților umane asupra mediului și calitatea vieții"
+   ],
+   "niveluri": [
+    "VI-S10-efectele-activitatilor-umane-asupra"
+   ],
+   "competente": [
+    "VI-1.1",
+    "VI-1.2",
+    "VI-2.1",
+    "VI-2.2",
+    "VI-2.3",
+    "VI-3.1",
+    "VI-3.2",
+    "VI-3.3",
+    "VI-3.4",
+    "VI-4.1",
+    "VI-4.2",
+    "VI-4.3"
+   ],
+   "ore": 1,
+   "evaluare": [
+    "T2",
+    "EO",
+    "C"
+   ],
+   "tipEveniment": [
+    "nivel"
+   ]
+  },
+  {
+   "clasa": 6,
+   "saptamana": 11,
+   "interval": 2,
+   "unitate": "Antroposfera - omul și activitățile umane",
+   "continuturi": [
+    "Recapitulare și evaluare"
+   ],
+   "niveluri": [],
+   "competente": [
+    "VI-1.1",
+    "VI-1.2",
+    "VI-2.1",
+    "VI-2.2",
+    "VI-2.3",
+    "VI-3.1",
+    "VI-3.2",
+    "VI-3.3",
+    "VI-3.4",
+    "VI-4.1",
+    "VI-4.2",
+    "VI-4.3"
+   ],
+   "ore": 1,
+   "evaluare": [
+    "T2",
+    "EO",
+    "C"
+   ],
+   "tipEveniment": [
+    "boss"
+   ],
+   "test": "T2"
+  },
+  {
+   "clasa": 6,
+   "saptamana": 12,
+   "interval": 2,
+   "unitate": "Antroposfera - omul și activitățile umane",
+   "continuturi": [
+    "Aplicații practice: Analiza și interpretarea caracteristicilor demografice și de locuire din orizontul local și apropiat, Provocări locale în context mondial, Trasee turistice aplicate pe domenii de interes, Regiuni turistice"
+   ],
+   "niveluri": [
+    "VI-S12-aplicatii-practice-analiza-interpretarea"
+   ],
+   "competente": [
+    "VI-4.1",
+    "VI-4.2"
+   ],
+   "ore": 1,
+   "evaluare": [
+    "PP"
+   ],
+   "tipEveniment": [
+    "expeditie"
+   ]
+  },
+  {
+   "clasa": 6,
+   "saptamana": 13,
+   "interval": 2,
+   "unitate": "Europa - identitate geografică",
+   "continuturi": [
+    "Mediul natural ca suport al locuirii umane"
+   ],
+   "niveluri": [
+    "VI-S13-mediul-natural-ca-suport"
+   ],
+   "competente": [
+    "VI-1.1",
+    "VI-1.2"
+   ],
+   "ore": 1,
+   "evaluare": [
+    "EO"
+   ],
+   "tipEveniment": [
+    "nivel"
+   ]
+  },
+  {
+   "clasa": 6,
+   "saptamana": 14,
+   "interval": 2,
+   "unitate": null,
+   "continuturi": [],
+   "niveluri": [],
+   "competente": [],
+   "ore": 0,
+   "evaluare": [],
+   "tipEveniment": [
+    "eveniment"
+   ],
+   "eveniment": "scoala-altfel"
+  },
+  {
+   "clasa": 6,
+   "saptamana": 15,
+   "interval": 2,
+   "unitate": null,
+   "continuturi": [],
+   "niveluri": [],
+   "competente": [],
+   "ore": 0,
+   "evaluare": [],
+   "tipEveniment": [
+    "eveniment"
+   ],
+   "eveniment": "scoala-altfel"
+  },
+  {
+   "clasa": 6,
+   "saptamana": 16,
+   "interval": 3,
+   "unitate": "Europa - identitate geografică",
+   "continuturi": [
+    "Poziția geografică. Țărmurile: golfuri, insule, peninsule și strâmtori"
+   ],
+   "niveluri": [
+    "VI-S16-pozitia-geografica-tarmurile-golfuri"
+   ],
+   "competente": [
+    "VI-2.1",
+    "VI-2.2",
+    "VI-2.3",
+    "VI-3.1",
+    "VI-3.2",
+    "VI-3.3",
+    "VI-3.4",
+    "VI-4.1",
+    "VI-4.2",
+    "VI-4.3"
+   ],
+   "ore": 1,
+   "evaluare": [
+    "T3",
+    "EO",
+    "C"
+   ],
+   "tipEveniment": [
+    "nivel"
+   ]
+  },
+  {
+   "clasa": 6,
+   "saptamana": 17,
+   "interval": 3,
+   "unitate": "Europa - identitate geografică",
+   "continuturi": [
+    "Caracteristici generale ale reliefului. Unități majore"
+   ],
+   "niveluri": [
+    "VI-S17-caracteristici-generale-reliefului-unitati"
+   ],
+   "competente": [
+    "VI-2.1",
+    "VI-2.2",
+    "VI-2.3",
+    "VI-3.1",
+    "VI-3.2",
+    "VI-3.3",
+    "VI-3.4",
+    "VI-4.1",
+    "VI-4.2",
+    "VI-4.3"
+   ],
+   "ore": 1,
+   "evaluare": [
+    "T3",
+    "EO",
+    "C"
+   ],
+   "tipEveniment": [
+    "nivel"
+   ]
+  },
+  {
+   "clasa": 6,
+   "saptamana": 18,
+   "interval": 3,
+   "unitate": "Europa - identitate geografică",
+   "continuturi": [
+    "Hidrografia"
+   ],
+   "niveluri": [
+    "VI-S18-hidrografia"
+   ],
+   "competente": [
+    "VI-2.1",
+    "VI-2.2",
+    "VI-2.3",
+    "VI-3.1",
+    "VI-3.2",
+    "VI-3.3",
+    "VI-3.4",
+    "VI-4.1",
+    "VI-4.2",
+    "VI-4.3"
+   ],
+   "ore": 1,
+   "evaluare": [
+    "T3",
+    "EO",
+    "C"
+   ],
+   "tipEveniment": [
+    "nivel"
+   ]
+  },
+  {
+   "clasa": 6,
+   "saptamana": 19,
+   "interval": 3,
+   "unitate": "Europa - identitate geografică",
+   "continuturi": [
+    "Diferențieri climatice și biogeografice"
+   ],
+   "niveluri": [
+    "VI-S19-diferentieri-climatice-biogeografice"
+   ],
+   "competente": [
+    "VI-2.1",
+    "VI-2.2",
+    "VI-2.3",
+    "VI-3.1",
+    "VI-3.2",
+    "VI-3.3",
+    "VI-3.4",
+    "VI-4.1",
+    "VI-4.2",
+    "VI-4.3"
+   ],
+   "ore": 1,
+   "evaluare": [
+    "T3",
+    "EO",
+    "C"
+   ],
+   "tipEveniment": [
+    "nivel"
+   ]
+  },
+  {
+   "clasa": 6,
+   "saptamana": 20,
+   "interval": 3,
+   "unitate": "Europa - identitate geografică",
+   "continuturi": [],
+   "niveluri": [],
+   "competente": [
+    "VI-2.1",
+    "VI-2.2",
+    "VI-2.3",
+    "VI-3.1",
+    "VI-3.2",
+    "VI-3.3",
+    "VI-3.4",
+    "VI-4.1",
+    "VI-4.2",
+    "VI-4.3"
+   ],
+   "ore": 1,
+   "evaluare": [
+    "T3",
+    "EO",
+    "C"
+   ],
+   "tipEveniment": [
+    "boss"
+   ],
+   "test": "T3"
+  },
+  {
+   "clasa": 6,
+   "saptamana": 21,
+   "interval": 3,
+   "unitate": "Europa - identitate geografică",
+   "continuturi": [
+    "Oameni și locuri – Harta politică – state și regiuni"
+   ],
+   "niveluri": [
+    "VI-S21-oameni-locuri-harta-politica"
+   ],
+   "competente": [
+    "VI-1.1",
+    "VI-1.2"
+   ],
+   "ore": 1,
+   "evaluare": [
+    "EO"
+   ],
+   "tipEveniment": [
+    "nivel"
+   ]
+  },
+  {
+   "clasa": 6,
+   "saptamana": 22,
+   "interval": 3,
+   "unitate": "Europa - identitate geografică",
+   "continuturi": [
+    "Răspândirea geografică a populației. Elemente de diversitate umană (diversitate etnică, lingvistică, confesională și culturală)"
+   ],
+   "niveluri": [
+    "VI-S22-raspandirea-geografica-populatiei-elemente"
+   ],
+   "competente": [
+    "VI-2.1",
+    "VI-2.2",
+    "VI-2.3"
+   ],
+   "ore": 1,
+   "evaluare": [
+    "EO"
+   ],
+   "tipEveniment": [
+    "nivel"
+   ]
+  },
+  {
+   "clasa": 6,
+   "saptamana": 23,
+   "interval": 4,
+   "unitate": "Europa - identitate geografică",
+   "continuturi": [
+    "Mari orașe europene"
+   ],
+   "niveluri": [
+    "VI-S23-mari-orase-europene"
+   ],
+   "competente": [
+    "VI-3.1",
+    "VI-3.2",
+    "VI-3.3",
+    "VI-3.4",
+    "VI-4.1",
+    "VI-4.2",
+    "VI-4.3"
+   ],
+   "ore": 1,
+   "evaluare": [
+    "T4",
+    "EO",
+    "AE/IE"
+   ],
+   "tipEveniment": [
+    "nivel"
+   ]
+  },
+  {
+   "clasa": 6,
+   "saptamana": 24,
+   "interval": 4,
+   "unitate": "Europa - identitate geografică",
+   "continuturi": [
+    "Economia – Resursele naturale și valorificarea lor"
+   ],
+   "niveluri": [
+    "VI-S24-economia-resursele-naturale-valorificarea"
+   ],
+   "competente": [
+    "VI-3.1",
+    "VI-3.2",
+    "VI-3.3",
+    "VI-3.4",
+    "VI-4.1",
+    "VI-4.2",
+    "VI-4.3"
+   ],
+   "ore": 1,
+   "evaluare": [
+    "T4",
+    "EO",
+    "AE/IE"
+   ],
+   "tipEveniment": [
+    "nivel"
+   ]
+  },
+  {
+   "clasa": 6,
+   "saptamana": 25,
+   "interval": 4,
+   "unitate": "Europa - identitate geografică",
+   "continuturi": [
+    "Activitățile economice: agricultura, industria, serviciile"
+   ],
+   "niveluri": [
+    "VI-S25-activitatile-economice-agricultura-industria"
+   ],
+   "competente": [
+    "VI-3.1",
+    "VI-3.2",
+    "VI-3.3",
+    "VI-3.4",
+    "VI-4.1",
+    "VI-4.2",
+    "VI-4.3"
+   ],
+   "ore": 1,
+   "evaluare": [
+    "T4",
+    "EO",
+    "AE/IE"
+   ],
+   "tipEveniment": [
+    "nivel"
+   ]
+  },
+  {
+   "clasa": 6,
+   "saptamana": 26,
+   "interval": 4,
+   "unitate": "Europa - identitate geografică",
+   "continuturi": [
+    "Recapitulare și evaluare"
+   ],
+   "niveluri": [],
+   "competente": [
+    "VI-3.1",
+    "VI-3.2",
+    "VI-3.3",
+    "VI-3.4",
+    "VI-4.1",
+    "VI-4.2",
+    "VI-4.3"
+   ],
+   "ore": 1,
+   "evaluare": [
+    "T4",
+    "EO",
+    "AE/IE"
+   ],
+   "tipEveniment": [
+    "boss"
+   ],
+   "test": "T4"
+  },
+  {
+   "clasa": 6,
+   "saptamana": 27,
+   "interval": 4,
+   "unitate": "Europa - identitate geografică",
+   "continuturi": [
+    "Aplicații practice/studii de caz: Caracterizarea unor state din regiuni diferite ale Europei"
+   ],
+   "niveluri": [
+    "VI-S27-aplicatii-practice-studii-caz"
+   ],
+   "competente": [
+    "VI-4.1",
+    "VI-4.2"
+   ],
+   "ore": 1,
+   "evaluare": [
+    "PP"
+   ],
+   "tipEveniment": [
+    "expeditie"
+   ]
+  },
+  {
+   "clasa": 6,
+   "saptamana": 28,
+   "interval": 4,
+   "unitate": "Europa - identitate geografică",
+   "continuturi": [
+    "Caracterizarea geografică a unor state (cel puțin un stat din fiecare regiune geografică)"
+   ],
+   "niveluri": [
+    "VI-S28-caracterizarea-geografica-state-cel"
+   ],
+   "competente": [
+    "VI-2.1",
+    "VI-2.3"
+   ],
+   "ore": 1,
+   "evaluare": [
+    "EO"
+   ],
+   "tipEveniment": [
+    "nivel"
+   ]
+  },
+  {
+   "clasa": 6,
+   "saptamana": 29,
+   "interval": 4,
+   "unitate": null,
+   "continuturi": [],
+   "niveluri": [],
+   "competente": [],
+   "ore": 0,
+   "evaluare": [],
+   "tipEveniment": [
+    "eveniment"
+   ],
+   "eveniment": "saptamana-verde"
+  },
+  {
+   "clasa": 6,
+   "saptamana": 30,
+   "interval": 5,
+   "unitate": "Europa - identitate geografică",
+   "continuturi": [
+    "Caracterizarea geografică a unor state (continuare)"
+   ],
+   "niveluri": [
+    "VI-S30-caracterizarea-geografica-state-continuare"
+   ],
+   "competente": [
+    "VI-3.2",
+    "VI-3.3",
+    "VI-3.4",
+    "VI-4.2"
+   ],
+   "ore": 1,
+   "evaluare": [
+    "EO",
+    "C"
+   ],
+   "tipEveniment": [
+    "nivel"
+   ]
+  },
+  {
+   "clasa": 6,
+   "saptamana": 31,
+   "interval": 5,
+   "unitate": "Europa - identitate geografică",
+   "continuturi": [],
+   "niveluri": [],
+   "competente": [
+    "VI-3.2",
+    "VI-3.3",
+    "VI-3.4",
+    "VI-4.2"
+   ],
+   "ore": 1,
+   "evaluare": [
+    "EO",
+    "C"
+   ],
+   "tipEveniment": [
+    "continuare"
+   ]
+  },
+  {
+   "clasa": 6,
+   "saptamana": 32,
+   "interval": 5,
+   "unitate": "Europa în lumea contemporană",
+   "continuturi": [
+    "Valori culturale și umane europene"
+   ],
+   "niveluri": [
+    "VI-S32-valori-culturale-umane-europene"
+   ],
+   "competente": [
+    "VI-1.2",
+    "VI-3.3",
+    "VI-3.4",
+    "VI-4.3"
+   ],
+   "ore": 1,
+   "evaluare": [
+    "EO"
+   ],
+   "tipEveniment": [
+    "nivel"
+   ]
+  },
+  {
+   "clasa": 6,
+   "saptamana": 33,
+   "interval": 5,
+   "unitate": "Europa în lumea contemporană",
+   "continuturi": [
+    "Calitatea vieții în Europa"
+   ],
+   "niveluri": [
+    "VI-S33-calitatea-vietii-europa"
+   ],
+   "competente": [
+    "VI-1.2",
+    "VI-3.3",
+    "VI-3.4",
+    "VI-4.3"
+   ],
+   "ore": 1,
+   "evaluare": [
+    "EO"
+   ],
+   "tipEveniment": [
+    "nivel"
+   ]
+  },
+  {
+   "clasa": 6,
+   "saptamana": 34,
+   "interval": 5,
+   "unitate": "Terra – elemente de geografie umană. Europa",
+   "continuturi": [],
+   "niveluri": [],
+   "competente": [
+    "VI-1.1",
+    "VI-1.2",
+    "VI-2.1",
+    "VI-2.2",
+    "VI-2.3",
+    "VI-3.1",
+    "VI-3.2",
+    "VI-3.3",
+    "VI-3.4",
+    "VI-4.1",
+    "VI-4.2",
+    "VI-4.3"
+   ],
+   "ore": 1,
+   "evaluare": [
+    "Tf",
+    "PS"
+   ],
+   "tipEveniment": [
+    "continuare"
+   ]
+  },
+  {
+   "clasa": 6,
+   "saptamana": 35,
+   "interval": 5,
+   "unitate": "Terra – elemente de geografie umană. Europa",
+   "continuturi": [],
+   "niveluri": [],
+   "competente": [
+    "VI-1.1",
+    "VI-1.2",
+    "VI-2.1",
+    "VI-2.2",
+    "VI-2.3",
+    "VI-3.1",
+    "VI-3.2",
+    "VI-3.3",
+    "VI-3.4",
+    "VI-4.1",
+    "VI-4.2",
+    "VI-4.3"
+   ],
+   "ore": 1,
+   "evaluare": [
+    "Tf",
+    "PS"
+   ],
+   "tipEveniment": [
+    "continuare"
+   ]
+  },
+  {
+   "clasa": 6,
+   "saptamana": 36,
+   "interval": 5,
+   "unitate": "Terra – elemente de geografie umană. Europa",
+   "continuturi": [
+    "Recapitulare. Sinteză"
+   ],
+   "niveluri": [],
+   "competente": [
+    "VI-1.1",
+    "VI-1.2",
+    "VI-2.1",
+    "VI-2.2",
+    "VI-2.3",
+    "VI-3.1",
+    "VI-3.2",
+    "VI-3.3",
+    "VI-3.4",
+    "VI-4.1",
+    "VI-4.2",
+    "VI-4.3"
+   ],
+   "ore": 1,
+   "evaluare": [
+    "Tf",
+    "PS"
+   ],
+   "tipEveniment": [
+    "mare-expeditie"
+   ],
+   "test": "Tf"
+  },
+  {
+   "clasa": 7,
+   "saptamana": 1,
+   "interval": 1,
+   "unitate": "Asia",
+   "continuturi": [
+    "Terra – elemente de geografie umană. Europa (recapitulare)"
+   ],
+   "niveluri": [],
+   "competente": [
+    "VII-1.1",
+    "VII-1.2",
+    "VII-2.1",
+    "VII-2.2",
+    "VII-2.3",
+    "VII-3.1",
+    "VII-3.2",
+    "VII-3.3",
+    "VII-3.4",
+    "VII-4.1",
+    "VII-4.2",
+    "VII-4.3",
+    "VII-4.4"
+   ],
+   "ore": 1,
+   "evaluare": [
+    "T0",
+    "T1",
+    "EO",
+    "C"
+   ],
+   "tipEveniment": [
+    "busola",
+    "portal"
+   ]
+  },
+  {
+   "clasa": 7,
+   "saptamana": 2,
+   "interval": 1,
+   "unitate": "Asia",
+   "continuturi": [
+    "Caracterizare geografică – Poziția geografică"
+   ],
+   "niveluri": [
+    "VII-S02-caracterizare-geografica-pozitia-geografica"
+   ],
+   "competente": [
+    "VII-1.1",
+    "VII-1.2",
+    "VII-2.1",
+    "VII-2.2",
+    "VII-2.3",
+    "VII-3.1",
+    "VII-3.2",
+    "VII-3.3",
+    "VII-3.4",
+    "VII-4.1",
+    "VII-4.2",
+    "VII-4.3",
+    "VII-4.4"
+   ],
+   "ore": 1,
+   "evaluare": [
+    "T0",
+    "T1",
+    "EO",
+    "C"
+   ],
+   "tipEveniment": [
+    "nivel"
+   ]
+  },
+  {
+   "clasa": 7,
+   "saptamana": 3,
+   "interval": 1,
+   "unitate": "Asia",
+   "continuturi": [
+    "Relieful - caracteristici generale, unități majore. Munții Himalaya"
+   ],
+   "niveluri": [
+    "VII-S03-relieful-caracteristici-generale-unitati"
+   ],
+   "competente": [
+    "VII-1.1",
+    "VII-1.2",
+    "VII-2.1",
+    "VII-2.2",
+    "VII-2.3",
+    "VII-3.1",
+    "VII-3.2",
+    "VII-3.3",
+    "VII-3.4",
+    "VII-4.1",
+    "VII-4.2",
+    "VII-4.3",
+    "VII-4.4"
+   ],
+   "ore": 1,
+   "evaluare": [
+    "T0",
+    "T1",
+    "EO",
+    "C"
+   ],
+   "tipEveniment": [
+    "nivel"
+   ]
+  },
+  {
+   "clasa": 7,
+   "saptamana": 4,
+   "interval": 1,
+   "unitate": "Asia",
+   "continuturi": [
+    "Hidrografia - caracteristici generale. Fluvii și lacuri"
+   ],
+   "niveluri": [
+    "VII-S04-hidrografia-caracteristici-generale-fluvii"
+   ],
+   "competente": [
+    "VII-1.1",
+    "VII-1.2",
+    "VII-2.1",
+    "VII-2.2",
+    "VII-2.3",
+    "VII-3.1",
+    "VII-3.2",
+    "VII-3.3",
+    "VII-3.4",
+    "VII-4.1",
+    "VII-4.2",
+    "VII-4.3",
+    "VII-4.4"
+   ],
+   "ore": 1,
+   "evaluare": [
+    "T0",
+    "T1",
+    "EO",
+    "C"
+   ],
+   "tipEveniment": [
+    "nivel"
+   ]
+  },
+  {
+   "clasa": 7,
+   "saptamana": 5,
+   "interval": 1,
+   "unitate": "Asia",
+   "continuturi": [
+    "Diferențieri climatice. Musonii"
+   ],
+   "niveluri": [
+    "VII-S05-diferentieri-climatice-musonii"
+   ],
+   "competente": [
+    "VII-1.1",
+    "VII-1.2",
+    "VII-2.1",
+    "VII-2.2",
+    "VII-2.3",
+    "VII-3.1",
+    "VII-3.2",
+    "VII-3.3",
+    "VII-3.4",
+    "VII-4.1",
+    "VII-4.2",
+    "VII-4.3",
+    "VII-4.4"
+   ],
+   "ore": 1,
+   "evaluare": [
+    "T0",
+    "T1",
+    "EO",
+    "C"
+   ],
+   "tipEveniment": [
+    "nivel"
+   ]
+  },
+  {
+   "clasa": 7,
+   "saptamana": 6,
+   "interval": 1,
+   "unitate": "Asia",
+   "continuturi": [
+    "Contraste biogeografice",
+    "Recapitulare și evaluare"
+   ],
+   "niveluri": [
+    "VII-S06-contraste-biogeografice"
+   ],
+   "competente": [
+    "VII-1.1",
+    "VII-1.2",
+    "VII-2.1",
+    "VII-2.2",
+    "VII-2.3",
+    "VII-3.1",
+    "VII-3.2",
+    "VII-3.3",
+    "VII-3.4",
+    "VII-4.1",
+    "VII-4.2",
+    "VII-4.3",
+    "VII-4.4"
+   ],
+   "ore": 1,
+   "evaluare": [
+    "T0",
+    "T1",
+    "EO",
+    "C"
+   ],
+   "tipEveniment": [
+    "boss"
+   ],
+   "test": "T1"
+  },
+  {
+   "clasa": 7,
+   "saptamana": 7,
+   "interval": 1,
+   "unitate": "Asia",
+   "continuturi": [
+    "Aplicații practice/studii de caz: Particularități geografice ale unor state (la alegere)"
+   ],
+   "niveluri": [
+    "VII-S07-aplicatii-practice-studii-caz"
+   ],
+   "competente": [
+    "VII-4.1",
+    "VII-4.2"
+   ],
+   "ore": 1,
+   "evaluare": [
+    "PP"
+   ],
+   "tipEveniment": [
+    "expeditie"
+   ]
+  },
+  {
+   "clasa": 7,
+   "saptamana": 8,
+   "interval": 2,
+   "unitate": "Asia",
+   "continuturi": [
+    "Elemente de diversitate umană (diversitate etnică, lingvistică, culturală, confesională)"
+   ],
+   "niveluri": [
+    "VII-S08-elemente-diversitate-umana-diversitate"
+   ],
+   "competente": [
+    "VII-1.1",
+    "VII-1.2",
+    "VII-2.1",
+    "VII-2.2",
+    "VII-2.3",
+    "VII-3.1",
+    "VII-3.2",
+    "VII-3.3",
+    "VII-3.4",
+    "VII-4.1",
+    "VII-4.3",
+    "VII-4.4"
+   ],
+   "ore": 1,
+   "evaluare": [
+    "T2",
+    "EO",
+    "C"
+   ],
+   "tipEveniment": [
+    "nivel"
+   ]
+  },
+  {
+   "clasa": 7,
+   "saptamana": 9,
+   "interval": 2,
+   "unitate": "Asia",
+   "continuturi": [
+    "Harta politică și marile aglomerări umane"
+   ],
+   "niveluri": [
+    "VII-S09-harta-politica-marile-aglomerari"
+   ],
+   "competente": [
+    "VII-1.1",
+    "VII-1.2",
+    "VII-2.1",
+    "VII-2.2",
+    "VII-2.3",
+    "VII-3.1",
+    "VII-3.2",
+    "VII-3.3",
+    "VII-3.4",
+    "VII-4.1",
+    "VII-4.3",
+    "VII-4.4"
+   ],
+   "ore": 1,
+   "evaluare": [
+    "T2",
+    "EO",
+    "C"
+   ],
+   "tipEveniment": [
+    "nivel"
+   ]
+  },
+  {
+   "clasa": 7,
+   "saptamana": 10,
+   "interval": 2,
+   "unitate": "Asia",
+   "continuturi": [
+    "Resursele naturale"
+   ],
+   "niveluri": [
+    "VII-S10-resursele-naturale"
+   ],
+   "competente": [
+    "VII-1.1",
+    "VII-1.2",
+    "VII-2.1",
+    "VII-2.2",
+    "VII-2.3",
+    "VII-3.1",
+    "VII-3.2",
+    "VII-3.3",
+    "VII-3.4",
+    "VII-4.1",
+    "VII-4.3",
+    "VII-4.4"
+   ],
+   "ore": 1,
+   "evaluare": [
+    "T2",
+    "EO",
+    "C"
+   ],
+   "tipEveniment": [
+    "nivel"
+   ]
+  },
+  {
+   "clasa": 7,
+   "saptamana": 11,
+   "interval": 2,
+   "unitate": "Asia",
+   "continuturi": [
+    "Activitățile economice. Contraste economice regionale"
+   ],
+   "niveluri": [
+    "VII-S11-activitatile-economice-contraste-economice"
+   ],
+   "competente": [
+    "VII-1.1",
+    "VII-1.2",
+    "VII-2.1",
+    "VII-2.2",
+    "VII-2.3",
+    "VII-3.1",
+    "VII-3.2",
+    "VII-3.3",
+    "VII-3.4",
+    "VII-4.1",
+    "VII-4.3",
+    "VII-4.4"
+   ],
+   "ore": 1,
+   "evaluare": [
+    "T2",
+    "EO",
+    "C"
+   ],
+   "tipEveniment": [
+    "nivel"
+   ]
+  },
+  {
+   "clasa": 7,
+   "saptamana": 12,
+   "interval": 2,
+   "unitate": "Asia",
+   "continuturi": [
+    "Asia în lumea contemporană",
+    "Recapitulare și evaluare"
+   ],
+   "niveluri": [
+    "VII-S12-asia-lumea-contemporana"
+   ],
+   "competente": [
+    "VII-1.1",
+    "VII-1.2",
+    "VII-2.1",
+    "VII-2.2",
+    "VII-2.3",
+    "VII-3.1",
+    "VII-3.2",
+    "VII-3.3",
+    "VII-3.4",
+    "VII-4.1",
+    "VII-4.3",
+    "VII-4.4"
+   ],
+   "ore": 1,
+   "evaluare": [
+    "T2",
+    "EO",
+    "C"
+   ],
+   "tipEveniment": [
+    "boss"
+   ],
+   "test": "T2"
+  },
+  {
+   "clasa": 7,
+   "saptamana": 13,
+   "interval": 2,
+   "unitate": "Africa",
+   "continuturi": [
+    "Caracterizare geografică – Poziția geografică – simetrie latitudinală",
+    "Relieful Africii – caracteristici generale. Riftul african"
+   ],
+   "niveluri": [
+    "VII-S13-caracterizare-geografica-pozitia-geografica",
+    "VII-S13-relieful-africii-caracteristici-generale"
+   ],
+   "competente": [
+    "VII-1.2",
+    "VII-2.1",
+    "VII-2.2",
+    "VII-2.3"
+   ],
+   "ore": 1,
+   "evaluare": [
+    "EO"
+   ],
+   "tipEveniment": [
+    "nivel"
+   ]
+  },
+  {
+   "clasa": 7,
+   "saptamana": 14,
+   "interval": 2,
+   "unitate": null,
+   "continuturi": [],
+   "niveluri": [],
+   "competente": [],
+   "ore": 0,
+   "evaluare": [],
+   "tipEveniment": [
+    "eveniment"
+   ],
+   "eveniment": "scoala-altfel"
+  },
+  {
+   "clasa": 7,
+   "saptamana": 15,
+   "interval": 2,
+   "unitate": null,
+   "continuturi": [],
+   "niveluri": [],
+   "competente": [],
+   "ore": 0,
+   "evaluare": [],
+   "tipEveniment": [
+    "eveniment"
+   ],
+   "eveniment": "scoala-altfel"
+  },
+  {
+   "clasa": 7,
+   "saptamana": 16,
+   "interval": 3,
+   "unitate": "Africa",
+   "continuturi": [
+    "Hidrografia, clima și biogeografia – caracteristici generale"
+   ],
+   "niveluri": [
+    "VII-S16-hidrografia-clima-biogeografia-caracteristici"
+   ],
+   "competente": [
+    "VII-1.1",
+    "VII-1.2",
+    "VII-2.1",
+    "VII-2.2",
+    "VII-2.3",
+    "VII-3.2",
+    "VII-3.3",
+    "VII-3.4",
+    "VII-4.1",
+    "VII-4.3",
+    "VII-4.4"
+   ],
+   "ore": 1,
+   "evaluare": [
+    "T3",
+    "EO",
+    "AE/IE"
+   ],
+   "tipEveniment": [
+    "nivel"
+   ]
+  },
+  {
+   "clasa": 7,
+   "saptamana": 17,
+   "interval": 3,
+   "unitate": "Africa",
+   "continuturi": [
+    "Specificul demografic"
+   ],
+   "niveluri": [
+    "VII-S17-specificul-demografic"
+   ],
+   "competente": [
+    "VII-1.1",
+    "VII-1.2",
+    "VII-2.1",
+    "VII-2.2",
+    "VII-2.3",
+    "VII-3.2",
+    "VII-3.3",
+    "VII-3.4",
+    "VII-4.1",
+    "VII-4.3",
+    "VII-4.4"
+   ],
+   "ore": 1,
+   "evaluare": [
+    "T3",
+    "EO",
+    "AE/IE"
+   ],
+   "tipEveniment": [
+    "nivel"
+   ]
+  },
+  {
+   "clasa": 7,
+   "saptamana": 18,
+   "interval": 3,
+   "unitate": "Africa",
+   "continuturi": [],
+   "niveluri": [],
+   "competente": [
+    "VII-1.1",
+    "VII-1.2",
+    "VII-2.1",
+    "VII-2.2",
+    "VII-2.3",
+    "VII-3.2",
+    "VII-3.3",
+    "VII-3.4",
+    "VII-4.1",
+    "VII-4.3",
+    "VII-4.4"
+   ],
+   "ore": 1,
+   "evaluare": [
+    "T3",
+    "EO",
+    "AE/IE"
+   ],
+   "tipEveniment": [
+    "continuare"
+   ]
+  },
+  {
+   "clasa": 7,
+   "saptamana": 19,
+   "interval": 3,
+   "unitate": "Africa",
+   "continuturi": [
+    "Harta politică și marile orașe"
+   ],
+   "niveluri": [
+    "VII-S19-harta-politica-marile-orase"
+   ],
+   "competente": [
+    "VII-1.1",
+    "VII-1.2",
+    "VII-2.1",
+    "VII-2.2",
+    "VII-2.3",
+    "VII-3.2",
+    "VII-3.3",
+    "VII-3.4",
+    "VII-4.1",
+    "VII-4.3",
+    "VII-4.4"
+   ],
+   "ore": 1,
+   "evaluare": [
+    "T3",
+    "EO",
+    "AE/IE"
+   ],
+   "tipEveniment": [
+    "nivel"
+   ]
+  },
+  {
+   "clasa": 7,
+   "saptamana": 20,
+   "interval": 3,
+   "unitate": "Africa",
+   "continuturi": [
+    "Studii de caz: Problemele Africii în lumea contemporană, Sahara"
+   ],
+   "niveluri": [
+    "VII-S20-studii-caz-problemele-africii"
+   ],
+   "competente": [
+    "VII-1.1",
+    "VII-1.2",
+    "VII-2.1",
+    "VII-2.2",
+    "VII-2.3",
+    "VII-3.2",
+    "VII-3.3",
+    "VII-3.4",
+    "VII-4.1",
+    "VII-4.3",
+    "VII-4.4"
+   ],
+   "ore": 1,
+   "evaluare": [
+    "T3",
+    "EO",
+    "AE/IE"
+   ],
+   "tipEveniment": [
+    "nivel"
+   ]
+  },
+  {
+   "clasa": 7,
+   "saptamana": 21,
+   "interval": 3,
+   "unitate": "Africa",
+   "continuturi": [
+    "Recapitulare și evaluare"
+   ],
+   "niveluri": [],
+   "competente": [
+    "VII-1.1",
+    "VII-1.2",
+    "VII-2.1",
+    "VII-2.2",
+    "VII-2.3",
+    "VII-3.2",
+    "VII-3.3",
+    "VII-3.4",
+    "VII-4.1",
+    "VII-4.3",
+    "VII-4.4"
+   ],
+   "ore": 1,
+   "evaluare": [
+    "T3",
+    "EO",
+    "AE/IE"
+   ],
+   "tipEveniment": [
+    "boss"
+   ],
+   "test": "T3"
+  },
+  {
+   "clasa": 7,
+   "saptamana": 22,
+   "interval": 3,
+   "unitate": "Africa",
+   "continuturi": [
+    "Aplicații practice/studii de caz: Caracterizarea geografică a unor state (la alegere)"
+   ],
+   "niveluri": [
+    "VII-S22-aplicatii-practice-studii-caz"
+   ],
+   "competente": [
+    "VII-4.1",
+    "VII-4.4"
+   ],
+   "ore": 1,
+   "evaluare": [
+    "PP"
+   ],
+   "tipEveniment": [
+    "expeditie"
+   ]
+  },
+  {
+   "clasa": 7,
+   "saptamana": 23,
+   "interval": 4,
+   "unitate": "America de Nord și America de Sud",
+   "continuturi": [
+    "Caracterizare geografică – Poziția geografică",
+    "Relieful – caracteristici generale. Sistemul muntos cordiliero-andin"
+   ],
+   "niveluri": [
+    "VII-S23-caracterizare-geografica-pozitia-geografica",
+    "VII-S23-relieful-caracteristici-generale-sistemul"
+   ],
+   "competente": [
+    "VII-1.1",
+    "VII-1.2",
+    "VII-2.1",
+    "VII-2.2",
+    "VII-2.3",
+    "VII-3.1",
+    "VII-3.2",
+    "VII-3.3",
+    "VII-3.4",
+    "VII-4.1",
+    "VII-4.2",
+    "VII-4.3"
+   ],
+   "ore": 1,
+   "evaluare": [
+    "T4",
+    "EO",
+    "AE/IE"
+   ],
+   "tipEveniment": [
+    "nivel"
+   ]
+  },
+  {
+   "clasa": 7,
+   "saptamana": 24,
+   "interval": 4,
+   "unitate": "America de Nord și America de Sud",
+   "continuturi": [
+    "Hidrografia – caracteristici generale. Fluvii și lacuri",
+    "Diferențieri climatice și biogeografice"
+   ],
+   "niveluri": [
+    "VII-S24-hidrografia-caracteristici-generale-fluvii",
+    "VII-S24-diferentieri-climatice-biogeografice"
+   ],
+   "competente": [
+    "VII-1.1",
+    "VII-1.2",
+    "VII-2.1",
+    "VII-2.2",
+    "VII-2.3",
+    "VII-3.1",
+    "VII-3.2",
+    "VII-3.3",
+    "VII-3.4",
+    "VII-4.1",
+    "VII-4.2",
+    "VII-4.3"
+   ],
+   "ore": 1,
+   "evaluare": [
+    "T4",
+    "EO",
+    "AE/IE"
+   ],
+   "tipEveniment": [
+    "nivel"
+   ]
+  },
+  {
+   "clasa": 7,
+   "saptamana": 25,
+   "interval": 4,
+   "unitate": "America de Nord și America de Sud",
+   "continuturi": [
+    "Elemente de diversitate umană (etnică, lingvistică, confesională și culturală)"
+   ],
+   "niveluri": [
+    "VII-S25-elemente-diversitate-umana-etnica"
+   ],
+   "competente": [
+    "VII-1.1",
+    "VII-1.2",
+    "VII-2.1",
+    "VII-2.2",
+    "VII-2.3",
+    "VII-3.1",
+    "VII-3.2",
+    "VII-3.3",
+    "VII-3.4",
+    "VII-4.1",
+    "VII-4.2",
+    "VII-4.3"
+   ],
+   "ore": 1,
+   "evaluare": [
+    "T4",
+    "EO",
+    "AE/IE"
+   ],
+   "tipEveniment": [
+    "nivel"
+   ]
+  },
+  {
+   "clasa": 7,
+   "saptamana": 26,
+   "interval": 4,
+   "unitate": "America de Nord și America de Sud",
+   "continuturi": [
+    "Harta politică și contraste teritoriale între state",
+    "Forme de aglomerare urbană"
+   ],
+   "niveluri": [
+    "VII-S26-harta-politica-contraste-teritoriale",
+    "VII-S26-forme-aglomerare-urbana"
+   ],
+   "competente": [
+    "VII-1.1",
+    "VII-1.2",
+    "VII-2.1",
+    "VII-2.2",
+    "VII-2.3",
+    "VII-3.1",
+    "VII-3.2",
+    "VII-3.3",
+    "VII-3.4",
+    "VII-4.1",
+    "VII-4.2",
+    "VII-4.3"
+   ],
+   "ore": 1,
+   "evaluare": [
+    "T4",
+    "EO",
+    "AE/IE"
+   ],
+   "tipEveniment": [
+    "nivel"
+   ]
+  },
+  {
+   "clasa": 7,
+   "saptamana": 27,
+   "interval": 4,
+   "unitate": "America de Nord și America de Sud",
+   "continuturi": [
+    "Diferențieri economice regionale",
+    "Recapitulare și evaluare"
+   ],
+   "niveluri": [
+    "VII-S27-diferentieri-economice-regionale"
+   ],
+   "competente": [
+    "VII-1.1",
+    "VII-1.2",
+    "VII-2.1",
+    "VII-2.2",
+    "VII-2.3",
+    "VII-3.1",
+    "VII-3.2",
+    "VII-3.3",
+    "VII-3.4",
+    "VII-4.1",
+    "VII-4.2",
+    "VII-4.3"
+   ],
+   "ore": 1,
+   "evaluare": [
+    "T4",
+    "EO",
+    "AE/IE"
+   ],
+   "tipEveniment": [
+    "boss"
+   ],
+   "test": "T4"
+  },
+  {
+   "clasa": 7,
+   "saptamana": 28,
+   "interval": 4,
+   "unitate": "America de Nord și America de Sud",
+   "continuturi": [
+    "Aplicații practice/studii de caz: Particularități geografice ale unor state (la alegere)"
+   ],
+   "niveluri": [
+    "VII-S28-aplicatii-practice-studii-caz"
+   ],
+   "competente": [
+    "VII-4.1",
+    "VII-4.4"
+   ],
+   "ore": 1,
+   "evaluare": [
+    "PP"
+   ],
+   "tipEveniment": [
+    "expeditie"
+   ]
+  },
+  {
+   "clasa": 7,
+   "saptamana": 29,
+   "interval": 4,
+   "unitate": null,
+   "continuturi": [],
+   "niveluri": [],
+   "competente": [],
+   "ore": 0,
+   "evaluare": [],
+   "tipEveniment": [
+    "eveniment"
+   ],
+   "eveniment": "saptamana-verde"
+  },
+  {
+   "clasa": 7,
+   "saptamana": 30,
+   "interval": 5,
+   "unitate": "Australia și Oceania. Antarctica",
+   "continuturi": [
+    "Australia și Oceania – caracterizare geografică",
+    "Australia – caracterizare geografică generală"
+   ],
+   "niveluri": [
+    "VII-S30-australia-oceania-caracterizare-geografica",
+    "VII-S30-australia-caracterizare-geografica-generala"
+   ],
+   "competente": [
+    "VII-1.1",
+    "VII-1.2",
+    "VII-2.1",
+    "VII-2.2",
+    "VII-2.3",
+    "VII-3.1",
+    "VII-3.2",
+    "VII-3.3",
+    "VII-3.4"
+   ],
+   "ore": 1,
+   "evaluare": [
+    "EO",
+    "C"
+   ],
+   "tipEveniment": [
+    "nivel"
+   ]
+  },
+  {
+   "clasa": 7,
+   "saptamana": 31,
+   "interval": 5,
+   "unitate": "Australia și Oceania. Antarctica",
+   "continuturi": [
+    "Oceania – particularități geografice",
+    "Antarctica – elemente de identitate geografică"
+   ],
+   "niveluri": [
+    "VII-S31-oceania-particularitati-geografice",
+    "VII-S31-antarctica-elemente-identitate-geografica"
+   ],
+   "competente": [
+    "VII-1.1",
+    "VII-1.2",
+    "VII-2.1",
+    "VII-2.2",
+    "VII-2.3",
+    "VII-3.1",
+    "VII-3.2",
+    "VII-3.3",
+    "VII-3.4"
+   ],
+   "ore": 1,
+   "evaluare": [
+    "EO",
+    "C"
+   ],
+   "tipEveniment": [
+    "nivel"
+   ]
+  },
+  {
+   "clasa": 7,
+   "saptamana": 32,
+   "interval": 5,
+   "unitate": "Australia și Oceania. Antarctica",
+   "continuturi": [
+    "Studiu de caz: Unicitatea biogeografică australiană"
+   ],
+   "niveluri": [
+    "VII-S32-studiu-caz-unicitatea-biogeografica"
+   ],
+   "competente": [
+    "VII-4.1",
+    "VII-4.4"
+   ],
+   "ore": 1,
+   "evaluare": [
+    "PP"
+   ],
+   "tipEveniment": [
+    "expeditie"
+   ]
+  },
+  {
+   "clasa": 7,
+   "saptamana": 33,
+   "interval": 5,
+   "unitate": "Elemente de geografia mediului înconjurător",
+   "continuturi": [
+    "Componentele mediului înconjurător și relațiile dintre acestea"
+   ],
+   "niveluri": [
+    "VII-S33-componentele-mediului-inconjurator-relatiile"
+   ],
+   "competente": [
+    "VII-1.2",
+    "VII-2.3",
+    "VII-3.3",
+    "VII-4.3",
+    "VII-4.4"
+   ],
+   "ore": 1,
+   "evaluare": [
+    "C"
+   ],
+   "tipEveniment": [
+    "nivel"
+   ]
+  },
+  {
+   "clasa": 7,
+   "saptamana": 34,
+   "interval": 5,
+   "unitate": "Elemente de geografia mediului înconjurător",
+   "continuturi": [
+    "Degradarea mediului înconjurător, o problemă a lumii contemporane. Schimbări globale ale mediului"
+   ],
+   "niveluri": [
+    "VII-S34-degradarea-mediului-inconjurator-problema"
+   ],
+   "competente": [
+    "VII-1.2",
+    "VII-2.3",
+    "VII-3.3",
+    "VII-4.3",
+    "VII-4.4"
+   ],
+   "ore": 1,
+   "evaluare": [
+    "C"
+   ],
+   "tipEveniment": [
+    "nivel"
+   ]
+  },
+  {
+   "clasa": 7,
+   "saptamana": 35,
+   "interval": 5,
+   "unitate": "Geografia continentelor extraeuropene",
+   "continuturi": [],
+   "niveluri": [],
+   "competente": [
+    "VII-1.1",
+    "VII-1.2",
+    "VII-2.1",
+    "VII-2.2",
+    "VII-2.3",
+    "VII-3.1",
+    "VII-3.2",
+    "VII-3.3",
+    "VII-3.4",
+    "VII-4.1",
+    "VII-4.2",
+    "VII-4.3",
+    "VII-4.4"
+   ],
+   "ore": 1,
+   "evaluare": [
+    "Tf",
+    "PS"
+   ],
+   "tipEveniment": [
+    "continuare"
+   ]
+  },
+  {
+   "clasa": 7,
+   "saptamana": 36,
+   "interval": 5,
+   "unitate": "Geografia continentelor extraeuropene",
+   "continuturi": [
+    "Recapitulare finală. Sinteză. Evaluare"
+   ],
+   "niveluri": [],
+   "competente": [
+    "VII-1.1",
+    "VII-1.2",
+    "VII-2.1",
+    "VII-2.2",
+    "VII-2.3",
+    "VII-3.1",
+    "VII-3.2",
+    "VII-3.3",
+    "VII-3.4",
+    "VII-4.1",
+    "VII-4.2",
+    "VII-4.3",
+    "VII-4.4"
+   ],
+   "ore": 1,
+   "evaluare": [
+    "Tf",
+    "PS"
+   ],
+   "tipEveniment": [
+    "mare-expeditie"
+   ],
+   "test": "Tf"
+  },
+  {
+   "clasa": 8,
+   "saptamana": 1,
+   "interval": 1,
+   "unitate": "Poziția geografică",
+   "continuturi": [
+    "Geografia Continentelor extra-europene - recapitulare",
+    "Poziția geografică. Elemente definitorii și consecințe. Statele vecine"
+   ],
+   "niveluri": [
+    "VIII-S01-pozitia-geografica-elemente-definitorii"
+   ],
+   "competente": [
+    "VIII-1.1",
+    "VIII-1.2",
+    "VIII-2.1",
+    "VIII-2.2",
+    "VIII-3.3",
+    "VIII-4.1",
+    "VIII-4.2",
+    "VIII-4.3",
+    "VIII-4.4"
+   ],
+   "ore": 2,
+   "evaluare": [
+    "T0",
+    "EO"
+   ],
+   "tipEveniment": [
+    "busola",
+    "portal"
+   ]
+  },
+  {
+   "clasa": 8,
+   "saptamana": 2,
+   "interval": 1,
+   "unitate": "Poziția geografică",
+   "continuturi": [
+    "România - țară carpatică, dunăreană, pontică și central europeană"
+   ],
+   "niveluri": [
+    "VIII-S02-romania-tara-carpatica-dunareana"
+   ],
+   "competente": [
+    "VIII-1.1",
+    "VIII-1.2",
+    "VIII-2.1",
+    "VIII-2.2",
+    "VIII-3.3",
+    "VIII-4.1",
+    "VIII-4.2",
+    "VIII-4.3",
+    "VIII-4.4"
+   ],
+   "ore": 2,
+   "evaluare": [
+    "T0",
+    "EO"
+   ],
+   "tipEveniment": [
+    "nivel"
+   ]
+  },
+  {
+   "clasa": 8,
+   "saptamana": 3,
+   "interval": 1,
+   "unitate": "Relieful României",
+   "continuturi": [
+    "Relieful – caracteristici generale"
+   ],
+   "niveluri": [
+    "VIII-S03-relieful-caracteristici-generale"
+   ],
+   "competente": [
+    "VIII-1.1",
+    "VIII-1.2",
+    "VIII-2.1",
+    "VIII-2.2",
+    "VIII-2.3",
+    "VIII-3.1",
+    "VIII-3.2",
+    "VIII-3.3",
+    "VIII-3.4",
+    "VIII-4.1",
+    "VIII-4.2",
+    "VIII-4.4"
+   ],
+   "ore": 2,
+   "evaluare": [
+    "T1",
+    "EO",
+    "AE/IE"
+   ],
+   "tipEveniment": [
+    "nivel"
+   ]
+  },
+  {
+   "clasa": 8,
+   "saptamana": 4,
+   "interval": 1,
+   "unitate": "Relieful României",
+   "continuturi": [
+    "Unitățile majore de relief: Carpații și Depresiunea Colinară a Transilvaniei"
+   ],
+   "niveluri": [
+    "VIII-S04-unitatile-majore-relief-carpatii"
+   ],
+   "competente": [
+    "VIII-1.1",
+    "VIII-1.2",
+    "VIII-2.1",
+    "VIII-2.2",
+    "VIII-2.3",
+    "VIII-3.1",
+    "VIII-3.2",
+    "VIII-3.3",
+    "VIII-3.4",
+    "VIII-4.1",
+    "VIII-4.2",
+    "VIII-4.4"
+   ],
+   "ore": 2,
+   "evaluare": [
+    "T1",
+    "EO",
+    "AE/IE"
+   ],
+   "tipEveniment": [
+    "nivel"
+   ]
+  },
+  {
+   "clasa": 8,
+   "saptamana": 5,
+   "interval": 1,
+   "unitate": "Relieful României",
+   "continuturi": [],
+   "niveluri": [],
+   "competente": [
+    "VIII-1.1",
+    "VIII-1.2",
+    "VIII-2.1",
+    "VIII-2.2",
+    "VIII-2.3",
+    "VIII-3.1",
+    "VIII-3.2",
+    "VIII-3.3",
+    "VIII-3.4",
+    "VIII-4.1",
+    "VIII-4.2",
+    "VIII-4.4"
+   ],
+   "ore": 2,
+   "evaluare": [
+    "T1",
+    "EO",
+    "AE/IE"
+   ],
+   "tipEveniment": [
+    "continuare"
+   ]
+  },
+  {
+   "clasa": 8,
+   "saptamana": 6,
+   "interval": 1,
+   "unitate": "Relieful României",
+   "continuturi": [
+    "Subcarpații, Podișul Getic și Podișul Mehedinți"
+   ],
+   "niveluri": [
+    "VIII-S06-subcarpatii-podisul-getic-podisul"
+   ],
+   "competente": [
+    "VIII-1.1",
+    "VIII-1.2",
+    "VIII-2.1",
+    "VIII-2.2",
+    "VIII-2.3",
+    "VIII-3.1",
+    "VIII-3.2",
+    "VIII-3.3",
+    "VIII-3.4",
+    "VIII-4.1",
+    "VIII-4.2",
+    "VIII-4.4"
+   ],
+   "ore": 2,
+   "evaluare": [
+    "T1",
+    "EO",
+    "AE/IE"
+   ],
+   "tipEveniment": [
+    "nivel"
+   ]
+  },
+  {
+   "clasa": 8,
+   "saptamana": 7,
+   "interval": 1,
+   "unitate": "Relieful României",
+   "continuturi": [
+    "Recapitulare și evaluare"
+   ],
+   "niveluri": [],
+   "competente": [
+    "VIII-1.1",
+    "VIII-1.2",
+    "VIII-2.1",
+    "VIII-2.2",
+    "VIII-2.3",
+    "VIII-3.1",
+    "VIII-3.2",
+    "VIII-3.3",
+    "VIII-3.4",
+    "VIII-4.1",
+    "VIII-4.2",
+    "VIII-4.4"
+   ],
+   "ore": 2,
+   "evaluare": [
+    "T1",
+    "EO",
+    "AE/IE"
+   ],
+   "tipEveniment": [
+    "boss"
+   ],
+   "test": "T1"
+  },
+  {
+   "clasa": 8,
+   "saptamana": 8,
+   "interval": 2,
+   "unitate": "Relieful României",
+   "continuturi": [
+    "Podișul Moldovei și Podișul Dobrogei"
+   ],
+   "niveluri": [
+    "VIII-S08-podisul-moldovei-podisul-dobrogei"
+   ],
+   "competente": [
+    "VIII-1.1",
+    "VIII-1.2",
+    "VIII-2.1",
+    "VIII-2.2",
+    "VIII-2.3",
+    "VIII-3.1",
+    "VIII-3.2",
+    "VIII-3.3",
+    "VIII-3.4",
+    "VIII-4.1",
+    "VIII-4.2",
+    "VIII-4.4"
+   ],
+   "ore": 2,
+   "evaluare": [
+    "T2",
+    "EO",
+    "AE/IE"
+   ],
+   "tipEveniment": [
+    "nivel"
+   ]
+  },
+  {
+   "clasa": 8,
+   "saptamana": 9,
+   "interval": 2,
+   "unitate": "Relieful României",
+   "continuturi": [
+    "Câmpia de Vest și Dealurile de Vest"
+   ],
+   "niveluri": [
+    "VIII-S09-campia-vest-dealurile-vest"
+   ],
+   "competente": [
+    "VIII-1.1",
+    "VIII-1.2",
+    "VIII-2.1",
+    "VIII-2.2",
+    "VIII-2.3",
+    "VIII-3.1",
+    "VIII-3.2",
+    "VIII-3.3",
+    "VIII-3.4",
+    "VIII-4.1",
+    "VIII-4.2",
+    "VIII-4.4"
+   ],
+   "ore": 2,
+   "evaluare": [
+    "T2",
+    "EO",
+    "AE/IE"
+   ],
+   "tipEveniment": [
+    "nivel"
+   ]
+  },
+  {
+   "clasa": 8,
+   "saptamana": 10,
+   "interval": 2,
+   "unitate": "Relieful României",
+   "continuturi": [
+    "Câmpia Română"
+   ],
+   "niveluri": [
+    "VIII-S10-campia-romana"
+   ],
+   "competente": [
+    "VIII-1.1",
+    "VIII-1.2",
+    "VIII-2.1",
+    "VIII-2.2",
+    "VIII-2.3",
+    "VIII-3.1",
+    "VIII-3.2",
+    "VIII-3.3",
+    "VIII-3.4",
+    "VIII-4.1",
+    "VIII-4.2",
+    "VIII-4.4"
+   ],
+   "ore": 2,
+   "evaluare": [
+    "T2",
+    "EO",
+    "AE/IE"
+   ],
+   "tipEveniment": [
+    "nivel"
+   ]
+  },
+  {
+   "clasa": 8,
+   "saptamana": 11,
+   "interval": 2,
+   "unitate": "Relieful României",
+   "continuturi": [
+    "Delta Dunării și platforma continentală a Mării Negre",
+    "Recapitulare și evaluare"
+   ],
+   "niveluri": [
+    "VIII-S11-delta-dunarii-platforma-continentala"
+   ],
+   "competente": [
+    "VIII-1.1",
+    "VIII-1.2",
+    "VIII-2.1",
+    "VIII-2.2",
+    "VIII-2.3",
+    "VIII-3.1",
+    "VIII-3.2",
+    "VIII-3.3",
+    "VIII-3.4",
+    "VIII-4.1",
+    "VIII-4.2",
+    "VIII-4.4"
+   ],
+   "ore": 2,
+   "evaluare": [
+    "T2",
+    "EO",
+    "AE/IE"
+   ],
+   "tipEveniment": [
+    "boss"
+   ],
+   "test": "T2"
+  },
+  {
+   "clasa": 8,
+   "saptamana": 12,
+   "interval": 2,
+   "unitate": "Relieful României",
+   "continuturi": [
+    "Aplicații practice/studii de caz: Interpretarea unor profile geografice, Relieful orizontului local/localității/județului natal, Identificarea unor fenomene și procese de risc din orizontul local, Cutremurele în România, Rolul reliefului în amenajarea teritoriului"
+   ],
+   "niveluri": [
+    "VIII-S12-aplicatii-practice-studii-caz"
+   ],
+   "competente": [
+    "VIII-4.1",
+    "VIII-4.2",
+    "VIII-4.4"
+   ],
+   "ore": 2,
+   "evaluare": [
+    "PP"
+   ],
+   "tipEveniment": [
+    "expeditie"
+   ]
+  },
+  {
+   "clasa": 8,
+   "saptamana": 13,
+   "interval": 2,
+   "unitate": "Clima, apele, vegetația, fauna și solurile",
+   "continuturi": [
+    "Clima - Factorii genetici",
+    "Elementele climatice"
+   ],
+   "niveluri": [
+    "VIII-S13-clima-factorii-genetici",
+    "VIII-S13-elementele-climatice"
+   ],
+   "competente": [
+    "VIII-1.1",
+    "VIII-1.2",
+    "VIII-2.1",
+    "VIII-2.2",
+    "VIII-2.3",
+    "VIII-3.1",
+    "VIII-3.2",
+    "VIII-3.3",
+    "VIII-3.4"
+   ],
+   "ore": 2,
+   "evaluare": [
+    "EO"
+   ],
+   "tipEveniment": [
+    "nivel"
+   ]
+  },
+  {
+   "clasa": 8,
+   "saptamana": 14,
+   "interval": 2,
+   "unitate": null,
+   "continuturi": [],
+   "niveluri": [],
+   "competente": [],
+   "ore": 0,
+   "evaluare": [],
+   "tipEveniment": [
+    "eveniment"
+   ],
+   "eveniment": "scoala-altfel"
+  },
+  {
+   "clasa": 8,
+   "saptamana": 15,
+   "interval": 2,
+   "unitate": null,
+   "continuturi": [],
+   "niveluri": [],
+   "competente": [],
+   "ore": 0,
+   "evaluare": [],
+   "tipEveniment": [
+    "eveniment"
+   ],
+   "eveniment": "scoala-altfel"
+  },
+  {
+   "clasa": 8,
+   "saptamana": 16,
+   "interval": 3,
+   "unitate": "Clima, apele, vegetația, fauna și solurile",
+   "continuturi": [
+    "Particularitățile climatice regionale (etaje și influențe climatice)",
+    "Apele - Dunărea"
+   ],
+   "niveluri": [
+    "VIII-S16-particularitatile-climatice-regionale-etaje",
+    "VIII-S16-apele-dunarea"
+   ],
+   "competente": [
+    "VIII-1.1",
+    "VIII-1.2",
+    "VIII-2.1",
+    "VIII-2.2",
+    "VIII-2.3",
+    "VIII-3.1",
+    "VIII-3.2",
+    "VIII-3.3",
+    "VIII-3.4",
+    "VIII-4.1",
+    "VIII-4.2",
+    "VIII-4.4"
+   ],
+   "ore": 2,
+   "evaluare": [
+    "T3",
+    "EO",
+    "C"
+   ],
+   "tipEveniment": [
+    "nivel"
+   ]
+  },
+  {
+   "clasa": 8,
+   "saptamana": 17,
+   "interval": 3,
+   "unitate": "Clima, apele, vegetația, fauna și solurile",
+   "continuturi": [
+    "Râurile interioare"
+   ],
+   "niveluri": [
+    "VIII-S17-raurile-interioare"
+   ],
+   "competente": [
+    "VIII-1.1",
+    "VIII-1.2",
+    "VIII-2.1",
+    "VIII-2.2",
+    "VIII-2.3",
+    "VIII-3.1",
+    "VIII-3.2",
+    "VIII-3.3",
+    "VIII-3.4",
+    "VIII-4.1",
+    "VIII-4.2",
+    "VIII-4.4"
+   ],
+   "ore": 2,
+   "evaluare": [
+    "T3",
+    "EO",
+    "C"
+   ],
+   "tipEveniment": [
+    "nivel"
+   ]
+  },
+  {
+   "clasa": 8,
+   "saptamana": 18,
+   "interval": 3,
+   "unitate": "Clima, apele, vegetația, fauna și solurile",
+   "continuturi": [
+    "Lacurile și apele subterane"
+   ],
+   "niveluri": [
+    "VIII-S18-lacurile-apele-subterane"
+   ],
+   "competente": [
+    "VIII-1.1",
+    "VIII-1.2",
+    "VIII-2.1",
+    "VIII-2.2",
+    "VIII-2.3",
+    "VIII-3.1",
+    "VIII-3.2",
+    "VIII-3.3",
+    "VIII-3.4",
+    "VIII-4.1",
+    "VIII-4.2",
+    "VIII-4.4"
+   ],
+   "ore": 2,
+   "evaluare": [
+    "T3",
+    "EO",
+    "C"
+   ],
+   "tipEveniment": [
+    "nivel"
+   ]
+  },
+  {
+   "clasa": 8,
+   "saptamana": 19,
+   "interval": 3,
+   "unitate": "Clima, apele, vegetația, fauna și solurile",
+   "continuturi": [
+    "Marea Neagră",
+    "Recapitulare și evaluare"
+   ],
+   "niveluri": [
+    "VIII-S19-marea-neagra"
+   ],
+   "competente": [
+    "VIII-1.1",
+    "VIII-1.2",
+    "VIII-2.1",
+    "VIII-2.2",
+    "VIII-2.3",
+    "VIII-3.1",
+    "VIII-3.2",
+    "VIII-3.3",
+    "VIII-3.4",
+    "VIII-4.1",
+    "VIII-4.2",
+    "VIII-4.4"
+   ],
+   "ore": 2,
+   "evaluare": [
+    "T3",
+    "EO",
+    "C"
+   ],
+   "tipEveniment": [
+    "boss"
+   ],
+   "test": "T3"
+  },
+  {
+   "clasa": 8,
+   "saptamana": 20,
+   "interval": 3,
+   "unitate": "Clima, apele, vegetația, fauna și solurile",
+   "continuturi": [
+    "Vegetația, fauna și solurile. Aplicații practice: Reguli de comportament în cazul producerii unor fenomene climatice, hidrografice, biogeografice de risc"
+   ],
+   "niveluri": [
+    "VIII-S20-vegetatia-fauna-solurile-aplicatii"
+   ],
+   "competente": [
+    "VIII-4.1",
+    "VIII-4.2",
+    "VIII-4.4"
+   ],
+   "ore": 2,
+   "evaluare": [
+    "PP"
+   ],
+   "tipEveniment": [
+    "expeditie"
+   ]
+  },
+  {
+   "clasa": 8,
+   "saptamana": 21,
+   "interval": 3,
+   "unitate": "Populația, așezările omenești și organizarea administrativ-teritorială",
+   "continuturi": [
+    "Populația – elemente și structuri demografice"
+   ],
+   "niveluri": [
+    "VIII-S21-populatia-elemente-structuri-demografice"
+   ],
+   "competente": [
+    "VIII-1.1",
+    "VIII-1.2",
+    "VIII-2.1",
+    "VIII-2.2",
+    "VIII-2.3"
+   ],
+   "ore": 2,
+   "evaluare": [
+    "EO"
+   ],
+   "tipEveniment": [
+    "nivel"
+   ]
+  },
+  {
+   "clasa": 8,
+   "saptamana": 22,
+   "interval": 3,
+   "unitate": "Populația, așezările omenești și organizarea administrativ-teritorială",
+   "continuturi": [
+    "Așezările rurale – evoluție și diferențieri teritoriale"
+   ],
+   "niveluri": [
+    "VIII-S22-asezarile-rurale-evolutie-diferentieri"
+   ],
+   "competente": [
+    "VIII-3.1",
+    "VIII-3.2",
+    "VIII-3.3",
+    "VIII-3.4"
+   ],
+   "ore": 2,
+   "evaluare": [
+    "EO"
+   ],
+   "tipEveniment": [
+    "nivel"
+   ]
+  },
+  {
+   "clasa": 8,
+   "saptamana": 23,
+   "interval": 4,
+   "unitate": "Populația, așezările omenești și organizarea administrativ-teritorială",
+   "continuturi": [
+    "Așezările urbane – evoluție și caracteristici actuale"
+   ],
+   "niveluri": [
+    "VIII-S23-asezarile-urbane-evolutie-caracteristici"
+   ],
+   "competente": [
+    "VIII-1.1",
+    "VIII-1.2",
+    "VIII-2.1",
+    "VIII-2.2",
+    "VIII-2.3",
+    "VIII-3.1",
+    "VIII-3.2",
+    "VIII-3.3",
+    "VIII-3.4",
+    "VIII-4.1",
+    "VIII-4.2",
+    "VIII-4.4"
+   ],
+   "ore": 2,
+   "evaluare": [
+    "T4",
+    "EO",
+    "AE/IE"
+   ],
+   "tipEveniment": [
+    "nivel"
+   ]
+  },
+  {
+   "clasa": 8,
+   "saptamana": 24,
+   "interval": 4,
+   "unitate": "Populația, așezările omenești și organizarea administrativ-teritorială",
+   "continuturi": [
+    "Caracterizarea geografică a orașului București"
+   ],
+   "niveluri": [
+    "VIII-S24-caracterizarea-geografica-orasului-bucuresti"
+   ],
+   "competente": [
+    "VIII-1.1",
+    "VIII-1.2",
+    "VIII-2.1",
+    "VIII-2.2",
+    "VIII-2.3",
+    "VIII-3.1",
+    "VIII-3.2",
+    "VIII-3.3",
+    "VIII-3.4",
+    "VIII-4.1",
+    "VIII-4.2",
+    "VIII-4.4"
+   ],
+   "ore": 2,
+   "evaluare": [
+    "T4",
+    "EO",
+    "AE/IE"
+   ],
+   "tipEveniment": [
+    "nivel"
+   ]
+  },
+  {
+   "clasa": 8,
+   "saptamana": 25,
+   "interval": 4,
+   "unitate": "Populația, așezările omenești și organizarea administrativ-teritorială",
+   "continuturi": [
+    "Organizarea administrativ – teritorială"
+   ],
+   "niveluri": [
+    "VIII-S25-organizarea-administrativ-teritoriala"
+   ],
+   "competente": [
+    "VIII-1.1",
+    "VIII-1.2",
+    "VIII-2.1",
+    "VIII-2.2",
+    "VIII-2.3",
+    "VIII-3.1",
+    "VIII-3.2",
+    "VIII-3.3",
+    "VIII-3.4",
+    "VIII-4.1",
+    "VIII-4.2",
+    "VIII-4.4"
+   ],
+   "ore": 2,
+   "evaluare": [
+    "T4",
+    "EO",
+    "AE/IE"
+   ],
+   "tipEveniment": [
+    "nivel"
+   ]
+  },
+  {
+   "clasa": 8,
+   "saptamana": 26,
+   "interval": 4,
+   "unitate": "Populația, așezările omenești și organizarea administrativ-teritorială",
+   "continuturi": [
+    "Recapitulare și evaluare"
+   ],
+   "niveluri": [],
+   "competente": [
+    "VIII-1.1",
+    "VIII-1.2",
+    "VIII-2.1",
+    "VIII-2.2",
+    "VIII-2.3",
+    "VIII-3.1",
+    "VIII-3.2",
+    "VIII-3.3",
+    "VIII-3.4",
+    "VIII-4.1",
+    "VIII-4.2",
+    "VIII-4.4"
+   ],
+   "ore": 2,
+   "evaluare": [
+    "T4",
+    "EO",
+    "AE/IE"
+   ],
+   "tipEveniment": [
+    "boss"
+   ],
+   "test": "T4"
+  },
+  {
+   "clasa": 8,
+   "saptamana": 27,
+   "interval": 4,
+   "unitate": "Populația, așezările omenești și organizarea administrativ-teritorială",
+   "continuturi": [
+    "Aplicații practice/studii de caz: Interpretarea unor grafice și reprezentări cartografice privind populația României, Caracterizarea unor orașe mari (la alegere)"
+   ],
+   "niveluri": [
+    "VIII-S27-aplicatii-practice-studii-caz"
+   ],
+   "competente": [
+    "VIII-4.1",
+    "VIII-4.2"
+   ],
+   "ore": 2,
+   "evaluare": [
+    "PP"
+   ],
+   "tipEveniment": [
+    "expeditie"
+   ]
+  },
+  {
+   "clasa": 8,
+   "saptamana": 28,
+   "interval": 4,
+   "unitate": "Activitățile economice",
+   "continuturi": [
+    "Agricultura - Fondul funciar agricol – potențial și valorificare",
+    "Regiunile agricole – elemente specifice",
+    "Valorificarea produselor agricole – tradiție și modernitate"
+   ],
+   "niveluri": [
+    "VIII-S28-agricultura-fondul-funciar-agricol",
+    "VIII-S28-regiunile-agricole-elemente-specifice",
+    "VIII-S28-valorificarea-produselor-agricole-traditie"
+   ],
+   "competente": [
+    "VIII-1.1",
+    "VIII-1.2",
+    "VIII-2.1",
+    "VIII-2.2",
+    "VIII-2.3",
+    "VIII-3.1",
+    "VIII-3.3",
+    "VIII-4.1"
+   ],
+   "ore": 2,
+   "evaluare": [
+    "EO"
+   ],
+   "tipEveniment": [
+    "nivel"
+   ]
+  },
+  {
+   "clasa": 8,
+   "saptamana": 29,
+   "interval": 4,
+   "unitate": null,
+   "continuturi": [],
+   "niveluri": [],
+   "competente": [],
+   "ore": 0,
+   "evaluare": [],
+   "tipEveniment": [
+    "eveniment"
+   ],
+   "eveniment": "saptamana-verde"
+  },
+  {
+   "clasa": 8,
+   "saptamana": 30,
+   "interval": 5,
+   "unitate": "Activitățile economice",
+   "continuturi": [
+    "Resursele naturale și industria",
+    "Industria energetică și a energiei electrice",
+    "Industria construcțiilor de mașini"
+   ],
+   "niveluri": [
+    "VIII-S30-resursele-naturale-industria",
+    "VIII-S30-industria-energetica-energiei-electrice",
+    "VIII-S30-industria-constructiilor-masini"
+   ],
+   "competente": [
+    "VIII-1.1",
+    "VIII-1.2",
+    "VIII-2.1",
+    "VIII-2.2",
+    "VIII-2.3",
+    "VIII-3.1",
+    "VIII-3.3",
+    "VIII-4.1"
+   ],
+   "ore": 2,
+   "evaluare": [
+    "EO"
+   ],
+   "tipEveniment": [
+    "nivel"
+   ]
+  },
+  {
+   "clasa": 8,
+   "saptamana": 31,
+   "interval": 5,
+   "unitate": "Activitățile economice",
+   "continuturi": [
+    "Serviciile - Căile de comunicație și transporturile",
+    "Comerțul"
+   ],
+   "niveluri": [
+    "VIII-S31-serviciile-caile-comunicatie-transporturile",
+    "VIII-S31-comertul"
+   ],
+   "competente": [
+    "VIII-1.1",
+    "VIII-1.2",
+    "VIII-2.1",
+    "VIII-2.2",
+    "VIII-2.3",
+    "VIII-3.1",
+    "VIII-3.3",
+    "VIII-4.1"
+   ],
+   "ore": 2,
+   "evaluare": [
+    "T5",
+    "AE/IE"
+   ],
+   "tipEveniment": [
+    "nivel"
+   ]
+  },
+  {
+   "clasa": 8,
+   "saptamana": 32,
+   "interval": 5,
+   "unitate": "Activitățile economice",
+   "continuturi": [
+    "Turismul – potențial și valorificare economică",
+    "Recapitulare și evaluare"
+   ],
+   "niveluri": [
+    "VIII-S32-turismul-potential-valorificare-economica"
+   ],
+   "competente": [
+    "VIII-1.1",
+    "VIII-1.2",
+    "VIII-2.1",
+    "VIII-2.2",
+    "VIII-2.3",
+    "VIII-3.1",
+    "VIII-3.3",
+    "VIII-4.1"
+   ],
+   "ore": 2,
+   "evaluare": [
+    "T5",
+    "AE/IE"
+   ],
+   "tipEveniment": [
+    "boss"
+   ],
+   "test": "T5"
+  },
+  {
+   "clasa": 8,
+   "saptamana": 33,
+   "interval": 5,
+   "unitate": "Activitățile economice",
+   "continuturi": [
+    "Aplicații practice/studii de caz: Activități economice în localitatea/județul natal, Valorificarea resurselor alternative de energie, Potențialul turistic al județului, Rolul căilor de comunicație în dezvoltarea economică"
+   ],
+   "niveluri": [
+    "VIII-S33-aplicatii-practice-studii-caz"
+   ],
+   "competente": [
+    "VIII-4.1"
+   ],
+   "ore": 2,
+   "evaluare": [
+    "PP"
+   ],
+   "tipEveniment": [
+    "expeditie"
+   ]
+  },
+  {
+   "clasa": 8,
+   "saptamana": 34,
+   "interval": 5,
+   "unitate": "Regiuni geografice și dezvoltarea regională",
+   "continuturi": [
+    "Diferențieri regionale",
+    "Regiunile geografice pe baze naturale",
+    "Aplicații practice/studii de caz: Caracterizarea geografică a unei regiuni (la alegere)"
+   ],
+   "niveluri": [
+    "VIII-S34-diferentieri-regionale",
+    "VIII-S34-regiunile-geografice-baze-naturale",
+    "VIII-S34-aplicatii-practice-studii-caz"
+   ],
+   "competente": [
+    "VIII-1.1",
+    "VIII-1.2",
+    "VIII-2.1",
+    "VIII-2.2",
+    "VIII-2.3",
+    "VIII-3.1",
+    "VIII-3.2",
+    "VIII-4.1",
+    "VIII-4.2",
+    "VIII-4.3",
+    "VIII-4.4"
+   ],
+   "ore": 2,
+   "evaluare": [
+    "PP",
+    "EO"
+   ],
+   "tipEveniment": [
+    "expeditie"
+   ]
+  },
+  {
+   "clasa": 8,
+   "saptamana": 35,
+   "interval": 5,
+   "unitate": "Caracteristici ale mediului înconjurător. România în Europa și în lume",
+   "continuturi": [
+    "Calitatea mediului înconjurător în România. Evoluții recente",
+    "Resurse, populație și elemente ale dezvoltării sustenabile",
+    "Valorile naturale și culturale ale României",
+    "România ca membru ONU, NATO și UE",
+    "Recapitulare finală. Sinteză. Evaluare"
+   ],
+   "niveluri": [
+    "VIII-S35-calitatea-mediului-inconjurator-romania",
+    "VIII-S35-resurse-populatie-elemente-dezvoltarii",
+    "VIII-S35-valorile-naturale-culturale-romaniei",
+    "VIII-S35-romania-ca-membru-onu"
+   ],
+   "competente": [
+    "VIII-1.1",
+    "VIII-2.2",
+    "VIII-3.1",
+    "VIII-3.2",
+    "VIII-3.3",
+    "VIII-3.4",
+    "VIII-4.1",
+    "VIII-4.2",
+    "VIII-4.3"
+   ],
+   "ore": 2,
+   "evaluare": [
+    "Tf",
+    "PS"
+   ],
+   "tipEveniment": [
+    "mare-expeditie"
+   ],
+   "test": "Tf"
+  }
+ ],
+ "niveluri": [
+  {
+   "id": "V-S02-universul-sistemul-solar-aspecte",
+   "clasa": 5,
+   "saptamana": 2,
+   "unitate": "Terra – o planetă a Universului",
+   "titlu": "Universul și Sistemul Solar – aspecte generale",
+   "tip": "nivel",
+   "competente": [
+    "V-1.1",
+    "V-1.2",
+    "V-2.1",
+    "V-2.3",
+    "V-3.1",
+    "V-3.2",
+    "V-3.3",
+    "V-4.1",
+    "V-4.2",
+    "V-4.3"
+   ]
+  },
+  {
+   "id": "V-S03-terra-planeta-sistemului-solar",
+   "clasa": 5,
+   "saptamana": 3,
+   "unitate": "Terra – o planetă a Universului",
+   "titlu": "Terra - o planetă a Sistemului Solar (formă și dimensiuni)",
+   "tip": "nivel",
+   "competente": [
+    "V-1.1",
+    "V-1.2",
+    "V-2.1",
+    "V-2.3",
+    "V-3.1",
+    "V-3.2",
+    "V-3.3",
+    "V-4.1",
+    "V-4.2",
+    "V-4.3"
+   ]
+  },
+  {
+   "id": "V-S04-aplicatie-practica-calatorie-virtuala",
+   "clasa": 5,
+   "saptamana": 4,
+   "unitate": "Terra – o planetă a Universului",
+   "titlu": "Aplicație practică: Călătorie virtuală în Univers",
+   "tip": "expeditie",
+   "competente": [
+    "V-4.1",
+    "V-4.2",
+    "V-4.3"
+   ]
+  },
+  {
+   "id": "V-S05-globul-geografic-harta-coordonate",
+   "clasa": 5,
+   "saptamana": 5,
+   "unitate": "Terra – o planetă în mișcare",
+   "titlu": "Globul geografic și harta. Coordonate geografice",
+   "tip": "nivel",
+   "competente": [
+    "V-1.1",
+    "V-1.2",
+    "V-2.1",
+    "V-2.2",
+    "V-2.3",
+    "V-3.1",
+    "V-3.2",
+    "V-4.1",
+    "V-4.2",
+    "V-4.3"
+   ]
+  },
+  {
+   "id": "V-S06-miscarile-pamantului-consecintele",
+   "clasa": 5,
+   "saptamana": 6,
+   "unitate": "Terra – o planetă în mișcare",
+   "titlu": "Mișcările Pământului și consecințele lor",
+   "tip": "nivel",
+   "competente": [
+    "V-1.1",
+    "V-1.2",
+    "V-2.1",
+    "V-2.2",
+    "V-2.3",
+    "V-3.1",
+    "V-3.2",
+    "V-4.1",
+    "V-4.2",
+    "V-4.3"
+   ]
+  },
+  {
+   "id": "V-S08-orientarea-spatiul-terestru-elemente",
+   "clasa": 5,
+   "saptamana": 8,
+   "unitate": "Terra – o planetă în mișcare",
+   "titlu": "Orientarea în spațiul terestru (elemente naturale și instrumente clasice și moderne)",
+   "tip": "nivel",
+   "competente": [
+    "V-1.1",
+    "V-1.2",
+    "V-2.1",
+    "V-2.2",
+    "V-2.3",
+    "V-3.1",
+    "V-3.2",
+    "V-4.1",
+    "V-4.2",
+    "V-4.3"
+   ]
+  },
+  {
+   "id": "V-S09-aplicatii-practice-masurarea-timpului",
+   "clasa": 5,
+   "saptamana": 9,
+   "unitate": "Terra – o planetă în mișcare",
+   "titlu": "Aplicații practice: Măsurarea timpului (zi, săptămână, lună, anotimp, an, calendar), Orizontul local – orientare, măsurare și reprezentare, Construirea unor forme simple de reprezentare grafică și cartografică",
+   "tip": "expeditie",
+   "competente": [
+    "V-4.1",
+    "V-4.2",
+    "V-4.3"
+   ]
+  },
+  {
+   "id": "V-S10-caracteristici-generale-importanta",
+   "clasa": 5,
+   "saptamana": 10,
+   "unitate": "Terra – o planetă în transformare Geosferele Terrei Litosfera",
+   "titlu": "Caracteristici generale și importanță",
+   "tip": "nivel",
+   "competente": [
+    "V-1.1",
+    "V-1.2",
+    "V-2.1",
+    "V-2.2",
+    "V-2.3",
+    "V-3.1",
+    "V-3.2",
+    "V-3.3",
+    "V-4.1",
+    "V-4.3"
+   ]
+  },
+  {
+   "id": "V-S11-structura-interna-terrei",
+   "clasa": 5,
+   "saptamana": 11,
+   "unitate": "Terra – o planetă în transformare Geosferele Terrei Litosfera",
+   "titlu": "Structura internă a Terrei",
+   "tip": "nivel",
+   "competente": [
+    "V-1.1",
+    "V-1.2",
+    "V-2.1",
+    "V-2.2",
+    "V-2.3",
+    "V-3.1",
+    "V-3.2",
+    "V-3.3",
+    "V-4.1",
+    "V-4.3"
+   ]
+  },
+  {
+   "id": "V-S12-relieful-continente-bazine-oceanice",
+   "clasa": 5,
+   "saptamana": 12,
+   "unitate": "Terra – o planetă în transformare Geosferele Terrei Litosfera",
+   "titlu": "Relieful: continente și bazine oceanice; forme majore de relief",
+   "tip": "nivel",
+   "competente": [
+    "V-1.1",
+    "V-1.2",
+    "V-2.1",
+    "V-2.2",
+    "V-2.3",
+    "V-3.1",
+    "V-3.2",
+    "V-3.3",
+    "V-4.1",
+    "V-4.3"
+   ]
+  },
+  {
+   "id": "V-S13-vulcanii-cutremurele",
+   "clasa": 5,
+   "saptamana": 13,
+   "unitate": "Terra – o planetă în transformare Geosferele Terrei Litosfera",
+   "titlu": "Vulcanii și cutremurele",
+   "tip": "nivel",
+   "competente": [
+    "V-1.1",
+    "V-1.2",
+    "V-2.1",
+    "V-2.2",
+    "V-2.3",
+    "V-3.1",
+    "V-3.2",
+    "V-3.3",
+    "V-4.1",
+    "V-4.3"
+   ]
+  },
+  {
+   "id": "V-S16-aplicatii-practice-relieful-orizontului",
+   "clasa": 5,
+   "saptamana": 16,
+   "unitate": "Litosfera",
+   "titlu": "Aplicații practice: Relieful orizontului local, Reguli de comportare și măsuri de protecție în cazul producerii de fenomene și procese în orizontul local (prăbușiri, alunecări de teren, cutremure etc.)",
+   "tip": "expeditie",
+   "competente": [
+    "V-4.1",
+    "V-4.3"
+   ]
+  },
+  {
+   "id": "V-S17-caracteristici-generale-importanta",
+   "clasa": 5,
+   "saptamana": 17,
+   "unitate": "Atmosfera",
+   "titlu": "Caracteristici generale și importanță",
+   "tip": "nivel",
+   "competente": [
+    "V-1.1",
+    "V-1.2",
+    "V-2.1",
+    "V-2.2",
+    "V-2.3",
+    "V-3.1",
+    "V-3.2",
+    "V-3.3",
+    "V-4.1",
+    "V-4.2",
+    "V-4.3"
+   ]
+  },
+  {
+   "id": "V-S18-elemente-fenomene-meteorologice",
+   "clasa": 5,
+   "saptamana": 18,
+   "unitate": "Atmosfera",
+   "titlu": "Elemente și fenomene meteorologice",
+   "tip": "nivel",
+   "competente": [
+    "V-1.1",
+    "V-1.2",
+    "V-2.1",
+    "V-2.2",
+    "V-2.3",
+    "V-3.1",
+    "V-3.2",
+    "V-3.3",
+    "V-4.1",
+    "V-4.2",
+    "V-4.3"
+   ]
+  },
+  {
+   "id": "V-S19-vremea-clima",
+   "clasa": 5,
+   "saptamana": 19,
+   "unitate": "Atmosfera",
+   "titlu": "Vremea și clima",
+   "tip": "nivel",
+   "competente": [
+    "V-1.1",
+    "V-1.2",
+    "V-2.1",
+    "V-2.2",
+    "V-2.3",
+    "V-3.1",
+    "V-3.2",
+    "V-3.3",
+    "V-4.1",
+    "V-4.2",
+    "V-4.3"
+   ]
+  },
+  {
+   "id": "V-S20-zonele-climatice-terrei-influenta",
+   "clasa": 5,
+   "saptamana": 20,
+   "unitate": "Atmosfera",
+   "titlu": "Zonele climatice ale Terrei. Influența climei asupra geosferelor",
+   "tip": "nivel",
+   "competente": [
+    "V-1.1",
+    "V-1.2",
+    "V-2.1",
+    "V-2.2",
+    "V-2.3",
+    "V-3.1",
+    "V-3.2",
+    "V-3.3",
+    "V-4.1",
+    "V-4.2",
+    "V-4.3"
+   ]
+  },
+  {
+   "id": "V-S22-aplicatii-practice-clima-vremea",
+   "clasa": 5,
+   "saptamana": 22,
+   "unitate": "Atmosfera",
+   "titlu": "Aplicații practice: Clima, vremea și activitatea umană în orizontul local, Modalități de avertizare, reguli de comportare și măsuri de protecție în cazul producerii de fenomene extreme în orizontul local (grindină, polei, furtuni, secetă, caniculă, viscol, tornade etc.)",
+   "tip": "expeditie",
+   "competente": [
+    "V-4.1",
+    "V-4.2",
+    "V-4.3"
+   ]
+  },
+  {
+   "id": "V-S23-caracteristici-generale-importanta",
+   "clasa": 5,
+   "saptamana": 23,
+   "unitate": "Hidrosfera",
+   "titlu": "Caracteristici generale și importanță",
+   "tip": "nivel",
+   "competente": [
+    "V-1.1",
+    "V-1.2",
+    "V-2.1",
+    "V-2.2",
+    "V-2.3",
+    "V-3.1",
+    "V-3.2",
+    "V-3.3",
+    "V-4.1",
+    "V-4.3"
+   ]
+  },
+  {
+   "id": "V-S24-oceanul-planetar-componente-localizare",
+   "clasa": 5,
+   "saptamana": 24,
+   "unitate": "Hidrosfera",
+   "titlu": "Oceanul Planetar – componente și localizare. Dinamica apelor oceanice",
+   "tip": "nivel",
+   "competente": [
+    "V-1.1",
+    "V-1.2",
+    "V-2.1",
+    "V-2.2",
+    "V-2.3",
+    "V-3.1",
+    "V-3.2",
+    "V-3.3",
+    "V-4.1",
+    "V-4.3"
+   ]
+  },
+  {
+   "id": "V-S25-apele-continentale",
+   "clasa": 5,
+   "saptamana": 25,
+   "unitate": "Hidrosfera",
+   "titlu": "Apele continentale",
+   "tip": "nivel",
+   "competente": [
+    "V-1.1",
+    "V-1.2",
+    "V-2.1",
+    "V-2.2",
+    "V-2.3",
+    "V-3.1",
+    "V-3.2",
+    "V-3.3",
+    "V-4.1",
+    "V-4.3"
+   ]
+  },
+  {
+   "id": "V-S26-ghetarii",
+   "clasa": 5,
+   "saptamana": 26,
+   "unitate": "Hidrosfera",
+   "titlu": "Ghețarii",
+   "tip": "nivel",
+   "competente": [
+    "V-1.1",
+    "V-1.2",
+    "V-2.1",
+    "V-2.2",
+    "V-2.3",
+    "V-3.1",
+    "V-3.2",
+    "V-3.3",
+    "V-4.1",
+    "V-4.3"
+   ]
+  },
+  {
+   "id": "V-S27-aplicatii-practice-apele-din",
+   "clasa": 5,
+   "saptamana": 27,
+   "unitate": "Hidrosfera",
+   "titlu": "Aplicații practice: Apele din orizontul local, Resurse de apă potabilă, Măsuri de protecție a apelor, Modalități de avertizare, reguli de comportare și măsuri de protecție în cazul producerii de fenomene extreme în orizontul local (viitură/revărsare/inundație, pod de gheață etc.)",
+   "tip": "expeditie",
+   "competente": [
+    "V-4.1",
+    "V-4.3"
+   ]
+  },
+  {
+   "id": "V-S28-biosfera-caracteristici-generale-importanta",
+   "clasa": 5,
+   "saptamana": 28,
+   "unitate": "Biosfera și solurile",
+   "titlu": "Biosfera - Caracteristici generale și importanță",
+   "tip": "nivel",
+   "competente": [
+    "V-1.1",
+    "V-1.2",
+    "V-2.1",
+    "V-2.3",
+    "V-3.1",
+    "V-3.2",
+    "V-3.3"
+   ]
+  },
+  {
+   "id": "V-S28-plantele-animalele-repartitia-geografica",
+   "clasa": 5,
+   "saptamana": 28,
+   "unitate": "Biosfera și solurile",
+   "titlu": "Plantele și animalele – repartiția lor geografică. Caracteristici generale și importanță",
+   "tip": "nivel",
+   "competente": [
+    "V-1.1",
+    "V-1.2",
+    "V-2.1",
+    "V-2.3",
+    "V-3.1",
+    "V-3.2",
+    "V-3.3"
+   ]
+  },
+  {
+   "id": "V-S28-solul-resursa-vietii",
+   "clasa": 5,
+   "saptamana": 28,
+   "unitate": "Biosfera și solurile",
+   "titlu": "Solul - resursă a vieții",
+   "tip": "nivel",
+   "competente": [
+    "V-1.1",
+    "V-1.2",
+    "V-2.1",
+    "V-2.3",
+    "V-3.1",
+    "V-3.2",
+    "V-3.3"
+   ]
+  },
+  {
+   "id": "V-S30-aplicatie-practica-protectia-plantelor",
+   "clasa": 5,
+   "saptamana": 30,
+   "unitate": "Biosfera și solurile",
+   "titlu": "Aplicație practică: Protecția plantelor, a animalelor și conservarea solului",
+   "tip": "expeditie",
+   "competente": [
+    "V-4.1",
+    "V-4.3"
+   ]
+  },
+  {
+   "id": "V-S31-diversitatea-peisajelor-terestre-naturale",
+   "clasa": 5,
+   "saptamana": 31,
+   "unitate": "Zonele naturale ale Terrei",
+   "titlu": "Diversitatea peisajelor terestre naturale",
+   "tip": "nivel",
+   "competente": [
+    "V-1.2",
+    "V-2.2",
+    "V-3.3",
+    "V-4.2",
+    "V-4.3"
+   ]
+  },
+  {
+   "id": "VI-S02-repere-cunoasterii-terrei-marile",
+   "clasa": 6,
+   "saptamana": 2,
+   "unitate": "Cunoașterea lumii în care trăim",
+   "titlu": "Repere ale cunoașterii Terrei – de la marile descoperiri geografice la explorarea modernă",
+   "tip": "nivel",
+   "competente": [
+    "VI-1.1",
+    "VI-2.1",
+    "VI-2.2",
+    "VI-2.3",
+    "VI-3.1",
+    "VI-3.2",
+    "VI-3.3",
+    "VI-4.1",
+    "VI-4.2",
+    "VI-4.3"
+   ]
+  },
+  {
+   "id": "VI-S03-continente-tari-reprezentari-cartografice",
+   "clasa": 6,
+   "saptamana": 3,
+   "unitate": "Cunoașterea lumii în care trăim",
+   "titlu": "Continente și țări – reprezentări cartografice. Harta politică a lumii",
+   "tip": "nivel",
+   "competente": [
+    "VI-1.1",
+    "VI-2.1",
+    "VI-2.2",
+    "VI-2.3",
+    "VI-3.1",
+    "VI-3.2",
+    "VI-3.3",
+    "VI-4.1",
+    "VI-4.2",
+    "VI-4.3"
+   ]
+  },
+  {
+   "id": "VI-S05-aplicatii-practice-exercitii-apreciere",
+   "clasa": 6,
+   "saptamana": 5,
+   "unitate": "Cunoașterea lumii în care trăim",
+   "titlu": "Aplicații practice: Exerciții de apreciere a distanțelor și suprafețelor pe suporturi cartografice clasice și/sau digitale",
+   "tip": "expeditie",
+   "competente": [
+    "VI-4.1",
+    "VI-4.2",
+    "VI-4.3"
+   ]
+  },
+  {
+   "id": "VI-S06-populatia-terrei-evolutia-numerica",
+   "clasa": 6,
+   "saptamana": 6,
+   "unitate": "Antroposfera - omul și activitățile umane",
+   "titlu": "Populația Terrei: evoluția numerică, răspândirea geografică, diversitatea umană, mobilitatea teritorială",
+   "tip": "nivel",
+   "competente": [
+    "VI-1.1",
+    "VI-1.2",
+    "VI-2.1",
+    "VI-2.2",
+    "VI-2.3",
+    "VI-3.1",
+    "VI-3.2",
+    "VI-3.3",
+    "VI-3.4",
+    "VI-4.1",
+    "VI-4.2",
+    "VI-4.3"
+   ]
+  },
+  {
+   "id": "VI-S07-asezarile-omenesti-forme-locuire",
+   "clasa": 6,
+   "saptamana": 7,
+   "unitate": "Antroposfera - omul și activitățile umane",
+   "titlu": "Așezările omenești – forme de locuire și diferențieri teritoriale",
+   "tip": "nivel",
+   "competente": [
+    "VI-1.1",
+    "VI-1.2",
+    "VI-2.1",
+    "VI-2.2",
+    "VI-2.3",
+    "VI-3.1",
+    "VI-3.2",
+    "VI-3.3",
+    "VI-3.4",
+    "VI-4.1",
+    "VI-4.2",
+    "VI-4.3"
+   ]
+  },
+  {
+   "id": "VI-S08-resursele-naturale-valorificarea-acestora",
+   "clasa": 6,
+   "saptamana": 8,
+   "unitate": "Antroposfera - omul și activitățile umane",
+   "titlu": "Resursele naturale și valorificarea acestora",
+   "tip": "nivel",
+   "competente": [
+    "VI-1.1",
+    "VI-1.2",
+    "VI-2.1",
+    "VI-2.2",
+    "VI-2.3",
+    "VI-3.1",
+    "VI-3.2",
+    "VI-3.3",
+    "VI-3.4",
+    "VI-4.1",
+    "VI-4.2",
+    "VI-4.3"
+   ]
+  },
+  {
+   "id": "VI-S09-domeniile-activitatilor-economice-terra",
+   "clasa": 6,
+   "saptamana": 9,
+   "unitate": "Antroposfera - omul și activitățile umane",
+   "titlu": "Domeniile activităților economice pe Terra: agricultura, industria, serviciile (caracteristici generale)",
+   "tip": "nivel",
+   "competente": [
+    "VI-1.1",
+    "VI-1.2",
+    "VI-2.1",
+    "VI-2.2",
+    "VI-2.3",
+    "VI-3.1",
+    "VI-3.2",
+    "VI-3.3",
+    "VI-3.4",
+    "VI-4.1",
+    "VI-4.2",
+    "VI-4.3"
+   ]
+  },
+  {
+   "id": "VI-S10-efectele-activitatilor-umane-asupra",
+   "clasa": 6,
+   "saptamana": 10,
+   "unitate": "Antroposfera - omul și activitățile umane",
+   "titlu": "Efectele activităților umane asupra mediului și calitatea vieții",
+   "tip": "nivel",
+   "competente": [
+    "VI-1.1",
+    "VI-1.2",
+    "VI-2.1",
+    "VI-2.2",
+    "VI-2.3",
+    "VI-3.1",
+    "VI-3.2",
+    "VI-3.3",
+    "VI-3.4",
+    "VI-4.1",
+    "VI-4.2",
+    "VI-4.3"
+   ]
+  },
+  {
+   "id": "VI-S12-aplicatii-practice-analiza-interpretarea",
+   "clasa": 6,
+   "saptamana": 12,
+   "unitate": "Antroposfera - omul și activitățile umane",
+   "titlu": "Aplicații practice: Analiza și interpretarea caracteristicilor demografice și de locuire din orizontul local și apropiat, Provocări locale în context mondial, Trasee turistice aplicate pe domenii de interes, Regiuni turistice",
+   "tip": "expeditie",
+   "competente": [
+    "VI-4.1",
+    "VI-4.2"
+   ]
+  },
+  {
+   "id": "VI-S13-mediul-natural-ca-suport",
+   "clasa": 6,
+   "saptamana": 13,
+   "unitate": "Europa - identitate geografică",
+   "titlu": "Mediul natural ca suport al locuirii umane",
+   "tip": "nivel",
+   "competente": [
+    "VI-1.1",
+    "VI-1.2"
+   ]
+  },
+  {
+   "id": "VI-S16-pozitia-geografica-tarmurile-golfuri",
+   "clasa": 6,
+   "saptamana": 16,
+   "unitate": "Europa - identitate geografică",
+   "titlu": "Poziția geografică. Țărmurile: golfuri, insule, peninsule și strâmtori",
+   "tip": "nivel",
+   "competente": [
+    "VI-2.1",
+    "VI-2.2",
+    "VI-2.3",
+    "VI-3.1",
+    "VI-3.2",
+    "VI-3.3",
+    "VI-3.4",
+    "VI-4.1",
+    "VI-4.2",
+    "VI-4.3"
+   ]
+  },
+  {
+   "id": "VI-S17-caracteristici-generale-reliefului-unitati",
+   "clasa": 6,
+   "saptamana": 17,
+   "unitate": "Europa - identitate geografică",
+   "titlu": "Caracteristici generale ale reliefului. Unități majore",
+   "tip": "nivel",
+   "competente": [
+    "VI-2.1",
+    "VI-2.2",
+    "VI-2.3",
+    "VI-3.1",
+    "VI-3.2",
+    "VI-3.3",
+    "VI-3.4",
+    "VI-4.1",
+    "VI-4.2",
+    "VI-4.3"
+   ]
+  },
+  {
+   "id": "VI-S18-hidrografia",
+   "clasa": 6,
+   "saptamana": 18,
+   "unitate": "Europa - identitate geografică",
+   "titlu": "Hidrografia",
+   "tip": "nivel",
+   "competente": [
+    "VI-2.1",
+    "VI-2.2",
+    "VI-2.3",
+    "VI-3.1",
+    "VI-3.2",
+    "VI-3.3",
+    "VI-3.4",
+    "VI-4.1",
+    "VI-4.2",
+    "VI-4.3"
+   ]
+  },
+  {
+   "id": "VI-S19-diferentieri-climatice-biogeografice",
+   "clasa": 6,
+   "saptamana": 19,
+   "unitate": "Europa - identitate geografică",
+   "titlu": "Diferențieri climatice și biogeografice",
+   "tip": "nivel",
+   "competente": [
+    "VI-2.1",
+    "VI-2.2",
+    "VI-2.3",
+    "VI-3.1",
+    "VI-3.2",
+    "VI-3.3",
+    "VI-3.4",
+    "VI-4.1",
+    "VI-4.2",
+    "VI-4.3"
+   ]
+  },
+  {
+   "id": "VI-S21-oameni-locuri-harta-politica",
+   "clasa": 6,
+   "saptamana": 21,
+   "unitate": "Europa - identitate geografică",
+   "titlu": "Oameni și locuri – Harta politică – state și regiuni",
+   "tip": "nivel",
+   "competente": [
+    "VI-1.1",
+    "VI-1.2"
+   ]
+  },
+  {
+   "id": "VI-S22-raspandirea-geografica-populatiei-elemente",
+   "clasa": 6,
+   "saptamana": 22,
+   "unitate": "Europa - identitate geografică",
+   "titlu": "Răspândirea geografică a populației. Elemente de diversitate umană (diversitate etnică, lingvistică, confesională și culturală)",
+   "tip": "nivel",
+   "competente": [
+    "VI-2.1",
+    "VI-2.2",
+    "VI-2.3"
+   ]
+  },
+  {
+   "id": "VI-S23-mari-orase-europene",
+   "clasa": 6,
+   "saptamana": 23,
+   "unitate": "Europa - identitate geografică",
+   "titlu": "Mari orașe europene",
+   "tip": "nivel",
+   "competente": [
+    "VI-3.1",
+    "VI-3.2",
+    "VI-3.3",
+    "VI-3.4",
+    "VI-4.1",
+    "VI-4.2",
+    "VI-4.3"
+   ]
+  },
+  {
+   "id": "VI-S24-economia-resursele-naturale-valorificarea",
+   "clasa": 6,
+   "saptamana": 24,
+   "unitate": "Europa - identitate geografică",
+   "titlu": "Economia – Resursele naturale și valorificarea lor",
+   "tip": "nivel",
+   "competente": [
+    "VI-3.1",
+    "VI-3.2",
+    "VI-3.3",
+    "VI-3.4",
+    "VI-4.1",
+    "VI-4.2",
+    "VI-4.3"
+   ]
+  },
+  {
+   "id": "VI-S25-activitatile-economice-agricultura-industria",
+   "clasa": 6,
+   "saptamana": 25,
+   "unitate": "Europa - identitate geografică",
+   "titlu": "Activitățile economice: agricultura, industria, serviciile",
+   "tip": "nivel",
+   "competente": [
+    "VI-3.1",
+    "VI-3.2",
+    "VI-3.3",
+    "VI-3.4",
+    "VI-4.1",
+    "VI-4.2",
+    "VI-4.3"
+   ]
+  },
+  {
+   "id": "VI-S27-aplicatii-practice-studii-caz",
+   "clasa": 6,
+   "saptamana": 27,
+   "unitate": "Europa - identitate geografică",
+   "titlu": "Aplicații practice/studii de caz: Caracterizarea unor state din regiuni diferite ale Europei",
+   "tip": "expeditie",
+   "competente": [
+    "VI-4.1",
+    "VI-4.2"
+   ]
+  },
+  {
+   "id": "VI-S28-caracterizarea-geografica-state-cel",
+   "clasa": 6,
+   "saptamana": 28,
+   "unitate": "Europa - identitate geografică",
+   "titlu": "Caracterizarea geografică a unor state (cel puțin un stat din fiecare regiune geografică)",
+   "tip": "nivel",
+   "competente": [
+    "VI-2.1",
+    "VI-2.3"
+   ]
+  },
+  {
+   "id": "VI-S30-caracterizarea-geografica-state-continuare",
+   "clasa": 6,
+   "saptamana": 30,
+   "unitate": "Europa - identitate geografică",
+   "titlu": "Caracterizarea geografică a unor state (continuare)",
+   "tip": "nivel",
+   "competente": [
+    "VI-3.2",
+    "VI-3.3",
+    "VI-3.4",
+    "VI-4.2"
+   ]
+  },
+  {
+   "id": "VI-S32-valori-culturale-umane-europene",
+   "clasa": 6,
+   "saptamana": 32,
+   "unitate": "Europa în lumea contemporană",
+   "titlu": "Valori culturale și umane europene",
+   "tip": "nivel",
+   "competente": [
+    "VI-1.2",
+    "VI-3.3",
+    "VI-3.4",
+    "VI-4.3"
+   ]
+  },
+  {
+   "id": "VI-S33-calitatea-vietii-europa",
+   "clasa": 6,
+   "saptamana": 33,
+   "unitate": "Europa în lumea contemporană",
+   "titlu": "Calitatea vieții în Europa",
+   "tip": "nivel",
+   "competente": [
+    "VI-1.2",
+    "VI-3.3",
+    "VI-3.4",
+    "VI-4.3"
+   ]
+  },
+  {
+   "id": "VII-S02-caracterizare-geografica-pozitia-geografica",
+   "clasa": 7,
+   "saptamana": 2,
+   "unitate": "Asia",
+   "titlu": "Caracterizare geografică – Poziția geografică",
+   "tip": "nivel",
+   "competente": [
+    "VII-1.1",
+    "VII-1.2",
+    "VII-2.1",
+    "VII-2.2",
+    "VII-2.3",
+    "VII-3.1",
+    "VII-3.2",
+    "VII-3.3",
+    "VII-3.4",
+    "VII-4.1",
+    "VII-4.2",
+    "VII-4.3",
+    "VII-4.4"
+   ]
+  },
+  {
+   "id": "VII-S03-relieful-caracteristici-generale-unitati",
+   "clasa": 7,
+   "saptamana": 3,
+   "unitate": "Asia",
+   "titlu": "Relieful - caracteristici generale, unități majore. Munții Himalaya",
+   "tip": "nivel",
+   "competente": [
+    "VII-1.1",
+    "VII-1.2",
+    "VII-2.1",
+    "VII-2.2",
+    "VII-2.3",
+    "VII-3.1",
+    "VII-3.2",
+    "VII-3.3",
+    "VII-3.4",
+    "VII-4.1",
+    "VII-4.2",
+    "VII-4.3",
+    "VII-4.4"
+   ]
+  },
+  {
+   "id": "VII-S04-hidrografia-caracteristici-generale-fluvii",
+   "clasa": 7,
+   "saptamana": 4,
+   "unitate": "Asia",
+   "titlu": "Hidrografia - caracteristici generale. Fluvii și lacuri",
+   "tip": "nivel",
+   "competente": [
+    "VII-1.1",
+    "VII-1.2",
+    "VII-2.1",
+    "VII-2.2",
+    "VII-2.3",
+    "VII-3.1",
+    "VII-3.2",
+    "VII-3.3",
+    "VII-3.4",
+    "VII-4.1",
+    "VII-4.2",
+    "VII-4.3",
+    "VII-4.4"
+   ]
+  },
+  {
+   "id": "VII-S05-diferentieri-climatice-musonii",
+   "clasa": 7,
+   "saptamana": 5,
+   "unitate": "Asia",
+   "titlu": "Diferențieri climatice. Musonii",
+   "tip": "nivel",
+   "competente": [
+    "VII-1.1",
+    "VII-1.2",
+    "VII-2.1",
+    "VII-2.2",
+    "VII-2.3",
+    "VII-3.1",
+    "VII-3.2",
+    "VII-3.3",
+    "VII-3.4",
+    "VII-4.1",
+    "VII-4.2",
+    "VII-4.3",
+    "VII-4.4"
+   ]
+  },
+  {
+   "id": "VII-S06-contraste-biogeografice",
+   "clasa": 7,
+   "saptamana": 6,
+   "unitate": "Asia",
+   "titlu": "Contraste biogeografice",
+   "tip": "nivel",
+   "competente": [
+    "VII-1.1",
+    "VII-1.2",
+    "VII-2.1",
+    "VII-2.2",
+    "VII-2.3",
+    "VII-3.1",
+    "VII-3.2",
+    "VII-3.3",
+    "VII-3.4",
+    "VII-4.1",
+    "VII-4.2",
+    "VII-4.3",
+    "VII-4.4"
+   ]
+  },
+  {
+   "id": "VII-S07-aplicatii-practice-studii-caz",
+   "clasa": 7,
+   "saptamana": 7,
+   "unitate": "Asia",
+   "titlu": "Aplicații practice/studii de caz: Particularități geografice ale unor state (la alegere)",
+   "tip": "expeditie",
+   "competente": [
+    "VII-4.1",
+    "VII-4.2"
+   ]
+  },
+  {
+   "id": "VII-S08-elemente-diversitate-umana-diversitate",
+   "clasa": 7,
+   "saptamana": 8,
+   "unitate": "Asia",
+   "titlu": "Elemente de diversitate umană (diversitate etnică, lingvistică, culturală, confesională)",
+   "tip": "nivel",
+   "competente": [
+    "VII-1.1",
+    "VII-1.2",
+    "VII-2.1",
+    "VII-2.2",
+    "VII-2.3",
+    "VII-3.1",
+    "VII-3.2",
+    "VII-3.3",
+    "VII-3.4",
+    "VII-4.1",
+    "VII-4.3",
+    "VII-4.4"
+   ]
+  },
+  {
+   "id": "VII-S09-harta-politica-marile-aglomerari",
+   "clasa": 7,
+   "saptamana": 9,
+   "unitate": "Asia",
+   "titlu": "Harta politică și marile aglomerări umane",
+   "tip": "nivel",
+   "competente": [
+    "VII-1.1",
+    "VII-1.2",
+    "VII-2.1",
+    "VII-2.2",
+    "VII-2.3",
+    "VII-3.1",
+    "VII-3.2",
+    "VII-3.3",
+    "VII-3.4",
+    "VII-4.1",
+    "VII-4.3",
+    "VII-4.4"
+   ]
+  },
+  {
+   "id": "VII-S10-resursele-naturale",
+   "clasa": 7,
+   "saptamana": 10,
+   "unitate": "Asia",
+   "titlu": "Resursele naturale",
+   "tip": "nivel",
+   "competente": [
+    "VII-1.1",
+    "VII-1.2",
+    "VII-2.1",
+    "VII-2.2",
+    "VII-2.3",
+    "VII-3.1",
+    "VII-3.2",
+    "VII-3.3",
+    "VII-3.4",
+    "VII-4.1",
+    "VII-4.3",
+    "VII-4.4"
+   ]
+  },
+  {
+   "id": "VII-S11-activitatile-economice-contraste-economice",
+   "clasa": 7,
+   "saptamana": 11,
+   "unitate": "Asia",
+   "titlu": "Activitățile economice. Contraste economice regionale",
+   "tip": "nivel",
+   "competente": [
+    "VII-1.1",
+    "VII-1.2",
+    "VII-2.1",
+    "VII-2.2",
+    "VII-2.3",
+    "VII-3.1",
+    "VII-3.2",
+    "VII-3.3",
+    "VII-3.4",
+    "VII-4.1",
+    "VII-4.3",
+    "VII-4.4"
+   ]
+  },
+  {
+   "id": "VII-S12-asia-lumea-contemporana",
+   "clasa": 7,
+   "saptamana": 12,
+   "unitate": "Asia",
+   "titlu": "Asia în lumea contemporană",
+   "tip": "nivel",
+   "competente": [
+    "VII-1.1",
+    "VII-1.2",
+    "VII-2.1",
+    "VII-2.2",
+    "VII-2.3",
+    "VII-3.1",
+    "VII-3.2",
+    "VII-3.3",
+    "VII-3.4",
+    "VII-4.1",
+    "VII-4.3",
+    "VII-4.4"
+   ]
+  },
+  {
+   "id": "VII-S13-caracterizare-geografica-pozitia-geografica",
+   "clasa": 7,
+   "saptamana": 13,
+   "unitate": "Africa",
+   "titlu": "Caracterizare geografică – Poziția geografică – simetrie latitudinală",
+   "tip": "nivel",
+   "competente": [
+    "VII-1.2",
+    "VII-2.1",
+    "VII-2.2",
+    "VII-2.3"
+   ]
+  },
+  {
+   "id": "VII-S13-relieful-africii-caracteristici-generale",
+   "clasa": 7,
+   "saptamana": 13,
+   "unitate": "Africa",
+   "titlu": "Relieful Africii – caracteristici generale. Riftul african",
+   "tip": "nivel",
+   "competente": [
+    "VII-1.2",
+    "VII-2.1",
+    "VII-2.2",
+    "VII-2.3"
+   ]
+  },
+  {
+   "id": "VII-S16-hidrografia-clima-biogeografia-caracteristici",
+   "clasa": 7,
+   "saptamana": 16,
+   "unitate": "Africa",
+   "titlu": "Hidrografia, clima și biogeografia – caracteristici generale",
+   "tip": "nivel",
+   "competente": [
+    "VII-1.1",
+    "VII-1.2",
+    "VII-2.1",
+    "VII-2.2",
+    "VII-2.3",
+    "VII-3.2",
+    "VII-3.3",
+    "VII-3.4",
+    "VII-4.1",
+    "VII-4.3",
+    "VII-4.4"
+   ]
+  },
+  {
+   "id": "VII-S17-specificul-demografic",
+   "clasa": 7,
+   "saptamana": 17,
+   "unitate": "Africa",
+   "titlu": "Specificul demografic",
+   "tip": "nivel",
+   "competente": [
+    "VII-1.1",
+    "VII-1.2",
+    "VII-2.1",
+    "VII-2.2",
+    "VII-2.3",
+    "VII-3.2",
+    "VII-3.3",
+    "VII-3.4",
+    "VII-4.1",
+    "VII-4.3",
+    "VII-4.4"
+   ]
+  },
+  {
+   "id": "VII-S19-harta-politica-marile-orase",
+   "clasa": 7,
+   "saptamana": 19,
+   "unitate": "Africa",
+   "titlu": "Harta politică și marile orașe",
+   "tip": "nivel",
+   "competente": [
+    "VII-1.1",
+    "VII-1.2",
+    "VII-2.1",
+    "VII-2.2",
+    "VII-2.3",
+    "VII-3.2",
+    "VII-3.3",
+    "VII-3.4",
+    "VII-4.1",
+    "VII-4.3",
+    "VII-4.4"
+   ]
+  },
+  {
+   "id": "VII-S20-studii-caz-problemele-africii",
+   "clasa": 7,
+   "saptamana": 20,
+   "unitate": "Africa",
+   "titlu": "Studii de caz: Problemele Africii în lumea contemporană, Sahara",
+   "tip": "nivel",
+   "competente": [
+    "VII-1.1",
+    "VII-1.2",
+    "VII-2.1",
+    "VII-2.2",
+    "VII-2.3",
+    "VII-3.2",
+    "VII-3.3",
+    "VII-3.4",
+    "VII-4.1",
+    "VII-4.3",
+    "VII-4.4"
+   ]
+  },
+  {
+   "id": "VII-S22-aplicatii-practice-studii-caz",
+   "clasa": 7,
+   "saptamana": 22,
+   "unitate": "Africa",
+   "titlu": "Aplicații practice/studii de caz: Caracterizarea geografică a unor state (la alegere)",
+   "tip": "expeditie",
+   "competente": [
+    "VII-4.1",
+    "VII-4.4"
+   ]
+  },
+  {
+   "id": "VII-S23-caracterizare-geografica-pozitia-geografica",
+   "clasa": 7,
+   "saptamana": 23,
+   "unitate": "America de Nord și America de Sud",
+   "titlu": "Caracterizare geografică – Poziția geografică",
+   "tip": "nivel",
+   "competente": [
+    "VII-1.1",
+    "VII-1.2",
+    "VII-2.1",
+    "VII-2.2",
+    "VII-2.3",
+    "VII-3.1",
+    "VII-3.2",
+    "VII-3.3",
+    "VII-3.4",
+    "VII-4.1",
+    "VII-4.2",
+    "VII-4.3"
+   ]
+  },
+  {
+   "id": "VII-S23-relieful-caracteristici-generale-sistemul",
+   "clasa": 7,
+   "saptamana": 23,
+   "unitate": "America de Nord și America de Sud",
+   "titlu": "Relieful – caracteristici generale. Sistemul muntos cordiliero-andin",
+   "tip": "nivel",
+   "competente": [
+    "VII-1.1",
+    "VII-1.2",
+    "VII-2.1",
+    "VII-2.2",
+    "VII-2.3",
+    "VII-3.1",
+    "VII-3.2",
+    "VII-3.3",
+    "VII-3.4",
+    "VII-4.1",
+    "VII-4.2",
+    "VII-4.3"
+   ]
+  },
+  {
+   "id": "VII-S24-hidrografia-caracteristici-generale-fluvii",
+   "clasa": 7,
+   "saptamana": 24,
+   "unitate": "America de Nord și America de Sud",
+   "titlu": "Hidrografia – caracteristici generale. Fluvii și lacuri",
+   "tip": "nivel",
+   "competente": [
+    "VII-1.1",
+    "VII-1.2",
+    "VII-2.1",
+    "VII-2.2",
+    "VII-2.3",
+    "VII-3.1",
+    "VII-3.2",
+    "VII-3.3",
+    "VII-3.4",
+    "VII-4.1",
+    "VII-4.2",
+    "VII-4.3"
+   ]
+  },
+  {
+   "id": "VII-S24-diferentieri-climatice-biogeografice",
+   "clasa": 7,
+   "saptamana": 24,
+   "unitate": "America de Nord și America de Sud",
+   "titlu": "Diferențieri climatice și biogeografice",
+   "tip": "nivel",
+   "competente": [
+    "VII-1.1",
+    "VII-1.2",
+    "VII-2.1",
+    "VII-2.2",
+    "VII-2.3",
+    "VII-3.1",
+    "VII-3.2",
+    "VII-3.3",
+    "VII-3.4",
+    "VII-4.1",
+    "VII-4.2",
+    "VII-4.3"
+   ]
+  },
+  {
+   "id": "VII-S25-elemente-diversitate-umana-etnica",
+   "clasa": 7,
+   "saptamana": 25,
+   "unitate": "America de Nord și America de Sud",
+   "titlu": "Elemente de diversitate umană (etnică, lingvistică, confesională și culturală)",
+   "tip": "nivel",
+   "competente": [
+    "VII-1.1",
+    "VII-1.2",
+    "VII-2.1",
+    "VII-2.2",
+    "VII-2.3",
+    "VII-3.1",
+    "VII-3.2",
+    "VII-3.3",
+    "VII-3.4",
+    "VII-4.1",
+    "VII-4.2",
+    "VII-4.3"
+   ]
+  },
+  {
+   "id": "VII-S26-harta-politica-contraste-teritoriale",
+   "clasa": 7,
+   "saptamana": 26,
+   "unitate": "America de Nord și America de Sud",
+   "titlu": "Harta politică și contraste teritoriale între state",
+   "tip": "nivel",
+   "competente": [
+    "VII-1.1",
+    "VII-1.2",
+    "VII-2.1",
+    "VII-2.2",
+    "VII-2.3",
+    "VII-3.1",
+    "VII-3.2",
+    "VII-3.3",
+    "VII-3.4",
+    "VII-4.1",
+    "VII-4.2",
+    "VII-4.3"
+   ]
+  },
+  {
+   "id": "VII-S26-forme-aglomerare-urbana",
+   "clasa": 7,
+   "saptamana": 26,
+   "unitate": "America de Nord și America de Sud",
+   "titlu": "Forme de aglomerare urbană",
+   "tip": "nivel",
+   "competente": [
+    "VII-1.1",
+    "VII-1.2",
+    "VII-2.1",
+    "VII-2.2",
+    "VII-2.3",
+    "VII-3.1",
+    "VII-3.2",
+    "VII-3.3",
+    "VII-3.4",
+    "VII-4.1",
+    "VII-4.2",
+    "VII-4.3"
+   ]
+  },
+  {
+   "id": "VII-S27-diferentieri-economice-regionale",
+   "clasa": 7,
+   "saptamana": 27,
+   "unitate": "America de Nord și America de Sud",
+   "titlu": "Diferențieri economice regionale",
+   "tip": "nivel",
+   "competente": [
+    "VII-1.1",
+    "VII-1.2",
+    "VII-2.1",
+    "VII-2.2",
+    "VII-2.3",
+    "VII-3.1",
+    "VII-3.2",
+    "VII-3.3",
+    "VII-3.4",
+    "VII-4.1",
+    "VII-4.2",
+    "VII-4.3"
+   ]
+  },
+  {
+   "id": "VII-S28-aplicatii-practice-studii-caz",
+   "clasa": 7,
+   "saptamana": 28,
+   "unitate": "America de Nord și America de Sud",
+   "titlu": "Aplicații practice/studii de caz: Particularități geografice ale unor state (la alegere)",
+   "tip": "expeditie",
+   "competente": [
+    "VII-4.1",
+    "VII-4.4"
+   ]
+  },
+  {
+   "id": "VII-S30-australia-oceania-caracterizare-geografica",
+   "clasa": 7,
+   "saptamana": 30,
+   "unitate": "Australia și Oceania. Antarctica",
+   "titlu": "Australia și Oceania – caracterizare geografică",
+   "tip": "nivel",
+   "competente": [
+    "VII-1.1",
+    "VII-1.2",
+    "VII-2.1",
+    "VII-2.2",
+    "VII-2.3",
+    "VII-3.1",
+    "VII-3.2",
+    "VII-3.3",
+    "VII-3.4"
+   ]
+  },
+  {
+   "id": "VII-S30-australia-caracterizare-geografica-generala",
+   "clasa": 7,
+   "saptamana": 30,
+   "unitate": "Australia și Oceania. Antarctica",
+   "titlu": "Australia – caracterizare geografică generală",
+   "tip": "nivel",
+   "competente": [
+    "VII-1.1",
+    "VII-1.2",
+    "VII-2.1",
+    "VII-2.2",
+    "VII-2.3",
+    "VII-3.1",
+    "VII-3.2",
+    "VII-3.3",
+    "VII-3.4"
+   ]
+  },
+  {
+   "id": "VII-S31-oceania-particularitati-geografice",
+   "clasa": 7,
+   "saptamana": 31,
+   "unitate": "Australia și Oceania. Antarctica",
+   "titlu": "Oceania – particularități geografice",
+   "tip": "nivel",
+   "competente": [
+    "VII-1.1",
+    "VII-1.2",
+    "VII-2.1",
+    "VII-2.2",
+    "VII-2.3",
+    "VII-3.1",
+    "VII-3.2",
+    "VII-3.3",
+    "VII-3.4"
+   ]
+  },
+  {
+   "id": "VII-S31-antarctica-elemente-identitate-geografica",
+   "clasa": 7,
+   "saptamana": 31,
+   "unitate": "Australia și Oceania. Antarctica",
+   "titlu": "Antarctica – elemente de identitate geografică",
+   "tip": "nivel",
+   "competente": [
+    "VII-1.1",
+    "VII-1.2",
+    "VII-2.1",
+    "VII-2.2",
+    "VII-2.3",
+    "VII-3.1",
+    "VII-3.2",
+    "VII-3.3",
+    "VII-3.4"
+   ]
+  },
+  {
+   "id": "VII-S32-studiu-caz-unicitatea-biogeografica",
+   "clasa": 7,
+   "saptamana": 32,
+   "unitate": "Australia și Oceania. Antarctica",
+   "titlu": "Studiu de caz: Unicitatea biogeografică australiană",
+   "tip": "expeditie",
+   "competente": [
+    "VII-4.1",
+    "VII-4.4"
+   ]
+  },
+  {
+   "id": "VII-S33-componentele-mediului-inconjurator-relatiile",
+   "clasa": 7,
+   "saptamana": 33,
+   "unitate": "Elemente de geografia mediului înconjurător",
+   "titlu": "Componentele mediului înconjurător și relațiile dintre acestea",
+   "tip": "nivel",
+   "competente": [
+    "VII-1.2",
+    "VII-2.3",
+    "VII-3.3",
+    "VII-4.3",
+    "VII-4.4"
+   ]
+  },
+  {
+   "id": "VII-S34-degradarea-mediului-inconjurator-problema",
+   "clasa": 7,
+   "saptamana": 34,
+   "unitate": "Elemente de geografia mediului înconjurător",
+   "titlu": "Degradarea mediului înconjurător, o problemă a lumii contemporane. Schimbări globale ale mediului",
+   "tip": "nivel",
+   "competente": [
+    "VII-1.2",
+    "VII-2.3",
+    "VII-3.3",
+    "VII-4.3",
+    "VII-4.4"
+   ]
+  },
+  {
+   "id": "VIII-S01-pozitia-geografica-elemente-definitorii",
+   "clasa": 8,
+   "saptamana": 1,
+   "unitate": "Poziția geografică",
+   "titlu": "Poziția geografică. Elemente definitorii și consecințe. Statele vecine",
+   "tip": "nivel",
+   "competente": [
+    "VIII-1.1",
+    "VIII-1.2",
+    "VIII-2.1",
+    "VIII-2.2",
+    "VIII-3.3",
+    "VIII-4.1",
+    "VIII-4.2",
+    "VIII-4.3",
+    "VIII-4.4"
+   ]
+  },
+  {
+   "id": "VIII-S02-romania-tara-carpatica-dunareana",
+   "clasa": 8,
+   "saptamana": 2,
+   "unitate": "Poziția geografică",
+   "titlu": "România - țară carpatică, dunăreană, pontică și central europeană",
+   "tip": "nivel",
+   "competente": [
+    "VIII-1.1",
+    "VIII-1.2",
+    "VIII-2.1",
+    "VIII-2.2",
+    "VIII-3.3",
+    "VIII-4.1",
+    "VIII-4.2",
+    "VIII-4.3",
+    "VIII-4.4"
+   ]
+  },
+  {
+   "id": "VIII-S03-relieful-caracteristici-generale",
+   "clasa": 8,
+   "saptamana": 3,
+   "unitate": "Relieful României",
+   "titlu": "Relieful – caracteristici generale",
+   "tip": "nivel",
+   "competente": [
+    "VIII-1.1",
+    "VIII-1.2",
+    "VIII-2.1",
+    "VIII-2.2",
+    "VIII-2.3",
+    "VIII-3.1",
+    "VIII-3.2",
+    "VIII-3.3",
+    "VIII-3.4",
+    "VIII-4.1",
+    "VIII-4.2",
+    "VIII-4.4"
+   ]
+  },
+  {
+   "id": "VIII-S04-unitatile-majore-relief-carpatii",
+   "clasa": 8,
+   "saptamana": 4,
+   "unitate": "Relieful României",
+   "titlu": "Unitățile majore de relief: Carpații și Depresiunea Colinară a Transilvaniei",
+   "tip": "nivel",
+   "competente": [
+    "VIII-1.1",
+    "VIII-1.2",
+    "VIII-2.1",
+    "VIII-2.2",
+    "VIII-2.3",
+    "VIII-3.1",
+    "VIII-3.2",
+    "VIII-3.3",
+    "VIII-3.4",
+    "VIII-4.1",
+    "VIII-4.2",
+    "VIII-4.4"
+   ]
+  },
+  {
+   "id": "VIII-S06-subcarpatii-podisul-getic-podisul",
+   "clasa": 8,
+   "saptamana": 6,
+   "unitate": "Relieful României",
+   "titlu": "Subcarpații, Podișul Getic și Podișul Mehedinți",
+   "tip": "nivel",
+   "competente": [
+    "VIII-1.1",
+    "VIII-1.2",
+    "VIII-2.1",
+    "VIII-2.2",
+    "VIII-2.3",
+    "VIII-3.1",
+    "VIII-3.2",
+    "VIII-3.3",
+    "VIII-3.4",
+    "VIII-4.1",
+    "VIII-4.2",
+    "VIII-4.4"
+   ]
+  },
+  {
+   "id": "VIII-S08-podisul-moldovei-podisul-dobrogei",
+   "clasa": 8,
+   "saptamana": 8,
+   "unitate": "Relieful României",
+   "titlu": "Podișul Moldovei și Podișul Dobrogei",
+   "tip": "nivel",
+   "competente": [
+    "VIII-1.1",
+    "VIII-1.2",
+    "VIII-2.1",
+    "VIII-2.2",
+    "VIII-2.3",
+    "VIII-3.1",
+    "VIII-3.2",
+    "VIII-3.3",
+    "VIII-3.4",
+    "VIII-4.1",
+    "VIII-4.2",
+    "VIII-4.4"
+   ]
+  },
+  {
+   "id": "VIII-S09-campia-vest-dealurile-vest",
+   "clasa": 8,
+   "saptamana": 9,
+   "unitate": "Relieful României",
+   "titlu": "Câmpia de Vest și Dealurile de Vest",
+   "tip": "nivel",
+   "competente": [
+    "VIII-1.1",
+    "VIII-1.2",
+    "VIII-2.1",
+    "VIII-2.2",
+    "VIII-2.3",
+    "VIII-3.1",
+    "VIII-3.2",
+    "VIII-3.3",
+    "VIII-3.4",
+    "VIII-4.1",
+    "VIII-4.2",
+    "VIII-4.4"
+   ]
+  },
+  {
+   "id": "VIII-S10-campia-romana",
+   "clasa": 8,
+   "saptamana": 10,
+   "unitate": "Relieful României",
+   "titlu": "Câmpia Română",
+   "tip": "nivel",
+   "competente": [
+    "VIII-1.1",
+    "VIII-1.2",
+    "VIII-2.1",
+    "VIII-2.2",
+    "VIII-2.3",
+    "VIII-3.1",
+    "VIII-3.2",
+    "VIII-3.3",
+    "VIII-3.4",
+    "VIII-4.1",
+    "VIII-4.2",
+    "VIII-4.4"
+   ]
+  },
+  {
+   "id": "VIII-S11-delta-dunarii-platforma-continentala",
+   "clasa": 8,
+   "saptamana": 11,
+   "unitate": "Relieful României",
+   "titlu": "Delta Dunării și platforma continentală a Mării Negre",
+   "tip": "nivel",
+   "competente": [
+    "VIII-1.1",
+    "VIII-1.2",
+    "VIII-2.1",
+    "VIII-2.2",
+    "VIII-2.3",
+    "VIII-3.1",
+    "VIII-3.2",
+    "VIII-3.3",
+    "VIII-3.4",
+    "VIII-4.1",
+    "VIII-4.2",
+    "VIII-4.4"
+   ]
+  },
+  {
+   "id": "VIII-S12-aplicatii-practice-studii-caz",
+   "clasa": 8,
+   "saptamana": 12,
+   "unitate": "Relieful României",
+   "titlu": "Aplicații practice/studii de caz: Interpretarea unor profile geografice, Relieful orizontului local/localității/județului natal, Identificarea unor fenomene și procese de risc din orizontul local, Cutremurele în România, Rolul reliefului în amenajarea teritoriului",
+   "tip": "expeditie",
+   "competente": [
+    "VIII-4.1",
+    "VIII-4.2",
+    "VIII-4.4"
+   ]
+  },
+  {
+   "id": "VIII-S13-clima-factorii-genetici",
+   "clasa": 8,
+   "saptamana": 13,
+   "unitate": "Clima, apele, vegetația, fauna și solurile",
+   "titlu": "Clima - Factorii genetici",
+   "tip": "nivel",
+   "competente": [
+    "VIII-1.1",
+    "VIII-1.2",
+    "VIII-2.1",
+    "VIII-2.2",
+    "VIII-2.3",
+    "VIII-3.1",
+    "VIII-3.2",
+    "VIII-3.3",
+    "VIII-3.4"
+   ]
+  },
+  {
+   "id": "VIII-S13-elementele-climatice",
+   "clasa": 8,
+   "saptamana": 13,
+   "unitate": "Clima, apele, vegetația, fauna și solurile",
+   "titlu": "Elementele climatice",
+   "tip": "nivel",
+   "competente": [
+    "VIII-1.1",
+    "VIII-1.2",
+    "VIII-2.1",
+    "VIII-2.2",
+    "VIII-2.3",
+    "VIII-3.1",
+    "VIII-3.2",
+    "VIII-3.3",
+    "VIII-3.4"
+   ]
+  },
+  {
+   "id": "VIII-S16-particularitatile-climatice-regionale-etaje",
+   "clasa": 8,
+   "saptamana": 16,
+   "unitate": "Clima, apele, vegetația, fauna și solurile",
+   "titlu": "Particularitățile climatice regionale (etaje și influențe climatice)",
+   "tip": "nivel",
+   "competente": [
+    "VIII-1.1",
+    "VIII-1.2",
+    "VIII-2.1",
+    "VIII-2.2",
+    "VIII-2.3",
+    "VIII-3.1",
+    "VIII-3.2",
+    "VIII-3.3",
+    "VIII-3.4",
+    "VIII-4.1",
+    "VIII-4.2",
+    "VIII-4.4"
+   ]
+  },
+  {
+   "id": "VIII-S16-apele-dunarea",
+   "clasa": 8,
+   "saptamana": 16,
+   "unitate": "Clima, apele, vegetația, fauna și solurile",
+   "titlu": "Apele - Dunărea",
+   "tip": "nivel",
+   "competente": [
+    "VIII-1.1",
+    "VIII-1.2",
+    "VIII-2.1",
+    "VIII-2.2",
+    "VIII-2.3",
+    "VIII-3.1",
+    "VIII-3.2",
+    "VIII-3.3",
+    "VIII-3.4",
+    "VIII-4.1",
+    "VIII-4.2",
+    "VIII-4.4"
+   ]
+  },
+  {
+   "id": "VIII-S17-raurile-interioare",
+   "clasa": 8,
+   "saptamana": 17,
+   "unitate": "Clima, apele, vegetația, fauna și solurile",
+   "titlu": "Râurile interioare",
+   "tip": "nivel",
+   "competente": [
+    "VIII-1.1",
+    "VIII-1.2",
+    "VIII-2.1",
+    "VIII-2.2",
+    "VIII-2.3",
+    "VIII-3.1",
+    "VIII-3.2",
+    "VIII-3.3",
+    "VIII-3.4",
+    "VIII-4.1",
+    "VIII-4.2",
+    "VIII-4.4"
+   ]
+  },
+  {
+   "id": "VIII-S18-lacurile-apele-subterane",
+   "clasa": 8,
+   "saptamana": 18,
+   "unitate": "Clima, apele, vegetația, fauna și solurile",
+   "titlu": "Lacurile și apele subterane",
+   "tip": "nivel",
+   "competente": [
+    "VIII-1.1",
+    "VIII-1.2",
+    "VIII-2.1",
+    "VIII-2.2",
+    "VIII-2.3",
+    "VIII-3.1",
+    "VIII-3.2",
+    "VIII-3.3",
+    "VIII-3.4",
+    "VIII-4.1",
+    "VIII-4.2",
+    "VIII-4.4"
+   ]
+  },
+  {
+   "id": "VIII-S19-marea-neagra",
+   "clasa": 8,
+   "saptamana": 19,
+   "unitate": "Clima, apele, vegetația, fauna și solurile",
+   "titlu": "Marea Neagră",
+   "tip": "nivel",
+   "competente": [
+    "VIII-1.1",
+    "VIII-1.2",
+    "VIII-2.1",
+    "VIII-2.2",
+    "VIII-2.3",
+    "VIII-3.1",
+    "VIII-3.2",
+    "VIII-3.3",
+    "VIII-3.4",
+    "VIII-4.1",
+    "VIII-4.2",
+    "VIII-4.4"
+   ]
+  },
+  {
+   "id": "VIII-S20-vegetatia-fauna-solurile-aplicatii",
+   "clasa": 8,
+   "saptamana": 20,
+   "unitate": "Clima, apele, vegetația, fauna și solurile",
+   "titlu": "Vegetația, fauna și solurile. Aplicații practice: Reguli de comportament în cazul producerii unor fenomene climatice, hidrografice, biogeografice de risc",
+   "tip": "expeditie",
+   "competente": [
+    "VIII-4.1",
+    "VIII-4.2",
+    "VIII-4.4"
+   ]
+  },
+  {
+   "id": "VIII-S21-populatia-elemente-structuri-demografice",
+   "clasa": 8,
+   "saptamana": 21,
+   "unitate": "Populația, așezările omenești și organizarea administrativ-teritorială",
+   "titlu": "Populația – elemente și structuri demografice",
+   "tip": "nivel",
+   "competente": [
+    "VIII-1.1",
+    "VIII-1.2",
+    "VIII-2.1",
+    "VIII-2.2",
+    "VIII-2.3"
+   ]
+  },
+  {
+   "id": "VIII-S22-asezarile-rurale-evolutie-diferentieri",
+   "clasa": 8,
+   "saptamana": 22,
+   "unitate": "Populația, așezările omenești și organizarea administrativ-teritorială",
+   "titlu": "Așezările rurale – evoluție și diferențieri teritoriale",
+   "tip": "nivel",
+   "competente": [
+    "VIII-3.1",
+    "VIII-3.2",
+    "VIII-3.3",
+    "VIII-3.4"
+   ]
+  },
+  {
+   "id": "VIII-S23-asezarile-urbane-evolutie-caracteristici",
+   "clasa": 8,
+   "saptamana": 23,
+   "unitate": "Populația, așezările omenești și organizarea administrativ-teritorială",
+   "titlu": "Așezările urbane – evoluție și caracteristici actuale",
+   "tip": "nivel",
+   "competente": [
+    "VIII-1.1",
+    "VIII-1.2",
+    "VIII-2.1",
+    "VIII-2.2",
+    "VIII-2.3",
+    "VIII-3.1",
+    "VIII-3.2",
+    "VIII-3.3",
+    "VIII-3.4",
+    "VIII-4.1",
+    "VIII-4.2",
+    "VIII-4.4"
+   ]
+  },
+  {
+   "id": "VIII-S24-caracterizarea-geografica-orasului-bucuresti",
+   "clasa": 8,
+   "saptamana": 24,
+   "unitate": "Populația, așezările omenești și organizarea administrativ-teritorială",
+   "titlu": "Caracterizarea geografică a orașului București",
+   "tip": "nivel",
+   "competente": [
+    "VIII-1.1",
+    "VIII-1.2",
+    "VIII-2.1",
+    "VIII-2.2",
+    "VIII-2.3",
+    "VIII-3.1",
+    "VIII-3.2",
+    "VIII-3.3",
+    "VIII-3.4",
+    "VIII-4.1",
+    "VIII-4.2",
+    "VIII-4.4"
+   ]
+  },
+  {
+   "id": "VIII-S25-organizarea-administrativ-teritoriala",
+   "clasa": 8,
+   "saptamana": 25,
+   "unitate": "Populația, așezările omenești și organizarea administrativ-teritorială",
+   "titlu": "Organizarea administrativ – teritorială",
+   "tip": "nivel",
+   "competente": [
+    "VIII-1.1",
+    "VIII-1.2",
+    "VIII-2.1",
+    "VIII-2.2",
+    "VIII-2.3",
+    "VIII-3.1",
+    "VIII-3.2",
+    "VIII-3.3",
+    "VIII-3.4",
+    "VIII-4.1",
+    "VIII-4.2",
+    "VIII-4.4"
+   ]
+  },
+  {
+   "id": "VIII-S27-aplicatii-practice-studii-caz",
+   "clasa": 8,
+   "saptamana": 27,
+   "unitate": "Populația, așezările omenești și organizarea administrativ-teritorială",
+   "titlu": "Aplicații practice/studii de caz: Interpretarea unor grafice și reprezentări cartografice privind populația României, Caracterizarea unor orașe mari (la alegere)",
+   "tip": "expeditie",
+   "competente": [
+    "VIII-4.1",
+    "VIII-4.2"
+   ]
+  },
+  {
+   "id": "VIII-S28-agricultura-fondul-funciar-agricol",
+   "clasa": 8,
+   "saptamana": 28,
+   "unitate": "Activitățile economice",
+   "titlu": "Agricultura - Fondul funciar agricol – potențial și valorificare",
+   "tip": "nivel",
+   "competente": [
+    "VIII-1.1",
+    "VIII-1.2",
+    "VIII-2.1",
+    "VIII-2.2",
+    "VIII-2.3",
+    "VIII-3.1",
+    "VIII-3.3",
+    "VIII-4.1"
+   ]
+  },
+  {
+   "id": "VIII-S28-regiunile-agricole-elemente-specifice",
+   "clasa": 8,
+   "saptamana": 28,
+   "unitate": "Activitățile economice",
+   "titlu": "Regiunile agricole – elemente specifice",
+   "tip": "nivel",
+   "competente": [
+    "VIII-1.1",
+    "VIII-1.2",
+    "VIII-2.1",
+    "VIII-2.2",
+    "VIII-2.3",
+    "VIII-3.1",
+    "VIII-3.3",
+    "VIII-4.1"
+   ]
+  },
+  {
+   "id": "VIII-S28-valorificarea-produselor-agricole-traditie",
+   "clasa": 8,
+   "saptamana": 28,
+   "unitate": "Activitățile economice",
+   "titlu": "Valorificarea produselor agricole – tradiție și modernitate",
+   "tip": "nivel",
+   "competente": [
+    "VIII-1.1",
+    "VIII-1.2",
+    "VIII-2.1",
+    "VIII-2.2",
+    "VIII-2.3",
+    "VIII-3.1",
+    "VIII-3.3",
+    "VIII-4.1"
+   ]
+  },
+  {
+   "id": "VIII-S30-resursele-naturale-industria",
+   "clasa": 8,
+   "saptamana": 30,
+   "unitate": "Activitățile economice",
+   "titlu": "Resursele naturale și industria",
+   "tip": "nivel",
+   "competente": [
+    "VIII-1.1",
+    "VIII-1.2",
+    "VIII-2.1",
+    "VIII-2.2",
+    "VIII-2.3",
+    "VIII-3.1",
+    "VIII-3.3",
+    "VIII-4.1"
+   ]
+  },
+  {
+   "id": "VIII-S30-industria-energetica-energiei-electrice",
+   "clasa": 8,
+   "saptamana": 30,
+   "unitate": "Activitățile economice",
+   "titlu": "Industria energetică și a energiei electrice",
+   "tip": "nivel",
+   "competente": [
+    "VIII-1.1",
+    "VIII-1.2",
+    "VIII-2.1",
+    "VIII-2.2",
+    "VIII-2.3",
+    "VIII-3.1",
+    "VIII-3.3",
+    "VIII-4.1"
+   ]
+  },
+  {
+   "id": "VIII-S30-industria-constructiilor-masini",
+   "clasa": 8,
+   "saptamana": 30,
+   "unitate": "Activitățile economice",
+   "titlu": "Industria construcțiilor de mașini",
+   "tip": "nivel",
+   "competente": [
+    "VIII-1.1",
+    "VIII-1.2",
+    "VIII-2.1",
+    "VIII-2.2",
+    "VIII-2.3",
+    "VIII-3.1",
+    "VIII-3.3",
+    "VIII-4.1"
+   ]
+  },
+  {
+   "id": "VIII-S31-serviciile-caile-comunicatie-transporturile",
+   "clasa": 8,
+   "saptamana": 31,
+   "unitate": "Activitățile economice",
+   "titlu": "Serviciile - Căile de comunicație și transporturile",
+   "tip": "nivel",
+   "competente": [
+    "VIII-1.1",
+    "VIII-1.2",
+    "VIII-2.1",
+    "VIII-2.2",
+    "VIII-2.3",
+    "VIII-3.1",
+    "VIII-3.3",
+    "VIII-4.1"
+   ]
+  },
+  {
+   "id": "VIII-S31-comertul",
+   "clasa": 8,
+   "saptamana": 31,
+   "unitate": "Activitățile economice",
+   "titlu": "Comerțul",
+   "tip": "nivel",
+   "competente": [
+    "VIII-1.1",
+    "VIII-1.2",
+    "VIII-2.1",
+    "VIII-2.2",
+    "VIII-2.3",
+    "VIII-3.1",
+    "VIII-3.3",
+    "VIII-4.1"
+   ]
+  },
+  {
+   "id": "VIII-S32-turismul-potential-valorificare-economica",
+   "clasa": 8,
+   "saptamana": 32,
+   "unitate": "Activitățile economice",
+   "titlu": "Turismul – potențial și valorificare economică",
+   "tip": "nivel",
+   "competente": [
+    "VIII-1.1",
+    "VIII-1.2",
+    "VIII-2.1",
+    "VIII-2.2",
+    "VIII-2.3",
+    "VIII-3.1",
+    "VIII-3.3",
+    "VIII-4.1"
+   ]
+  },
+  {
+   "id": "VIII-S33-aplicatii-practice-studii-caz",
+   "clasa": 8,
+   "saptamana": 33,
+   "unitate": "Activitățile economice",
+   "titlu": "Aplicații practice/studii de caz: Activități economice în localitatea/județul natal, Valorificarea resurselor alternative de energie, Potențialul turistic al județului, Rolul căilor de comunicație în dezvoltarea economică",
+   "tip": "expeditie",
+   "competente": [
+    "VIII-4.1"
+   ]
+  },
+  {
+   "id": "VIII-S34-diferentieri-regionale",
+   "clasa": 8,
+   "saptamana": 34,
+   "unitate": "Regiuni geografice și dezvoltarea regională",
+   "titlu": "Diferențieri regionale",
+   "tip": "expeditie",
+   "competente": [
+    "VIII-1.1",
+    "VIII-1.2",
+    "VIII-2.1",
+    "VIII-2.2",
+    "VIII-2.3",
+    "VIII-3.1",
+    "VIII-3.2",
+    "VIII-4.1",
+    "VIII-4.2",
+    "VIII-4.3",
+    "VIII-4.4"
+   ]
+  },
+  {
+   "id": "VIII-S34-regiunile-geografice-baze-naturale",
+   "clasa": 8,
+   "saptamana": 34,
+   "unitate": "Regiuni geografice și dezvoltarea regională",
+   "titlu": "Regiunile geografice pe baze naturale",
+   "tip": "expeditie",
+   "competente": [
+    "VIII-1.1",
+    "VIII-1.2",
+    "VIII-2.1",
+    "VIII-2.2",
+    "VIII-2.3",
+    "VIII-3.1",
+    "VIII-3.2",
+    "VIII-4.1",
+    "VIII-4.2",
+    "VIII-4.3",
+    "VIII-4.4"
+   ]
+  },
+  {
+   "id": "VIII-S34-aplicatii-practice-studii-caz",
+   "clasa": 8,
+   "saptamana": 34,
+   "unitate": "Regiuni geografice și dezvoltarea regională",
+   "titlu": "Aplicații practice/studii de caz: Caracterizarea geografică a unei regiuni (la alegere)",
+   "tip": "expeditie",
+   "competente": [
+    "VIII-1.1",
+    "VIII-1.2",
+    "VIII-2.1",
+    "VIII-2.2",
+    "VIII-2.3",
+    "VIII-3.1",
+    "VIII-3.2",
+    "VIII-4.1",
+    "VIII-4.2",
+    "VIII-4.3",
+    "VIII-4.4"
+   ]
+  },
+  {
+   "id": "VIII-S35-calitatea-mediului-inconjurator-romania",
+   "clasa": 8,
+   "saptamana": 35,
+   "unitate": "Caracteristici ale mediului înconjurător. România în Europa și în lume",
+   "titlu": "Calitatea mediului înconjurător în România. Evoluții recente",
+   "tip": "nivel",
+   "competente": [
+    "VIII-1.1",
+    "VIII-2.2",
+    "VIII-3.1",
+    "VIII-3.2",
+    "VIII-3.3",
+    "VIII-3.4",
+    "VIII-4.1",
+    "VIII-4.2",
+    "VIII-4.3"
+   ]
+  },
+  {
+   "id": "VIII-S35-resurse-populatie-elemente-dezvoltarii",
+   "clasa": 8,
+   "saptamana": 35,
+   "unitate": "Caracteristici ale mediului înconjurător. România în Europa și în lume",
+   "titlu": "Resurse, populație și elemente ale dezvoltării sustenabile",
+   "tip": "nivel",
+   "competente": [
+    "VIII-1.1",
+    "VIII-2.2",
+    "VIII-3.1",
+    "VIII-3.2",
+    "VIII-3.3",
+    "VIII-3.4",
+    "VIII-4.1",
+    "VIII-4.2",
+    "VIII-4.3"
+   ]
+  },
+  {
+   "id": "VIII-S35-valorile-naturale-culturale-romaniei",
+   "clasa": 8,
+   "saptamana": 35,
+   "unitate": "Caracteristici ale mediului înconjurător. România în Europa și în lume",
+   "titlu": "Valorile naturale și culturale ale României",
+   "tip": "nivel",
+   "competente": [
+    "VIII-1.1",
+    "VIII-2.2",
+    "VIII-3.1",
+    "VIII-3.2",
+    "VIII-3.3",
+    "VIII-3.4",
+    "VIII-4.1",
+    "VIII-4.2",
+    "VIII-4.3"
+   ]
+  },
+  {
+   "id": "VIII-S35-romania-ca-membru-onu",
+   "clasa": 8,
+   "saptamana": 35,
+   "unitate": "Caracteristici ale mediului înconjurător. România în Europa și în lume",
+   "titlu": "România ca membru ONU, NATO și UE",
+   "tip": "nivel",
+   "competente": [
+    "VIII-1.1",
+    "VIII-2.2",
+    "VIII-3.1",
+    "VIII-3.2",
+    "VIII-3.3",
+    "VIII-3.4",
+    "VIII-4.1",
+    "VIII-4.2",
+    "VIII-4.3"
+   ]
+  }
+ ],
+ "generat": {
+  "din": "planificare.docx",
+  "corecturi": [
+   "Clasa a VIII-a, S1–2: competența 3.5 eliminată (nu există în programă) – confirmat de profesor, 28.10.2026.",
+   "Clasa a VII-a, Africa S16–21: adăugate 1.1, 1.2, 2.1–2.3 – confirmat de profesor, 28.10.2026.",
+   "Clasa a VIII-a: ultima zi de cursuri 11.06.2027 (o săptămână mai devreme) – confirmat de profesor, 28.10.2026."
+  ]
+ },
+ "observatii": [
+  "Clasa VIII, S1: competența VIII-3.5 nu există în programă; eliminată.",
+  "S12 (2026-11-30 – 2026-12-04): doar 3 zile de curs (zi liberă legală).",
+  "S15 (2026-12-21 – 2026-12-22): doar 2 zile de curs (săptămână incompletă).",
+  "S30 (2027-05-05 – 2027-05-07): doar 3 zile de curs (săptămână incompletă).",
+  "S34 (2027-05-31 – 2027-06-04): doar 4 zile de curs (zi liberă legală)."
+ ]
+}

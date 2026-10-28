@@ -1,0 +1,4079 @@
+{
+ "clasa": 6,
+ "unitate": "Antroposfera – omul și activitățile umane",
+ "niveluri": [
+  {
+   "id": "VI-S06-populatia-terrei-evolutia-numerica",
+   "tip": "nivel",
+   "titlu": "Populația Terrei",
+   "descopera": {
+    "intrebare": "Câți oameni trăiesc acum pe Pământ și unde locuiesc cei mai mulți?"
+   },
+   "invata": [
+    {
+     "titlu": "Evoluția numerică",
+     "text": "Timp de mii de ani, populația a crescut foarte încet. După anul 1800, odată cu progresul medicinei, al agriculturii și al igienei, a început să crească foarte repede.\nPopulația Pământului a ajuns la 8 miliarde de oameni pe 15 noiembrie 2022, după estimările ONU. Din 2023, India a depășit China și este țara cu cea mai numeroasă populație."
+    },
+    {
+     "titlu": "Bilanțul natural și densitatea",
+     "text": "Natalitatea arată câți copii se nasc, iar mortalitatea câți oameni mor, la 1 000 de locuitori, într-un an. Diferența dintre ele se numește spor (bilanț) natural.\nDensitatea populației arată câți locuitori trăiesc, în medie, pe 1 km²: numărul locuitorilor împărțit la suprafață."
+    },
+    {
+     "titlu": "Răspândire, diversitate, mobilitate",
+     "text": "Oamenii trăiesc mai ales în câmpii, pe văile râurilor și pe țărmuri, unde clima e blândă și există apă. Sunt puțin locuite deșerturile, zonele polare, munții înalți și pădurile ecuatoriale.\nOamenii diferă prin limbă, religie, obiceiuri, culoarea pielii – aceasta e diversitatea umană.\nMigrația înseamnă mutarea oamenilor dintr-un loc în altul, temporar sau definitiv: pentru muncă, studii, siguranță sau familie."
+    }
+   ],
+   "stiaiCa": "Peste o treime din populația lumii trăiește în doar două țări: India și China.",
+   "referintaProfesor": "Manual Art Klett, clasa a VI-a (manuale.edu.ro), lecția „Populația Terrei”"
+  },
+  {
+   "id": "VI-S07-asezarile-omenesti-forme-locuire",
+   "tip": "nivel",
+   "titlu": "Așezările omenești",
+   "descopera": {
+    "intrebare": "Prin ce se deosebește un sat de un oraș?"
+   },
+   "invata": [
+    {
+     "titlu": "Ce sunt așezările",
+     "text": "Așezările omenești sunt locurile în care oamenii trăiesc permanent, cu locuințe, drumuri, școli, magazine. Ele sunt de două feluri: rurale (satele) și urbane (orașele).\nAșezările s-au format unde existau apă, sol fertil, adăpost, drumuri comerciale sau resurse."
+    },
+    {
+     "titlu": "Satele",
+     "text": "Satele au puțini locuitori, iar mulți dintre ei lucrează în agricultură, creșterea animalelor sau în exploatarea pădurilor.\nDupă formă, satele pot fi: adunate (casele strânse, în câmpie), risipite (casele împrăștiate, la munte), răsfirate (casele în grupuri, pe dealuri) sau liniare (de-a lungul unui drum sau al unei văi)."
+    },
+    {
+     "titlu": "Orașele",
+     "text": "Orașele au mulți locuitori, care lucrează mai ales în industrie și servicii. Au clădiri înalte, rețele de transport, universități, spitale.\nUrbanizarea este creșterea numărului și a populației orașelor. Astăzi, mai mult de jumătate din oameni trăiesc la oraș. Orașele foarte mari, cu peste 10 milioane de locuitori, se numesc megalopolisuri sau megaorașe."
+    }
+   ],
+   "stiaiCa": "După un raport ONU din 2025, cea mai populată aglomerare urbană din lume e Jakarta (Indonezia), cu aproximativ 42 de milioane de locuitori, urmată de Dhaka și Tokyo.",
+   "referintaProfesor": "Manual Art Klett, clasa a VI-a (manuale.edu.ro), lecția „Așezările omenești – forme de locuire”"
+  },
+  {
+   "id": "VI-S08-resursele-naturale-valorificarea-acestora",
+   "tip": "nivel",
+   "titlu": "Resursele naturale și valorificarea lor",
+   "descopera": {
+    "intrebare": "Ce s-ar întâmpla dacă s-ar termina petrolul mâine?"
+   },
+   "invata": [
+    {
+     "titlu": "Ce sunt resursele naturale",
+     "text": "Resursele naturale sunt bogățiile pe care oamenii le iau din natură și le folosesc: solul, apa, pădurile, mineralele, combustibilii, energia Soarelui și a vântului.\nResursele regenerabile se refac în timp scurt (apa, pădurile, dacă sunt folosite cu grijă) sau nu se termină (Soarele, vântul). Resursele neregenerabile se termină, pentru că s-au format în milioane de ani (petrolul, gazele naturale, cărbunele, minereurile)."
+    },
+    {
+     "titlu": "Tipuri de resurse",
+     "text": "Resurse energetice: petrol, gaze naturale, cărbune, uraniu, apă (hidrocentrale), vânt, Soare.\nResurse minerale: minereuri de fier, cupru, aur, aluminiu; sare; roci de construcție.\nResurse ale solului, apei și pădurilor: hrană, lemn, apă potabilă."
+    },
+    {
+     "titlu": "Folosirea durabilă",
+     "text": "Folosirea durabilă înseamnă să iei din natură atât cât se poate reface, ca resursele să ajungă și pentru generațiile viitoare.\nReciclarea, economisirea energiei și folosirea surselor regenerabile ajută la protejarea resurselor."
+    }
+   ],
+   "stiaiCa": "O doză de aluminiu poate fi reciclată de foarte multe ori, iar reciclarea consumă mult mai puțină energie decât producerea aluminiului nou din minereu.",
+   "referintaProfesor": "Manual Art Klett, clasa a VI-a (manuale.edu.ro), lecția „Resursele naturale și valorificarea acestora”"
+  },
+  {
+   "id": "VI-S09-domeniile-activitatilor-economice-terra",
+   "tip": "nivel",
+   "titlu": "Domeniile activităților economice: agricultura, industria, serviciile",
+   "descopera": {
+    "intrebare": "Câți oameni lucrează ca să ajungă o pâine pe masa ta?"
+   },
+   "invata": [
+    {
+     "titlu": "Agricultura",
+     "text": "Agricultura cuprinde cultivarea plantelor și creșterea animalelor. Produce hrană și materii prime pentru industrie (bumbac, lână, sfeclă de zahăr).\nCulturile depind de climă și sol: grâul și porumbul în zona temperată, orezul în Asia musonică, cafeaua și cacaoa în zona caldă."
+    },
+    {
+     "titlu": "Industria",
+     "text": "Industria transformă materiile prime în produse: industria extractivă scoate resursele din pământ; industria prelucrătoare face din ele produse (metalurgie, construcții de mașini, industrie chimică, alimentară, textilă, electronică).\nEnergia electrică e produsă în centrale: termocentrale, hidrocentrale, centrale nucleare, eoliene, solare."
+    },
+    {
+     "titlu": "Serviciile",
+     "text": "Serviciile sunt activități care nu produc obiecte, ci ajută oamenii: transporturile, comerțul, educația, sănătatea, turismul, băncile, comunicațiile, IT.\nÎn țările dezvoltate, cei mai mulți oameni lucrează în servicii."
+    }
+   ],
+   "stiaiCa": "Orezul e hrana de bază pentru mai mult de jumătate din populația lumii, mai ales în Asia.",
+   "referintaProfesor": "Manual Art Klett, clasa a VI-a (manuale.edu.ro), lecția „Domeniile activităților economice pe Terra”"
+  },
+  {
+   "id": "VI-S10-efectele-activitatilor-umane-asupra",
+   "tip": "nivel",
+   "titlu": "Efectele activităților umane asupra mediului",
+   "descopera": {
+    "intrebare": "Unde ajunge o sticlă de plastic aruncată pe stradă?"
+   },
+   "invata": [
+    {
+     "titlu": "Cum schimbă oamenii mediul",
+     "text": "Activitățile oamenilor schimbă natura: pădurile sunt tăiate pentru lemn și terenuri agricole, râurile sunt îndiguite, se construiesc orașe și drumuri, se extrag resurse.\nUnele schimbări sunt utile (hrană, energie, locuințe), dar multe aduc probleme: poluarea aerului, a apei și a solului, pierderea de habitate și de specii."
+    },
+    {
+     "titlu": "Tipuri de poluare",
+     "text": "Poluarea aerului: fum de la fabrici, mașini, arderea deșeurilor. Poluarea apei: ape uzate netratate, deșeuri, petrol. Poluarea solului: deșeuri, pesticide, îngrășăminte în exces. Există și poluare fonică (zgomot) și luminoasă.\nGazele cu efect de seră din arderea combustibililor fosili contribuie la încălzirea climei."
+    },
+    {
+     "titlu": "Calitatea vieții și soluțiile",
+     "text": "Calitatea vieții înseamnă cât de bine trăiesc oamenii: aer și apă curate, hrană sănătoasă, locuință, educație, sănătate, spații verzi, siguranță.\nSoluții: reciclarea, energia regenerabilă, transportul public, plantarea copacilor, arii protejate, legi de protecție a mediului."
+    }
+   ],
+   "stiaiCa": "O sticlă de plastic aruncată în natură se descompune foarte greu, în sute de ani, și se rupe în bucăți tot mai mici, numite microplastice.",
+   "referintaProfesor": "Manual Art Klett, clasa a VI-a (manuale.edu.ro), lecția „Efectele activităților umane asupra mediului și calitatea vieții”"
+  },
+  {
+   "id": "VI-S12-aplicatii-practice-analiza-interpretarea",
+   "tip": "expeditie",
+   "titlu": "Expediție: oamenii și locurile din orizontul meu",
+   "descopera": {
+    "intrebare": "Cum s-a schimbat orașul tău în ultimii 30 de ani?"
+   },
+   "invata": [
+    {
+     "titlu": "Ce faci în expediție",
+     "text": "Urmezi pașii, rezolvi sarcinile și notezi în Jurnalul exploratorului ce ai descoperit."
+    }
+   ],
+   "referintaProfesor": "Manual Art Klett, clasa a VI-a (manuale.edu.ro), lecția „Aplicații practice: Analiza și interpretarea caracteristicilor demografice și de locuire din orizontul local”",
+   "pasi": [
+    {
+     "titlu": "1. Datele oficiale",
+     "text": "Cu ajutorul profesorului, caută pe site-ul INS (sau în broșura primăriei) populația orașului Râmnicu Sărat la ultimele două recensăminte (2011 și 2021).",
+     "itemi": [
+      "VI12-01"
+     ],
+     "jurnal": {
+      "cerinta": "Notează cele două valori și calculează dacă populația a crescut sau a scăzut și cu cât."
+     }
+    },
+    {
+     "titlu": "2. Interviul",
+     "text": "Întreabă un bunic sau un vecin în vârstă cum arăta cartierul tău când era copil: ce clădiri, magazine, fabrici, drumuri erau.",
+     "itemi": [
+      "VI12-02",
+      "VI12-03"
+     ],
+     "jurnal": {
+      "cerinta": "Scrie 3 lucruri care s-au schimbat și 1 lucru care a rămas la fel."
+     }
+    },
+    {
+     "titlu": "3. Harta cartierului",
+     "text": "Desenează harta simplă a drumului de acasă la școală, cu legendă: clădiri importante, parcuri, străzi principale.",
+     "itemi": [
+      "VI12-04"
+     ],
+     "jurnal": {
+      "cerinta": "Fotografiază harta.",
+      "foto": true
+     }
+    },
+    {
+     "titlu": "4. O provocare locală",
+     "text": "Alege o problemă a orașului (trafic, spații verzi, deșeuri, locuri de joacă) și propune o soluție realistă.",
+     "jurnal": {
+      "cerinta": "Scrie problema, de ce e importantă și soluția ta, în 4–5 rânduri."
+     }
+    }
+   ]
+  }
+ ],
+ "itemi": [
+  {
+   "id": "VI6-01",
+   "nivel": "VI-S06-populatia-terrei-evolutia-numerica",
+   "competente": [
+    "VI-3.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 1,
+   "enunt": "Ce prag a atins populația Pământului în noiembrie 2022, după ONU?",
+   "date": {
+    "variante": [
+     "8 miliarde",
+     "1 miliard",
+     "800 de milioane",
+     "80 de miliarde"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "ONU a anunțat atingerea pragului de 8 miliarde pe 15 noiembrie 2022."
+   },
+   "surse": [
+    "ONU (UN DESA) – „World population to reach 8 billion on 15 November 2022”",
+    "UNFPA – Day of Eight Billion"
+   ]
+  },
+  {
+   "id": "VI6-02",
+   "nivel": "VI-S06-populatia-terrei-evolutia-numerica",
+   "competente": [
+    "VI-3.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce țară are cea mai numeroasă populație, din 2023?",
+   "date": {
+    "variante": [
+     "India",
+     "China",
+     "SUA",
+     "Rusia"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "India a depășit China în 2023, după estimările ONU."
+   },
+   "surse": [
+    "UN DESA – Policy Brief nr. 153: India overtakes China as the world's most populous country (aprilie 2023)",
+    "BBC News, 24.04.2023 – India to overtake China's population"
+   ]
+  },
+  {
+   "id": "VI6-03",
+   "nivel": "VI-S06-populatia-terrei-evolutia-numerica",
+   "competente": [
+    "VI-1.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 1,
+   "enunt": "Ce arată natalitatea?",
+   "date": {
+    "variante": [
+     "câți copii se nasc la 1 000 de locuitori, într-un an",
+     "câți oameni mor",
+     "câți oameni pleacă",
+     "suprafața țării"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Natalitatea măsoară nașterile."
+   }
+  },
+  {
+   "id": "VI6-04",
+   "nivel": "VI-S06-populatia-terrei-evolutia-numerica",
+   "competente": [
+    "VI-1.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 1,
+   "enunt": "Ce arată mortalitatea?",
+   "date": {
+    "variante": [
+     "câți oameni mor la 1 000 de locuitori, într-un an",
+     "câți copii se nasc",
+     "câți turiști vin",
+     "câte orașe sunt"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Mortalitatea măsoară decesele."
+   }
+  },
+  {
+   "id": "VI6-05",
+   "nivel": "VI-S06-populatia-terrei-evolutia-numerica",
+   "competente": [
+    "VI-1.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce este sporul natural?",
+   "date": {
+    "variante": [
+     "diferența dintre natalitate și mortalitate",
+     "suma nașterilor și a deceselor",
+     "numărul de migranți",
+     "numărul de orașe"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Dacă se nasc mai mulți decât mor, sporul e pozitiv."
+   }
+  },
+  {
+   "id": "VI6-06",
+   "nivel": "VI-S06-populatia-terrei-evolutia-numerica",
+   "competente": [
+    "VI-3.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Într-o țară, natalitatea e 9‰, iar mortalitatea 12‰. Ce spor natural are?",
+   "date": {
+    "variante": [
+     "−3‰ (negativ: populația scade natural)",
+     "+21‰",
+     "+3‰",
+     "0‰"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "9 − 12 = −3. Sporul negativ înseamnă că mor mai mulți decât se nasc."
+   }
+  },
+  {
+   "id": "VI6-07",
+   "nivel": "VI-S06-populatia-terrei-evolutia-numerica",
+   "competente": [
+    "VI-1.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce este densitatea populației?",
+   "date": {
+    "variante": [
+     "numărul mediu de locuitori pe 1 km²",
+     "numărul de orașe",
+     "înălțimea clădirilor",
+     "numărul de copii dintr-o familie"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Densitatea = populație : suprafață."
+   }
+  },
+  {
+   "id": "VI6-08",
+   "nivel": "VI-S06-populatia-terrei-evolutia-numerica",
+   "competente": [
+    "VI-3.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 3,
+   "enunt": "O regiune are 200 000 de locuitori și 1 000 km². Ce densitate are?",
+   "date": {
+    "variante": [
+     "200 loc./km²",
+     "2 000 loc./km²",
+     "20 loc./km²",
+     "200 000 loc./km²"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "200 000 : 1 000 = 200."
+   }
+  },
+  {
+   "id": "VI6-09",
+   "nivel": "VI-S06-populatia-terrei-evolutia-numerica",
+   "competente": [
+    "VI-3.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 3,
+   "enunt": "Un oraș are 30 000 de locuitori pe 15 km². Ce densitate are?",
+   "date": {
+    "variante": [
+     "2 000 loc./km²",
+     "200 loc./km²",
+     "450 000 loc./km²",
+     "15 loc./km²"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "30 000 : 15 = 2 000."
+   }
+  },
+  {
+   "id": "VI6-10",
+   "nivel": "VI-S06-populatia-terrei-evolutia-numerica",
+   "competente": [
+    "VI-2.3",
+    "VI-4.1"
+   ],
+   "tip": "grafic",
+   "dificultate": 2,
+   "enunt": "Graficul arată evoluția populației lumii (valori rotunjite). Ce observi?",
+   "date": {
+    "grafic": {
+     "tip": "profil",
+     "titlu": "Populația lumii",
+     "date": [
+      {
+       "eticheta": "1800",
+       "valoare": 1
+      },
+      {
+       "eticheta": "1900",
+       "valoare": 1.6
+      },
+      {
+       "eticheta": "1950",
+       "valoare": 2.5
+      },
+      {
+       "eticheta": "2000",
+       "valoare": 6.1
+      },
+      {
+       "eticheta": "2022",
+       "valoare": 8
+      }
+     ],
+     "unitate": "miliarde",
+     "sursa": "ONU – World Population Prospects 2024"
+    },
+    "variante": [
+     "populația a crescut foarte repede după 1950",
+     "populația a scăzut",
+     "populația a rămas aceeași",
+     "populația a crescut doar înainte de 1800"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "De la 2,5 miliarde în 1950 la 8 miliarde în 2022."
+   },
+   "surse": [
+    "ONU (UN DESA) – World Population Prospects 2024",
+    "Our World in Data – Population growth"
+   ]
+  },
+  {
+   "id": "VI6-11",
+   "nivel": "VI-S06-populatia-terrei-evolutia-numerica",
+   "competente": [
+    "VI-3.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "De ce a crescut populația foarte repede după 1800?",
+   "date": {
+    "variante": [
+     "datorită progresului medicinei, al agriculturii și al igienei",
+     "pentru că au dispărut orașele",
+     "pentru că s-au oprit nașterile",
+     "pentru că s-a răcit clima"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Au scăzut bolile și foametea, deci mortalitatea."
+   }
+  },
+  {
+   "id": "VI6-12",
+   "nivel": "VI-S06-populatia-terrei-evolutia-numerica",
+   "competente": [
+    "VI-3.2"
+   ],
+   "tip": "asociaza",
+   "dificultate": 2,
+   "enunt": "Asociază zona cu cât de populată e.",
+   "date": {
+    "perechi": [
+     [
+      "Câmpia Gangelui (India)",
+      "foarte populată"
+     ],
+     [
+      "Sahara",
+      "foarte slab populată"
+     ],
+     [
+      "Antarctica",
+      "fără populație permanentă"
+     ],
+     [
+      "Europa de Vest",
+      "dens populată"
+     ]
+    ]
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Clima, apa și relieful decid unde trăiesc oamenii."
+   }
+  },
+  {
+   "id": "VI6-13",
+   "nivel": "VI-S06-populatia-terrei-evolutia-numerica",
+   "competente": [
+    "VI-3.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "De ce deșerturile sunt slab populate?",
+   "date": {
+    "variante": [
+     "pentru că lipsește apa",
+     "pentru că sunt prea mici",
+     "pentru că sunt prea verzi",
+     "pentru că plouă mult"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Fără apă nu se pot practica agricultura și viața obișnuită."
+   }
+  },
+  {
+   "id": "VI6-14",
+   "nivel": "VI-S06-populatia-terrei-evolutia-numerica",
+   "competente": [
+    "VI-3.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Unde trăiesc cei mai mulți oameni?",
+   "date": {
+    "variante": [
+     "în câmpii, pe văile râurilor și pe țărmuri",
+     "pe vârfuri de munți",
+     "în deșerturi",
+     "în zonele polare"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Acolo sunt apă, soluri fertile și transport ușor."
+   }
+  },
+  {
+   "id": "VI6-15",
+   "nivel": "VI-S06-populatia-terrei-evolutia-numerica",
+   "competente": [
+    "VI-2.1"
+   ],
+   "tip": "pin",
+   "dificultate": 2,
+   "enunt": "Atinge pe hartă India, țara cu cea mai numeroasă populație.",
+   "date": {
+    "harta": "lume",
+    "tinta": {
+     "lat": 21,
+     "lon": 78,
+     "nume": "India"
+    },
+    "toleranta": 900
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "India e în sudul Asiei."
+   },
+   "surse": [
+    "UN DESA – Policy Brief nr. 153: India overtakes China as the world's most populous country (aprilie 2023)",
+    "BBC News, 24.04.2023 – India to overtake China's population"
+   ]
+  },
+  {
+   "id": "VI6-16",
+   "nivel": "VI-S06-populatia-terrei-evolutia-numerica",
+   "competente": [
+    "VI-2.1"
+   ],
+   "tip": "pin",
+   "dificultate": 2,
+   "enunt": "Atinge pe hartă China.",
+   "date": {
+    "harta": "lume",
+    "tinta": {
+     "lat": 35,
+     "lon": 103,
+     "nume": "China"
+    },
+    "toleranta": 1300
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "China e în estul Asiei."
+   }
+  },
+  {
+   "id": "VI6-17",
+   "nivel": "VI-S06-populatia-terrei-evolutia-numerica",
+   "competente": [
+    "VI-2.1"
+   ],
+   "tip": "denumeste",
+   "dificultate": 3,
+   "enunt": "Ce regiune foarte slab populată e marcată pe hartă?",
+   "date": {
+    "harta": "lume",
+    "punct": {
+     "lat": 23,
+     "lon": 12
+    },
+    "variante": [
+     "Sahara",
+     "Câmpia Gangelui",
+     "Europa de Vest",
+     "Delta Nilului"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Sahara e cel mai mare deșert fierbinte, foarte slab populat."
+   }
+  },
+  {
+   "id": "VI6-18",
+   "nivel": "VI-S06-populatia-terrei-evolutia-numerica",
+   "competente": [
+    "VI-1.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce înseamnă migrație?",
+   "date": {
+    "variante": [
+     "mutarea oamenilor dintr-un loc în altul",
+     "creșterea natalității",
+     "construirea de orașe",
+     "schimbarea climei"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Migrația poate fi internă sau externă, temporară sau definitivă."
+   }
+  },
+  {
+   "id": "VI6-19",
+   "nivel": "VI-S06-populatia-terrei-evolutia-numerica",
+   "competente": [
+    "VI-1.1"
+   ],
+   "tip": "asociaza",
+   "dificultate": 2,
+   "enunt": "Asociază tipul de migrație cu exemplul.",
+   "date": {
+    "perechi": [
+     [
+      "migrație internă",
+      "o familie se mută de la sat la oraș, în aceeași țară"
+     ],
+     [
+      "emigrare",
+      "cineva pleacă din țara lui să trăiască în alta"
+     ],
+     [
+      "imigrare",
+      "cineva vine să trăiască în țara noastră"
+     ],
+     [
+      "migrație temporară",
+      "cineva lucrează un sezon în străinătate și revine"
+     ]
+    ]
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Migrația are mai multe forme."
+   }
+  },
+  {
+   "id": "VI6-20",
+   "nivel": "VI-S06-populatia-terrei-evolutia-numerica",
+   "competente": [
+    "VI-1.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "De ce migrează oamenii?",
+   "date": {
+    "variante": [
+     "pentru muncă, studii, siguranță sau ca să fie lângă familie",
+     "doar pentru vacanță",
+     "fără niciun motiv",
+     "pentru că așa e legea"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Motivele pot fi economice, sociale sau de siguranță."
+   }
+  },
+  {
+   "id": "VI6-21",
+   "nivel": "VI-S06-populatia-terrei-evolutia-numerica",
+   "competente": [
+    "VI-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce înseamnă diversitate umană?",
+   "date": {
+    "variante": [
+     "oamenii diferă prin limbă, religie, obiceiuri, aspect fizic",
+     "toți oamenii vorbesc aceeași limbă",
+     "oamenii trăiesc doar la oraș",
+     "oamenii au aceeași religie"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Diversitatea e o bogăție a umanității."
+   }
+  },
+  {
+   "id": "VI6-22",
+   "nivel": "VI-S06-populatia-terrei-evolutia-numerica",
+   "competente": [
+    "VI-3.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Adevărat sau fals? Dacă natalitatea e mai mare decât mortalitatea, populația crește natural.",
+   "date": {
+    "variante": [
+     "Adevărat",
+     "Fals"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Adevărat: sporul natural e pozitiv."
+   }
+  },
+  {
+   "id": "VI6-23",
+   "nivel": "VI-S06-populatia-terrei-evolutia-numerica",
+   "competente": [
+    "VI-1.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Adevărat sau fals? Oamenii sunt răspândiți uniform pe tot uscatul.",
+   "date": {
+    "variante": [
+     "Fals",
+     "Adevărat"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Fals: unele regiuni sunt foarte populate, altele aproape goale."
+   }
+  },
+  {
+   "id": "VI6-24",
+   "nivel": "VI-S06-populatia-terrei-evolutia-numerica",
+   "competente": [
+    "VI-1.1"
+   ],
+   "tip": "lacunar",
+   "dificultate": 2,
+   "enunt": "Completează.",
+   "date": {
+    "text": "Numărul nașterilor la 1 000 de locuitori se numește {0}, iar numărul deceselor se numește {1}.",
+    "raspunsuri": [
+     "natalitate",
+     "mortalitate"
+    ],
+    "distractori": [
+     "densitate",
+     "migrație"
+    ]
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Natalitate, mortalitate."
+   }
+  },
+  {
+   "id": "VI6-25",
+   "nivel": "VI-S06-populatia-terrei-evolutia-numerica",
+   "competente": [
+    "VI-1.1"
+   ],
+   "tip": "lacunar",
+   "dificultate": 2,
+   "enunt": "Completează.",
+   "date": {
+    "text": "Densitatea populației se calculează împărțind numărul {0} la {1}.",
+    "raspunsuri": [
+     "locuitorilor",
+     "suprafață"
+    ],
+    "distractori": [
+     "orașelor",
+     "altitudine"
+    ]
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Locuitori : suprafață."
+   }
+  },
+  {
+   "id": "VI6-26",
+   "nivel": "VI-S06-populatia-terrei-evolutia-numerica",
+   "competente": [
+    "VI-2.3",
+    "VI-4.1"
+   ],
+   "tip": "grafic",
+   "dificultate": 3,
+   "enunt": "Graficul arată natalitatea și mortalitatea în trei țări imaginare (‰). În care populația scade natural?",
+   "date": {
+    "grafic": {
+     "tip": "bare",
+     "titlu": "Spor natural (natalitate − mortalitate), țări imaginare",
+     "date": [
+      {
+       "eticheta": "țara A",
+       "valoare": 12
+      },
+      {
+       "eticheta": "țara B",
+       "valoare": -4
+      },
+      {
+       "eticheta": "țara C",
+       "valoare": 2
+      }
+     ],
+     "unitate": "‰"
+    },
+    "variante": [
+     "în țara B",
+     "în țara A",
+     "în țara C",
+     "în toate"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Doar țara B are spor natural negativ."
+   }
+  },
+  {
+   "id": "VI6-27",
+   "nivel": "VI-S06-populatia-terrei-evolutia-numerica",
+   "competente": [
+    "VI-4.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 3,
+   "enunt": "Compară două țări: A are 100 loc./km², B are 10 loc./km². Ce poți spune?",
+   "date": {
+    "variante": [
+     "țara A e de 10 ori mai dens populată decât B",
+     "țara B are mai mulți locuitori sigur",
+     "sunt la fel",
+     "țara A e mai mare"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Densitatea compară cât de „aglomerat” e un teritoriu, nu mărimea lui."
+   }
+  },
+  {
+   "id": "VI6-28",
+   "nivel": "VI-S06-populatia-terrei-evolutia-numerica",
+   "competente": [
+    "VI-3.4"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Cum se numește numărarea oficială a populației unei țări?",
+   "date": {
+    "variante": [
+     "recensământ",
+     "referendum",
+     "inventar",
+     "sondaj de opinie"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "În România, ultimul recensământ s-a făcut în 2021–2022, de către INS."
+   }
+  },
+  {
+   "id": "VI6-29",
+   "nivel": "VI-S06-populatia-terrei-evolutia-numerica",
+   "competente": [
+    "VI-1.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 3,
+   "enunt": "De ce în multe țări europene populația îmbătrânește?",
+   "date": {
+    "variante": [
+     "pentru că se nasc puțini copii și oamenii trăiesc mai mult",
+     "pentru că se nasc foarte mulți copii",
+     "pentru că nu există spitale",
+     "pentru că toți tinerii vin în Europa"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Natalitatea scăzută și speranța de viață mare cresc proporția vârstnicilor."
+   }
+  },
+  {
+   "id": "VI6-30",
+   "nivel": "VI-S06-populatia-terrei-evolutia-numerica",
+   "competente": [
+    "VI-4.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce continent nu are populație permanentă?",
+   "date": {
+    "variante": [
+     "Antarctica",
+     "Australia",
+     "Europa",
+     "Africa"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "În Antarctica trăiesc doar cercetători, temporar."
+   }
+  },
+  {
+   "id": "VI7-01",
+   "nivel": "VI-S07-asezarile-omenesti-forme-locuire",
+   "competente": [
+    "VI-1.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 1,
+   "enunt": "Ce sunt așezările omenești?",
+   "date": {
+    "variante": [
+     "locurile în care oamenii trăiesc permanent",
+     "locurile de vacanță",
+     "pădurile",
+     "câmpurile cultivate"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Satele și orașele sunt așezări omenești."
+   }
+  },
+  {
+   "id": "VI7-02",
+   "nivel": "VI-S07-asezarile-omenesti-forme-locuire",
+   "competente": [
+    "VI-1.1"
+   ],
+   "tip": "asociaza",
+   "dificultate": 1,
+   "enunt": "Asociază tipul de așezare cu caracteristica.",
+   "date": {
+    "perechi": [
+     [
+      "satul",
+      "puțini locuitori, multe ocupații agricole"
+     ],
+     [
+      "orașul",
+      "mulți locuitori, industrie și servicii"
+     ],
+     [
+      "capitala",
+      "sediul conducerii țării"
+     ],
+     [
+      "megaorașul",
+      "peste 10 milioane de locuitori"
+     ]
+    ]
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Așezări rurale și urbane."
+   }
+  },
+  {
+   "id": "VI7-03",
+   "nivel": "VI-S07-asezarile-omenesti-forme-locuire",
+   "competente": [
+    "VI-1.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce ocupație e mai frecventă la sat decât la oraș?",
+   "date": {
+    "variante": [
+     "agricultura",
+     "lucrul într-o bancă",
+     "lucrul într-un aeroport",
+     "lucrul la metrou"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Satele sunt legate de pământ și animale."
+   }
+  },
+  {
+   "id": "VI7-04",
+   "nivel": "VI-S07-asezarile-omenesti-forme-locuire",
+   "competente": [
+    "VI-1.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Unde s-au format de obicei primele așezări?",
+   "date": {
+    "variante": [
+     "lângă apă, pe soluri fertile, la adăpost",
+     "în deșert, departe de apă",
+     "pe ghețari",
+     "pe vârfuri de munte"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Apa și hrana erau esențiale."
+   }
+  },
+  {
+   "id": "VI7-05",
+   "nivel": "VI-S07-asezarile-omenesti-forme-locuire",
+   "competente": [
+    "VI-3.2"
+   ],
+   "tip": "asociaza",
+   "dificultate": 2,
+   "enunt": "Asociază forma satului cu relieful în care apare des.",
+   "date": {
+    "perechi": [
+     [
+      "sat adunat",
+      "câmpie"
+     ],
+     [
+      "sat risipit",
+      "munte"
+     ],
+     [
+      "sat răsfirat",
+      "deal"
+     ],
+     [
+      "sat liniar",
+      "de-a lungul unei văi sau al unui drum"
+     ]
+    ]
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Relieful influențează forma satelor."
+   }
+  },
+  {
+   "id": "VI7-06",
+   "nivel": "VI-S07-asezarile-omenesti-forme-locuire",
+   "competente": [
+    "VI-1.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce este urbanizarea?",
+   "date": {
+    "variante": [
+     "creșterea numărului de orașe și a populației care trăiește în ele",
+     "mutarea oamenilor la sat",
+     "construirea de ferme",
+     "tăierea pădurilor"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Urban = de oraș."
+   }
+  },
+  {
+   "id": "VI7-07",
+   "nivel": "VI-S07-asezarile-omenesti-forme-locuire",
+   "competente": [
+    "VI-3.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce parte din populația lumii trăiește astăzi la oraș?",
+   "date": {
+    "variante": [
+     "mai mult de jumătate",
+     "o zecime",
+     "un sfert",
+     "aproape nimeni"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Peste jumătate din oameni trăiesc în orașe, după ONU."
+   },
+   "surse": [
+    "ONU (UN DESA) – World Urbanization Prospects 2025",
+    "Banca Mondială – Urban population (% of total)"
+   ]
+  },
+  {
+   "id": "VI7-08",
+   "nivel": "VI-S07-asezarile-omenesti-forme-locuire",
+   "competente": [
+    "VI-3.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Care e cea mai populată aglomerare urbană din lume, după raportul ONU din 2025?",
+   "date": {
+    "variante": [
+     "Jakarta (Indonezia)",
+     "București",
+     "Paris",
+     "New York"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Jakarta, cu aproximativ 42 de milioane de locuitori, urmată de Dhaka și Tokyo."
+   },
+   "surse": [
+    "ONU (UN DESA) – World Urbanization Prospects 2025",
+    "Al Jazeera, 26.11.2025 – Jakarta now the world's largest city, Tokyo falls to third"
+   ]
+  },
+  {
+   "id": "VI7-09",
+   "nivel": "VI-S07-asezarile-omenesti-forme-locuire",
+   "competente": [
+    "VI-4.3"
+   ],
+   "tip": "ordoneaza",
+   "dificultate": 3,
+   "enunt": "Ordonează aglomerările urbane după populație, după raportul ONU din 2025.",
+   "date": {
+    "elemente": [
+     "Jakarta",
+     "Dhaka",
+     "Tokyo"
+    ],
+    "criteriu": "De la cea mai populată"
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Jakarta, Dhaka, Tokyo."
+   },
+   "surse": [
+    "ONU (UN DESA) – World Urbanization Prospects 2025",
+    "Al Jazeera, 26.11.2025 – Jakarta now the world's largest city, Tokyo falls to third"
+   ]
+  },
+  {
+   "id": "VI7-10",
+   "nivel": "VI-S07-asezarile-omenesti-forme-locuire",
+   "competente": [
+    "VI-2.1"
+   ],
+   "tip": "pin",
+   "dificultate": 2,
+   "enunt": "Atinge pe hartă Jakarta, cea mai populată aglomerare urbană.",
+   "date": {
+    "harta": "lume",
+    "tinta": {
+     "lat": -6.2,
+     "lon": 106.8,
+     "nume": "Jakarta"
+    },
+    "toleranta": 700
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Jakarta e pe insula Java, în Indonezia."
+   },
+   "surse": [
+    "ONU (UN DESA) – World Urbanization Prospects 2025",
+    "Al Jazeera, 26.11.2025 – Jakarta now the world's largest city, Tokyo falls to third"
+   ]
+  },
+  {
+   "id": "VI7-11",
+   "nivel": "VI-S07-asezarile-omenesti-forme-locuire",
+   "competente": [
+    "VI-2.1"
+   ],
+   "tip": "pin",
+   "dificultate": 2,
+   "enunt": "Atinge pe hartă Tokyo.",
+   "date": {
+    "harta": "lume",
+    "tinta": {
+     "lat": 35.7,
+     "lon": 139.7,
+     "nume": "Tokyo"
+    },
+    "toleranta": 600
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Tokyo e capitala Japoniei."
+   }
+  },
+  {
+   "id": "VI7-12",
+   "nivel": "VI-S07-asezarile-omenesti-forme-locuire",
+   "competente": [
+    "VI-2.1"
+   ],
+   "tip": "pin",
+   "dificultate": 3,
+   "enunt": "Atinge pe hartă New York.",
+   "date": {
+    "harta": "lume",
+    "tinta": {
+     "lat": 40.7,
+     "lon": -74,
+     "nume": "New York"
+    },
+    "toleranta": 600
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "New York e pe coasta de est a SUA."
+   }
+  },
+  {
+   "id": "VI7-13",
+   "nivel": "VI-S07-asezarile-omenesti-forme-locuire",
+   "competente": [
+    "VI-1.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce funcție are un oraș-port, ca Constanța?",
+   "date": {
+    "variante": [
+     "transport și comerț pe mare",
+     "exploatarea cărbunelui",
+     "agricultura montană",
+     "sporturile de iarnă"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Portul Constanța e cel mai mare de la Marea Neagră."
+   }
+  },
+  {
+   "id": "VI7-14",
+   "nivel": "VI-S07-asezarile-omenesti-forme-locuire",
+   "competente": [
+    "VI-1.2"
+   ],
+   "tip": "asociaza",
+   "dificultate": 2,
+   "enunt": "Asociază orașul cu funcția lui principală.",
+   "date": {
+    "perechi": [
+     [
+      "Constanța",
+      "port maritim"
+     ],
+     [
+      "Sinaia",
+      "stațiune turistică montană"
+     ],
+     [
+      "Petroșani",
+      "centru minier"
+     ],
+     [
+      "București",
+      "capitală, centru administrativ"
+     ]
+    ]
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Orașele au funcții diferite."
+   }
+  },
+  {
+   "id": "VI7-15",
+   "nivel": "VI-S07-asezarile-omenesti-forme-locuire",
+   "competente": [
+    "VI-3.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce probleme au orașele foarte mari?",
+   "date": {
+    "variante": [
+     "aglomerație în trafic, poluare, locuințe scumpe",
+     "lipsa totală a școlilor",
+     "prea puțini oameni",
+     "prea multe ferme"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Creșterea rapidă a orașelor aduce probleme."
+   }
+  },
+  {
+   "id": "VI7-16",
+   "nivel": "VI-S07-asezarile-omenesti-forme-locuire",
+   "competente": [
+    "VI-3.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "De ce mulți tineri se mută de la sat la oraș?",
+   "date": {
+    "variante": [
+     "pentru locuri de muncă, școli și servicii",
+     "pentru că la oraș e aer mai curat",
+     "pentru că la oraș sunt mai multe animale",
+     "pentru că satele dispar peste noapte"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Orașele oferă mai multe oportunități."
+   }
+  },
+  {
+   "id": "VI7-17",
+   "nivel": "VI-S07-asezarile-omenesti-forme-locuire",
+   "competente": [
+    "VI-1.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Adevărat sau fals? Toate satele au aceeași formă, indiferent de relief.",
+   "date": {
+    "variante": [
+     "Fals",
+     "Adevărat"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Fals: la munte casele sunt risipite; la câmpie, adunate."
+   }
+  },
+  {
+   "id": "VI7-18",
+   "nivel": "VI-S07-asezarile-omenesti-forme-locuire",
+   "competente": [
+    "VI-3.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Adevărat sau fals? În orașe, majoritatea oamenilor lucrează în industrie și servicii.",
+   "date": {
+    "variante": [
+     "Adevărat",
+     "Fals"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Adevărat: agricultura e mai ales la sat."
+   }
+  },
+  {
+   "id": "VI7-19",
+   "nivel": "VI-S07-asezarile-omenesti-forme-locuire",
+   "competente": [
+    "VI-1.1"
+   ],
+   "tip": "lacunar",
+   "dificultate": 2,
+   "enunt": "Completează.",
+   "date": {
+    "text": "Satele sunt așezări {0}, iar orașele sunt așezări {1}.",
+    "raspunsuri": [
+     "rurale",
+     "urbane"
+    ],
+    "distractori": [
+     "montane",
+     "maritime"
+    ]
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Rural – sat; urban – oraș."
+   }
+  },
+  {
+   "id": "VI7-20",
+   "nivel": "VI-S07-asezarile-omenesti-forme-locuire",
+   "competente": [
+    "VI-1.1"
+   ],
+   "tip": "lacunar",
+   "dificultate": 2,
+   "enunt": "Completează.",
+   "date": {
+    "text": "Creșterea populației orașelor se numește {0}; orașele cu peste 10 milioane de locuitori se numesc {1}.",
+    "raspunsuri": [
+     "urbanizare",
+     "megaorașe"
+    ],
+    "distractori": [
+     "migrație",
+     "sate"
+    ]
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Urbanizare, megaorașe."
+   }
+  },
+  {
+   "id": "VI7-21",
+   "nivel": "VI-S07-asezarile-omenesti-forme-locuire",
+   "competente": [
+    "VI-3.4"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce oraș din România este capitala?",
+   "date": {
+    "variante": [
+     "București",
+     "Cluj-Napoca",
+     "Iași",
+     "Buzău"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "București e cel mai mare oraș al României."
+   }
+  },
+  {
+   "id": "VI7-22",
+   "nivel": "VI-S07-asezarile-omenesti-forme-locuire",
+   "competente": [
+    "VI-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce fel de așezare este Râmnicu Sărat?",
+   "date": {
+    "variante": [
+     "un oraș (municipiu) din județul Buzău",
+     "un sat de munte",
+     "capitala județului",
+     "o stațiune pe litoral"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Reședința județului Buzău e municipiul Buzău."
+   }
+  },
+  {
+   "id": "VI7-23",
+   "nivel": "VI-S07-asezarile-omenesti-forme-locuire",
+   "competente": [
+    "VI-1.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 3,
+   "enunt": "Ce este o zonă metropolitană?",
+   "date": {
+    "variante": [
+     "un oraș mare împreună cu localitățile din jur, legate prin muncă și transport",
+     "un sat izolat",
+     "un parc național",
+     "o țară mică"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Mulți oameni locuiesc în jurul orașului și fac naveta zilnic."
+   }
+  },
+  {
+   "id": "VI7-24",
+   "nivel": "VI-S07-asezarile-omenesti-forme-locuire",
+   "competente": [
+    "VI-1.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce înseamnă navetă?",
+   "date": {
+    "variante": [
+     "drumul zilnic între locuință și locul de muncă sau școală, din altă localitate",
+     "mutarea definitivă în altă țară",
+     "o excursie de vacanță",
+     "un tren de marfă"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Navetiștii locuiesc într-o localitate și lucrează în alta."
+   }
+  },
+  {
+   "id": "VI7-25",
+   "nivel": "VI-S07-asezarile-omenesti-forme-locuire",
+   "competente": [
+    "VI-2.3",
+    "VI-4.1"
+   ],
+   "tip": "grafic",
+   "dificultate": 3,
+   "enunt": "Graficul arată proporția populației urbane în trei țări imaginare. Care e cea mai urbanizată?",
+   "date": {
+    "grafic": {
+     "tip": "bare",
+     "titlu": "Populația urbană (date imaginare)",
+     "date": [
+      {
+       "eticheta": "țara A",
+       "valoare": 82
+      },
+      {
+       "eticheta": "țara B",
+       "valoare": 35
+      },
+      {
+       "eticheta": "țara C",
+       "valoare": 55
+      }
+     ],
+     "unitate": "%"
+    },
+    "variante": [
+     "țara A",
+     "țara B",
+     "țara C",
+     "sunt egale"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "În țara A, 82 % din oameni trăiesc la oraș."
+   }
+  },
+  {
+   "id": "VI7-26",
+   "nivel": "VI-S07-asezarile-omenesti-forme-locuire",
+   "competente": [
+    "VI-4.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 3,
+   "enunt": "Compară un sat de munte cu un sat de câmpie.",
+   "date": {
+    "variante": [
+     "la munte casele sunt risipite și se cresc animale; la câmpie casele sunt adunate și se cultivă cereale",
+     "sunt identice",
+     "la munte se cultivă orez",
+     "la câmpie casele sunt pe stânci"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Relieful decide forma și ocupațiile."
+   }
+  },
+  {
+   "id": "VI7-27",
+   "nivel": "VI-S07-asezarile-omenesti-forme-locuire",
+   "competente": [
+    "VI-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "De ce în satele de la munte se cresc mai ales oi și vaci?",
+   "date": {
+    "variante": [
+     "pentru că acolo sunt pajiști bogate, dar terenul e prea înclinat pentru culturi mari",
+     "pentru că e cald tot anul",
+     "pentru că sunt multe fabrici",
+     "pentru că plouă puțin"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Pășunile alpine sunt potrivite pentru animale."
+   }
+  },
+  {
+   "id": "VI7-28",
+   "nivel": "VI-S07-asezarile-omenesti-forme-locuire",
+   "competente": [
+    "VI-2.1"
+   ],
+   "tip": "denumeste",
+   "dificultate": 2,
+   "enunt": "Ce capitală europeană e marcată pe hartă?",
+   "date": {
+    "harta": "lume",
+    "punct": {
+     "lat": 48.86,
+     "lon": 2.35
+    },
+    "variante": [
+     "Paris",
+     "Londra",
+     "Roma",
+     "Madrid"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Parisul e capitala Franței, pe Sena."
+   }
+  },
+  {
+   "id": "VI7-29",
+   "nivel": "VI-S07-asezarile-omenesti-forme-locuire",
+   "competente": [
+    "VI-4.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce clădiri și servicii găsești de obicei într-un oraș, dar rar într-un sat?",
+   "date": {
+    "variante": [
+     "spital mare, universitate, teatru, gară importantă",
+     "fântână",
+     "grajd",
+     "livadă"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Orașele concentrează serviciile."
+   }
+  },
+  {
+   "id": "VI7-30",
+   "nivel": "VI-S07-asezarile-omenesti-forme-locuire",
+   "competente": [
+    "VI-3.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 3,
+   "enunt": "Ce înseamnă că un oraș „se extinde”?",
+   "date": {
+    "variante": [
+     "se construiesc cartiere noi la marginea lui, pe foste terenuri agricole",
+     "devine sat",
+     "se mută în alt loc",
+     "își pierde locuitorii"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Extinderea orașelor consumă teren."
+   }
+  },
+  {
+   "id": "VI8-01",
+   "nivel": "VI-S08-resursele-naturale-valorificarea-acestora",
+   "competente": [
+    "VI-1.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 1,
+   "enunt": "Ce sunt resursele naturale?",
+   "date": {
+    "variante": [
+     "bogățiile luate din natură și folosite de oameni",
+     "obiectele fabricate",
+     "banii unei țări",
+     "clădirile"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Apa, solul, pădurile, mineralele, combustibilii."
+   }
+  },
+  {
+   "id": "VI8-02",
+   "nivel": "VI-S08-resursele-naturale-valorificarea-acestora",
+   "competente": [
+    "VI-1.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 1,
+   "enunt": "Ce înseamnă resursă regenerabilă?",
+   "date": {
+    "variante": [
+     "o resursă care se reface sau nu se termină",
+     "o resursă care se termină repede",
+     "o resursă fabricată",
+     "o resursă scumpă"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Soarele, vântul, apa, pădurile folosite cu grijă."
+   }
+  },
+  {
+   "id": "VI8-03",
+   "nivel": "VI-S08-resursele-naturale-valorificarea-acestora",
+   "competente": [
+    "VI-1.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 1,
+   "enunt": "Ce înseamnă resursă neregenerabilă?",
+   "date": {
+    "variante": [
+     "o resursă care se termină, pentru că s-a format în milioane de ani",
+     "o resursă care se reface într-un an",
+     "energia Soarelui",
+     "vântul"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Petrolul, gazele, cărbunele."
+   }
+  },
+  {
+   "id": "VI8-04",
+   "nivel": "VI-S08-resursele-naturale-valorificarea-acestora",
+   "competente": [
+    "VI-1.2"
+   ],
+   "tip": "asociaza",
+   "dificultate": 2,
+   "enunt": "Asociază resursa cu tipul ei.",
+   "date": {
+    "perechi": [
+     [
+      "energia Soarelui",
+      "regenerabilă, inepuizabilă"
+     ],
+     [
+      "petrolul",
+      "neregenerabilă, combustibil fosil"
+     ],
+     [
+      "pădurea",
+      "regenerabilă, dacă e replantată"
+     ],
+     [
+      "minereul de fier",
+      "neregenerabilă, resursă minerală"
+     ]
+    ]
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Combustibilii fosili și minereurile nu se refac."
+   }
+  },
+  {
+   "id": "VI8-05",
+   "nivel": "VI-S08-resursele-naturale-valorificarea-acestora",
+   "competente": [
+    "VI-1.2"
+   ],
+   "tip": "asociaza",
+   "dificultate": 2,
+   "enunt": "Asociază resursa cu folosirea ei.",
+   "date": {
+    "perechi": [
+     [
+      "petrolul",
+      "benzină și motorină"
+     ],
+     [
+      "minereul de fier",
+      "oțel"
+     ],
+     [
+      "lemnul",
+      "mobilă și hârtie"
+     ],
+     [
+      "sarea",
+      "alimentație și industrie chimică"
+     ]
+    ]
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Resursele devin produse."
+   }
+  },
+  {
+   "id": "VI8-06",
+   "nivel": "VI-S08-resursele-naturale-valorificarea-acestora",
+   "competente": [
+    "VI-3.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "De ce petrolul e o resursă neregenerabilă?",
+   "date": {
+    "variante": [
+     "pentru că s-a format în milioane de ani din resturi de viețuitoare",
+     "pentru că e lichid",
+     "pentru că e negru",
+     "pentru că se găsește doar în mare"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Îl consumăm mult mai repede decât se poate forma."
+   }
+  },
+  {
+   "id": "VI8-07",
+   "nivel": "VI-S08-resursele-naturale-valorificarea-acestora",
+   "competente": [
+    "VI-1.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Cum se numesc combustibilii formați din resturi vechi de plante și animale?",
+   "date": {
+    "variante": [
+     "combustibili fosili",
+     "combustibili solari",
+     "combustibili verzi",
+     "combustibili de mare"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Cărbunele, petrolul și gazele naturale sunt fosili."
+   }
+  },
+  {
+   "id": "VI8-08",
+   "nivel": "VI-S08-resursele-naturale-valorificarea-acestora",
+   "competente": [
+    "VI-3.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce sursă de energie folosește o hidrocentrală?",
+   "date": {
+    "variante": [
+     "apa în mișcare",
+     "cărbunele",
+     "vântul",
+     "uraniul"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Apa din lac curge prin turbine."
+   }
+  },
+  {
+   "id": "VI8-09",
+   "nivel": "VI-S08-resursele-naturale-valorificarea-acestora",
+   "competente": [
+    "VI-3.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce sursă de energie folosesc panourile fotovoltaice?",
+   "date": {
+    "variante": [
+     "lumina Soarelui",
+     "vântul",
+     "petrolul",
+     "valurile"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Panourile transformă lumina în electricitate."
+   }
+  },
+  {
+   "id": "VI8-10",
+   "nivel": "VI-S08-resursele-naturale-valorificarea-acestora",
+   "competente": [
+    "VI-3.4"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce hidrocentrală mare din România e pe Dunăre?",
+   "date": {
+    "variante": [
+     "Porțile de Fier",
+     "Vidraru",
+     "Bicaz",
+     "Lotru"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Porțile de Fier I e cea mai mare hidrocentrală din România."
+   }
+  },
+  {
+   "id": "VI8-11",
+   "nivel": "VI-S08-resursele-naturale-valorificarea-acestora",
+   "competente": [
+    "VI-3.4"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Unde se află centrala nucleară a României?",
+   "date": {
+    "variante": [
+     "la Cernavodă",
+     "la Petroșani",
+     "la Sibiu",
+     "la Râmnicu Sărat"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Centrala nucleară de la Cernavodă e în județul Constanța."
+   }
+  },
+  {
+   "id": "VI8-12",
+   "nivel": "VI-S08-resursele-naturale-valorificarea-acestora",
+   "competente": [
+    "VI-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce resursă energetică se exploatează tradițional în Valea Jiului?",
+   "date": {
+    "variante": [
+     "cărbunele (huila)",
+     "petrolul",
+     "aurul",
+     "sarea"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Valea Jiului a fost principalul bazin carbonifer al României."
+   }
+  },
+  {
+   "id": "VI8-13",
+   "nivel": "VI-S08-resursele-naturale-valorificarea-acestora",
+   "competente": [
+    "VI-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce resursă s-a exploatat de foarte mult timp în Munții Apuseni?",
+   "date": {
+    "variante": [
+     "aurul",
+     "petrolul",
+     "cărbunele",
+     "uraniul"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Roșia Montană e o veche zonă auriferă, cu galerii din epoca romană."
+   }
+  },
+  {
+   "id": "VI8-14",
+   "nivel": "VI-S08-resursele-naturale-valorificarea-acestora",
+   "competente": [
+    "VI-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce resursă se exploata în salina de la Slănic (Prahova)?",
+   "date": {
+    "variante": [
+     "sarea",
+     "petrolul",
+     "aurul",
+     "cuprul"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Salinele vechi sunt azi și atracții turistice."
+   }
+  },
+  {
+   "id": "VI8-15",
+   "nivel": "VI-S08-resursele-naturale-valorificarea-acestora",
+   "competente": [
+    "VI-4.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce înseamnă folosirea durabilă a resurselor?",
+   "date": {
+    "variante": [
+     "să iei din natură atât cât se poate reface, ca să ajungă și pentru viitor",
+     "să consumi tot cât mai repede",
+     "să nu folosești nicio resursă",
+     "să arunci resursele"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Grija pentru generațiile viitoare."
+   }
+  },
+  {
+   "id": "VI8-16",
+   "nivel": "VI-S08-resursele-naturale-valorificarea-acestora",
+   "competente": [
+    "VI-4.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce poți face ca să economisești resurse acasă?",
+   "date": {
+    "variante": [
+     "stingi lumina când ieși din cameră și reciclezi",
+     "lași aparatele pornite",
+     "arunci tot la un loc",
+     "folosești mereu pungi noi"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Economia de energie și reciclarea ajută."
+   }
+  },
+  {
+   "id": "VI8-17",
+   "nivel": "VI-S08-resursele-naturale-valorificarea-acestora",
+   "competente": [
+    "VI-3.2"
+   ],
+   "tip": "ordoneaza",
+   "dificultate": 2,
+   "enunt": "Ordonează drumul unei doze de aluminiu reciclate.",
+   "date": {
+    "elemente": [
+     "arunci doza la containerul galben",
+     "dozele sunt colectate",
+     "sunt topite la fabrică",
+     "din aluminiu se fac doze noi"
+    ],
+    "criteriu": "Reciclarea"
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Colectare, topire, produs nou."
+   }
+  },
+  {
+   "id": "VI8-18",
+   "nivel": "VI-S08-resursele-naturale-valorificarea-acestora",
+   "competente": [
+    "VI-1.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Adevărat sau fals? Pădurile sunt o resursă regenerabilă doar dacă sunt replantate și nu sunt tăiate mai repede decât cresc.",
+   "date": {
+    "variante": [
+     "Adevărat",
+     "Fals"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Adevărat: folosirea cu grijă păstrează pădurea."
+   }
+  },
+  {
+   "id": "VI8-19",
+   "nivel": "VI-S08-resursele-naturale-valorificarea-acestora",
+   "competente": [
+    "VI-1.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 1,
+   "enunt": "Adevărat sau fals? Vântul se poate termina dacă îl folosim prea mult.",
+   "date": {
+    "variante": [
+     "Fals",
+     "Adevărat"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Fals: vântul e o resursă inepuizabilă."
+   }
+  },
+  {
+   "id": "VI8-20",
+   "nivel": "VI-S08-resursele-naturale-valorificarea-acestora",
+   "competente": [
+    "VI-1.1"
+   ],
+   "tip": "lacunar",
+   "dificultate": 2,
+   "enunt": "Completează.",
+   "date": {
+    "text": "Petrolul și cărbunele sunt resurse {0}, iar Soarele și vântul sunt resurse {1}.",
+    "raspunsuri": [
+     "neregenerabile",
+     "regenerabile"
+    ],
+    "distractori": [
+     "fabricate",
+     "rare"
+    ]
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Fosile – neregenerabile; Soare, vânt – regenerabile."
+   }
+  },
+  {
+   "id": "VI8-21",
+   "nivel": "VI-S08-resursele-naturale-valorificarea-acestora",
+   "competente": [
+    "VI-3.2"
+   ],
+   "tip": "lacunar",
+   "dificultate": 2,
+   "enunt": "Completează.",
+   "date": {
+    "text": "Centralele care folosesc vântul se numesc centrale {0}; cele care folosesc apa se numesc {1}.",
+    "raspunsuri": [
+     "eoliene",
+     "hidrocentrale"
+    ],
+    "distractori": [
+     "nucleare",
+     "termocentrale"
+    ]
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Eolian = de la vânt (Eol, zeul vântului)."
+   }
+  },
+  {
+   "id": "VI8-22",
+   "nivel": "VI-S08-resursele-naturale-valorificarea-acestora",
+   "competente": [
+    "VI-2.3",
+    "VI-4.1"
+   ],
+   "tip": "grafic",
+   "dificultate": 3,
+   "enunt": "Graficul arată din ce surse produce energie o țară imaginară. Ce sursă e cea mai importantă?",
+   "date": {
+    "grafic": {
+     "tip": "structura",
+     "titlu": "Producția de electricitate (țară imaginară)",
+     "date": [
+      {
+       "eticheta": "hidro",
+       "valoare": 30
+      },
+      {
+       "eticheta": "nuclear",
+       "valoare": 20
+      },
+      {
+       "eticheta": "cărbune",
+       "valoare": 15
+      },
+      {
+       "eticheta": "gaze",
+       "valoare": 15
+      },
+      {
+       "eticheta": "vânt și Soare",
+       "valoare": 20
+      }
+     ],
+     "unitate": "%"
+    },
+    "variante": [
+     "hidroenergia",
+     "cărbunele",
+     "gazele",
+     "nuclearul"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Hidroenergia are cea mai mare parte: 30 %."
+   }
+  },
+  {
+   "id": "VI8-23",
+   "nivel": "VI-S08-resursele-naturale-valorificarea-acestora",
+   "competente": [
+    "VI-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce țară din Orientul Mijlociu are rezerve uriașe de petrol?",
+   "date": {
+    "variante": [
+     "Arabia Saudită",
+     "Elveția",
+     "Islanda",
+     "Portugalia"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Golful Persic are mari rezerve de petrol."
+   }
+  },
+  {
+   "id": "VI8-24",
+   "nivel": "VI-S08-resursele-naturale-valorificarea-acestora",
+   "competente": [
+    "VI-2.1"
+   ],
+   "tip": "pin",
+   "dificultate": 3,
+   "enunt": "Atinge pe hartă zona Golfului Persic, bogată în petrol.",
+   "date": {
+    "harta": "lume",
+    "tinta": {
+     "lat": 27,
+     "lon": 51,
+     "nume": "Golful Persic"
+    },
+    "toleranta": 600
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Golful Persic e între Peninsula Arabia și Iran."
+   }
+  },
+  {
+   "id": "VI8-25",
+   "nivel": "VI-S08-resursele-naturale-valorificarea-acestora",
+   "competente": [
+    "VI-3.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 3,
+   "enunt": "De ce parcurile eoliene se construiesc des în Dobrogea?",
+   "date": {
+    "variante": [
+     "pentru că acolo bate des vânt puternic, iar terenul e deschis",
+     "pentru că acolo e mult cărbune",
+     "pentru că acolo sunt munți înalți",
+     "pentru că plouă mult"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Vântul constant face eolienele eficiente."
+   }
+  },
+  {
+   "id": "VI8-26",
+   "nivel": "VI-S08-resursele-naturale-valorificarea-acestora",
+   "competente": [
+    "VI-3.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce resursă e baza agriculturii?",
+   "date": {
+    "variante": [
+     "solul fertil (și apa)",
+     "petrolul",
+     "aurul",
+     "uraniul"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Fără sol fertil nu există recolte bune."
+   }
+  },
+  {
+   "id": "VI8-27",
+   "nivel": "VI-S08-resursele-naturale-valorificarea-acestora",
+   "competente": [
+    "VI-1.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 3,
+   "enunt": "Ce problemă apare când o țară depinde de o singură resursă, de exemplu petrolul?",
+   "date": {
+    "variante": [
+     "când prețul petrolului scade sau rezervele se termină, economia are de suferit",
+     "nu apare nicio problemă",
+     "țara devine mai rece",
+     "țara pierde pădurile automat"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Diversificarea economiei e mai sigură."
+   }
+  },
+  {
+   "id": "VI8-28",
+   "nivel": "VI-S08-resursele-naturale-valorificarea-acestora",
+   "competente": [
+    "VI-4.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce culoare are, de obicei, containerul pentru hârtie și carton, în România?",
+   "date": {
+    "variante": [
+     "albastru",
+     "galben",
+     "verde",
+     "roșu"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Albastru – hârtie; galben – plastic și metal; verde – sticlă."
+   }
+  },
+  {
+   "id": "VI8-29",
+   "nivel": "VI-S08-resursele-naturale-valorificarea-acestora",
+   "competente": [
+    "VI-2.1"
+   ],
+   "tip": "denumeste",
+   "dificultate": 2,
+   "enunt": "Ce țară bogată în petrol și gaze din nordul Europei e marcată pe hartă?",
+   "date": {
+    "harta": "lume",
+    "punct": {
+     "lat": 62,
+     "lon": 9
+    },
+    "variante": [
+     "Norvegia",
+     "Suedia",
+     "Finlanda",
+     "Islanda"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Norvegia exploatează petrol și gaze din Marea Nordului."
+   }
+  },
+  {
+   "id": "VI8-30",
+   "nivel": "VI-S08-resursele-naturale-valorificarea-acestora",
+   "competente": [
+    "VI-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 3,
+   "enunt": "Ce înseamnă „economie circulară”?",
+   "date": {
+    "variante": [
+     "produsele sunt folosite mai mult timp, reparate și reciclate, în loc să fie aruncate",
+     "mașinile merg în cerc",
+     "fabricile sunt rotunde",
+     "se aruncă tot după o folosire"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Deșeurile devin resurse."
+   }
+  },
+  {
+   "id": "VI9-01",
+   "nivel": "VI-S09-domeniile-activitatilor-economice-terra",
+   "competente": [
+    "VI-1.1"
+   ],
+   "tip": "asociaza",
+   "dificultate": 1,
+   "enunt": "Asociază ocupația cu domeniul economic.",
+   "date": {
+    "perechi": [
+     [
+      "fermierul",
+      "agricultură"
+     ],
+     [
+      "muncitorul din fabrica de mașini",
+      "industrie"
+     ],
+     [
+      "profesorul",
+      "servicii – educație"
+     ],
+     [
+      "medicul",
+      "servicii – sănătate"
+     ]
+    ]
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Trei mari domenii: agricultură, industrie, servicii."
+   }
+  },
+  {
+   "id": "VI9-02",
+   "nivel": "VI-S09-domeniile-activitatilor-economice-terra",
+   "competente": [
+    "VI-1.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 1,
+   "enunt": "Ce cuprinde agricultura?",
+   "date": {
+    "variante": [
+     "cultivarea plantelor și creșterea animalelor",
+     "fabricarea mașinilor",
+     "transportul cu avionul",
+     "băncile"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Agricultura produce hrană."
+   }
+  },
+  {
+   "id": "VI9-03",
+   "nivel": "VI-S09-domeniile-activitatilor-economice-terra",
+   "competente": [
+    "VI-1.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 1,
+   "enunt": "Ce face industria?",
+   "date": {
+    "variante": [
+     "transformă materiile prime în produse",
+     "cultivă plante",
+     "predă la școală",
+     "transportă turiști"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Industria fabrică produse."
+   }
+  },
+  {
+   "id": "VI9-04",
+   "nivel": "VI-S09-domeniile-activitatilor-economice-terra",
+   "competente": [
+    "VI-1.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 1,
+   "enunt": "Ce sunt serviciile?",
+   "date": {
+    "variante": [
+     "activități care ajută oamenii, fără să producă obiecte (transport, comerț, educație, sănătate)",
+     "cultivarea grâului",
+     "extragerea cărbunelui",
+     "fabricarea oțelului"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Serviciile sunt cel mai mare domeniu în țările dezvoltate."
+   }
+  },
+  {
+   "id": "VI9-05",
+   "nivel": "VI-S09-domeniile-activitatilor-economice-terra",
+   "competente": [
+    "VI-3.2"
+   ],
+   "tip": "asociaza",
+   "dificultate": 2,
+   "enunt": "Asociază planta cultivată cu zona potrivită.",
+   "date": {
+    "perechi": [
+     [
+      "orezul",
+      "Asia musonică, cu ploi multe"
+     ],
+     [
+      "grâul",
+      "câmpiile din zona temperată"
+     ],
+     [
+      "cafeaua",
+      "zona caldă, pe podișuri"
+     ],
+     [
+      "măslinul",
+      "zona mediteraneeană"
+     ]
+    ]
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Clima decide culturile."
+   }
+  },
+  {
+   "id": "VI9-06",
+   "nivel": "VI-S09-domeniile-activitatilor-economice-terra",
+   "competente": [
+    "VI-3.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce cultură e hrana de bază pentru mulți oameni din Asia?",
+   "date": {
+    "variante": [
+     "orezul",
+     "cartoful",
+     "ovăzul",
+     "secara"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Orezul are nevoie de căldură și multă apă."
+   }
+  },
+  {
+   "id": "VI9-07",
+   "nivel": "VI-S09-domeniile-activitatilor-economice-terra",
+   "competente": [
+    "VI-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce țară e cel mai mare producător de cafea?",
+   "date": {
+    "variante": [
+     "Brazilia",
+     "Norvegia",
+     "Canada",
+     "Egipt"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Brazilia are climă caldă și podișuri potrivite."
+   }
+  },
+  {
+   "id": "VI9-08",
+   "nivel": "VI-S09-domeniile-activitatilor-economice-terra",
+   "competente": [
+    "VI-1.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce înseamnă industria extractivă?",
+   "date": {
+    "variante": [
+     "scoaterea resurselor din pământ (cărbune, petrol, minereuri)",
+     "fabricarea hainelor",
+     "construirea de mașini",
+     "vânzarea în magazine"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Extragere = scoatere."
+   }
+  },
+  {
+   "id": "VI9-09",
+   "nivel": "VI-S09-domeniile-activitatilor-economice-terra",
+   "competente": [
+    "VI-1.2"
+   ],
+   "tip": "asociaza",
+   "dificultate": 2,
+   "enunt": "Asociază ramura industriei cu produsul.",
+   "date": {
+    "perechi": [
+     [
+      "industria alimentară",
+      "pâine, lapte, conserve"
+     ],
+     [
+      "industria textilă",
+      "țesături și haine"
+     ],
+     [
+      "industria construcțiilor de mașini",
+      "automobile, tractoare"
+     ],
+     [
+      "industria chimică",
+      "medicamente, îngrășăminte"
+     ]
+    ]
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Ramurile industriei."
+   }
+  },
+  {
+   "id": "VI9-10",
+   "nivel": "VI-S09-domeniile-activitatilor-economice-terra",
+   "competente": [
+    "VI-3.2"
+   ],
+   "tip": "ordoneaza",
+   "dificultate": 2,
+   "enunt": "Ordonează drumul pâinii de la câmp la masă.",
+   "date": {
+    "elemente": [
+     "fermierul seamănă grâul",
+     "grâul e recoltat",
+     "la moară se face făina",
+     "la brutărie se coace pâinea",
+     "pâinea e vândută în magazin"
+    ],
+    "criteriu": "De la câmp la masă"
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Agricultură → industrie → servicii (comerț)."
+   }
+  },
+  {
+   "id": "VI9-11",
+   "nivel": "VI-S09-domeniile-activitatilor-economice-terra",
+   "competente": [
+    "VI-3.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "În drumul pâinii, ce etapă ține de servicii?",
+   "date": {
+    "variante": [
+     "vânzarea în magazin și transportul",
+     "semănatul",
+     "măcinatul",
+     "recoltarea"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Comerțul și transportul sunt servicii."
+   }
+  },
+  {
+   "id": "VI9-12",
+   "nivel": "VI-S09-domeniile-activitatilor-economice-terra",
+   "competente": [
+    "VI-3.4"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce fabrică de automobile cunoscută are România la Mioveni?",
+   "date": {
+    "variante": [
+     "Dacia",
+     "Volvo",
+     "Ferrari",
+     "Toyota"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Uzina Dacia de la Mioveni (județul Argeș)."
+   }
+  },
+  {
+   "id": "VI9-13",
+   "nivel": "VI-S09-domeniile-activitatilor-economice-terra",
+   "competente": [
+    "VI-1.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce înseamnă turism?",
+   "date": {
+    "variante": [
+     "călătoria oamenilor pentru odihnă, cunoaștere sau distracție, în alt loc decât cel în care locuiesc",
+     "lucrul la fabrică",
+     "cultivarea viei",
+     "construirea drumurilor"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Turismul e un serviciu important."
+   }
+  },
+  {
+   "id": "VI9-14",
+   "nivel": "VI-S09-domeniile-activitatilor-economice-terra",
+   "competente": [
+    "VI-3.2"
+   ],
+   "tip": "asociaza",
+   "dificultate": 2,
+   "enunt": "Asociază mijlocul de transport cu caracteristica lui.",
+   "date": {
+    "perechi": [
+     [
+      "avionul",
+      "cel mai rapid pe distanțe mari"
+     ],
+     [
+      "vaporul",
+      "cel mai potrivit pentru mărfuri grele, pe mare"
+     ],
+     [
+      "trenul",
+      "mulți pasageri și mărfuri pe uscat"
+     ],
+     [
+      "conducta",
+      "petrol și gaze"
+     ]
+    ]
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Fiecare transport are avantajele lui."
+   }
+  },
+  {
+   "id": "VI9-15",
+   "nivel": "VI-S09-domeniile-activitatilor-economice-terra",
+   "competente": [
+    "VI-1.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "În ce domeniu lucrează majoritatea oamenilor în țările dezvoltate?",
+   "date": {
+    "variante": [
+     "în servicii",
+     "în agricultură",
+     "în mine",
+     "în pescuit"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "În țările dezvoltate, agricultura folosește puțini oameni, dar cu mașini moderne."
+   }
+  },
+  {
+   "id": "VI9-16",
+   "nivel": "VI-S09-domeniile-activitatilor-economice-terra",
+   "competente": [
+    "VI-1.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Adevărat sau fals? Agricultura dă materii prime și pentru industrie.",
+   "date": {
+    "variante": [
+     "Adevărat",
+     "Fals"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Adevărat: bumbacul, lâna, sfecla de zahăr ajung în fabrici."
+   }
+  },
+  {
+   "id": "VI9-17",
+   "nivel": "VI-S09-domeniile-activitatilor-economice-terra",
+   "competente": [
+    "VI-1.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Adevărat sau fals? Serviciile produc obiecte, ca mașinile și hainele.",
+   "date": {
+    "variante": [
+     "Fals",
+     "Adevărat"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Fals: obiectele le produce industria; serviciile ajută oamenii."
+   }
+  },
+  {
+   "id": "VI9-18",
+   "nivel": "VI-S09-domeniile-activitatilor-economice-terra",
+   "competente": [
+    "VI-1.1"
+   ],
+   "tip": "lacunar",
+   "dificultate": 2,
+   "enunt": "Completează.",
+   "date": {
+    "text": "Cultivarea plantelor și creșterea animalelor formează {0}; transformarea materiilor prime în produse se numește {1}.",
+    "raspunsuri": [
+     "agricultura",
+     "industrie"
+    ],
+    "distractori": [
+     "turism",
+     "comerț"
+    ]
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Agricultură și industrie."
+   }
+  },
+  {
+   "id": "VI9-19",
+   "nivel": "VI-S09-domeniile-activitatilor-economice-terra",
+   "competente": [
+    "VI-3.2"
+   ],
+   "tip": "lacunar",
+   "dificultate": 2,
+   "enunt": "Completează.",
+   "date": {
+    "text": "Transportul, comerțul, educația și sănătatea sunt {0}.",
+    "raspunsuri": [
+     "servicii"
+    ],
+    "distractori": [
+     "industrii",
+     "culturi"
+    ]
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Activități care ajută oamenii."
+   }
+  },
+  {
+   "id": "VI9-20",
+   "nivel": "VI-S09-domeniile-activitatilor-economice-terra",
+   "competente": [
+    "VI-2.3",
+    "VI-4.1"
+   ],
+   "tip": "grafic",
+   "dificultate": 3,
+   "enunt": "Graficul arată în ce domenii lucrează oamenii dintr-o țară imaginară. Unde lucrează cei mai mulți?",
+   "date": {
+    "grafic": {
+     "tip": "structura",
+     "titlu": "Populația ocupată pe domenii (țară imaginară)",
+     "date": [
+      {
+       "eticheta": "agricultură",
+       "valoare": 10
+      },
+      {
+       "eticheta": "industrie",
+       "valoare": 25
+      },
+      {
+       "eticheta": "servicii",
+       "valoare": 65
+      }
+     ],
+     "unitate": "%"
+    },
+    "variante": [
+     "în servicii",
+     "în agricultură",
+     "în industrie",
+     "egal"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "65 % din oameni lucrează în servicii."
+   }
+  },
+  {
+   "id": "VI9-21",
+   "nivel": "VI-S09-domeniile-activitatilor-economice-terra",
+   "competente": [
+    "VI-2.3",
+    "VI-4.3",
+    "VI-4.1"
+   ],
+   "tip": "grafic",
+   "dificultate": 3,
+   "enunt": "Compară: țara imaginară X are 45 % din oameni în agricultură, iar țara Y doar 3 %. Ce poți presupune?",
+   "date": {
+    "grafic": {
+     "tip": "bare",
+     "titlu": "Populația ocupată în agricultură (țări imaginare)",
+     "date": [
+      {
+       "eticheta": "țara X",
+       "valoare": 45
+      },
+      {
+       "eticheta": "țara Y",
+       "valoare": 3
+      }
+     ],
+     "unitate": "%"
+    },
+    "variante": [
+     "țara Y are agricultură foarte mecanizată și o economie bazată pe servicii",
+     "țara X are mai multe fabrici",
+     "țara Y nu are hrană",
+     "sunt la fel de dezvoltate"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Puțini agricultori cu multe mașini pot produce multă hrană."
+   }
+  },
+  {
+   "id": "VI9-22",
+   "nivel": "VI-S09-domeniile-activitatilor-economice-terra",
+   "competente": [
+    "VI-3.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "De ce creșterea oilor e frecventă la munte?",
+   "date": {
+    "variante": [
+     "pentru că acolo sunt pășuni întinse",
+     "pentru că acolo sunt fabrici",
+     "pentru că e cald tot anul",
+     "pentru că sunt multe orașe"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Transhumanța e o tradiție în Carpați."
+   }
+  },
+  {
+   "id": "VI9-23",
+   "nivel": "VI-S09-domeniile-activitatilor-economice-terra",
+   "competente": [
+    "VI-4.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Prin ce se deosebește o fermă modernă de una tradițională?",
+   "date": {
+    "variante": [
+     "folosește mașini, irigații și tehnologie, cu mai puțini oameni",
+     "are mai mulți cai",
+     "nu folosește apă",
+     "nu produce nimic"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Mecanizarea crește producția."
+   }
+  },
+  {
+   "id": "VI9-24",
+   "nivel": "VI-S09-domeniile-activitatilor-economice-terra",
+   "competente": [
+    "VI-3.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 3,
+   "enunt": "De ce multe fabrici se construiesc lângă porturi sau căi ferate?",
+   "date": {
+    "variante": [
+     "ca materiile prime și produsele să fie transportate ușor",
+     "pentru că e mai frumos",
+     "pentru că acolo e mai frig",
+     "pentru că nu e voie altundeva"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Transportul ieftin e important pentru industrie."
+   }
+  },
+  {
+   "id": "VI9-25",
+   "nivel": "VI-S09-domeniile-activitatilor-economice-terra",
+   "competente": [
+    "VI-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce înseamnă agricultura ecologică?",
+   "date": {
+    "variante": [
+     "agricultura fără pesticide și îngrășăminte chimice de sinteză",
+     "agricultura doar cu mașini",
+     "agricultura în deșert",
+     "agricultura pe acoperiș obligatoriu"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Produsele ecologice au o etichetă specială."
+   }
+  },
+  {
+   "id": "VI9-26",
+   "nivel": "VI-S09-domeniile-activitatilor-economice-terra",
+   "competente": [
+    "VI-2.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "În ce zonă a României se cultivă cel mai mult grâu și porumb?",
+   "date": {
+    "variante": [
+     "în Câmpia Română",
+     "în Munții Făgăraș",
+     "în Delta Dunării",
+     "în Munții Apuseni"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Câmpia Română are soluri fertile și relief plan."
+   }
+  },
+  {
+   "id": "VI9-27",
+   "nivel": "VI-S09-domeniile-activitatilor-economice-terra",
+   "competente": [
+    "VI-1.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 3,
+   "enunt": "De ce IT-ul (informatica) e considerat un serviciu?",
+   "date": {
+    "variante": [
+     "pentru că oferă programe, aplicații și comunicare, nu obiecte fizice",
+     "pentru că produce oțel",
+     "pentru că se face pe câmp",
+     "pentru că e o ramură a agriculturii"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Serviciile digitale cresc foarte mult."
+   }
+  },
+  {
+   "id": "VI9-28",
+   "nivel": "VI-S09-domeniile-activitatilor-economice-terra",
+   "competente": [
+    "VI-2.1"
+   ],
+   "tip": "pin",
+   "dificultate": 2,
+   "enunt": "Atinge pe hartă Brazilia, cel mai mare producător de cafea.",
+   "date": {
+    "harta": "lume",
+    "tinta": {
+     "lat": -12,
+     "lon": -50,
+     "nume": "Brazilia"
+    },
+    "toleranta": 1500
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Brazilia e în estul Americii de Sud."
+   }
+  },
+  {
+   "id": "VI9-29",
+   "nivel": "VI-S09-domeniile-activitatilor-economice-terra",
+   "competente": [
+    "VI-1.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce înseamnă „materie primă”?",
+   "date": {
+    "variante": [
+     "materialul din care industria face produse (lemn, minereu, bumbac, lapte)",
+     "produsul gata de vânzare",
+     "un magazin",
+     "un mijloc de transport"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Materia primă se transformă în fabrici."
+   }
+  },
+  {
+   "id": "VI9-30",
+   "nivel": "VI-S09-domeniile-activitatilor-economice-terra",
+   "competente": [
+    "VI-4.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce domeniu economic e principal în stațiunile de pe litoral?",
+   "date": {
+    "variante": [
+     "turismul",
+     "mineritul",
+     "metalurgia",
+     "silvicultura"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Hoteluri, restaurante, plaje."
+   }
+  },
+  {
+   "id": "VI10-01",
+   "nivel": "VI-S10-efectele-activitatilor-umane-asupra",
+   "competente": [
+    "VI-1.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 1,
+   "enunt": "Ce este poluarea?",
+   "date": {
+    "variante": [
+     "murdărirea aerului, apei sau solului cu substanțe dăunătoare",
+     "plantarea copacilor",
+     "curățarea parcului",
+     "reciclarea"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Poluarea dăunează oamenilor și naturii."
+   }
+  },
+  {
+   "id": "VI10-02",
+   "nivel": "VI-S10-efectele-activitatilor-umane-asupra",
+   "competente": [
+    "VI-1.2"
+   ],
+   "tip": "asociaza",
+   "dificultate": 2,
+   "enunt": "Asociază tipul de poluare cu sursa.",
+   "date": {
+    "perechi": [
+     [
+      "poluarea aerului",
+      "fumul de la fabrici și mașini"
+     ],
+     [
+      "poluarea apei",
+      "apele uzate netratate"
+     ],
+     [
+      "poluarea solului",
+      "deșeurile și pesticidele"
+     ],
+     [
+      "poluarea fonică",
+      "zgomotul traficului"
+     ]
+    ]
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Surse diferite de poluare."
+   }
+  },
+  {
+   "id": "VI10-03",
+   "nivel": "VI-S10-efectele-activitatilor-umane-asupra",
+   "competente": [
+    "VI-1.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce înseamnă defrișare?",
+   "date": {
+    "variante": [
+     "tăierea pădurilor",
+     "plantarea pădurilor",
+     "irigarea câmpurilor",
+     "construirea de baraje"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Defrișările reduc habitatele și favorizează eroziunea."
+   }
+  },
+  {
+   "id": "VI10-04",
+   "nivel": "VI-S10-efectele-activitatilor-umane-asupra",
+   "competente": [
+    "VI-3.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce urmări are defrișarea pe versanți?",
+   "date": {
+    "variante": [
+     "eroziunea solului, alunecări de teren și inundații",
+     "mai mult oxigen",
+     "soluri mai fertile",
+     "mai puține inundații"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Fără rădăcini, solul e spălat de ploi."
+   }
+  },
+  {
+   "id": "VI10-05",
+   "nivel": "VI-S10-efectele-activitatilor-umane-asupra",
+   "competente": [
+    "VI-3.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce produce efectul de seră accentuat de om?",
+   "date": {
+    "variante": [
+     "gazele din arderea combustibililor fosili (cărbune, petrol, gaze)",
+     "plantarea copacilor",
+     "energia solară",
+     "reciclarea"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Dioxidul de carbon reține căldura în atmosferă."
+   }
+  },
+  {
+   "id": "VI10-06",
+   "nivel": "VI-S10-efectele-activitatilor-umane-asupra",
+   "competente": [
+    "VI-1.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce sunt microplasticele?",
+   "date": {
+    "variante": [
+     "bucăți foarte mici de plastic, rezultate din ruperea deșeurilor",
+     "plante mici din mare",
+     "un tip de nisip",
+     "insecte"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Microplasticele ajung în apă, sol și chiar în hrană."
+   }
+  },
+  {
+   "id": "VI10-07",
+   "nivel": "VI-S10-efectele-activitatilor-umane-asupra",
+   "competente": [
+    "VI-1.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce înseamnă calitatea vieții?",
+   "date": {
+    "variante": [
+     "cât de bine trăiesc oamenii: aer curat, sănătate, educație, locuință, siguranță",
+     "cât de mare e țara",
+     "câte mașini are un oraș",
+     "înălțimea clădirilor"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Calitatea vieții depinde și de mediu."
+   }
+  },
+  {
+   "id": "VI10-08",
+   "nivel": "VI-S10-efectele-activitatilor-umane-asupra",
+   "competente": [
+    "VI-4.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce poți face pentru mediu în fiecare zi?",
+   "date": {
+    "variante": [
+     "colectezi selectiv deșeurile și folosești sacoșe refolosibile",
+     "arunci plasticul în râu",
+     "arzi frunzele",
+     "lași lumina aprinsă"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Obiceiurile mici contează."
+   }
+  },
+  {
+   "id": "VI10-09",
+   "nivel": "VI-S10-efectele-activitatilor-umane-asupra",
+   "competente": [
+    "VI-4.3"
+   ],
+   "tip": "asociaza",
+   "dificultate": 2,
+   "enunt": "Asociază problema cu o soluție.",
+   "date": {
+    "perechi": [
+     [
+      "aer poluat în oraș",
+      "transport public, biciclete, parcuri"
+     ],
+     [
+      "deșeuri multe",
+      "reciclare și compost"
+     ],
+     [
+      "ape murdare",
+      "stații de epurare"
+     ],
+     [
+      "păduri tăiate",
+      "replantare și arii protejate"
+     ]
+    ]
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Pentru fiecare problemă există soluții."
+   }
+  },
+  {
+   "id": "VI10-10",
+   "nivel": "VI-S10-efectele-activitatilor-umane-asupra",
+   "competente": [
+    "VI-1.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce este o stație de epurare?",
+   "date": {
+    "variante": [
+     "o instalație care curăță apele uzate înainte să ajungă în râu",
+     "o fabrică de apă minerală",
+     "o hidrocentrală",
+     "o fântână"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Epurarea protejează râurile."
+   }
+  },
+  {
+   "id": "VI10-11",
+   "nivel": "VI-S10-efectele-activitatilor-umane-asupra",
+   "competente": [
+    "VI-1.2"
+   ],
+   "tip": "ordoneaza",
+   "dificultate": 3,
+   "enunt": "Ordonează drumul unei sticle de plastic aruncate pe stradă.",
+   "date": {
+    "elemente": [
+     "sticla e aruncată pe stradă",
+     "ploaia o duce în canal",
+     "ajunge în râu",
+     "râul o duce în mare",
+     "se rupe în microplastice"
+    ],
+    "criteriu": "Drumul deșeului"
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "De la stradă la ocean."
+   }
+  },
+  {
+   "id": "VI10-12",
+   "nivel": "VI-S10-efectele-activitatilor-umane-asupra",
+   "competente": [
+    "VI-1.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Adevărat sau fals? Toate efectele activităților umane asupra mediului sunt negative.",
+   "date": {
+    "variante": [
+     "Fals",
+     "Adevărat"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Fals: unele sunt pozitive (parcuri, replantări, arii protejate)."
+   }
+  },
+  {
+   "id": "VI10-13",
+   "nivel": "VI-S10-efectele-activitatilor-umane-asupra",
+   "competente": [
+    "VI-3.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Adevărat sau fals? Zgomotul puternic și constant este o formă de poluare.",
+   "date": {
+    "variante": [
+     "Adevărat",
+     "Fals"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Adevărat: poluarea fonică afectează somnul și sănătatea."
+   }
+  },
+  {
+   "id": "VI10-14",
+   "nivel": "VI-S10-efectele-activitatilor-umane-asupra",
+   "competente": [
+    "VI-1.1"
+   ],
+   "tip": "lacunar",
+   "dificultate": 2,
+   "enunt": "Completează.",
+   "date": {
+    "text": "Tăierea pădurilor se numește {0}; murdărirea mediului se numește {1}.",
+    "raspunsuri": [
+     "defrișare",
+     "poluare"
+    ],
+    "distractori": [
+     "reciclare",
+     "irigare"
+    ]
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Defrișare, poluare."
+   }
+  },
+  {
+   "id": "VI10-15",
+   "nivel": "VI-S10-efectele-activitatilor-umane-asupra",
+   "competente": [
+    "VI-4.3"
+   ],
+   "tip": "lacunar",
+   "dificultate": 2,
+   "enunt": "Completează.",
+   "date": {
+    "text": "Plasticul și metalul se pun în containerul {0}, iar sticla în containerul {1}.",
+    "raspunsuri": [
+     "galben",
+     "verde"
+    ],
+    "distractori": [
+     "albastru",
+     "roșu"
+    ]
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Galben – plastic și metal; verde – sticlă; albastru – hârtie."
+   }
+  },
+  {
+   "id": "VI10-16",
+   "nivel": "VI-S10-efectele-activitatilor-umane-asupra",
+   "competente": [
+    "VI-2.3",
+    "VI-4.1"
+   ],
+   "tip": "grafic",
+   "dificultate": 3,
+   "enunt": "Graficul arată cantitatea de deșeuri reciclate într-o școală imaginară, pe luni. Ce observi?",
+   "date": {
+    "grafic": {
+     "tip": "bare",
+     "titlu": "Deșeuri reciclate la o școală imaginară",
+     "date": [
+      {
+       "eticheta": "sept.",
+       "valoare": 20
+      },
+      {
+       "eticheta": "oct.",
+       "valoare": 35
+      },
+      {
+       "eticheta": "nov.",
+       "valoare": 50
+      },
+      {
+       "eticheta": "dec.",
+       "valoare": 60
+      }
+     ],
+     "unitate": "kg"
+    },
+    "variante": [
+     "cantitatea reciclată a crescut în fiecare lună",
+     "a scăzut",
+     "a rămas la fel",
+     "s-a reciclat doar în septembrie"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "De la 20 kg la 60 kg."
+   }
+  },
+  {
+   "id": "VI10-17",
+   "nivel": "VI-S10-efectele-activitatilor-umane-asupra",
+   "competente": [
+    "VI-3.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "De ce aerul e mai poluat în orașele mari?",
+   "date": {
+    "variante": [
+     "din cauza traficului intens, a fabricilor și a încălzirii clădirilor",
+     "din cauza parcurilor",
+     "din cauza râurilor",
+     "din cauza păsărilor"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Arderea combustibililor poluează aerul."
+   }
+  },
+  {
+   "id": "VI10-18",
+   "nivel": "VI-S10-efectele-activitatilor-umane-asupra",
+   "competente": [
+    "VI-3.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 3,
+   "enunt": "Ce legătură e între poluare și sănătate?",
+   "date": {
+    "variante": [
+     "aerul și apa poluate pot produce boli ale plămânilor, ale inimii și altele",
+     "nu există nicio legătură",
+     "poluarea face oamenii mai sănătoși",
+     "doar animalele sunt afectate"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Mediul curat înseamnă oameni mai sănătoși."
+   }
+  },
+  {
+   "id": "VI10-19",
+   "nivel": "VI-S10-efectele-activitatilor-umane-asupra",
+   "competente": [
+    "VI-1.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce este poluarea luminoasă?",
+   "date": {
+    "variante": [
+     "prea multă lumină artificială noaptea, care ascunde stelele și deranjează animalele",
+     "lumina Soarelui ziua",
+     "lumina lunii",
+     "fulgerele"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Iluminatul excesiv afectează păsările și insectele."
+   }
+  },
+  {
+   "id": "VI10-20",
+   "nivel": "VI-S10-efectele-activitatilor-umane-asupra",
+   "competente": [
+    "VI-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce sunt spațiile verzi și de ce sunt importante în oraș?",
+   "date": {
+    "variante": [
+     "parcuri și grădini care curăță aerul, răcoresc vara și sunt locuri de odihnă",
+     "parcări",
+     "fabrici",
+     "magazine"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Spațiile verzi cresc calitatea vieții."
+   }
+  },
+  {
+   "id": "VI10-21",
+   "nivel": "VI-S10-efectele-activitatilor-umane-asupra",
+   "competente": [
+    "VI-4.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 3,
+   "enunt": "Compară mașina cu benzină și bicicleta pentru un drum de 3 km.",
+   "date": {
+    "variante": [
+     "bicicleta nu poluează și e sănătoasă; mașina poluează și consumă combustibil",
+     "sunt la fel de poluante",
+     "bicicleta poluează mai mult",
+     "mașina nu poluează"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Pe distanțe mici, bicicleta sau mersul pe jos sunt mai bune."
+   }
+  },
+  {
+   "id": "VI10-22",
+   "nivel": "VI-S10-efectele-activitatilor-umane-asupra",
+   "competente": [
+    "VI-3.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce se întâmplă când un râu e poluat cu petrol?",
+   "date": {
+    "variante": [
+     "peștii și păsările mor, iar apa nu mai poate fi folosită",
+     "râul devine mai curat",
+     "peștii cresc mai repede",
+     "nu se întâmplă nimic"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Petrolul formează o peliculă care împiedică oxigenul."
+   }
+  },
+  {
+   "id": "VI10-23",
+   "nivel": "VI-S10-efectele-activitatilor-umane-asupra",
+   "competente": [
+    "VI-4.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce face o arie protejată?",
+   "date": {
+    "variante": [
+     "păstrează natura nealterată, cu reguli stricte de vizitare",
+     "permite construcția de fabrici",
+     "permite vânatul liber",
+     "e un parc de distracții"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Parcurile naționale protejează natura."
+   }
+  },
+  {
+   "id": "VI10-24",
+   "nivel": "VI-S10-efectele-activitatilor-umane-asupra",
+   "competente": [
+    "VI-1.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 3,
+   "enunt": "De ce încălzirea climei e o problemă pentru toată lumea?",
+   "date": {
+    "variante": [
+     "aduce valuri de căldură, secete, topirea ghețarilor și creșterea nivelului mării",
+     "face iernile mai lungi peste tot",
+     "nu are efecte",
+     "afectează doar Antarctica"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Schimbările climatice afectează toate continentele."
+   }
+  },
+  {
+   "id": "VI10-25",
+   "nivel": "VI-S10-efectele-activitatilor-umane-asupra",
+   "competente": [
+    "VI-4.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Cum ajută energia solară mediul?",
+   "date": {
+    "variante": [
+     "produce electricitate fără fum și fără gaze cu efect de seră",
+     "produce fum negru",
+     "taie pădurile",
+     "poluează râurile"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "Energia regenerabilă e mai curată."
+   }
+  },
+  {
+   "id": "VI10-26",
+   "nivel": "VI-S10-efectele-activitatilor-umane-asupra",
+   "competente": [
+    "VI-3.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce sunt deșeurile periculoase din casă care nu se aruncă la gunoi?",
+   "date": {
+    "variante": [
+     "bateriile, becurile cu mercur, medicamentele expirate",
+     "cojile de fructe",
+     "hârtia",
+     "frunzele"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "Se duc la puncte speciale de colectare."
+   }
+  },
+  {
+   "id": "VI10-27",
+   "nivel": "VI-S10-efectele-activitatilor-umane-asupra",
+   "competente": [
+    "VI-2.1"
+   ],
+   "tip": "denumeste",
+   "dificultate": 3,
+   "enunt": "Pădurea marcată pe hartă e amenințată de defrișări. Care e?",
+   "date": {
+    "harta": "lume",
+    "punct": {
+     "lat": -4,
+     "lon": -62
+    },
+    "variante": [
+     "pădurea amazoniană",
+     "taigaua siberiană",
+     "Pădurea Neagră",
+     "pădurea Congo"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Amazonia, în America de Sud, pierde suprafețe mari prin defrișări."
+   }
+  },
+  {
+   "id": "VI10-28",
+   "nivel": "VI-S10-efectele-activitatilor-umane-asupra",
+   "competente": [
+    "VI-1.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce sunt gropile de gunoi ecologice?",
+   "date": {
+    "variante": [
+     "depozite amenajate ca deșeurile să nu polueze solul și apa",
+     "râuri cu gunoaie",
+     "păduri",
+     "câmpuri cultivate"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Depozitele ecologice au straturi impermeabile."
+   }
+  },
+  {
+   "id": "VI10-29",
+   "nivel": "VI-S10-efectele-activitatilor-umane-asupra",
+   "competente": [
+    "VI-4.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce poate face clasa ta pentru mediul școlii?",
+   "date": {
+    "variante": [
+     "un concurs de colectare selectivă și plantarea de flori pentru albine",
+     "vopsirea copacilor",
+     "aruncarea gunoiului peste gard",
+     "tăierea gardului viu"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Perfect.",
+    "gresit": "Proiectele mici dau rezultate mari."
+   }
+  },
+  {
+   "id": "VI10-30",
+   "nivel": "VI-S10-efectele-activitatilor-umane-asupra",
+   "competente": [
+    "VI-3.3"
+   ],
+   "tip": "alegere",
+   "dificultate": 3,
+   "enunt": "Ce înseamnă „dezvoltare durabilă”?",
+   "date": {
+    "variante": [
+     "dezvoltare care satisface nevoile de azi fără să le strice pe cele ale generațiilor viitoare",
+     "dezvoltare cât mai rapidă cu orice preț",
+     "oprirea oricărei dezvoltări",
+     "construirea doar de clădiri înalte"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Corect.",
+    "gresit": "Echilibru între economie, oameni și natură."
+   }
+  },
+  {
+   "id": "VI12-01",
+   "nivel": "VI-S12-aplicatii-practice-analiza-interpretarea",
+   "competente": [
+    "VI-4.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 1,
+   "enunt": "Ce instituție publică datele oficiale despre populația României?",
+   "date": {
+    "variante": [
+     "Institutul Național de Statistică (INS)",
+     "Agenția Spațială Română",
+     "Poliția",
+     "Banca Națională"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Exact.",
+    "gresit": "INS face recensămintele și publică statistici."
+   }
+  },
+  {
+   "id": "VI12-02",
+   "nivel": "VI-S12-aplicatii-practice-analiza-interpretarea",
+   "competente": [
+    "VI-4.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Populația unui oraș imaginar a scăzut de la 38 000 la 33 000 de locuitori. Cu cât a scăzut?",
+   "date": {
+    "variante": [
+     "cu 5 000 de locuitori",
+     "cu 71 000",
+     "cu 500",
+     "cu 3 300"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Bravo!",
+    "gresit": "38 000 − 33 000 = 5 000."
+   }
+  },
+  {
+   "id": "VI12-03",
+   "nivel": "VI-S12-aplicatii-practice-analiza-interpretarea",
+   "competente": [
+    "VI-4.2"
+   ],
+   "tip": "alegere",
+   "dificultate": 2,
+   "enunt": "Ce motive pot explica scăderea populației unui oraș mic?",
+   "date": {
+    "variante": [
+     "plecarea tinerilor la studii și muncă și natalitatea scăzută",
+     "prea mulți copii născuți",
+     "construirea unei universități",
+     "creșterea locurilor de muncă"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Da, așa e.",
+    "gresit": "Migrația și sporul natural negativ reduc populația."
+   }
+  },
+  {
+   "id": "VI12-04",
+   "nivel": "VI-S12-aplicatii-practice-analiza-interpretarea",
+   "competente": [
+    "VI-4.1"
+   ],
+   "tip": "alegere",
+   "dificultate": 3,
+   "enunt": "Faci o hartă a cartierului. Ce semne convenționale pui în legendă?",
+   "date": {
+    "variante": [
+     "școală, spital, parc, magazin, stație de autobuz",
+     "nume de colegi",
+     "temperaturi",
+     "înălțimi de munți"
+    ],
+    "corect": 0
+   },
+   "feedback": {
+    "corect": "Foarte bine.",
+    "gresit": "Legenda explică semnele hărții."
+   }
+  }
+ ]
+}
